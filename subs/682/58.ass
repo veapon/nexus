@@ -1,0 +1,1488 @@
+[Script Info]
+;本字幕文件用 SrtEdit MPC播放版 Version 5.2 编辑制作
+;Unicode SrtEdit Copyright(C) 2005-2009 袁卫国
+
+Title: 
+Original Script: 
+Original Translation: 
+Original Timing: 
+Original Editing: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 384
+PlayResY: 288
+Timer: 100.0000
+Synch Point: 
+WrapStyle: 0
+ScaledBorderAndShadow: no
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,3,2,20,20,20,134
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:14.70,0:00:21.40,Default,,0000,0000,0000,,{\fn微软雅黑\fs10\pos(195,265)\bord0\shad2\fsp8\fscx110\1c&H7F85A4&}索尼哥伦比亚影业公司制作
+Dialogue: 0,0:00:36.80,0:00:39.10,Default,,0000,0000,0000,,{\fn方正细圆简体\bord0\shad0\fsp60\pos(210,205)\fscx60\fscy270\1c&HCCEF87&}中心城
+Dialogue: 0,0:00:36.80,0:00:39.10,Default,,0000,0000,0000,,{\fn方正黑体简体\fs13\bord0\shad0\fsp20\pos(202,220)\fscy140\1c&H9CCAC4&\b0}电影工作室
+Dialogue: 0,0:00:41.50,0:00:44.40,Default,,0000,0000,0000,,{\fn方正宋黑_GBK\fs22\pos(195,230)\bord0\shad0\fsp4\fscy120\1c&HF8F9F6&\b1}哥{\fs17\fscy100}伦比亚{\fs22\fscy120}影{\fs17\fscy100}业公司\N{\fs5}{}\N{\fn方正硬笔行书简体\fs19\bord0\shad0\fscx110\fscy110}出品
+Dialogue: 0,0:00:46.10,0:00:49.70,Default,,0000,0000,0000,,{\fn方正宋黑_GBK\fs22\pos(195,250)\bord0\shad0\fsp4\fscy120\1c&HF8F9F6&\b1}缪{\fs17\fscy100}区尔{\fs22\fscy120}电{\fs17\fscy100}影公司\N{\fs5}{}\N{\fn方正硬笔行书简体\fs19\bord0\shad0\fscx110\fscy110}摄制
+Dialogue: 0,0:00:51.20,0:00:54.70,Default,,0000,0000,0000,,{\fn方正宋黑_GBK\fs22\pos(195,250)\bord0\shad0\fsp4\fscy120\1c&HF8F9F6&\b1}中{\fs17\fscy100}心城{\fs22\fscy120}电{\fs17\fscy100}影工作室\N{\fs5}{}\N{\fn方正硬笔行书简体\fs19\bord0\shad0\fscx110\fscy110}摄制
+Dialogue: 0,0:00:56.50,0:01:00.20,Default,,0000,0000,0000,,{\fn方正宋黑_GBK\fs22\pos(195,250)\bord0\shad0\fsp4\fscy120\1c&HF8F9F6&\b1}罗{\fs17}兰·{\fs22}艾{\fs17}默里奇\N{\fs5}{}\N{\fn方正硬笔行书简体\fs22\bord0\shad0\fscx110\fscy110}作品
+Dialogue: 0,0:01:01.50,0:01:04.70,Default,,0000,0000,0000,,{\fn方正宋黑_GBK\fs22\pos(190,185)\bord1\shad4\fsp2\fscx110\1c&HF8F9F6&\b1}梅{\fs17}尔·{\fs22}吉{\fs17}布森
+Dialogue: 0,0:01:16.40,0:01:23.20,Default,,0000,0000,0000,,{\fn方正宋黑_GBK\fs34\pos(197,222)\bord1\fsp10\shad4\fsp12\fscx110\1c&HF8F9F6&\b1}爱{\fs26}国者
+Dialogue: 0,0:01:30.80,0:01:33.90,Default,,0000,0000,0000,,{\fn方正宋黑_GBK\fs22\pos(300,225)\bord1\shad2\fsp4\fscx110\1c&HF8F9F6&\b1}希{\fs17}斯·{\fs22}莱{\fs17}杰
+Dialogue: 0,0:01:37.00,0:01:40.20,Default,,0000,0000,0000,,{\fn方正宋黑_GBK\fs22\pos(100,225)\bord1\shad2\fsp2\fscx110\1c&HF8F9F6&\b1}朱{\fs17}莉·{\fs22}理{\fs17}查德森
+Dialogue: 0,0:01:42.30,0:01:45.50,Default,,0000,0000,0000,,{\fn方正宋黑_GBK\fs22\pos(80,225)\bord1\shad2\fsp2\fscx110\1c&HF8F9F6&\b1}詹{\fs17}森·{\fs22}艾{\fs17}萨克
+Dialogue: 0,0:01:48.80,0:01:52.20,Default,,0000,0000,0000,,{\fn方正宋黑_GBK\fs22\pos(199,225)\bord1\shad2\fsp2\fscx110\1c&HF8F9F6&\b1}克{\fs17}里斯·{\fs22}库{\fs17}柏
+Dialogue: 0,0:01:58.90,0:02:02.30,Default,,0000,0000,0000,,{\fn方正宋黑_GBK\fs22\pos(82,180)\bord1\shad2\fsp2\fscx110\1c&HF8F9F6&\b1}切{\fs17}基·{\fs22}卡{\fs17}尤
+Dialogue: 0,0:02:03.90,0:02:07.20,Default,,0000,0000,0000,,{\fn方正宋黑_GBK\fs22\pos(98,180)\bord1\shad2\fsp2\fscx110\1c&HF8F9F6&\b1}雷{\fs17}内·{\fs22}奥{\fs17}博诺伊斯
+Dialogue: 0,0:02:10.00,0:02:13.60,Default,,0000,0000,0000,,{\fn方正宋黑_GBK\fs22\pos(82,180)\bord1\shad2\fsp2\fscx110\1c&HF8F9F6&\b1}丽{\fs17}莎·{\fs22}伯{\fs17}伦纳
+Dialogue: 0,0:02:15.90,0:02:19.50,Default,,0000,0000,0000,,{\fn方正宋黑_GBK\fs22\pos(31,170)\bord1\shad2\fsp2\fscx110\an1\1c&HF8F9F6&\b1}多{\fs17}纳尔·{\fs22}罗{\fs17}格\N{\fs10}\N{\fs22}莱{\fs17}昂·{\fs22}李{\fs17}佩\N{\fs10}\N{\fs22}亚{\fs17}当·{\fs22}鲍{\fs17}德温
+Dialogue: 0,0:02:22.20,0:02:25.90,Default,,0000,0000,0000,,{\fn方正宋黑_GBK\fs22\pos(350,168)\bord1\shad2\fsp2\fscx110\an3\1c&HF8F9F6&\b1}格{\fs17}里高利·{\fs22}史{\fs17}密斯\N{\fs10}\N{\fs22}米{\fs17}卡·{\fs22}波{\fs17}瑞姆\N{\fs10}\N{\fs22}丝{\fs17}凯·{\fs22}麦{\fs17}柯·{\fs22}巴{\fs17}楚沙
+Dialogue: 0,0:02:30.20,0:02:33.00,Default,,0000,0000,0000,,{\fn方正宋黑_GBK\fs22\pos(34,170)\bord1\shad2\fsp2\an1\fscx110\1c&HF8F9F6&\b1}特{\fs17}拉沃·{\fs22}摩{\fs17}根\N{\fs10}\N{\fs22}琼{\fs17}尼D·{\fs22}维{\fs17}埃拉\N{\fs10}\N{\fs22}谢·{\fs22}阿{\fs17}伦·{\fs22}琼{\fs17}斯
+Dialogue: 0,0:02:35.20,0:02:38.30,Default,,0000,0000,0000,,{\fn方正宋黑_GBK\fs22\pos(300,220)\bord1\shad2\fsp2\fscx110\1c&HF8F9F6&\b1}汤{\fs17}姆·{\fs22}威{\fs17}尔金森
+Dialogue: 0,0:02:44.10,0:02:47.20,Default,,0000,0000,0000,,{\fn方正硬笔行书简体\fs20\pos(33,235)\fsp2\bord1\shad2\fscx110\an1\fscy110}选角导演\N{\fs10}\N{\fn方正宋黑_GBK\fs22\bord1\shad2\fsp2\fscx110\1c&HF8F9F6&\b1}安{\fs17}妮特·{\fs22}韦{\fs17}伯斯特\N{\fs10}\N{\fs22}大{\fs17}卫·{\fs22}布{\fs17}洛赫
+Dialogue: 0,0:02:49.70,0:02:52.90,Default,,0000,0000,0000,,{\fn方正硬笔行书简体\fs20\fsp2\pos(35,189)\bord1\shad2\fscx110\an1\fscy110}副制片人\N{\fs10}\N{\fn方正宋黑_GBK\fs22\bord1\shad2\fsp2\fscx110\1c&HF8F9F6&\b1}彼{\fs17}得·{\fs22}温{\fs17}瑟
+Dialogue: 0,0:02:58.40,0:03:01.40,Default,,0000,0000,0000,,{\fn方正硬笔行书简体\fs20\pos(35,189)\fsp2\bord1\shad2\fscx110\an1\fscy110}服装设计\N{\fs10}\N{\fn方正宋黑_GBK\fs22\bord1\shad2\fsp2\fscx110\1c&HF8F9F6&\b1}黛{\fs17}博拉·{\fs22}琳{\fs17}恩·{\fs22}斯{\fs17}科特
+Dialogue: 0,0:03:04.90,0:03:08.10,Default,,0000,0000,0000,,{\fn方正硬笔行书简体\fs20\pos(355,195)\fsp2\bord1\shad2\fscx110\an3\fscy110}原创音乐\N{\fs10}\N{\fn方正宋黑_GBK\fs22\bord1\shad2\fsp2\fscx110\1c&HF8F9F6&\b1}约{\fs22}翰·{\fs22}威{\fs17}廉姆斯
+Dialogue: 0,0:03:10.30,0:03:13.80,Default,,0000,0000,0000,,{\fn方正硬笔行书简体\fs20\pos(35,195)\fsp2\bord1\shad2\fscx110\an1\fscy110}剪辑\N{\fs10}\N{\fn方正宋黑_GBK\fs22\bord1\shad2\fsp2\fscx110\1c&HF8F9F6&\b1}大{\fs17}卫·{\fs22}布{\fs17}兰纳
+Dialogue: 0,0:03:17.30,0:03:20.80,Default,,0000,0000,0000,,{\fn方正硬笔行书简体\fs20\pos(350,195)\fsp2\bord1\shad2\fscx110\an3\fscy110}艺术指导\N{\fs10}\N{\fn方正宋黑_GBK\fs22\bord1\shad2\fsp2\fscx110\1c&HF8F9F6&\b1}柯{\fs17}克·{\fs22}帕{\fs17}特鲁西里
+Dialogue: 0,0:03:23.70,0:03:27.30,Default,,0000,0000,0000,,{\fn方正硬笔行书简体\fs20\pos(37,195)\fsp2\bord1\shad2\fscx110\an1\fscy110}摄影指导\N{\fs10}\N{\fn方正宋黑_GBK\fs22\bord1\shad2\fsp2\fscx110\1c&HF8F9F6&\b1}凯{\fs17}莱布·{\fs22}德{\fs17}夏奈尔
+Dialogue: 0,0:03:28.90,0:03:32.80,Default,,0000,0000,0000,,{\fn方正硬笔行书简体\fs20\pos(350,134)\fsp2\bord1\shad2\fscx110\an3\fscy110}电影监制\N{\fs10}\N{\fn方正宋黑_GBK\fs22\bord1\shad2\fsp2\fscx110\1c&HF8F9F6&\b1}威{\fs17}廉·{\fs22}费\N{\fs10}\N{\fs22}乌{\fs17}特·{\fs22}艾{\fs17}默里奇\N{\fs10}\N{\fs22}罗{\fs17}兰·{\fs22}艾{\fs17}默里奇
+Dialogue: 0,0:03:48.00,0:03:51.00,Default,,0000,0000,0000,,{\fn方正硬笔行书简体\fs20\pos(350,195)\fsp2\bord1\shad2\fscx110\an3\fscy110}制作人\N{\fs10}\N{\fn方正宋黑_GBK\fs22\bord1\shad2\fsp2\fscx110\1c&HF8F9F6&\b1}迪{\fs17}安·{\fs22}德{\fs17}夫林
+Dialogue: 0,0:03:51.80,0:03:54.90,Default,,0000,0000,0000,,{\fn方正硬笔行书简体\fs20\pos(37,162)\fsp2\bord1\shad2\fscx110\an1\fscy110}制作人\N{\fs10}\N{\fn方正宋黑_GBK\fs22\bord1\shad2\fsp2\fscx110\1c&HF8F9F6&\b1}马{\fs17}克·{\fs22}戈{\fs17}登\N{\fs10}\N{\fs15}与{\fs22}加{\fs17}里·{\fs22}莱{\fs17}文森
+Dialogue: 0,0:04:06.40,0:04:09.70,Default,,0000,0000,0000,,{\fn方正硬笔行书简体\fs20\pos(350,195)\fsp2\bord1\shad2\fscx110\an3\fscy110}编剧\N{\fs10}\N{\fn方正宋黑_GBK\fs22\bord1\shad2\fsp2\fscx110\1c&HF8F9F6&\b1}罗{\fs17}伯特·{\fs22}罗{\fs17}达特
+Dialogue: 0,0:04:17.20,0:04:20.20,Default,,0000,0000,0000,,{\fn方正硬笔行书简体\fs20\pos(350,195)\fsp2\bord1\shad2\fscx110\an3\fscy110}导演\N{\fs10}\N{\fn方正宋黑_GBK\fs22\bord1\shad2\fsp2\fscx110\1c&HF8F9F6&\b1}罗{\fs17}兰·{\fs22}艾{\fs17}默里奇
+Dialogue: 0,0:01:05.63,0:01:07.59,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我长久以来的恐惧
+Dialogue: 0,0:01:08.51,0:01:13.01,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}就是我旧日的罪愆会回来纠缠我
+Dialogue: 0,0:01:13.26,0:01:16.84,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}代价之高 我无法承受
+Dialogue: 0,0:01:44.12,0:01:46.17,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}山缪 信差来了
+Dialogue: 0,0:01:57.30,0:01:58.30,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}“R”
+Dialogue: 0,0:01:58.56,0:01:59.72,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}很好
+Dialogue: 0,0:02:01.56,0:02:02.73,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}这个呢
+Dialogue: 0,0:02:41.26,0:02:43.14,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}谢谢　　不客气
+Dialogue: 0,0:03:25.64,0:03:28.10,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}爸爸
+Dialogue: 0,0:03:29.52,0:03:33.44,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}9磅 11盎司 好极了
+Dialogue: 0,0:03:34.03,0:03:35.99,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}爸爸 有信差
+Dialogue: 0,0:03:36.69,0:03:38.60,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}你南田的种子种好了吗
+Dialogue: 0,0:03:38.66,0:03:39.66,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}种好一半多了
+Dialogue: 0,0:03:39.91,0:03:43.94,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}偷偷去游泳 浪费了一些时间吧
+Dialogue: 0,0:03:45.45,0:03:46.83,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}告诉你了吧
+Dialogue: 0,0:03:57.26,0:03:58.51,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}托马斯
+Dialogue: 0,0:03:58.80,0:04:00.09,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}等爸爸
+Dialogue: 0,0:05:00.15,0:05:01.15,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}对不起
+Dialogue: 0,0:05:02.70,0:05:07.78,Default,,0000,0000,0000,,{\fn方正宋黑_GBK\fs17\pos(192,253)\bord1\shad2\fsp4\fscx110\1c&HF8F9F6&\b1}南{\fs14}卡罗{\fs17}莱{\fs14}纳州\N{\fs26}{}\N\h\h{\fs17}年
+Dialogue: 0,0:05:19.70,0:05:21.20,Default,,0000,0000,0000,,{\fn方正宋黑_gbk\fs14\bord0\shad1\fsp1\pos(140,170)\frz2\1c&H060F27&}伊丽莎白·普顿·马汀之墓\N{}\N卒于1773年2月18日 享年35岁
+Dialogue: 0,0:05:29.00,0:05:31.50,Default,,0000,0000,0000,,{\fn方正宋黑_gbk\fs28\bord0\shad1\fsp1\pos(185,240)\frz0\1c&H060F27&}伊丽莎白·普顿·马汀之墓\N{}\N卒于1773年2月18日 享年35岁
+Dialogue: 0,0:05:33.52,0:05:37.07,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}那就是了 北极星
+Dialogue: 0,0:05:38.40,0:05:39.57,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}看到了吗
+Dialogue: 0,0:05:39.94,0:05:43.80,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}你要从北斗七星的最前面两颗星开始看
+Dialogue: 0,0:05:43.86,0:05:45.28,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}然后往上数
+Dialogue: 0,0:05:45.41,0:05:48.74,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}数到五指的宽度时
+Dialogue: 0,0:05:48.99,0:05:51.66,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}就在那儿了
+Dialogue: 0,0:05:53.00,0:05:55.83,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}它会一直俯视着我们
+Dialogue: 0,0:05:56.17,0:05:59.25,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}永远保护我们
+Dialogue: 0,0:06:01.30,0:06:02.84,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}来 睡觉了
+Dialogue: 0,0:06:10.43,0:06:12.89,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}晚安 晚安 梅格
+Dialogue: 0,0:06:14.60,0:06:17.36,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}让她知道妈在那儿会好得多
+Dialogue: 0,0:06:21.90,0:06:22.94,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}晚安
+Dialogue: 0,0:07:05.03,0:07:06.99,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}邮件里有什么
+Dialogue: 0,0:07:18.75,0:07:21.21,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}纽约州和宾夕法尼亚的议会
+Dialogue: 0,0:07:21.34,0:07:23.67,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}在辩论独立事宜
+Dialogue: 0,0:07:23.88,0:07:26.42,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}中部的殖民地呢
+Dialogue: 0,0:07:29.05,0:07:31.35,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}在切斯特城 他们烧毁了海关
+Dialogue: 0,0:07:31.55,0:07:33.85,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}严惩了两名官员
+Dialogue: 0,0:07:34.22,0:07:36.52,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}他们被烧死
+Dialogue: 0,0:07:36.73,0:07:38.77,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}真是蠢货
+Dialogue: 0,0:07:38.98,0:07:42.89,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}你是说谁 作者还是那两个官员
+Dialogue: 0,0:07:42.90,0:07:45.90,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}有没谈及大陆会议的事
+Dialogue: 0,0:07:48.66,0:07:53.20,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}上面说会在七月宣布独立
+Dialogue: 0,0:07:56.70,0:07:59.50,Default,,0000,0000,0000,,
+Dialogue: 0,0:08:10.64,0:08:12.68,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}彼德·库本加入独立军了
+Dialogue: 0,0:08:19.19,0:08:21.48,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}他才十七 比我还小一岁
+Dialogue: 0,0:08:32.24,0:08:36.29,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}国民大会开会 我被叫到查理士城去了
+Dialogue: 0,0:08:36.41,0:08:38.50,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我们要去查理士城 　对
+Dialogue: 0,0:08:38.87,0:08:40.12,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我们明早就动身
+Dialogue: 0,0:09:22.96,0:09:24.29,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}夏绿蒂
+Dialogue: 0,0:09:24.38,0:09:26.46,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}孩子在这里
+Dialogue: 0,0:09:29.59,0:09:31.67,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}谢谢你
+Dialogue: 0,0:09:36.43,0:09:37.81,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}夏绿蒂阿姨
+Dialogue: 0,0:09:38.97,0:09:40.89,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}玛格莉特 威廉 看看你们
+Dialogue: 0,0:09:41.94,0:09:43.44,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}好想你
+Dialogue: 0,0:09:44.19,0:09:47.62,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}他们长得好大 你给他们吃了什么啊
+Dialogue: 0,0:09:47.65,0:09:51.15,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}他们的种好 因为是遗传自母亲
+Dialogue: 0,0:09:52.20,0:09:55.66,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}谢谢 进来吧 我有不少好东西
+Dialogue: 0,0:09:55.99,0:09:58.45,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}给我们的礼物 　慢慢来
+Dialogue: 0,0:09:58.66,0:10:01.12,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}你们看好那些野蛮人 好吗
+Dialogue: 0,0:10:03.62,0:10:04.62,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}对不起
+Dialogue: 0,0:10:12.80,0:10:16.85,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我帮你准备了这个 苏珊 是你妈的
+Dialogue: 0,0:10:23.02,0:10:25.06,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}她还是不开口
+Dialogue: 0,0:10:26.56,0:10:27.90,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}没错
+Dialogue: 0,0:10:30.82,0:10:32.61,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}看到你 我的感觉真好
+Dialogue: 0,0:10:49.13,0:10:50.55,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}看 那是佳百列
+Dialogue: 0,0:10:50.71,0:10:52.84,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}佳百列
+Dialogue: 0,0:10:58.22,0:10:59.97,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}吊死乔治国王
+Dialogue: 0,0:11:08.02,0:11:10.15,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}哈利·布尔在招兵
+Dialogue: 0,0:11:10.40,0:11:13.36,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}州长已经发誓 如果议会给大陆军
+Dialogue: 0,0:11:13.53,0:11:16.36,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}支持一分钱 就会解散议会
+Dialogue: 0,0:11:18.24,0:11:20.75,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}那是否使我们在宾州的代表
+Dialogue: 0,0:11:20.76,0:11:22.95,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}一定要投独立的票
+Dialogue: 0,0:11:23.16,0:11:24.95,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}是的
+Dialogue: 0,0:11:25.62,0:11:29.21,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}使我们在麻省附近发生战争
+Dialogue: 0,0:11:31.29,0:11:34.30,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}处死乔治国王
+Dialogue: 0,0:11:34.96,0:11:38.95,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}把他们全都吊死 　一个都不要放过
+Dialogue: 0,0:11:39.55,0:11:41.60,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}够了 很好 孩子 进去吧
+Dialogue: 0,0:11:41.81,0:11:45.14,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}走吧 进去
+Dialogue: 0,0:11:54.53,0:11:57.24,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}布尔指靠你的选票
+Dialogue: 0,0:11:57.40,0:12:00.78,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}他希望成为第一个当选的人
+Dialogue: 0,0:12:00.99,0:12:03.66,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}是的 我想是
+Dialogue: 0,0:12:05.54,0:12:09.12,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}对不起 这些野蛮人是
+Dialogue: 0,0:12:11.04,0:12:13.25,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}他们非常渴望一个女人
+Dialogue: 0,0:12:14.34,0:12:15.80,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}一个妈妈
+Dialogue: 0,0:12:15.96,0:12:18.26,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}特别是苏珊
+Dialogue: 0,0:12:29.94,0:12:32.06,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我是彼得·霍尔
+Dialogue: 0,0:12:32.73,0:12:36.63,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我丧失了大部份的听力和我的左腿
+Dialogue: 0,0:12:36.69,0:12:40.81,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}全都是为了法国和印第安人之间的战事
+Dialogue: 0,0:12:40.82,0:12:43.53,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}乔治国王是怎么报答我的
+Dialogue: 0,0:12:43.83,0:12:46.54,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}他用税废了我另一条腿
+Dialogue: 0,0:12:48.08,0:12:49.79,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}是你吗 霍华小姐
+Dialogue: 0,0:12:51.04,0:12:52.92,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}你知道我是谁 佳百列·马汀
+Dialogue: 0,0:12:54.50,0:12:56.80,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我们最后一次见面 我才11岁
+Dialogue: 0,0:12:56.80,0:12:58.95,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}你在我茶中加了墨水
+Dialogue: 0,0:12:59.42,0:13:03.98,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}那应该是我弟弟吧 也许是山缪或纳森
+Dialogue: 0,0:13:04.18,0:13:08.31,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}是你 那让我的牙齿黑了一个月
+Dialogue: 0,0:13:10.85,0:13:16.65,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我们就给乔治国王一个永生难忘的教训吧
+Dialogue: 0,0:13:17.94,0:13:19.32,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我们的第一个议题
+Dialogue: 0,0:13:19.57,0:13:21.95,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}也是最后的 让我们来投票表决征兵
+Dialogue: 0,0:13:21.95,0:13:23.03,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}安静
+Dialogue: 0,0:13:23.16,0:13:25.24,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}西门斯先生 你没有发言权
+Dialogue: 0,0:13:25.62,0:13:29.90,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}首先是哈利·布尔上校对独立军的演说
+Dialogue: 0,0:13:29.91,0:13:31.29,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}布尔上校
+Dialogue: 0,0:13:35.13,0:13:37.25,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}大家都知道我为什么来这儿
+Dialogue: 0,0:13:37.75,0:13:39.51,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我不是个演说家
+Dialogue: 0,0:13:40.26,0:13:45.47,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我也不想说服大家接受我们作战的理由
+Dialogue: 0,0:13:45.80,0:13:47.35,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我是个军人
+Dialogue: 0,0:13:48.14,0:13:50.27,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我们正在作战
+Dialogue: 0,0:13:50.98,0:13:54.44,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我们在等宾州发表独立宣言
+Dialogue: 0,0:13:55.31,0:13:57.77,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}13个州中有8个州都决定出资
+Dialogue: 0,0:13:57.98,0:14:00.11,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}赞助独立军
+Dialogue: 0,0:14:00.57,0:14:02.78,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我希望南卡能够成为第9个州
+Dialogue: 0,0:14:03.49,0:14:06.66,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}麻州和维吉尼亚州也许在打仗
+Dialogue: 0,0:14:06.95,0:14:09.04,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}但是南卡不是
+Dialogue: 0,0:14:09.29,0:14:10.29,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}赞成
+Dialogue: 0,0:14:10.62,0:14:14.97,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}这一场战争不是为争取一两个州的独立
+Dialogue: 0,0:14:15.00,0:14:17.21,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}而是争取整个国家的独立
+Dialogue: 0,0:14:17.38,0:14:19.46,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}哪个国家呢
+Dialogue: 0,0:14:19.71,0:14:21.92,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}美国
+Dialogue: 0,0:14:22.13,0:14:24.68,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}没有这个国家 这么说是叛国
+Dialogue: 0,0:14:24.97,0:14:27.80,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我们是美国的国民
+Dialogue: 0,0:14:28.10,0:14:30.72,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我们的权利却受到三千英哩外
+Dialogue: 0,0:14:30.93,0:14:33.48,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}暴君的威胁
+Dialogue: 0,0:14:33.77,0:14:36.15,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}霍华先生 请告诉我
+Dialogue: 0,0:14:36.44,0:14:40.28,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我为什么要用三千哩外的暴君
+Dialogue: 0,0:14:40.53,0:14:43.40,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}来换一英哩外的三千个暴君
+Dialogue: 0,0:14:48.37,0:14:50.66,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}民选国会也能像国王一样
+Dialogue: 0,0:14:50.67,0:14:52.96,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}践踏我们的人权
+Dialogue: 0,0:14:53.87,0:14:55.21,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}马汀上尉
+Dialogue: 0,0:14:56.75,0:14:58.46,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我知道你很爱国
+Dialogue: 0,0:14:59.00,0:15:02.75,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}如果你想知道我是否因遭重税而愤愤不平
+Dialogue: 0,0:15:02.76,0:15:04.09,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}是的 我很生气
+Dialogue: 0,0:15:05.18,0:15:09.47,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}美国是否该独立自主
+Dialogue: 0,0:15:09.85,0:15:12.64,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我认为他们可以也应该
+Dialogue: 0,0:15:13.52,0:15:17.10,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}但若你问我是否该跟英国宣战
+Dialogue: 0,0:15:17.35,0:15:19.94,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我的答复是否定的
+Dialogue: 0,0:15:24.44,0:15:28.70,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}难道这就是在英法战争时
+Dialogue: 0,0:15:29.12,0:15:30.99,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}怒气勃发的马汀上尉说的话吗
+Dialogue: 0,0:15:32.41,0:15:34.20,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}当年我年少轻狂
+Dialogue: 0,0:15:34.45,0:15:36.33,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}节制很可能是恐惧的伪装
+Dialogue: 0,0:15:37.12,0:15:40.00,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}米德顿先生 我和马汀上尉
+Dialogue: 0,0:15:40.21,0:15:42.88,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}一起在华盛顿将军的麾下打过仗
+Dialogue: 0,0:15:43.59,0:15:45.17,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}这屋里没有任何人
+Dialogue: 0,0:15:45.38,0:15:49.59,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}比他还值得我信任的
+Dialogue: 0,0:15:50.60,0:15:52.81,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}除了战争还有别的选择
+Dialogue: 0,0:15:54.10,0:15:56.06,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我们可以向国王陈情
+Dialogue: 0,0:15:56.27,0:15:57.73,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我们可以跟他讲理　　我们试过了
+Dialogue: 0,0:15:57.94,0:16:01.94,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}那我们应一试再试 极力避免战争
+Dialogue: 0,0:16:02.48,0:16:04.44,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我参加过邦克山之役
+Dialogue: 0,0:16:05.32,0:16:07.36,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}英军推进了三次
+Dialogue: 0,0:16:07.65,0:16:09.85,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我们近距离杀了七百名英军
+Dialogue: 0,0:16:09.85,0:16:11.96,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}但他们仍然攻下邦克山
+Dialogue: 0,0:16:12.08,0:16:14.95,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}这是他们解决的方式
+Dialogue: 0,0:16:15.95,0:16:18.25,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}如果你的原则是坚持独立
+Dialogue: 0,0:16:18.33,0:16:20.79,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}那唯有作战一途
+Dialogue: 0,0:16:21.29,0:16:22.88,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}战争是无法避免的
+Dialogue: 0,0:16:23.09,0:16:24.59,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}对
+Dialogue: 0,0:16:26.67,0:16:28.59,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我有七个小孩
+Dialogue: 0,0:16:29.34,0:16:30.84,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}内人已死
+Dialogue: 0,0:16:32.68,0:16:34.89,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我去作战谁来照顾他们
+Dialogue: 0,0:16:37.43,0:16:40.69,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}不光是没有小孩的男人才去作战
+Dialogue: 0,0:16:41.27,0:16:42.56,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}同意
+Dialogue: 0,0:16:45.44,0:16:47.44,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}但请记下我的话
+Dialogue: 0,0:16:49.61,0:16:53.62,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}这场战争将不是在前线进行
+Dialogue: 0,0:16:53.78,0:16:56.62,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}也不是在遥远的战场
+Dialogue: 0,0:16:57.66,0:16:59.29,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}战火会在身边燃烧
+Dialogue: 0,0:16:59.50,0:17:01.46,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}在我们的家中燃烧
+Dialogue: 0,0:17:02.63,0:17:06.63,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我们的孩子们将会亲身体验战争的可怕
+Dialogue: 0,0:17:08.67,0:17:11.51,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}他们的童真将会和我们一起死去
+Dialogue: 0,0:17:15.51,0:17:17.10,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我不参战
+Dialogue: 0,0:17:18.14,0:17:21.13,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}正因为如此 我不打算参与投票
+Dialogue: 0,0:17:21.14,0:17:23.90,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}将别人送上战场
+Dialogue: 0,0:17:26.11,0:17:28.11,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}你的原则呢
+Dialogue: 0,0:17:31.65,0:17:35.82,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我是有孩子的人 我没有讲原则的权利
+Dialogue: 0,0:17:43.83,0:17:45.63,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我们一定要投票赞成征兵
+Dialogue: 0,0:18:00.18,0:18:02.60,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}28比l2 征兵通过了
+Dialogue: 0,0:18:32.76,0:18:34.72,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}你打算擅自入伍
+Dialogue: 0,0:18:35.34,0:18:36.80,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}是的
+Dialogue: 0,0:18:42.52,0:18:46.90,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}父亲 我还以为你是个有原则的人
+Dialogue: 0,0:18:50.44,0:18:53.70,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}你有家室后自会明白
+Dialogue: 0,0:18:56.41,0:19:00.58,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我有家室 也不会用他们来当挡箭牌
+Dialogue: 0,0:19:15.84,0:19:19.68,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}他像他父亲小时候一样鲁莽
+Dialogue: 0,0:19:20.10,0:19:21.72,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}恐怕是这样
+Dialogue: 0,0:19:23.68,0:19:27.23,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我会尽量将他收在我的羽翼之下
+Dialogue: 0,0:19:27.27,0:19:31.94,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我叫他去做文官 或补给官之类的
+Dialogue: 0,0:19:33.94,0:19:35.40,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}祝你好运
+Dialogue: 0,0:20:00.39,0:20:02.85,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}亲爱的托马斯 虽然过了许多年
+Dialogue: 0,0:20:03.06,0:20:07.91,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}但在查理士城见面 仿佛是昨日的事
+Dialogue: 0,0:20:07.98,0:20:11.30,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}很遗憾听说 英军在康瓦理斯将军指挥下
+Dialogue: 0,0:20:11.31,0:20:12.94,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}打败我们的消息
+Dialogue: 0,0:20:17.11,0:20:19.11,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我今天接到夏绿蒂阿姨的信
+Dialogue: 0,0:20:19.20,0:20:22.78,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}告诉我 她在查理士城沦陷后锁上家门
+Dialogue: 0,0:20:22.95,0:20:25.87,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}然后搬到山提河畔的农场
+Dialogue: 0,0:20:36.17,0:20:40.80,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}在北边我们弹尽粮绝
+Dialogue: 0,0:20:42.51,0:20:44.64,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我们伤亡惨重
+Dialogue: 0,0:20:50.94,0:20:55.89,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我的好友彼德·库本 在伊丽莎白镇战死
+Dialogue: 0,0:21:01.95,0:21:04.66,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}他的死讯让我伤痛欲绝
+Dialogue: 0,0:21:17.59,0:21:20.01,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我们即将和盖兹将军南进
+Dialogue: 0,0:21:20.26,0:21:23.05,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}和康瓦理斯将军的红衫军对决
+Dialogue: 0,0:21:26.18,0:21:27.18,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}谢谢你 长官
+Dialogue: 0,0:21:41.07,0:21:42.61,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我羡慕你
+Dialogue: 0,0:21:42.86,0:21:44.93,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我羡慕你和战争毫无瓜葛
+Dialogue: 0,0:21:44.93,0:21:48.33,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}而我却是这场战争的一部份
+Dialogue: 0,0:21:48.79,0:21:52.58,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}但我觉得 自己有幸能够为自由而战
+Dialogue: 0,0:21:53.00,0:21:54.96,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}虽然我畏惧死亡
+Dialogue: 0,0:21:55.13,0:21:58.12,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}但每天我都祈祷 我在必要时
+Dialogue: 0,0:21:58.13,0:22:00.34,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}能为自由捐躯
+Dialogue: 0,0:22:01.38,0:22:02.43,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}为我祷告
+Dialogue: 0,0:22:04.09,0:22:06.47,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}为争取自由而祷告
+Dialogue: 0,0:22:07.60,0:22:09.47,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}爱你的哥哥 佳百列上
+Dialogue: 0,0:22:45.76,0:22:46.76,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}你在做什么
+Dialogue: 0,0:22:53.52,0:22:54.81,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}转身
+Dialogue: 0,0:22:59.77,0:23:01.82,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}现在还不行 托马斯
+Dialogue: 0,0:23:02.28,0:23:03.28,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}那什么时候
+Dialogue: 0,0:23:08.45,0:23:09.45,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}等你17岁
+Dialogue: 0,0:23:11.08,0:23:13.99,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}那还要两年 我已经等了两年
+Dialogue: 0,0:23:14.08,0:23:18.08,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}到时战争说不定结束了　　老天保佑
+Dialogue: 0,0:23:21.38,0:23:24.05,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}17岁就17岁
+Dialogue: 0,0:23:27.51,0:23:28.68,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}好
+Dialogue: 0,0:23:36.23,0:23:37.73,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}请放回去
+Dialogue: 0,0:23:41.90,0:23:43.36,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}父亲
+Dialogue: 0,0:23:44.61,0:23:46.91,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}威尔德尼斯堡发生了什么事
+Dialogue: 0,0:23:50.20,0:23:51.45,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}收好
+Dialogue: 0,0:23:57.50,0:24:00.92,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}扔远一点　　你扔远一点 你来
+Dialogue: 0,0:24:12.97,0:24:16.98,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}玛格莉特 你让弟弟马上回来这里
+Dialogue: 0,0:25:21.58,0:25:25.04,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}回屋去 快
+Dialogue: 0,0:25:25.38,0:25:29.30,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}跟我来 玛格莉特 快
+Dialogue: 0,0:25:36.64,0:25:37.89,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}他们快来了
+Dialogue: 0,0:25:38.14,0:25:40.98,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}静点 坐下
+Dialogue: 0,0:26:12.63,0:26:14.14,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}六磅炮
+Dialogue: 0,0:26:14.64,0:26:15.64,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}好多
+Dialogue: 0,0:26:16.60,0:26:17.89,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}有多远
+Dialogue: 0,0:26:18.89,0:26:22.81,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}还远着呢 看来是瞄准别的方向
+Dialogue: 0,0:26:24.65,0:26:26.23,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}把枪收进去
+Dialogue: 0,0:26:26.73,0:26:30.19,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}他们可能朝这里来　　要我再说一遍吗
+Dialogue: 0,0:26:32.70,0:26:35.57,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我们全躲在家里 懂吗
+Dialogue: 0,0:26:55.76,0:26:57.14,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我们要赶走英军
+Dialogue: 0,0:26:57.51,0:26:59.22,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}父亲不会这么做吗
+Dialogue: 0,0:27:00.27,0:27:02.64,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}他们也许会杀了我们男人
+Dialogue: 0,0:27:04.52,0:27:06.65,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}凌虐你们女生
+Dialogue: 0,0:27:06.90,0:27:08.48,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}纳森
+Dialogue: 0,0:27:35.05,0:27:36.34,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}慢慢转过来
+Dialogue: 0,0:27:40.14,0:27:41.14,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}父亲
+Dialogue: 0,0:27:44.43,0:27:45.73,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}艾比佳
+Dialogue: 0,0:27:46.52,0:27:48.15,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}快去拿水和绷带
+Dialogue: 0,0:27:52.98,0:27:54.69,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}你有在作战现场吗
+Dialogue: 0,0:27:55.36,0:27:56.95,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}你有看见红衫军吗
+Dialogue: 0,0:27:57.20,0:27:58.74,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}还没有
+Dialogue: 0,0:27:59.03,0:28:01.49,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}艾比佳 快去照顾孩子们
+Dialogue: 0,0:28:01.79,0:28:04.16,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}孩子们 跟我上楼
+Dialogue: 0,0:28:09.96,0:28:12.34,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}盖兹带着我们直捣红衫军黄龙
+Dialogue: 0,0:28:12.55,0:28:16.50,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我们的防线失散了 被英军打得溃不成军
+Dialogue: 0,0:28:16.55,0:28:18.76,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}上级给我这些急件
+Dialogue: 0,0:28:19.18,0:28:23.93,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我离开时 看到维吉尼亚正规军投降
+Dialogue: 0,0:28:26.14,0:28:28.06,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}英军长驱直入
+Dialogue: 0,0:28:29.81,0:28:30.81,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}把他们杀光了
+Dialogue: 0,0:28:32.19,0:28:33.82,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}两百多个人
+Dialogue: 0,0:28:35.32,0:28:37.11,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我一定要把这些急件送到西尔斯堡
+Dialogue: 0,0:28:37.11,0:28:38.48,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}你不能骑马
+Dialogue: 0,0:28:38.53,0:28:41.74,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我不能留在这 我在这里会危及
+Dialogue: 0,0:29:14.11,0:29:15.57,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}开火
+Dialogue: 0,0:29:23.91,0:29:25.37,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}开火
+Dialogue: 0,0:31:49.14,0:31:51.56,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}谢谢你们照顾国王的士兵
+Dialogue: 0,0:32:22.84,0:32:25.84,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}中尉 派一队人马送伤兵去看医生
+Dialogue: 0,0:32:26.38,0:32:27.47,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}是的 长官
+Dialogue: 0,0:32:29.34,0:32:30.51,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}放火烧了那栋房子和谷仓
+Dialogue: 0,0:32:32.97,0:32:36.94,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}你们要是敢窝藏敌军 就会无家可归
+Dialogue: 0,0:32:40.23,0:32:42.11,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}乔治国王有令
+Dialogue: 0,0:32:42.32,0:32:45.74,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}任何只要为英国效力的美国奴隶
+Dialogue: 0,0:32:46.03,0:32:49.36,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}只要我们战胜就能成为自由之身
+Dialogue: 0,0:32:51.37,0:32:54.95,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我们不是奴隶 是在这工作的自由人
+Dialogue: 0,0:32:55.16,0:32:58.25,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}那各位就是有幸为
+Dialogue: 0,0:32:58.50,0:33:00.63,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}英国军队效力的自由人了
+Dialogue: 0,0:33:06.59,0:33:08.38,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}敌军的快递 长官
+Dialogue: 0,0:33:14.85,0:33:16.22,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}这是谁的
+Dialogue: 0,0:33:25.40,0:33:26.44,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}谁的
+Dialogue: 0,0:33:27.49,0:33:28.53,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我的
+Dialogue: 0,0:33:35.45,0:33:37.41,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我受伤了 这些人照顾我
+Dialogue: 0,0:33:38.46,0:33:40.83,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}他们和这些密令没有关系
+Dialogue: 0,0:33:43.79,0:33:45.67,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}带他去坎登 他是间谍
+Dialogue: 0,0:33:45.92,0:33:48.05,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}吊死他 尸首示众
+Dialogue: 0,0:33:48.59,0:33:50.43,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}他是个传令兵
+Dialogue: 0,0:33:50.68,0:33:53.34,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}杀了活口把马留给英军
+Dialogue: 0,0:33:54.10,0:33:57.93,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}上校 他是带着密令的制服传令兵
+Dialogue: 0,0:33:58.14,0:33:59.48,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}他不能被视为间谍
+Dialogue: 0,0:33:59.68,0:34:02.40,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我们不打算关他 我们要吊死他
+Dialogue: 0,0:34:05.98,0:34:07.53,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}上校 　父亲
+Dialogue: 0,0:34:10.95,0:34:13.91,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我懂了 他是你儿子
+Dialogue: 0,0:34:14.91,0:34:17.79,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}也许你该教他什么叫做爱国
+Dialogue: 0,0:34:19.12,0:34:23.33,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}上校 我求你根据作战时的规定
+Dialogue: 0,0:34:23.54,0:34:27.13,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}你想知道什么叫作战规则吗
+Dialogue: 0,0:34:30.05,0:34:31.76,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}也许你的小孩想上一课
+Dialogue: 0,0:34:36.89,0:34:38.39,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}无此必要
+Dialogue: 0,0:34:41.52,0:34:42.56,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}长官
+Dialogue: 0,0:34:42.85,0:34:44.65,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}那些受伤的叛军怎么办
+Dialogue: 0,0:34:47.15,0:34:48.40,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}杀了他们
+Dialogue: 0,0:34:53.36,0:34:54.45,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}父亲
+Dialogue: 0,0:34:58.58,0:35:00.29,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}父亲 快想想办法
+Dialogue: 0,0:35:00.58,0:35:01.58,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}安静
+Dialogue: 0,0:35:14.38,0:35:16.26,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}佳百列 快跑
+Dialogue: 0,0:35:17.39,0:35:18.39,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}等等
+Dialogue: 0,0:35:21.14,0:35:22.39,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}不
+Dialogue: 0,0:35:48.96,0:35:50.84,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}愚蠢的孩子
+Dialogue: 0,0:35:56.84,0:35:58.09,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}上尉
+Dialogue: 0,0:36:02.85,0:36:04.73,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}托马斯
+Dialogue: 0,0:37:00.03,0:37:01.45,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}来吧 孩子
+Dialogue: 0,0:37:03.24,0:37:05.70,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}不　　我不会留下这些孩子
+Dialogue: 0,0:37:05.91,0:37:07.29,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}手下留情
+Dialogue: 0,0:37:08.54,0:37:10.08,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}准备
+Dialogue: 0,0:37:10.25,0:37:11.25,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}举枪
+Dialogue: 0,0:37:11.46,0:37:12.54,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}开火
+Dialogue: 0,0:37:56.76,0:37:58.17,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}你们都留在这里
+Dialogue: 0,0:38:33.58,0:38:35.04,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}纳森 山缪
+Dialogue: 0,0:38:39.84,0:38:41.01,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}玛格莉特
+Dialogue: 0,0:38:43.43,0:38:45.97,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我要你们带着威廉和苏珊躲在田里
+Dialogue: 0,0:38:46.18,0:38:49.02,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}若我黄昏时没回来 就去找夏绿蒂阿姨
+Dialogue: 0,0:38:49.18,0:38:51.56,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}懂了吗
+Dialogue: 0,0:38:52.23,0:38:53.31,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}孩子们
+Dialogue: 0,0:39:46.70,0:39:47.95,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}这个地点不错
+Dialogue: 0,0:39:49.37,0:39:51.49,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}孩子们 听我说
+Dialogue: 0,0:39:52.00,0:39:53.71,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我先开枪
+Dialogue: 0,0:39:55.79,0:39:58.71,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我要你们先开枪打军官 再打士兵
+Dialogue: 0,0:39:58.92,0:40:00.59,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}你们知道哪些是军官吧
+Dialogue: 0,0:40:00.80,0:40:01.63,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}知道 父亲
+Dialogue: 0,0:40:02.09,0:40:03.72,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}知道　　很好
+Dialogue: 0,0:40:04.47,0:40:08.04,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}山缪 在你开第一枪后就帮纳森装子弹
+Dialogue: 0,0:40:08.14,0:40:09.14,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}现在
+Dialogue: 0,0:40:09.43,0:40:12.36,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}万一我有个三长两短 我要你们放下武器
+Dialogue: 0,0:40:12.39,0:40:14.02,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}能跑多快就跑多快
+Dialogue: 0,0:40:14.14,0:40:16.73,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}回家去找弟弟 妹妹
+Dialogue: 0,0:40:16.94,0:40:19.69,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}带他们去夏绿蒂阿姨家 懂吗
+Dialogue: 0,0:40:21.23,0:40:22.86,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}还记得我教你们怎么开枪吗
+Dialogue: 0,0:40:23.40,0:40:24.57,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}瞄小目标失误就少
+Dialogue: 0,0:40:25.15,0:40:26.86,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}瞄小目标失误就少
+Dialogue: 0,0:40:28.07,0:40:29.24,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}孩子们
+Dialogue: 0,0:40:29.74,0:40:31.08,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}山缪
+Dialogue: 0,0:40:31.45,0:40:32.79,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}不要慌
+Dialogue: 0,0:41:20.33,0:41:22.79,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}上帝 保佑我又快又准
+Dialogue: 0,0:41:24.34,0:41:26.72,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}瞄小目标失误就少
+Dialogue: 0,0:41:26.97,0:41:29.72,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}瞄小目标失误就少
+Dialogue: 0,0:41:29.97,0:41:32.68,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}瞄小目标失误就少
+Dialogue: 0,0:41:46.44,0:41:47.99,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}上面 在右边 　在左边
+Dialogue: 0,0:41:54.24,0:41:56.33,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}在后面
+Dialogue: 0,0:42:00.83,0:42:02.17,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}从右边来的
+Dialogue: 0,0:42:04.17,0:42:05.17,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}右转
+Dialogue: 0,0:42:07.30,0:42:08.67,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}向后转
+Dialogue: 0,0:42:11.51,0:42:13.01,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}在右边的山上
+Dialogue: 0,0:42:14.35,0:42:15.85,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}向右转
+Dialogue: 0,0:42:16.01,0:42:17.02,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}开火
+Dialogue: 0,0:42:18.22,0:42:20.31,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}装子弹 　装子弹
+Dialogue: 0,0:42:39.62,0:42:41.00,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}在后面
+Dialogue: 0,0:42:45.92,0:42:47.42,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}注意后面
+Dialogue: 0,0:47:15.31,0:47:16.44,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}上帝
+Dialogue: 0,0:47:17.69,0:47:20.40,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我们祈祷您接受这个孩子
+Dialogue: 0,0:47:20.57,0:47:23.57,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}让他和他妈留在您身边
+Dialogue: 0,0:47:24.74,0:47:27.49,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我们请求你收留他
+Dialogue: 0,0:47:29.79,0:47:34.17,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}帮助我们理解你的仁慈
+Dialogue: 0,0:47:34.67,0:47:37.50,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}原谅我们的罪行
+Dialogue: 0,0:47:37.67,0:47:40.84,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我们以您的名义祈祷
+Dialogue: 0,0:47:41.01,0:47:42.80,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}阿门
+Dialogue: 0,0:48:07.78,0:48:11.66,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我们印地安斥候带回来的二等兵
+Dialogue: 0,0:48:22.13,0:48:23.55,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}二等兵
+Dialogue: 0,0:48:23.84,0:48:24.84,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}二等兵
+Dialogue: 0,0:48:25.09,0:48:27.95,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我是青龙部队的威廉·塔维顿上校
+Dialogue: 0,0:48:27.97,0:48:30.26,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}怎么了 谁干的好事
+Dialogue: 0,0:48:31.18,0:48:32.27,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}他
+Dialogue: 0,0:48:33.60,0:48:35.02,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}当时情况一团乱
+Dialogue: 0,0:48:35.89,0:48:37.52,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我也说不上来是谁干的
+Dialogue: 0,0:48:37.77,0:48:39.81,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}冷静点
+Dialogue: 0,0:48:40.48,0:48:43.32,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我们损失了20名皇家士兵
+Dialogue: 0,0:48:43.53,0:48:45.90,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我要知道是怎么回事
+Dialogue: 0,0:48:46.11,0:48:48.20,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}他说有 　你在场吗
+Dialogue: 0,0:48:48.78,0:48:50.83,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}那就让他说
+Dialogue: 0,0:48:51.33,0:48:54.83,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}慢慢来 告诉我有多少人
+Dialogue: 0,0:48:55.08,0:48:56.96,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}是民兵吗 还是正规军
+Dialogue: 0,0:48:57.50,0:48:59.67,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我不记得有多少人
+Dialogue: 0,0:49:02.25,0:49:03.34,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}也许只有一个
+Dialogue: 0,0:49:05.59,0:49:08.01,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}一个人 真的吗
+Dialogue: 0,0:49:08.39,0:49:10.10,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}他在侧面攻击
+Dialogue: 0,0:49:11.60,0:49:13.22,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}似乎在我们周边游走
+Dialogue: 0,0:49:13.60,0:49:15.10,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}又仿佛在我们之间
+Dialogue: 0,0:49:15.68,0:49:18.31,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}他来无影去无踪 我几乎看不到他
+Dialogue: 0,0:49:18.44,0:49:20.11,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}他就这样消失了
+Dialogue: 0,0:49:21.31,0:49:23.65,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}听起来像鬼不像人
+Dialogue: 0,0:49:24.07,0:49:25.61,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}鬼
+Dialogue: 0,0:49:27.07,0:49:28.78,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}他是很像鬼
+Dialogue: 0,0:49:30.37,0:49:31.70,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}够了
+Dialogue: 0,0:49:33.83,0:49:36.54,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}波顿 带一队侦察队
+Dialogue: 0,0:49:36.75,0:49:39.91,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}看看能不能在消息传开前抓到这个鬼
+Dialogue: 0,0:49:39.92,0:49:42.84,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}这是谁 　他是威尔金上尉
+Dialogue: 0,0:49:43.04,0:49:46.95,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}他曾是英国民兵 说不定派得上用场
+Dialogue: 0,0:49:47.05,0:49:48.68,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}又一个殖民地居民
+Dialogue: 0,0:49:49.34,0:49:51.80,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}威尔金上尉 你忠于哪一方
+Dialogue: 0,0:49:52.10,0:49:53.18,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我忠于英王和祖国
+Dialogue: 0,0:49:53.51,0:49:56.77,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我为什么要信任一个出卖邻居的人
+Dialogue: 0,0:49:56.81,0:49:59.81,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我那些出卖英国的邻居
+Dialogue: 0,0:50:00.06,0:50:01.77,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}罪该万死
+Dialogue: 0,0:50:02.94,0:50:03.94,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}咱们走着瞧吧
+Dialogue: 0,0:50:10.28,0:50:11.61,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}马汀先生
+Dialogue: 0,0:50:18.08,0:50:19.71,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}夏绿蒂小姐
+Dialogue: 0,0:50:31.34,0:50:34.14,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}你们安全了 睡吧
+Dialogue: 0,0:50:34.35,0:50:35.60,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}晚安
+Dialogue: 0,0:50:35.97,0:50:37.06,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}晚安
+Dialogue: 0,0:50:37.68,0:50:39.02,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}父亲
+Dialogue: 0,0:50:39.27,0:50:40.52,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}什么事
+Dialogue: 0,0:50:41.48,0:50:43.61,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我杀了那些人
+Dialogue: 0,0:50:44.86,0:50:46.32,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}你只是照我的话去做
+Dialogue: 0,0:50:47.78,0:50:50.86,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}那是你该做的 这没什么不对
+Dialogue: 0,0:50:53.32,0:50:55.41,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我很高兴杀了他们
+Dialogue: 0,0:50:59.08,0:51:00.62,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我真的很高兴
+Dialogue: 0,0:51:10.47,0:51:11.97,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}睡吧
+Dialogue: 0,0:51:19.64,0:51:20.98,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}山缪
+Dialogue: 0,0:51:41.71,0:51:45.84,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}你做了 没什么好觉得羞耻的事
+Dialogue: 0,0:51:46.92,0:51:48.50,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我什么都没做
+Dialogue: 0,0:51:50.30,0:51:52.34,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}所以我很羞愧
+Dialogue: 0,0:52:32.38,0:52:34.05,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我们要去圣海伦纳
+Dialogue: 0,0:52:34.47,0:52:38.64,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}在查理士城南边 是个自由奴隶岛
+Dialogue: 0,0:52:39.68,0:52:41.26,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}就在英国人的眼皮底下
+Dialogue: 0,0:52:41.43,0:52:44.77,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}他们不会想 　我要去加入他们
+Dialogue: 0,0:52:45.44,0:52:46.98,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}佳百列
+Dialogue: 0,0:52:49.06,0:52:51.11,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}不 你得留在这里
+Dialogue: 0,0:52:51.15,0:52:54.24,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我要回去 我是个军人 这是我的职责
+Dialogue: 0,0:52:54.28,0:52:56.36,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}你要对你的家庭负责
+Dialogue: 0,0:52:58.11,0:52:59.99,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}不准你弃我于不顾
+Dialogue: 0,0:53:00.16,0:53:01.53,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}战争结束后我会来找你们
+Dialogue: 0,0:53:01.58,0:53:03.54,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我不准你去
+Dialogue: 0,0:53:03.66,0:53:07.21,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我不是个小孩 　你是我的小孩
+Dialogue: 0,0:53:08.88,0:53:10.34,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}再见 父亲
+Dialogue: 0,0:53:11.50,0:53:13.30,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}佳百列
+Dialogue: 0,0:53:13.96,0:53:15.59,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}托马斯死了
+Dialogue: 0,0:53:16.17,0:53:19.91,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}到底要死多少人 你才肯听我的话
+Dialogue: 0,0:53:49.08,0:53:51.04,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我在失去我的家人
+Dialogue: 0,0:53:54.75,0:53:56.84,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}父亲 你什么时候会回来
+Dialogue: 0,0:53:57.88,0:53:59.26,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我不知道
+Dialogue: 0,0:53:59.72,0:54:01.01,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}明天吗
+Dialogue: 0,0:54:01.43,0:54:03.10,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}不是明天
+Dialogue: 0,0:54:03.72,0:54:05.43,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}乖乖祷告
+Dialogue: 0,0:54:05.68,0:54:06.85,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我会的
+Dialogue: 0,0:54:07.60,0:54:11.19,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}照顾弟弟 妹妹和夏绿蒂阿姨
+Dialogue: 0,0:54:11.44,0:54:13.31,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我只能靠你了
+Dialogue: 0,0:54:14.32,0:54:16.19,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}还有你 山缪
+Dialogue: 0,0:54:17.69,0:54:18.74,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}好
+Dialogue: 0,0:54:25.70,0:54:26.95,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}苏珊
+Dialogue: 0,0:54:29.16,0:54:30.46,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}再见
+Dialogue: 0,0:54:45.39,0:54:46.64,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}谢谢
+Dialogue: 0,0:56:54.73,0:56:56.14,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}停
+Dialogue: 0,0:57:00.36,0:57:01.98,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}准备
+Dialogue: 0,0:57:06.86,0:57:08.45,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}瞄准
+Dialogue: 0,0:57:12.87,0:57:14.25,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}开火
+Dialogue: 0,0:57:26.30,0:57:28.01,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我不会回去的
+Dialogue: 0,0:57:28.72,0:57:30.93,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我也没有指望你回去
+Dialogue: 0,0:57:35.52,0:57:37.81,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}那个盖兹是个傻瓜
+Dialogue: 0,0:57:39.77,0:57:42.07,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}他在英国部队混了太久
+Dialogue: 0,0:57:42.40,0:57:46.94,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}居然想在旷野中击败红衫军 真疯狂
+Dialogue: 0,0:57:47.15,0:57:48.24,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}停
+Dialogue: 0,0:57:48.70,0:57:50.41,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}准备
+Dialogue: 0,0:57:51.07,0:57:52.87,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}举枪
+Dialogue: 0,0:57:53.91,0:57:55.16,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}开火
+Dialogue: 0,0:58:17.93,0:58:20.96,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}这场战争在开始前就结束了
+Dialogue: 0,0:58:30.24,0:58:31.49,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}撤退
+Dialogue: 0,0:58:32.12,0:58:33.95,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}撤退
+Dialogue: 0,0:58:41.04,0:58:43.59,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}这些乡巴佬真笨
+Dialogue: 0,0:58:44.00,0:58:46.46,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}差点害我们赢得毫无光彩
+Dialogue: 0,0:58:47.38,0:58:48.55,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}差一点
+Dialogue: 0,0:59:10.28,0:59:12.32,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}大家好
+Dialogue: 0,0:59:12.53,0:59:15.28,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}今天是陛下和英格兰的荣耀之日
+Dialogue: 0,0:59:15.45,0:59:17.58,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}塔维顿上校
+Dialogue: 0,0:59:17.83,0:59:20.71,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}总是太早
+Dialogue: 0,0:59:20.96,0:59:22.46,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}总是太渴求荣耀
+Dialogue: 0,0:59:23.79,0:59:26.54,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}渴求胜利
+Dialogue: 0,0:59:27.13,0:59:29.01,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我相信我们已经占领了地方
+Dialogue: 0,0:59:29.17,0:59:31.80,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}下次 你要等我的命令
+Dialogue: 0,0:59:32.38,0:59:36.96,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}塔维顿上校好像更喜欢听自己下的命令
+Dialogue: 0,0:59:37.01,0:59:38.35,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}奥哈拉将军告诉我
+Dialogue: 0,0:59:38.52,0:59:42.35,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}你得了一个“屠夫”的称号
+Dialogue: 0,0:59:42.56,0:59:44.52,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我们明天讨论
+Dialogue: 0,0:59:44.90,0:59:47.52,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}诸位 我的赞扬
+Dialogue: 0,0:59:47.69,0:59:50.15,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}庆祝胜利　　说得好
+Dialogue: 0,1:00:00.41,1:00:01.50,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}压住他
+Dialogue: 0,1:00:19.72,1:00:23.64,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}你们的指挥官呢 　在那个帐篷里
+Dialogue: 0,1:00:29.40,1:00:31.19,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}那是个失败的行动
+Dialogue: 0,1:00:48.00,1:00:49.54,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}班杰明·马汀
+Dialogue: 0,1:00:49.75,1:00:51.71,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我不想听训
+Dialogue: 0,1:00:52.09,1:00:54.38,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}你们的盖兹将军呢
+Dialogue: 0,1:00:54.76,1:00:58.89,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}有人看到他骑着马朝东南方走了
+Dialogue: 0,1:00:59.14,1:01:02.86,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}他的属下在百码后 苦苦追赶
+Dialogue: 0,1:01:02.93,1:01:04.64,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}现在由谁指挥
+Dialogue: 0,1:01:05.23,1:01:06.44,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我
+Dialogue: 0,1:01:07.48,1:01:08.94,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我想
+Dialogue: 0,1:01:10.11,1:01:11.48,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}你要下什么命令给我
+Dialogue: 0,1:01:16.40,1:01:19.57,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}班杰明 我们差一口气就输了
+Dialogue: 0,1:01:22.41,1:01:25.41,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}华盛顿在莫瑞斯镇重整军备
+Dialogue: 0,1:01:25.66,1:01:28.33,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}他在躲一万两千名红衫军
+Dialogue: 0,1:01:28.58,1:01:31.33,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我们在南方的军队又被康瓦理斯打散了
+Dialogue: 0,1:01:31.34,1:01:34.83,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}他攻陷查理士城时 俘掳了我们五千弟兄
+Dialogue: 0,1:01:34.84,1:01:38.93,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}他也击溃了唯一挡在他和纽约间的军队
+Dialogue: 0,1:01:39.68,1:01:43.33,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我们无力阻挡他长驱直入击败华盛顿军队
+Dialogue: 0,1:01:43.35,1:01:45.34,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}除非想办法把康瓦理斯留在南方
+Dialogue: 0,1:01:45.35,1:01:47.80,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}直到法军抵达
+Dialogue: 0,1:01:48.35,1:01:51.43,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}他们答应要派一支舰队和一万名士兵来
+Dialogue: 0,1:01:51.48,1:01:53.11,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}何时
+Dialogue: 0,1:01:54.15,1:01:56.49,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}最快还要六个月
+Dialogue: 0,1:01:56.82,1:01:59.11,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}你相信法国人会言而有信
+Dialogue: 0,1:01:59.36,1:02:00.66,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}那当然
+Dialogue: 0,1:02:03.03,1:02:05.70,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}班杰明·马汀 这位是维伦少校
+Dialogue: 0,1:02:05.87,1:02:09.52,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}他是法国第七步兵连的 来帮我们训练民兵
+Dialogue: 0,1:02:09.54,1:02:12.79,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}你是维尔德尼斯的英雄 久仰了
+Dialogue: 0,1:02:17.72,1:02:20.80,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}你真的想用民兵来阻止康瓦理斯推进
+Dialogue: 0,1:02:21.09,1:02:23.30,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}不是我 是你
+Dialogue: 0,1:02:25.64,1:02:27.52,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}哈利 他们不是军人 是农民
+Dialogue: 0,1:02:27.73,1:02:30.40,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}让英军通过 对他们比较好
+Dialogue: 0,1:02:30.60,1:02:33.31,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}没错 但形势不允许
+Dialogue: 0,1:02:34.36,1:02:36.40,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}康瓦理斯手下有多少人
+Dialogue: 0,1:02:36.78,1:02:38.82,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}八千名步兵
+Dialogue: 0,1:02:39.07,1:02:41.32,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}六百名骑兵
+Dialogue: 0,1:02:41.70,1:02:44.24,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我任命你为上校
+Dialogue: 0,1:02:44.70,1:02:47.54,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}长官 可以把我儿子派到我的部队吗
+Dialogue: 0,1:02:47.58,1:02:49.08,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}长官 不 我
+Dialogue: 0,1:02:49.29,1:02:50.62,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}就这么定了
+Dialogue: 0,1:02:54.13,1:02:55.21,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}谢谢
+Dialogue: 0,1:02:57.21,1:02:59.05,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}上校 我已经当了两年兵
+Dialogue: 0,1:02:59.42,1:03:01.89,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我当过斥候骑兵 狙击兵 清道兵
+Dialogue: 0,1:03:02.09,1:03:04.64,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}是吗 　我在正规军比较有发展
+Dialogue: 0,1:03:04.85,1:03:06.97,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}你是从哪儿学会骑马 开枪的
+Dialogue: 0,1:03:07.18,1:03:08.81,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}是我父亲教的
+Dialogue: 0,1:03:10.85,1:03:12.44,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}他有没有教你如何谦虚
+Dialogue: 0,1:03:13.10,1:03:14.69,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}他试过 但我不受教
+Dialogue: 0,1:03:16.19,1:03:19.78,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}他也教你认从这到查理士城的每条小路
+Dialogue: 0,1:03:19.90,1:03:21.74,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}所以才会把你调过来
+Dialogue: 0,1:03:22.45,1:03:25.32,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我们放话出去 我们从山提河南岸开始
+Dialogue: 0,1:03:25.33,1:03:27.54,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}分头进行比较快
+Dialogue: 0,1:03:31.12,1:03:32.50,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}很好 下士
+Dialogue: 0,1:03:32.52,1:03:34.80,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}你去哈利斯维尔 潘布克 维克菲尔德
+Dialogue: 0,1:03:34.88,1:03:39.05,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我从北边开始 到黑沼泽会合
+Dialogue: 0,1:03:43.05,1:03:44.14,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}下士
+Dialogue: 0,1:03:45.89,1:03:47.39,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}小心点
+Dialogue: 0,1:03:49.68,1:03:50.85,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}遵命
+Dialogue: 0,1:03:55.81,1:03:57.32,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}你有孩子吗
+Dialogue: 0,1:04:02.03,1:04:03.41,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}法国人
+Dialogue: 0,1:04:27.51,1:04:29.31,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}这从山上
+Dialogue: 0,1:04:29.56,1:04:31.85,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}一直到这里的水边
+Dialogue: 0,1:04:32.14,1:04:35.65,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}跨越俄亥俄河
+Dialogue: 0,1:04:36.02,1:04:37.31,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}一共十万英亩
+Dialogue: 0,1:04:37.56,1:04:39.86,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}好大一片土地啊
+Dialogue: 0,1:04:39.91,1:04:42.58,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}你可以自己成立一个小国家
+Dialogue: 0,1:04:46.29,1:04:48.00,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}国王真的很大方
+Dialogue: 0,1:04:50.79,1:04:55.53,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}但是您在战争中的表现也当之无愧
+Dialogue: 0,1:04:55.59,1:05:00.30,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}是的 国王对为他效命的人
+Dialogue: 0,1:05:00.55,1:05:02.60,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}就是这么大方
+Dialogue: 0,1:05:02.89,1:05:06.93,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我想我也有一天能得到奖赏吧
+Dialogue: 0,1:05:07.14,1:05:09.19,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}你想得太多了
+Dialogue: 0,1:05:09.90,1:05:13.40,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}国王看的不光是战争的结果
+Dialogue: 0,1:05:13.69,1:05:15.73,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}也很注重作战的过程
+Dialogue: 0,1:05:16.82,1:05:20.65,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我们为英国皇室打仗 就要有个作战的样子
+Dialogue: 0,1:05:20.70,1:05:22.70,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我们要善待投降的士兵
+Dialogue: 0,1:05:23.12,1:05:25.24,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}这种惨无人道的事必须停止
+Dialogue: 0,1:05:25.91,1:05:28.33,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我百战百胜还不够吗
+Dialogue: 0,1:05:28.58,1:05:29.75,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}你为我作战
+Dialogue: 0,1:05:29.96,1:05:34.25,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}你作战的方式会影响别人对我的看法
+Dialogue: 0,1:05:35.30,1:05:38.92,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我以为像你这样的名门子弟
+Dialogue: 0,1:05:39.13,1:05:40.51,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}应该了解这点才是
+Dialogue: 0,1:05:42.51,1:05:45.43,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我父亲把我的遗产
+Dialogue: 0,1:05:45.64,1:05:47.52,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}和自尊挥霍一空
+Dialogue: 0,1:05:50.94,1:05:53.61,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}打胜仗是我力争上游的方式
+Dialogue: 0,1:05:53.81,1:05:57.15,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}你要靠我的战功才能得利
+Dialogue: 0,1:05:58.86,1:06:00.90,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}殖民地的人民是我们的弟兄
+Dialogue: 0,1:06:01.15,1:06:05.95,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}战争结束之后我们会重修旧好
+Dialogue: 0,1:06:06.45,1:06:08.33,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}懂吗 上校
+Dialogue: 0,1:06:09.66,1:06:11.37,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}懂 大人
+Dialogue: 0,1:06:54.29,1:06:57.38,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}牧师 如你允许 我想宣布一件事
+Dialogue: 0,1:06:57.67,1:07:00.71,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}年轻人 这是上帝的圣地
+Dialogue: 0,1:07:01.34,1:07:03.93,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我了解 牧师 请容我道歉
+Dialogue: 0,1:07:05.72,1:07:08.81,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我们来召集南卡民兵
+Dialogue: 0,1:07:09.14,1:07:11.06,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}有志加入的人请来我这儿登记
+Dialogue: 0,1:07:12.48,1:07:13.31,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}年轻人
+Dialogue: 0,1:07:14.02,1:07:15.81,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我们在这里
+Dialogue: 0,1:07:16.06,1:07:18.90,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}为在外面被吊死的人祷告
+Dialogue: 0,1:07:19.11,1:07:20.98,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}为他们祷告吧
+Dialogue: 0,1:07:21.23,1:07:23.53,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}但加入我们不要让他们白死
+Dialogue: 0,1:07:25.36,1:07:27.41,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}让人民吃更多苦
+Dialogue: 0,1:07:27.78,1:07:29.78,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}如果英王乔治能吊死那些人
+Dialogue: 0,1:07:29.78,1:07:31.95,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}他就能吊死我们
+Dialogue: 0,1:07:33.50,1:07:34.67,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}丹史考特
+Dialogue: 0,1:07:34.87,1:07:38.34,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}一周前 你大赞独立自主两小时
+Dialogue: 0,1:07:41.17,1:07:43.55,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}哈伟先生 你在我家提及过
+Dialogue: 0,1:07:43.97,1:07:46.51,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}多少次自由
+Dialogue: 0,1:07:48.05,1:07:51.39,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}这里半数的人包括你父亲
+Dialogue: 0,1:07:52.64,1:07:54.43,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}和你 牧师
+Dialogue: 0,1:07:54.89,1:07:57.85,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}都和我一样爱国
+Dialogue: 0,1:08:02.53,1:08:06.99,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}你们现在却只敢空谈吗
+Dialogue: 0,1:08:07.49,1:08:09.28,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}你们是这种人吗
+Dialogue: 0,1:08:18.92,1:08:21.09,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我要求你们起而行
+Dialogue: 0,1:08:21.42,1:08:24.21,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}贯彻你们的理念
+Dialogue: 0,1:08:25.17,1:08:28.26,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}为你们的信仰奋斗
+Dialogue: 0,1:08:40.48,1:08:41.90,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}谁要加入我们
+Dialogue: 0,1:09:43.75,1:09:44.75,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}霍华先生
+Dialogue: 0,1:09:45.96,1:09:46.96,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}先生
+Dialogue: 0,1:09:47.46,1:09:49.68,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我可以写信给安吗
+Dialogue: 0,1:09:53.51,1:09:56.68,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我可以写信给安吗 　可以
+Dialogue: 0,1:09:57.68,1:09:59.10,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}你可以
+Dialogue: 0,1:09:59.56,1:10:01.52,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}写信给我
+Dialogue: 0,1:10:01.98,1:10:03.86,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}写给她
+Dialogue: 0,1:10:05.36,1:10:06.69,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}很好
+Dialogue: 0,1:10:08.74,1:10:09.90,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}谢谢你 先生
+Dialogue: 0,1:10:12.45,1:10:13.70,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}牧师
+Dialogue: 0,1:10:20.58,1:10:22.71,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}牧羊人要保护他的羊群
+Dialogue: 0,1:10:24.00,1:10:27.25,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}有时要赶走野狼
+Dialogue: 0,1:11:06.13,1:11:10.38,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}你确定这是合适的地方去找民兵吗
+Dialogue: 0,1:11:16.80,1:11:18.35,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}天佑吾王
+Dialogue: 0,1:11:38.12,1:11:40.08,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我想是来对地方了
+Dialogue: 0,1:11:46.79,1:11:49.59,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}有没有赏金 　这次恐怕没有赏金
+Dialogue: 0,1:11:49.84,1:11:51.29,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}但你杀了红衫军
+Dialogue: 0,1:11:51.30,1:11:54.99,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}就可以卖给我他们的枪和装备
+Dialogue: 0,1:12:06.14,1:12:08.69,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}他们在艾克华斯吊死我弟
+Dialogue: 0,1:12:09.44,1:12:12.11,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}那些红衫军都该死
+Dialogue: 0,1:12:12.36,1:12:14.14,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}那就加入我们　　我浑身残疾
+Dialogue: 0,1:12:14.15,1:12:17.16,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我撑不到前哨战 我看还是算了
+Dialogue: 0,1:12:17.36,1:12:20.28,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}但是我的黑奴可以代我上阵
+Dialogue: 0,1:12:20.49,1:12:21.95,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}欧坎 过来
+Dialogue: 0,1:12:23.45,1:12:26.96,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}他不聪明 但很强壮
+Dialogue: 0,1:12:27.17,1:12:28.21,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}你会写字吗
+Dialogue: 0,1:12:29.25,1:12:31.09,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}不会
+Dialogue: 0,1:12:31.34,1:12:33.35,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}那就画押吧　　为什么
+Dialogue: 0,1:12:33.42,1:12:35.22,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我把他让给你了
+Dialogue: 0,1:12:35.47,1:12:37.99,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}你愿意的话 我想要你画押
+Dialogue: 0,1:12:44.43,1:12:45.43,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}这样就行了
+Dialogue: 0,1:12:50.98,1:12:52.52,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我要去杀红衫军
+Dialogue: 0,1:12:53.44,1:12:54.78,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我相信你会
+Dialogue: 0,1:12:55.15,1:12:56.32,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}你几岁
+Dialogue: 0,1:12:56.57,1:12:59.11,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}还不够大 但时候会到的
+Dialogue: 0,1:12:59.36,1:13:01.83,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}约翰·比林斯 我希望你会来
+Dialogue: 0,1:13:02.08,1:13:04.54,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}传说有20名红衫军
+Dialogue: 0,1:13:04.70,1:13:07.46,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}被鬼杀了
+Dialogue: 0,1:13:07.66,1:13:09.29,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}这鬼带一个印第安斧头
+Dialogue: 0,1:13:11.42,1:13:14.42,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}你相信鬼故事 不嫌老吗
+Dialogue: 0,1:14:20.65,1:14:22.28,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}你找到几个
+Dialogue: 0,1:14:22.78,1:14:23.78,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}12个
+Dialogue: 0,1:14:24.57,1:14:25.58,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}很好
+Dialogue: 0,1:14:26.66,1:14:29.50,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我们要的不是这种人
+Dialogue: 0,1:14:32.79,1:14:34.92,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我们要的正是这种人
+Dialogue: 0,1:14:36.13,1:14:38.26,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}他们以前打过这种仗
+Dialogue: 0,1:14:41.97,1:14:43.76,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}那我呢 我也是之一吗
+Dialogue: 0,1:14:44.47,1:14:45.72,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}当然不
+Dialogue: 0,1:14:46.26,1:14:48.31,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}你这种人把耻辱带给那种人
+Dialogue: 0,1:14:54.06,1:14:57.32,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我要求快狠准
+Dialogue: 0,1:14:57.82,1:14:58.98,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}准备
+Dialogue: 0,1:15:03.82,1:15:05.28,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}瞄准
+Dialogue: 0,1:15:10.45,1:15:11.79,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}开火
+Dialogue: 0,1:15:51.80,1:15:53.50,Default,,0000,0000,0000,,{\fn方正大标宋简体\fs14\pos(175,135)\bord0\shad0\fsp10\frz6\1c&H2D3535&}悬赏\N{}\N{}\N{}\N{}\N{}\N{}\N{\fs16\fsp8}抓鬼
+Dialogue: 0,1:15:51.29,1:15:52.54,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}亲爱的安
+Dialogue: 0,1:15:52.83,1:15:54.87,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我们的军力越来越强
+Dialogue: 0,1:15:55.08,1:15:59.74,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}只要我们奋战不懈 其它人就会起而效尤
+Dialogue: 0,1:15:59.75,1:16:02.76,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我很想见你和跟你说话
+Dialogue: 0,1:16:03.01,1:16:05.75,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}也希望我能因职务之便靠近你
+Dialogue: 0,1:16:05.80,1:16:10.10,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}在见面之前 我会时时想着你
+Dialogue: 0,1:16:10.31,1:16:11.31,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}佳百列上
+Dialogue: 0,1:16:37.75,1:16:39.29,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我们投降
+Dialogue: 0,1:16:41.50,1:16:42.88,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}不 天啊 不要
+Dialogue: 0,1:16:43.09,1:16:44.55,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}看在老天的份上
+Dialogue: 0,1:16:45.76,1:16:47.38,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}这些人就要投降了
+Dialogue: 0,1:16:49.43,1:16:50.76,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}也许吧
+Dialogue: 0,1:16:50.97,1:16:52.01,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我们永远也无从得知
+Dialogue: 0,1:16:52.51,1:16:53.52,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}这是谋杀
+Dialogue: 0,1:16:54.10,1:16:58.23,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}牧师 他们是红衫军 他们罪该万死
+Dialogue: 0,1:16:59.98,1:17:02.64,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我们比他们好多了　　你对战争懂什么
+Dialogue: 0,1:17:02.65,1:17:04.53,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我知道为崇高目标而战
+Dialogue: 0,1:17:04.82,1:17:06.45,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}回你的教堂
+Dialogue: 0,1:17:06.61,1:17:07.90,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}安静
+Dialogue: 0,1:17:09.74,1:17:11.07,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}他说得对
+Dialogue: 0,1:17:11.83,1:17:15.41,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我们要收容那些受伤及投降的英军
+Dialogue: 0,1:17:15.62,1:17:17.62,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}当他们对我的妻儿坐的船开火时
+Dialogue: 0,1:17:17.62,1:17:19.87,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}也没想到要手下留情
+Dialogue: 0,1:17:20.42,1:17:24.25,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我在200码外眼睁睁看着他们被烧死
+Dialogue: 0,1:17:24.34,1:17:28.04,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我很同情你 但就这样 　去你的同情
+Dialogue: 0,1:17:28.13,1:17:30.34,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}你凭什么下这种命令
+Dialogue: 0,1:17:31.22,1:17:33.31,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我知道你和你手下在维尔德尼斯堡
+Dialogue: 0,1:17:33.31,1:17:35.31,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}是怎么对我的同胞
+Dialogue: 0,1:17:36.85,1:17:40.27,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我们是民兵 不是正规军
+Dialogue: 0,1:17:41.36,1:17:43.82,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}这里的人可以自行决定去留
+Dialogue: 0,1:17:44.07,1:17:45.19,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}但你们留下来的话
+Dialogue: 0,1:17:45.57,1:17:48.03,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}就要听我的命令 否则军法处置
+Dialogue: 0,1:17:53.95,1:17:56.19,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}该死的狗辈 　杀了它们
+Dialogue: 0,1:17:56.24,1:17:59.93,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}别开枪　　它们不让任何人靠近车
+Dialogue: 0,1:18:05.38,1:18:07.76,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}是兰姆酒　　难怪它们看的这么紧
+Dialogue: 0,1:18:07.92,1:18:09.17,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}军官的制服
+Dialogue: 0,1:18:09.42,1:18:11.26,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}你们猜这值多少钱
+Dialogue: 0,1:18:12.76,1:18:16.10,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}这是康瓦理斯将军的私人物品
+Dialogue: 0,1:18:18.43,1:18:19.43,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}这是他的日记
+Dialogue: 0,1:18:20.94,1:18:22.94,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我们喝了他的酒 吃了他的狗
+Dialogue: 0,1:18:22.94,1:18:25.22,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}用这些纸来塞毛瑟枪
+Dialogue: 0,1:18:25.27,1:18:26.61,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}吃他的狗
+Dialogue: 0,1:18:27.78,1:18:29.57,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}狗肉很好吃
+Dialogue: 0,1:18:30.74,1:18:32.11,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我的天啊
+Dialogue: 0,1:18:45.29,1:18:47.25,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我这里有地图
+Dialogue: 0,1:18:48.63,1:18:51.17,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}放在那里 谢谢
+Dialogue: 0,1:18:52.43,1:18:54.72,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}给你一把毛瑟枪
+Dialogue: 0,1:18:54.97,1:18:56.97,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我不知道你们怎么样
+Dialogue: 0,1:18:56.97,1:18:59.94,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}但我觉得不该让黑奴拿枪
+Dialogue: 0,1:19:01.81,1:19:04.10,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}你对自由一点概念都没有
+Dialogue: 0,1:19:10.90,1:19:12.61,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}别听他们的
+Dialogue: 0,1:19:14.78,1:19:17.33,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}打赢这场仗很多事都会变
+Dialogue: 0,1:19:18.20,1:19:19.75,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}什么会变
+Dialogue: 0,1:19:21.12,1:19:23.12,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}他们说这里是新大陆 不是
+Dialogue: 0,1:19:23.12,1:19:25.79,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}这里和旧大陆一样
+Dialogue: 0,1:19:28.42,1:19:30.96,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}但我们有机会建立新世界
+Dialogue: 0,1:19:34.09,1:19:38.56,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}新世界中人人平等
+Dialogue: 0,1:19:39.35,1:19:40.60,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}平等
+Dialogue: 0,1:19:41.98,1:19:43.64,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}听起来很不错
+Dialogue: 0,1:19:44.81,1:19:47.19,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我刚刚看了天才的杰作
+Dialogue: 0,1:19:49.94,1:19:54.49,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}康瓦理斯对战争的知识丰富得令人咋舌
+Dialogue: 0,1:19:55.07,1:19:56.41,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}那倒是令人振奋的好消息
+Dialogue: 0,1:19:56.87,1:20:01.16,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}他在坎登和查理士城的胜利无懈可击
+Dialogue: 0,1:20:02.12,1:20:04.08,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}而且他心里明白
+Dialogue: 0,1:20:06.46,1:20:07.83,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}也许这就是他的弱点
+Dialogue: 0,1:20:08.34,1:20:09.50,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}长官
+Dialogue: 0,1:20:10.80,1:20:11.96,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}骄傲
+Dialogue: 0,1:20:13.17,1:20:14.59,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}骄傲是弱点
+Dialogue: 0,1:20:15.13,1:20:17.68,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我还是希望他蠢一些
+Dialogue: 0,1:20:19.97,1:20:21.31,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}骄傲就行了
+Dialogue: 0,1:20:32.53,1:20:34.32,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}做好了
+Dialogue: 0,1:20:34.82,1:20:36.78,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我把背后改紧
+Dialogue: 0,1:20:37.03,1:20:39.74,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}加了肩章和金边
+Dialogue: 0,1:20:39.95,1:20:43.24,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}这简直是马用的毛毯　　这我就不知道了
+Dialogue: 0,1:20:43.25,1:20:45.58,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}看起来很不错
+Dialogue: 0,1:20:45.91,1:20:48.71,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}非常不错　　这是一条很好的马毛毯
+Dialogue: 0,1:20:50.46,1:20:53.38,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}塔维顿上校 为什么都等了六个星期
+Dialogue: 0,1:20:53.59,1:20:56.68,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我还在南卡参加舞会
+Dialogue: 0,1:20:56.93,1:20:59.64,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}而我现在应该早就在北卡了
+Dialogue: 0,1:20:59.80,1:21:01.22,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}先是我的行李被偷
+Dialogue: 0,1:21:01.64,1:21:04.35,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}包括我费尽心力写的日志
+Dialogue: 0,1:21:04.93,1:21:06.74,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}接着从这儿到查理士城
+Dialogue: 0,1:21:06.74,1:21:08.94,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}半数以上的渡口及桥梁都被烧了
+Dialogue: 0,1:21:08.94,1:21:11.65,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}如果你无法对抗民兵 保护补给线
+Dialogue: 0,1:21:12.02,1:21:15.44,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}你要怎么对抗正规军和法军呢
+Dialogue: 0,1:21:15.65,1:21:18.28,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}他们不打正规战 我们找不到他们
+Dialogue: 0,1:21:18.49,1:21:20.95,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}他们是民兵
+Dialogue: 0,1:21:21.62,1:21:23.91,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}他们是拿着耙子的农夫
+Dialogue: 0,1:21:24.75,1:21:27.21,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}他们不止是农夫
+Dialogue: 0,1:21:27.50,1:21:30.42,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}他们是鬼影指挥官调教的
+Dialogue: 0,1:21:30.67,1:21:33.50,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}鬼 鬼 鬼
+Dialogue: 0,1:21:34.09,1:21:36.67,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}那个鬼是你塑造出来的
+Dialogue: 0,1:21:37.51,1:21:39.30,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}他的阶级是你帮他挂的
+Dialogue: 0,1:21:39.55,1:21:41.85,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}要是没有他们就没有这个鬼
+Dialogue: 0,1:21:41.89,1:21:44.43,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}而我现在已到北卡了
+Dialogue: 0,1:21:44.68,1:21:45.93,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我要为我辩护
+Dialogue: 0,1:21:46.06,1:21:48.02,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}够了
+Dialogue: 0,1:21:48.73,1:21:52.98,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}亏你是个好军人居然会怕鬼
+Dialogue: 0,1:21:54.32,1:21:56.28,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}把那个马毛毯给我
+Dialogue: 0,1:21:59.49,1:22:02.57,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}奥哈拉 我们的补给船似乎来了
+Dialogue: 0,1:22:03.20,1:22:04.62,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}是的
+Dialogue: 0,1:22:04.83,1:22:07.29,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}那我为什么要穿这个地毯
+Dialogue: 0,1:22:07.50,1:22:10.42,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}长官 您的礼服在船上 但是
+Dialogue: 0,1:22:10.62,1:22:14.71,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}塔维顿上校认为要先搬军用品
+Dialogue: 0,1:22:14.88,1:22:16.05,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}弟兄们现在正在搬
+Dialogue: 0,1:22:27.77,1:22:29.23,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}你穿这个颜色很好看
+Dialogue: 0,1:22:31.35,1:22:32.60,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}臭死了
+Dialogue: 0,1:22:34.61,1:22:36.40,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}原来是死人穿的
+Dialogue: 0,1:22:36.78,1:22:38.57,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}那些野蛮人连你的狗都不放过
+Dialogue: 0,1:22:38.94,1:22:40.20,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}是的
+Dialogue: 0,1:22:41.20,1:22:44.37,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}那两只好狗是国王送我的
+Dialogue: 0,1:22:45.28,1:22:46.83,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}据我所知 大概已经死了
+Dialogue: 0,1:22:47.29,1:22:49.50,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}没有天理了吗
+Dialogue: 0,1:22:58.76,1:23:02.51,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}太棒了 是烟火
+Dialogue: 0,1:23:34.50,1:23:36.04,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}霍华先生
+Dialogue: 0,1:23:37.00,1:23:39.13,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我是来看安的
+Dialogue: 0,1:23:44.93,1:23:48.01,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我是来看安的
+Dialogue: 0,1:23:48.26,1:23:50.47,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}你当然是个男人
+Dialogue: 0,1:23:51.48,1:23:54.81,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}父亲 别逗了 你听到他说的
+Dialogue: 0,1:23:57.36,1:23:58.36,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}这个嘛
+Dialogue: 0,1:23:59.07,1:24:00.57,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}去看她吧
+Dialogue: 0,1:24:26.34,1:24:27.68,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我快好了
+Dialogue: 0,1:24:29.43,1:24:31.22,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}别担心 父亲
+Dialogue: 0,1:24:31.47,1:24:32.89,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我知道
+Dialogue: 0,1:24:33.48,1:24:35.81,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我觉得这布丁袋是很好的传统
+Dialogue: 0,1:24:35.82,1:24:37.91,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我一点都不介意
+Dialogue: 0,1:24:39.11,1:24:40.65,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}不要动
+Dialogue: 0,1:24:41.23,1:24:42.28,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}要茶吗
+Dialogue: 0,1:24:43.32,1:24:44.65,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}麻烦你
+Dialogue: 0,1:24:46.45,1:24:47.49,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}好了
+Dialogue: 0,1:24:56.04,1:24:57.29,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}来吧 亲爱的
+Dialogue: 0,1:25:08.84,1:25:10.30,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}很好
+Dialogue: 0,1:25:13.31,1:25:15.52,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}你喜欢我就放心了
+Dialogue: 0,1:25:24.36,1:25:25.53,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}彼德
+Dialogue: 0,1:25:26.28,1:25:29.87,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}别担心 我的针上工夫比我妈好
+Dialogue: 0,1:25:32.95,1:25:34.41,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}希望如此
+Dialogue: 0,1:25:40.67,1:25:42.71,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}如果你只是站在那里
+Dialogue: 0,1:25:43.00,1:25:44.71,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}为什么不念出来给我们听
+Dialogue: 0,1:25:44.84,1:25:46.55,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我不识字
+Dialogue: 0,1:25:49.34,1:25:50.59,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我会
+Dialogue: 0,1:25:53.85,1:25:54.85,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}请注意
+Dialogue: 0,1:25:55.77,1:25:59.27,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}华盛顿将军及大陆会议下令
+Dialogue: 0,1:25:59.44,1:26:02.56,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}在独立军中
+Dialogue: 0,1:26:02.98,1:26:04.48,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}服役一年以上的奴隶
+Dialogue: 0,1:26:05.32,1:26:07.36,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}将可重获自由
+Dialogue: 0,1:26:08.03,1:26:11.78,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}并可得到每个月五先令的薪水
+Dialogue: 0,1:26:12.28,1:26:13.66,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}你听到了吗
+Dialogue: 0,1:26:13.87,1:26:17.12,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}先是要放他们自由 接下来又要付他们钱
+Dialogue: 0,1:26:17.45,1:26:19.67,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}只要再六个月
+Dialogue: 0,1:26:22.33,1:26:24.13,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}你自由后要做什么
+Dialogue: 0,1:26:35.56,1:26:37.18,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}这是我帮你做的
+Dialogue: 0,1:26:53.57,1:26:55.37,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}好好照顾你妈
+Dialogue: 0,1:27:00.87,1:27:02.37,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}你知道吗 彼德
+Dialogue: 0,1:27:03.04,1:27:04.67,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我没有办法付你钱
+Dialogue: 0,1:27:04.88,1:27:09.05,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}你方便时再给
+Dialogue: 0,1:27:09.51,1:27:10.92,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}感激不尽
+Dialogue: 0,1:27:12.26,1:27:15.55,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}佳百列真的很像你
+Dialogue: 0,1:27:16.81,1:27:19.02,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}不 他比较像他妈
+Dialogue: 0,1:27:20.77,1:27:22.02,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}下士
+Dialogue: 0,1:27:23.56,1:27:25.44,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}你慢慢来 狗儿们
+Dialogue: 0,1:27:42.66,1:27:43.71,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}先生
+Dialogue: 0,1:28:30.13,1:28:32.01,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}道路封闭了
+Dialogue: 0,1:28:32.42,1:28:35.17,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}这些车辆现在正式成为独立军的财产
+Dialogue: 0,1:28:35.18,1:28:37.64,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}准备
+Dialogue: 0,1:28:50.44,1:28:51.86,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}排成两列
+Dialogue: 0,1:29:00.87,1:29:04.90,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}你和你的手下不必死 留下车子就走吧
+Dialogue: 0,1:29:05.04,1:29:06.75,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}这是国王的公路
+Dialogue: 0,1:29:07.12,1:29:09.88,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我劝你和你的手下让开
+Dialogue: 0,1:29:16.80,1:29:17.88,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}进攻
+Dialogue: 0,1:29:18.93,1:29:20.01,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}开火
+Dialogue: 0,1:29:21.35,1:29:22.72,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}撤退
+Dialogue: 0,1:29:29.73,1:29:31.11,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}保留实力
+Dialogue: 0,1:29:59.26,1:30:00.30,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}撤退
+Dialogue: 0,1:30:18.90,1:30:21.16,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}有埋伏
+Dialogue: 0,1:30:54.86,1:30:56.48,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我统计了一下
+Dialogue: 0,1:30:57.94,1:30:59.74,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}死了二十二个人
+Dialogue: 0,1:31:00.49,1:31:02.86,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}十八个人受伤 二十人失踪
+Dialogue: 0,1:31:03.16,1:31:04.49,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我不干了
+Dialogue: 0,1:31:10.50,1:31:12.12,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}他不是最后一个要走的人
+Dialogue: 0,1:31:12.83,1:31:15.04,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}相信我 我的同胞很快就会到
+Dialogue: 0,1:31:15.29,1:31:17.25,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}法国军队 　你下地狱
+Dialogue: 0,1:31:17.46,1:31:19.05,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}法国军队下地狱
+Dialogue: 0,1:31:19.26,1:31:20.34,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我们不需要他们
+Dialogue: 0,1:31:20.59,1:31:21.92,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我们有班杰明·马汀
+Dialogue: 0,1:31:21.92,1:31:24.72,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我们知道他是怎么对付法国人的
+Dialogue: 0,1:31:38.32,1:31:39.69,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}父亲
+Dialogue: 0,1:31:40.24,1:31:45.57,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}你在维尔德尼斯堡的英勇事迹 人人佩服
+Dialogue: 0,1:31:47.08,1:31:49.70,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}陌生人都比我了解你
+Dialogue: 0,1:31:51.79,1:31:53.42,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}告诉我当时的情况
+Dialogue: 0,1:31:54.58,1:31:59.17,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}你出生时 你母亲也问过我这个问题
+Dialogue: 0,1:32:02.01,1:32:04.72,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我当时烂醉如泥才会回答
+Dialogue: 0,1:32:11.35,1:32:14.81,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}法国人和印地安人突击蓝桥
+Dialogue: 0,1:32:15.56,1:32:18.65,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}英国殖民到查尔斯堡寻求庇护
+Dialogue: 0,1:32:18.98,1:32:22.11,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我们抵达时那里已经没人了
+Dialogue: 0,1:32:23.61,1:32:25.74,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}他们一周前就离开了
+Dialogue: 0,1:32:27.20,1:32:29.74,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}但是我们发现
+Dialogue: 0,1:32:32.54,1:32:33.79,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}继续说
+Dialogue: 0,1:32:36.92,1:32:40.42,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}他们杀光所有的男的殖民
+Dialogue: 0,1:32:42.46,1:32:44.26,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}女人和
+Dialogue: 0,1:32:44.47,1:32:46.68,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}某些孩童被他们
+Dialogue: 0,1:32:49.76,1:32:52.72,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我们把他们的遗骸全埋了
+Dialogue: 0,1:32:55.39,1:32:58.11,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我们在维尔德尼斯堡追上他们
+Dialogue: 0,1:33:01.19,1:33:02.78,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我们好整以暇
+Dialogue: 0,1:33:05.11,1:33:07.99,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}把他们五马分尸
+Dialogue: 0,1:33:08.78,1:33:10.49,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}千刀万剐
+Dialogue: 0,1:33:15.83,1:33:17.79,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}他们的脸庞历历在目
+Dialogue: 0,1:33:21.09,1:33:23.30,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}耳边仿佛回荡着他们的尖叫
+Dialogue: 0,1:33:25.42,1:33:28.76,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我们只留了两个活口
+Dialogue: 0,1:33:30.14,1:33:32.26,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我们让那两个人
+Dialogue: 0,1:33:32.47,1:33:35.10,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}带着那些人的项上人头回去
+Dialogue: 0,1:33:35.85,1:33:39.10,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}眼睛 舌头 手指
+Dialogue: 0,1:33:39.27,1:33:41.27,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我们则装在篮子里
+Dialogue: 0,1:33:41.69,1:33:44.48,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}送到印地安人那儿去
+Dialogue: 0,1:33:46.57,1:33:51.12,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}不久后 印地安人便不再与法国人合作
+Dialogue: 0,1:33:52.83,1:33:54.91,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我们就是这样平衡的
+Dialogue: 0,1:34:04.00,1:34:05.34,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我们是
+Dialogue: 0,1:34:07.01,1:34:08.38,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}英雄
+Dialogue: 0,1:34:10.80,1:34:12.93,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}那些人请你喝酒
+Dialogue: 0,1:34:17.68,1:34:21.69,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我每天都在祈求上帝宽恕我
+Dialogue: 0,1:34:29.86,1:34:33.87,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}托马斯是我的弟弟 也是你的儿子
+Dialogue: 0,1:34:34.20,1:34:39.12,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}你也许不信 但我和你一样想要报仇
+Dialogue: 0,1:34:40.17,1:34:42.21,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}但在不影响原则下
+Dialogue: 0,1:34:43.46,1:34:46.00,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}仇终究是要报的
+Dialogue: 0,1:34:47.01,1:34:49.47,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}但在那之前我会为自由奋斗
+Dialogue: 0,1:34:51.59,1:34:54.99,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我喝醉或发脾气时 你妈会说这句话
+Dialogue: 0,1:34:55.01,1:34:57.47,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我挑托马斯毛病时她会这么说
+Dialogue: 0,1:35:03.52,1:35:04.77,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我好想他
+Dialogue: 0,1:35:21.42,1:35:24.90,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我们有十八名弟兄在卡罗莱纳州堡被俘
+Dialogue: 0,1:35:24.96,1:35:28.96,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}除非他们说出我们下落 否则都会被吊死
+Dialogue: 0,1:35:43.94,1:35:45.19,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}牧师
+Dialogue: 0,1:35:45.44,1:35:47.40,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}能帮我写封信吗
+Dialogue: 0,1:35:47.94,1:35:50.49,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}写给我太太和儿子　　没问题
+Dialogue: 0,1:35:50.65,1:35:53.66,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}不过 我们先来祷告
+Dialogue: 0,1:36:08.38,1:36:09.42,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}大人
+Dialogue: 0,1:36:09.80,1:36:11.51,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}大门外有一名骑士
+Dialogue: 0,1:36:11.88,1:36:14.63,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}一名举白旗的平民
+Dialogue: 0,1:36:15.01,1:36:16.60,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我很忙
+Dialogue: 0,1:36:17.10,1:36:19.47,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}他带了两只狗
+Dialogue: 0,1:36:20.14,1:36:22.52,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}是大丹狗
+Dialogue: 0,1:36:23.48,1:36:24.48,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}主啊
+Dialogue: 0,1:36:24.69,1:36:26.98,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}请在这个危急的时刻 保佑我们
+Dialogue: 0,1:36:27.15,1:36:30.90,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我们以圣父 圣子
+Dialogue: 0,1:36:31.11,1:36:32.82,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}和圣灵之名求您
+Dialogue: 0,1:36:37.99,1:36:39.16,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}在这里等
+Dialogue: 0,1:36:39.49,1:36:41.75,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}康瓦理斯将军马上来
+Dialogue: 0,1:37:25.33,1:37:28.21,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}木星 土星 来
+Dialogue: 0,1:37:31.13,1:37:32.13,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}来
+Dialogue: 0,1:37:35.63,1:37:39.55,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我的乖狗狗 你们似乎没有吃苦
+Dialogue: 0,1:37:41.43,1:37:43.02,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}谢谢你
+Dialogue: 0,1:37:43.22,1:37:45.77,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我还不知道你的名字
+Dialogue: 0,1:37:46.02,1:37:50.93,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我是独立军上校 你只要知道这个就够了
+Dialogue: 0,1:37:51.11,1:37:52.57,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}随你便
+Dialogue: 0,1:37:53.40,1:37:54.57,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}请坐
+Dialogue: 0,1:37:54.74,1:37:55.78,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}谢谢
+Dialogue: 0,1:37:57.74,1:38:01.41,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}请你开始说明来意吧
+Dialogue: 0,1:38:02.03,1:38:04.95,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我会的 除非你要先申报你的损失
+Dialogue: 0,1:38:05.16,1:38:07.83,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}是的 我要先这么做
+Dialogue: 0,1:38:08.04,1:38:09.75,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}那么 请继续吧
+Dialogue: 0,1:38:10.08,1:38:14.46,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}你手上有我的私人物品 包括衣服
+Dialogue: 0,1:38:14.76,1:38:18.26,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}家具及私人日志
+Dialogue: 0,1:38:18.97,1:38:20.68,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我希望你能还我
+Dialogue: 0,1:38:21.14,1:38:23.89,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我会尽快办到的
+Dialogue: 0,1:38:25.47,1:38:26.56,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}谢谢
+Dialogue: 0,1:38:26.89,1:38:30.06,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}现在我们来谈谈 你们在战场上
+Dialogue: 0,1:38:30.19,1:38:32.19,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}针对我们军官开枪的事
+Dialogue: 0,1:38:32.65,1:38:35.99,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}你应该知道在文明战争中 战场上军官
+Dialogue: 0,1:38:36.03,1:38:40.41,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}不该表现出不合时宜的敌意
+Dialogue: 0,1:38:41.41,1:38:45.19,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}你认为怎样才叫做不合时宜的敌意
+Dialogue: 0,1:38:45.20,1:38:47.50,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}想想看 要是群龙无首
+Dialogue: 0,1:38:47.75,1:38:50.92,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}两军相争时 会如何混乱
+Dialogue: 0,1:38:51.38,1:38:54.54,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}一定要有指挥官
+Dialogue: 0,1:38:54.80,1:38:58.13,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}才能够在必要时控制军队
+Dialogue: 0,1:38:59.13,1:39:03.26,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}例如 不让他们欺凌老弱妇孺
+Dialogue: 0,1:39:06.60,1:39:07.72,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}那又是另一回事了
+Dialogue: 0,1:39:08.02,1:39:09.81,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}不 我认为是同一件事
+Dialogue: 0,1:39:10.64,1:39:13.36,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}只要你的手下攻击平民百姓
+Dialogue: 0,1:39:13.56,1:39:17.65,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我就会命令我手下 开战时屠杀你的军官
+Dialogue: 0,1:39:19.19,1:39:21.66,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我的手下都是神枪手
+Dialogue: 0,1:39:25.91,1:39:26.91,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}那好
+Dialogue: 0,1:39:27.54,1:39:30.50,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}让我们继续讨论 　战俘交换事宜
+Dialogue: 0,1:39:31.67,1:39:32.67,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}先生
+Dialogue: 0,1:39:33.50,1:39:36.84,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我这边确有18名犯人 我要你放了他们
+Dialogue: 0,1:39:43.68,1:39:48.31,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我这边的确有18名死囚
+Dialogue: 0,1:39:48.60,1:39:51.50,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}但我绝对不会扣留战犯
+Dialogue: 0,1:39:51.52,1:39:54.85,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}如果你拒绝 你就要为你18名军官的死负责
+Dialogue: 0,1:39:54.86,1:39:56.93,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}19名 如果你把我一起吊死
+Dialogue: 0,1:39:57.15,1:39:58.15,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我的军官
+Dialogue: 0,1:39:58.40,1:39:59.40,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}先生
+Dialogue: 0,1:40:06.99,1:40:09.95,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}在你左方的山顶的树下
+Dialogue: 0,1:40:23.09,1:40:24.26,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}他们的名字和官阶
+Dialogue: 0,1:40:24.59,1:40:26.59,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}他们不透露姓名 有九名少尉
+Dialogue: 0,1:40:26.59,1:40:28.71,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}五名上尉 三名少校
+Dialogue: 0,1:40:28.76,1:40:30.56,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}和一个说我厚颜无耻的
+Dialogue: 0,1:40:32.52,1:40:34.23,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}肥上尉
+Dialogue: 0,1:40:34.69,1:40:37.40,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}这不是绅士该有的作为
+Dialogue: 0,1:40:37.69,1:40:40.53,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}如果你军官的作为 叫绅士作风
+Dialogue: 0,1:40:40.94,1:40:42.99,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}那我觉得 你这是天大的恭维
+Dialogue: 0,1:40:45.03,1:40:46.20,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}去带我的手下来
+Dialogue: 0,1:40:50.16,1:40:52.91,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}安排交换事宜　　大人
+Dialogue: 0,1:40:53.04,1:40:54.33,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}谢谢你
+Dialogue: 0,1:41:25.82,1:41:27.45,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}释放囚犯
+Dialogue: 0,1:41:32.41,1:41:34.54,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}将军 这是做什么 　交换战俘
+Dialogue: 0,1:41:34.75,1:41:36.33,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}他俘掳了我们十八名军官
+Dialogue: 0,1:41:36.54,1:41:38.42,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}他是谁 我看过他
+Dialogue: 0,1:41:38.92,1:41:40.54,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}他是民兵的指挥官
+Dialogue: 0,1:41:42.05,1:41:44.88,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}就是你说的鬼　　不要动 上校
+Dialogue: 0,1:41:45.17,1:41:47.81,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}他举着白旗前来谈判 没有敌意　是吗
+Dialogue: 0,1:41:47.84,1:41:49.09,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}这太疯狂了
+Dialogue: 0,1:41:49.80,1:41:53.43,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}如果你伤害他 会害死我们的军官
+Dialogue: 0,1:41:53.52,1:41:57.69,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}请恕我说一句 他过去杀了不少军官
+Dialogue: 0,1:41:58.02,1:42:02.48,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}他没有敌意 所以我们不能伤害他
+Dialogue: 0,1:42:02.82,1:42:04.36,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}他没有吗
+Dialogue: 0,1:42:07.95,1:42:08.95,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}你
+Dialogue: 0,1:42:09.70,1:42:12.66,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}原来你就是那个鬼 我记得你
+Dialogue: 0,1:42:12.87,1:42:14.91,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}在农场上 那个笨小孩
+Dialogue: 0,1:42:21.96,1:42:23.34,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}他死了吗
+Dialogue: 0,1:42:27.47,1:42:28.55,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}你知道吗
+Dialogue: 0,1:42:28.97,1:42:31.64,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}有时克尽职责实在很不好受
+Dialogue: 0,1:42:31.85,1:42:33.97,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}但有时候
+Dialogue: 0,1:42:34.64,1:42:36.27,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}是赏心乐事
+Dialogue: 0,1:42:40.40,1:42:43.23,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}在这场战争结束之前 我会杀了你
+Dialogue: 0,1:42:46.69,1:42:48.36,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}为什么要等
+Dialogue: 0,1:42:57.70,1:42:58.87,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}很快的
+Dialogue: 0,1:43:31.91,1:43:33.07,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}出发
+Dialogue: 0,1:43:37.79,1:43:41.25,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我还是觉得 北进太鲁莽
+Dialogue: 0,1:43:44.42,1:43:46.71,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}这是我们被俘的军官之一
+Dialogue: 0,1:43:51.63,1:43:54.89,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}你们的无能 害我脸上无光
+Dialogue: 0,1:43:55.14,1:43:58.06,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}那家伙羞辱我
+Dialogue: 0,1:43:58.93,1:44:02.60,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}这乡巴佬还真不简单
+Dialogue: 0,1:44:09.82,1:44:12.53,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我要你去找他
+Dialogue: 0,1:44:13.24,1:44:15.28,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我要你把他捉来
+Dialogue: 0,1:44:16.70,1:44:18.91,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}人民对他很忠心
+Dialogue: 0,1:44:19.41,1:44:21.79,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}他们保护他和他的家人
+Dialogue: 0,1:44:22.00,1:44:23.62,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}保护他手下的家人
+Dialogue: 0,1:44:25.04,1:44:27.00,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我可以帮你捉到他
+Dialogue: 0,1:44:28.59,1:44:32.62,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}但这就要用到一些不太光明的手段
+Dialogue: 0,1:44:33.72,1:44:35.93,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}大人之前是怎么说的
+Dialogue: 0,1:44:37.80,1:44:39.31,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}好像说“残忍”
+Dialogue: 0,1:44:48.15,1:44:49.15,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}继续
+Dialogue: 0,1:44:58.33,1:45:01.17,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我准备好去做该做的事
+Dialogue: 0,1:45:01.20,1:45:05.67,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我愿意为我的行为负全责
+Dialogue: 0,1:45:05.87,1:45:08.00,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我不受上级指挥
+Dialogue: 0,1:45:08.21,1:45:10.42,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}不管我做什么 你都不能怪我
+Dialogue: 0,1:45:11.09,1:45:12.46,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}如果
+Dialogue: 0,1:45:12.67,1:45:14.47,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我这么做
+Dialogue: 0,1:45:14.68,1:45:18.90,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我们两个都知道 我永远无法载誉归国
+Dialogue: 0,1:45:21.89,1:45:25.64,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我将会有何下场
+Dialogue: 0,1:45:33.24,1:45:36.20,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}当这里的战争结束之后
+Dialogue: 0,1:45:36.66,1:45:38.45,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}新兴贵族
+Dialogue: 0,1:45:40.53,1:45:42.33,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}将会是地主
+Dialogue: 0,1:45:49.67,1:45:52.30,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}告诉我俄亥俄州的事
+Dialogue: 0,1:45:57.93,1:45:59.09,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}让开
+Dialogue: 0,1:46:00.22,1:46:01.47,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}稍息
+Dialogue: 0,1:46:04.60,1:46:08.69,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}威尔金 离维克菲尔七英哩处
+Dialogue: 0,1:46:08.90,1:46:13.06,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}山提河东岸的黑沼泽 是什么人住的
+Dialogue: 0,1:46:13.15,1:46:14.65,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}班杰明·马汀
+Dialogue: 0,1:46:14.86,1:46:16.57,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}他就是我们说的鬼
+Dialogue: 0,1:46:17.32,1:46:18.74,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}你对他知道多少
+Dialogue: 0,1:46:18.95,1:46:22.53,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}无所不知 我连他几号鞋都知道
+Dialogue: 0,1:46:23.45,1:46:27.29,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}他有家人吗 他把孩子藏在哪里
+Dialogue: 0,1:46:36.39,1:46:39.06,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}他的小姨子有一个农庄
+Dialogue: 0,1:46:39.52,1:46:41.14,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}不远
+Dialogue: 0,1:47:14.93,1:47:18.10,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}夏绿蒂阿姨 醒醒 有人来了
+Dialogue: 0,1:47:23.65,1:47:25.27,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}去叫孩子们
+Dialogue: 0,1:47:27.73,1:47:30.36,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}玛格莉特 快来
+Dialogue: 0,1:47:30.57,1:47:33.36,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我们走　　孩子们 来吧
+Dialogue: 0,1:47:33.95,1:47:34.78,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}快
+Dialogue: 0,1:47:39.62,1:47:41.33,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}跟着我
+Dialogue: 0,1:47:47.13,1:47:48.55,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}走这边 从窗台下出去
+Dialogue: 0,1:48:05.02,1:48:06.27,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}跟着我
+Dialogue: 0,1:48:09.69,1:48:12.24,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我们下楼到厨房
+Dialogue: 0,1:48:18.37,1:48:20.66,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}玛格莉特 快 从这下面 快
+Dialogue: 0,1:48:32.55,1:48:34.59,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}山缪 快下来
+Dialogue: 0,1:49:31.94,1:49:33.90,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}在下面 那里
+Dialogue: 0,1:49:36.49,1:49:38.03,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}房子里没有人
+Dialogue: 0,1:49:38.24,1:49:39.70,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}他们一定没走远
+Dialogue: 0,1:49:40.12,1:49:42.49,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}去树林里找找
+Dialogue: 0,1:50:20.24,1:50:22.12,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}准备放火烧房子
+Dialogue: 0,1:50:22.91,1:50:24.28,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}快走
+Dialogue: 0,1:50:44.01,1:50:45.97,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}这是他们家里的奴隶
+Dialogue: 0,1:50:51.19,1:50:52.77,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}他们躲在哪里
+Dialogue: 0,1:50:56.61,1:50:58.99,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}继续找 他们一定在附近
+Dialogue: 0,1:51:04.82,1:51:06.45,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}佳百列　　父亲呢
+Dialogue: 0,1:51:06.79,1:51:08.50,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}放火烧房子
+Dialogue: 0,1:51:26.14,1:51:27.14,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}上马
+Dialogue: 0,1:51:34.52,1:51:36.23,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}跟我来 不要紧的
+Dialogue: 0,1:51:36.44,1:51:38.32,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}苏珊 过来
+Dialogue: 0,1:51:47.53,1:51:48.70,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}夏绿蒂
+Dialogue: 0,1:52:04.55,1:52:07.43,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}他们不会放弃找我们的
+Dialogue: 0,1:52:09.72,1:52:11.85,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我们会带你们去安全的地方
+Dialogue: 0,1:52:12.73,1:52:15.27,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}父亲说在那里藏身最适合了
+Dialogue: 0,1:52:17.90,1:52:19.40,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}他还好吗
+Dialogue: 0,1:52:24.65,1:52:26.41,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我不知道 我是他的儿子
+Dialogue: 0,1:52:26.70,1:52:28.58,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}父亲呢
+Dialogue: 0,1:52:30.12,1:52:31.70,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}几个月前开始说话
+Dialogue: 0,1:52:31.91,1:52:33.50,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}几个月前开始说话
+Dialogue: 0,1:52:33.71,1:52:35.50,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}他到哪里去了
+Dialogue: 0,1:52:37.71,1:52:39.71,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}他不要那些人找到你们
+Dialogue: 0,1:52:39.71,1:52:41.75,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}所以他引他们离开
+Dialogue: 0,1:52:41.80,1:52:44.17,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}他会尽快回来看你们
+Dialogue: 0,1:52:44.47,1:52:47.09,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我不管 我恨他
+Dialogue: 0,1:52:48.85,1:52:50.56,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}苏珊 你不恨他
+Dialogue: 0,1:52:50.72,1:52:54.27,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我恨他 我希望他永远不回来
+Dialogue: 0,1:53:28.09,1:53:29.97,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}是孩子们
+Dialogue: 0,1:53:31.01,1:53:32.01,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}艾比佳
+Dialogue: 0,1:53:33.93,1:53:35.48,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}你还活着
+Dialogue: 0,1:53:45.61,1:53:49.45,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我知道不多 但你可以跟我一起
+Dialogue: 0,1:54:08.51,1:54:10.97,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}很美
+Dialogue: 0,1:54:11.51,1:54:13.10,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}谢谢
+Dialogue: 0,1:54:25.40,1:54:29.24,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}她说话了 苏珊跟你说话了
+Dialogue: 0,1:54:29.45,1:54:31.07,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}整句
+Dialogue: 0,1:54:31.32,1:54:33.95,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}好像她一直都可以说话
+Dialogue: 0,1:54:36.33,1:54:38.12,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}可恶 我居然不在场
+Dialogue: 0,1:54:39.50,1:54:40.58,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}她说什么
+Dialogue: 0,1:54:43.17,1:54:44.96,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}她说
+Dialogue: 0,1:54:46.46,1:54:49.59,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}她很爱你也很想你
+Dialogue: 0,1:54:50.01,1:54:54.30,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}她也了解你为什么不能来陪她
+Dialogue: 0,1:54:55.68,1:54:57.47,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}天啊 真的吗
+Dialogue: 0,1:54:58.18,1:54:58.98,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}真不可思议
+Dialogue: 0,1:55:03.44,1:55:06.51,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}塔维顿有我们的名单 在烧我们的房子
+Dialogue: 0,1:55:06.52,1:55:08.96,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}若有不从 格杀勿论
+Dialogue: 0,1:55:09.03,1:55:13.25,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}在哪里 　他烧了山提河岸的七栋房子
+Dialogue: 0,1:56:00.50,1:56:02.37,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}约翰
+Dialogue: 0,1:56:11.17,1:56:13.51,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}现在不是报仇的时候
+Dialogue: 0,1:56:14.38,1:56:16.97,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}是哀悼的时候
+Dialogue: 0,1:56:21.60,1:56:23.35,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}约翰
+Dialogue: 0,1:56:32.11,1:56:33.40,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}不
+Dialogue: 0,1:56:51.42,1:56:53.17,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}去照顾你们的家人
+Dialogue: 0,1:56:55.55,1:56:57.84,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}所有的人都放一周假
+Dialogue: 0,1:56:58.68,1:57:00.67,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}如果收假时 不回来的人
+Dialogue: 0,1:57:00.68,1:57:02.97,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}不会当你是懦夫临阵脱逃
+Dialogue: 0,1:57:19.07,1:57:20.41,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}父亲
+Dialogue: 0,1:57:21.83,1:57:23.54,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}爸爸
+Dialogue: 0,1:57:29.58,1:57:31.75,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}天啊 他们长得好大 你给他们吃什么
+Dialogue: 0,1:57:31.92,1:57:35.05,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}他们有爸爸的优良血统
+Dialogue: 0,1:57:43.72,1:57:45.02,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}苏珊
+Dialogue: 0,1:58:25.18,1:58:28.56,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我看到了 在那里 快看 父亲
+Dialogue: 0,1:58:30.65,1:58:32.61,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我抓到了
+Dialogue: 0,1:58:32.98,1:58:34.02,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}你抓到了
+Dialogue: 0,1:58:34.82,1:58:36.19,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我抓到了
+Dialogue: 0,1:58:36.40,1:58:37.49,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}小心　　我抓到了
+Dialogue: 0,1:58:37.69,1:58:40.32,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}鱼都在这里　　我们去抓
+Dialogue: 0,1:58:47.20,1:58:49.08,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}父亲 什么事情改变了你
+Dialogue: 0,1:58:51.50,1:58:53.38,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}你确定我变了吗
+Dialogue: 0,1:58:53.59,1:58:56.55,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}是的 你变了
+Dialogue: 0,1:59:04.01,1:59:05.39,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}很简单
+Dialogue: 0,1:59:06.10,1:59:07.14,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}是你妈妈
+Dialogue: 0,1:59:12.56,1:59:15.48,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}女人对男人会有很奇怪的影响力
+Dialogue: 0,1:59:16.78,1:59:18.40,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}曾经
+Dialogue: 0,1:59:19.07,1:59:21.32,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}在你妈身边 我连呼吸都有困难
+Dialogue: 0,1:59:22.53,1:59:24.20,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我了解你的感受
+Dialogue: 0,1:59:26.28,1:59:27.91,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}你说过
+Dialogue: 0,1:59:30.87,1:59:33.42,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}等我成家之后自然会明白
+Dialogue: 0,1:59:37.38,1:59:38.92,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}你说得对
+Dialogue: 0,1:59:41.51,1:59:43.39,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}你想告诉我什么
+Dialogue: 0,2:00:00.28,2:00:01.65,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}要吃苹果吗 　谢谢
+Dialogue: 0,2:00:08.66,2:00:09.70,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}恭喜
+Dialogue: 0,2:00:10.08,2:00:11.75,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}安·派翠莎·霍华
+Dialogue: 0,2:00:12.04,2:00:16.17,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}你愿意嫁给此人为妻
+Dialogue: 0,2:00:16.50,2:00:19.09,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}你会爱他 照顾他 荣显他
+Dialogue: 0,2:00:19.30,2:00:21.51,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}至死方休
+Dialogue: 0,2:00:22.09,2:00:23.47,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我愿意
+Dialogue: 0,2:00:23.88,2:00:27.29,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}佳百列·艾德华·马汀 你愿娶此女为妻
+Dialogue: 0,2:00:27.30,2:00:29.97,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}共同生活吗
+Dialogue: 0,2:00:30.35,2:00:34.67,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}你会爱她 安慰她 荣显她至死方休吗
+Dialogue: 0,2:00:34.73,2:00:35.77,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我愿意
+Dialogue: 0,2:00:36.02,2:00:38.86,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我依上帝
+Dialogue: 0,2:00:39.11,2:00:40.98,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}赋予我的权力
+Dialogue: 0,2:00:41.23,2:00:44.53,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}宣布你们二人结为夫妻
+Dialogue: 0,2:01:11.68,2:01:13.93,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}抱歉没有早点告诉你
+Dialogue: 0,2:01:14.14,2:01:15.19,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}没关系
+Dialogue: 0,2:01:15.77,2:01:17.19,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我有东西要给你
+Dialogue: 0,2:01:19.94,2:01:21.65,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}这是佳百列他妈妈的
+Dialogue: 0,2:01:21.90,2:01:23.61,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}好漂亮
+Dialogue: 0,2:01:24.61,2:01:25.82,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}让我来
+Dialogue: 0,2:01:27.20,2:01:28.66,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}这是北极星
+Dialogue: 0,2:01:29.24,2:01:32.83,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}是天空中唯一不会动的星星
+Dialogue: 0,2:01:33.12,2:01:36.16,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}它永远不会动摇
+Dialogue: 0,2:01:36.67,2:01:38.00,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}为人指引方向
+Dialogue: 0,2:01:41.46,2:01:43.09,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我很荣幸
+Dialogue: 0,2:01:48.34,2:01:49.39,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我可以吗
+Dialogue: 0,2:01:49.59,2:01:51.68,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}你坚持的话　　我坚持
+Dialogue: 0,2:02:07.95,2:02:09.45,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我能坐在你身边吗
+Dialogue: 0,2:02:09.61,2:02:11.70,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}这是个自由的国家
+Dialogue: 0,2:02:12.45,2:02:13.79,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}至少以后会是
+Dialogue: 0,2:02:26.13,2:02:28.22,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我不是我姐
+Dialogue: 0,2:02:29.26,2:02:30.93,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我知道
+Dialogue: 0,2:02:31.51,2:02:33.10,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}是吗
+Dialogue: 0,2:02:34.39,2:02:35.93,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}是的
+Dialogue: 0,2:02:36.98,2:02:38.56,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}很好
+Dialogue: 0,2:02:42.98,2:02:44.02,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}怎么样
+Dialogue: 0,2:02:45.90,2:02:47.15,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}什么怎么样
+Dialogue: 0,2:03:09.38,2:03:11.13,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我们很快就在潘布克见
+Dialogue: 0,2:03:11.43,2:03:13.18,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}那不够快
+Dialogue: 0,2:03:13.85,2:03:15.76,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我现在要靠你了
+Dialogue: 0,2:03:15.97,2:03:17.39,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我知道　　知道什么
+Dialogue: 0,2:03:17.72,2:03:22.27,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}帮我祷告 照顾每个人　　一点都没错
+Dialogue: 0,2:03:26.07,2:03:27.11,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}再见
+Dialogue: 0,2:03:27.69,2:03:28.86,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}再见
+Dialogue: 0,2:03:49.13,2:03:50.38,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}再见 苏珊
+Dialogue: 0,2:03:52.84,2:03:54.14,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}再见
+Dialogue: 0,2:03:57.26,2:03:58.93,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我只要你说一句话就好了
+Dialogue: 0,2:04:08.15,2:04:09.23,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}好吧
+Dialogue: 0,2:04:36.93,2:04:38.35,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}爸爸
+Dialogue: 0,2:04:41.02,2:04:43.39,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}爸爸 别走 我什么都说
+Dialogue: 0,2:04:48.11,2:04:49.52,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}求求你 爸爸
+Dialogue: 0,2:04:51.94,2:04:53.99,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}你要我说什么 我就说什么
+Dialogue: 0,2:04:54.20,2:04:57.32,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}告诉我你要我说什么 我什么都说
+Dialogue: 0,2:05:00.20,2:05:03.00,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我保证 爸爸 不要走
+Dialogue: 0,2:05:04.12,2:05:05.46,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我保证
+Dialogue: 0,2:05:06.33,2:05:07.79,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我会回来的
+Dialogue: 0,2:05:08.63,2:05:10.67,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我会回来的 你相信我吗
+Dialogue: 0,2:05:14.09,2:05:16.18,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}你让我非常快乐
+Dialogue: 0,2:05:52.13,2:05:53.80,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}只有我们三个
+Dialogue: 0,2:05:54.34,2:05:56.76,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}约翰·蓝斯金来过
+Dialogue: 0,2:05:57.59,2:05:59.51,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}他看了看就走了
+Dialogue: 0,2:06:00.60,2:06:01.93,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}那就四个人了
+Dialogue: 0,2:06:02.43,2:06:04.18,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}四个人会比较好
+Dialogue: 0,2:06:39.47,2:06:42.80,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我再撑两个月就满一年了
+Dialogue: 0,2:06:48.23,2:06:49.27,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}上校
+Dialogue: 0,2:06:50.44,2:06:51.73,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}牧师
+Dialogue: 0,2:06:55.23,2:06:56.69,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}相信法国人
+Dialogue: 0,2:06:57.40,2:06:58.70,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}是 相信法国人
+Dialogue: 0,2:06:58.90,2:07:02.49,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}还有什么其它机会能杀红衫军
+Dialogue: 0,2:07:03.03,2:07:07.24,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}也许趁你不注意时 能杀几个受伤的
+Dialogue: 0,2:07:32.85,2:07:34.94,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}大家都到教堂去集合
+Dialogue: 0,2:07:35.57,2:07:36.61,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}威尔金先生
+Dialogue: 0,2:07:38.07,2:07:41.20,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}塔维顿上校有话对村民说
+Dialogue: 0,2:07:58.84,2:08:03.29,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}本镇人民帮助班杰明·马汀和他的叛党
+Dialogue: 0,2:08:03.55,2:08:05.39,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我要知道他的下落
+Dialogue: 0,2:08:06.85,2:08:08.18,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}所以
+Dialogue: 0,2:08:08.35,2:08:10.35,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}只要有人说出他的下落
+Dialogue: 0,2:08:10.68,2:08:12.85,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我就饶了他的叛国罪
+Dialogue: 0,2:08:18.53,2:08:19.57,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}好吧
+Dialogue: 0,2:08:19.78,2:08:23.28,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}别说我没给过你们机会　　等等
+Dialogue: 0,2:08:23.41,2:08:25.82,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}他给过他们补给品　　安静
+Dialogue: 0,2:08:25.82,2:08:27.98,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}他带他们去黑沼泽　　他说谎
+Dialogue: 0,2:08:27.99,2:08:30.08,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}就在西班牙教会旁的沼泽
+Dialogue: 0,2:08:31.08,2:08:32.25,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}这个人吗
+Dialogue: 0,2:08:32.66,2:08:34.62,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}是的　　你说黑沼泽
+Dialogue: 0,2:08:35.01,2:08:38.01,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}就在西班牙教会旁的沼泽
+Dialogue: 0,2:08:39.09,2:08:40.51,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}谢谢
+Dialogue: 0,2:08:46.69,2:08:48.23,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}把门关上
+Dialogue: 0,2:08:50.44,2:08:52.40,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}你说会原谅我们
+Dialogue: 0,2:08:52.61,2:08:53.86,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}你是会被原谅
+Dialogue: 0,2:08:56.61,2:08:58.28,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}那是你和上帝之间的事
+Dialogue: 0,2:09:05.50,2:09:06.71,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我们一定要坚强
+Dialogue: 0,2:09:08.79,2:09:10.50,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我们准备放火烧城了
+Dialogue: 0,2:09:10.67,2:09:11.92,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}烧城
+Dialogue: 0,2:09:12.79,2:09:14.34,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}把教堂放火烧了
+Dialogue: 0,2:09:16.88,2:09:18.63,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}这样做太不磊落
+Dialogue: 0,2:09:20.97,2:09:23.76,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}你不是说 任何背叛英国的人
+Dialogue: 0,2:09:23.97,2:09:26.48,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}都罪该万死吗
+Dialogue: 0,2:09:29.14,2:09:31.73,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}放火烧教堂
+Dialogue: 0,2:09:43.95,2:09:44.99,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}把火把拿来
+Dialogue: 0,2:10:28.04,2:10:30.66,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}荣耀是来自结果 而不是手段
+Dialogue: 0,2:10:31.96,2:10:33.67,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}这一切会被忘记的
+Dialogue: 0,2:10:34.29,2:10:35.54,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}波顿
+Dialogue: 0,2:12:15.19,2:12:16.48,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}安
+Dialogue: 0,2:12:20.65,2:12:22.32,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}霍尔夫人
+Dialogue: 0,2:12:26.49,2:12:28.24,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}大家都到哪儿去了
+Dialogue: 0,2:12:33.16,2:12:35.25,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}他们不在这里
+Dialogue: 0,2:13:43.52,2:13:45.07,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}佳百列走了
+Dialogue: 0,2:14:30.36,2:14:32.74,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}快去拿武器
+Dialogue: 0,2:18:52.37,2:18:53.67,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}父亲
+Dialogue: 0,2:18:55.09,2:18:57.25,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}不要讲话
+Dialogue: 0,2:19:03.72,2:19:04.85,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}父亲
+Dialogue: 0,2:19:05.22,2:19:07.56,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我很抱歉　　安静
+Dialogue: 0,2:19:07.76,2:19:09.89,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我会照顾你的 你不会有事的
+Dialogue: 0,2:19:12.94,2:19:16.52,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}托马斯的事我很抱歉
+Dialogue: 0,2:19:22.45,2:19:24.78,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}儿子 那不是你的错
+Dialogue: 0,2:19:28.87,2:19:30.12,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}是我的错
+Dialogue: 0,2:19:34.42,2:19:37.54,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}忍着点 你不会有事的
+Dialogue: 0,2:19:40.34,2:19:43.26,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}不要死 佳百列
+Dialogue: 0,2:20:12.33,2:20:14.62,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}上帝 帮帮我
+Dialogue: 0,2:20:48.70,2:20:49.99,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}他在哪里
+Dialogue: 0,2:20:57.83,2:20:59.84,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我来帮你埋了他
+Dialogue: 0,2:21:02.00,2:21:03.34,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我自己来
+Dialogue: 0,2:21:06.59,2:21:09.30,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我太太怀孕了
+Dialogue: 0,2:21:10.85,2:21:12.43,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}是我们的第一胎
+Dialogue: 0,2:21:13.18,2:21:15.06,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我为那孩子作战
+Dialogue: 0,2:21:17.64,2:21:20.19,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}班杰明 没有人能取代你儿子
+Dialogue: 0,2:21:21.52,2:21:26.19,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}但如果你跟我们来 他们就不会白死
+Dialogue: 0,2:21:27.53,2:21:28.95,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}为什么
+Dialogue: 0,2:21:30.70,2:21:34.70,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}为何你们会觉得他们不会白死
+Dialogue: 0,2:21:41.29,2:21:43.21,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}是傲慢还是
+Dialogue: 0,2:21:47.88,2:21:49.89,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我长久以来的恐惧
+Dialogue: 0,2:21:51.60,2:21:56.14,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}就是我旧日的罪愆 会回来纠缠我
+Dialogue: 0,2:21:58.10,2:22:00.73,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}代价之高 我无法承受
+Dialogue: 0,2:22:02.06,2:22:05.90,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}班杰明 我们有机会
+Dialogue: 0,2:22:06.44,2:22:09.66,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}葛林和丹摩根从维吉尼亚来了
+Dialogue: 0,2:22:12.37,2:22:15.91,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}如果我们打赢下一战 就胜利在望了
+Dialogue: 0,2:22:16.04,2:22:17.08,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}那么 去吧
+Dialogue: 0,2:22:17.41,2:22:19.16,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}去追求你们的胜利
+Dialogue: 0,2:22:22.58,2:22:25.67,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我不重要　　你错了 班杰明
+Dialogue: 0,2:22:26.42,2:22:28.42,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}你对你的手下
+Dialogue: 0,2:22:29.93,2:22:31.68,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}和对其他人都很重要
+Dialogue: 0,2:22:32.26,2:22:34.05,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}你的胜利
+Dialogue: 0,2:22:34.26,2:22:36.14,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}和失去的
+Dialogue: 0,2:22:37.43,2:22:39.69,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}大家都感同身受
+Dialogue: 0,2:22:40.77,2:22:42.94,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}和我们一起吧
+Dialogue: 0,2:22:43.44,2:22:45.23,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}为自由而战
+Dialogue: 0,2:22:55.16,2:22:57.29,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我已经为我的理由奋斗过了
+Dialogue: 0,2:23:17.31,2:23:19.64,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}你的手下跟我们走
+Dialogue: 0,2:23:22.64,2:23:24.19,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}准备出发
+Dialogue: 0,2:24:28.71,2:24:29.75,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}尚
+Dialogue: 0,2:25:28.27,2:25:30.40,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}你明天不能上 上校
+Dialogue: 0,2:25:30.73,2:25:33.11,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}不能上 　你的伤
+Dialogue: 0,2:25:34.36,2:25:36.74,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}没关系的
+Dialogue: 0,2:25:37.07,2:25:40.16,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我随时准备效命
+Dialogue: 0,2:25:40.32,2:25:42.20,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}很好
+Dialogue: 0,2:25:42.37,2:25:44.79,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}你最好可以
+Dialogue: 0,2:25:45.33,2:25:49.70,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}马上就能取得最大一场胜利 别让我失望
+Dialogue: 0,2:25:49.71,2:25:54.50,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我的努力 不能把你弄来这里
+Dialogue: 0,2:25:54.67,2:25:56.30,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我赐给你一次机会
+Dialogue: 0,2:25:56.47,2:25:59.97,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}虽然你没能把鬼带给我
+Dialogue: 0,2:26:00.97,2:26:02.60,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}从现在开始
+Dialogue: 0,2:26:03.85,2:26:06.89,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我不会再容忍你由于
+Dialogue: 0,2:26:07.06,2:26:10.90,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}渴求荣耀而产生的擅断
+Dialogue: 0,2:26:11.31,2:26:14.69,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}等候我的命令
+Dialogue: 0,2:26:15.07,2:26:19.40,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}不然我就得抛弃所有俄亥俄州的希望
+Dialogue: 0,2:26:22.87,2:26:26.04,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}明天的战役 将会改变整场战事
+Dialogue: 0,2:26:26.25,2:26:29.25,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}葛林将军 我们究竟会遭遇何种情况
+Dialogue: 0,2:26:29.41,2:26:32.54,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}各位 我们被康瓦理斯包围了
+Dialogue: 0,2:26:33.21,2:26:34.92,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}他的人数比我们多
+Dialogue: 0,2:26:35.13,2:26:38.17,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我们的手下几乎全是民兵
+Dialogue: 0,2:26:39.51,2:26:41.80,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}他们靠不住
+Dialogue: 0,2:26:42.14,2:26:43.97,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}对不起 长官
+Dialogue: 0,2:26:45.68,2:26:47.43,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}你低估了我们的民兵
+Dialogue: 0,2:26:49.64,2:26:51.02,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}你们都一样
+Dialogue: 0,2:26:51.81,2:26:54.64,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我们看过民兵防线接二连三地被击溃
+Dialogue: 0,2:26:54.69,2:26:56.32,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}克比斯湾 普林斯顿
+Dialogue: 0,2:26:56.53,2:26:58.61,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}但英国人也这么想
+Dialogue: 0,2:26:59.65,2:27:03.45,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}康瓦理斯的信中 完全看不起民兵
+Dialogue: 0,2:27:04.20,2:27:06.58,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}你有何建议
+Dialogue: 0,2:27:08.00,2:27:09.91,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我建议我们利用这点
+Dialogue: 0,2:27:17.09,2:27:21.09,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我知道你们已经牺牲了很多
+Dialogue: 0,2:27:21.30,2:27:24.68,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}但我只要求你们
+Dialogue: 0,2:27:24.89,2:27:28.06,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}让前两排的民兵开两枪
+Dialogue: 0,2:27:30.23,2:27:33.60,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}发射两轮子弹期间 可能会发生很多事
+Dialogue: 0,2:27:33.60,2:27:36.06,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}特别是在对抗英国正规军时
+Dialogue: 0,2:27:37.07,2:27:40.82,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}没错 所以我才不叫你们开三枪
+Dialogue: 0,2:28:37.96,2:28:40.34,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}如果我死的话 至少死得体面
+Dialogue: 0,2:29:26.55,2:29:27.68,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}开火
+Dialogue: 0,2:29:31.51,2:29:34.39,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}大队 　停
+Dialogue: 0,2:29:51.49,2:29:52.58,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}哈利
+Dialogue: 0,2:29:53.54,2:29:55.50,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}麻烦把这给我的孩子们
+Dialogue: 0,2:30:06.05,2:30:07.22,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}谢谢
+Dialogue: 0,2:30:16.43,2:30:18.14,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}现在是十月
+Dialogue: 0,2:30:20.77,2:30:21.94,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我知道
+Dialogue: 0,2:30:22.94,2:30:24.86,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}现在已经超过十二个月了
+Dialogue: 0,2:30:25.32,2:30:26.61,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}你自由了
+Dialogue: 0,2:30:27.78,2:30:30.57,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我自愿留下来
+Dialogue: 0,2:30:34.41,2:30:36.50,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}你愿留下来我很荣幸
+Dialogue: 0,2:30:38.83,2:30:40.08,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}真的很荣幸
+Dialogue: 0,2:30:41.71,2:30:44.25,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}举枪
+Dialogue: 0,2:30:49.97,2:30:51.59,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}前进
+Dialogue: 0,2:30:52.39,2:30:53.68,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}齐步走
+Dialogue: 0,2:30:58.64,2:31:00.44,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}你女儿几岁了
+Dialogue: 0,2:31:02.52,2:31:05.02,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}维尔莉特十二 宝琳十岁
+Dialogue: 0,2:31:06.19,2:31:08.15,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}他们的眼睛都是绿的
+Dialogue: 0,2:31:09.44,2:31:11.20,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}她们一定很可爱
+Dialogue: 0,2:31:12.86,2:31:14.66,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}没错
+Dialogue: 0,2:31:26.38,2:31:27.59,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}大队 　注意
+Dialogue: 0,2:31:27.96,2:31:29.13,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}齐步走
+Dialogue: 0,2:31:31.34,2:31:32.63,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}瞄准
+Dialogue: 0,2:31:35.39,2:31:36.64,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}除非我在做梦
+Dialogue: 0,2:31:37.35,2:31:42.18,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我好像看到 他们队伍中央居然是民兵
+Dialogue: 0,2:31:55.74,2:31:58.08,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}大队 停
+Dialogue: 0,2:32:16.22,2:32:18.06,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}第一排向前
+Dialogue: 0,2:32:26.86,2:32:28.36,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}准备
+Dialogue: 0,2:32:40.08,2:32:41.91,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}大队
+Dialogue: 0,2:32:42.12,2:32:43.16,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}停
+Dialogue: 0,2:32:46.25,2:32:47.42,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}瞄准
+Dialogue: 0,2:32:50.92,2:32:51.96,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}开火
+Dialogue: 0,2:33:03.06,2:33:04.14,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}开火
+Dialogue: 0,2:33:25.16,2:33:26.42,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}不要走散
+Dialogue: 0,2:33:32.38,2:33:35.63,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}准备进攻 　我们还没有接到命令
+Dialogue: 0,2:33:35.88,2:33:37.26,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}进攻
+Dialogue: 0,2:33:38.43,2:33:39.51,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}进攻
+Dialogue: 0,2:33:43.06,2:33:44.43,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}塔维顿
+Dialogue: 0,2:33:44.64,2:33:46.85,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}他真该死 该死
+Dialogue: 0,2:33:48.73,2:33:50.23,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}瞄准
+Dialogue: 0,2:33:50.81,2:33:52.32,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}开火
+Dialogue: 0,2:33:53.19,2:33:54.23,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}开火
+Dialogue: 0,2:33:55.53,2:33:56.74,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}开火
+Dialogue: 0,2:33:57.78,2:33:58.82,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}开火
+Dialogue: 0,2:33:58.82,2:34:00.12,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}撤退
+Dialogue: 0,2:34:06.12,2:34:10.17,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}上刺刀 看看鹿死谁手
+Dialogue: 0,2:34:10.54,2:34:12.13,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}进攻
+Dialogue: 0,2:34:32.02,2:34:33.23,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}恭喜你 大人
+Dialogue: 0,2:34:33.65,2:34:35.28,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}叫步兵储备军过来
+Dialogue: 0,2:34:35.32,2:34:36.78,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我们已经占领了此地
+Dialogue: 0,2:34:36.99,2:34:38.36,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}现在我们要打垮他们的士气
+Dialogue: 0,2:34:38.45,2:34:41.57,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}叫我们的士兵去击溃他们
+Dialogue: 0,2:34:41.82,2:34:43.28,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}战争今天就要结束
+Dialogue: 0,2:35:06.56,2:35:07.64,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}暂停进攻
+Dialogue: 0,2:35:08.68,2:35:09.73,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}开火
+Dialogue: 0,2:35:09.98,2:35:12.27,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}暂停进攻
+Dialogue: 0,2:35:15.98,2:35:17.40,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}开火
+Dialogue: 0,2:35:22.95,2:35:24.03,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}瞄准
+Dialogue: 0,2:35:25.70,2:35:27.33,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}开火
+Dialogue: 0,2:35:35.59,2:35:37.13,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}进攻
+Dialogue: 0,2:35:43.97,2:35:45.55,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}上刺刀
+Dialogue: 0,2:36:14.75,2:36:15.92,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}等等 不要走散
+Dialogue: 0,2:36:17.13,2:36:18.55,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}等等 不要走散
+Dialogue: 0,2:36:21.17,2:36:22.38,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}开火
+Dialogue: 0,2:36:25.84,2:36:27.43,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}进攻
+Dialogue: 0,2:36:51.08,2:36:52.75,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}撤退
+Dialogue: 0,2:36:58.00,2:36:59.09,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}上校
+Dialogue: 0,2:37:01.00,2:37:02.34,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我们的军队要瓦解了
+Dialogue: 0,2:37:03.88,2:37:06.39,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}撤退
+Dialogue: 0,2:37:14.27,2:37:15.69,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}等等
+Dialogue: 0,2:37:16.48,2:37:18.23,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}不要撤退
+Dialogue: 0,2:37:22.03,2:37:24.24,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}保持队形
+Dialogue: 0,2:37:25.86,2:37:27.99,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}保持队形
+Dialogue: 0,2:37:39.71,2:37:42.75,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}推进
+Dialogue: 0,2:38:32.22,2:38:34.51,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}叫炮兵到中间集合
+Dialogue: 0,2:38:49.74,2:38:51.74,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}如果我们重新整队朝右前进
+Dialogue: 0,2:38:51.74,2:38:53.74,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}也许能逼他们撤退
+Dialogue: 0,2:38:53.74,2:38:55.66,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}你想得美 将军
+Dialogue: 0,2:41:58.18,2:42:01.55,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}拜托你在战争结束之前杀了我
+Dialogue: 0,2:42:02.39,2:42:05.06,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}看来你
+Dialogue: 0,2:42:05.27,2:42:07.48,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}还是不如我
+Dialogue: 0,2:42:21.16,2:42:22.20,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}你说得对
+Dialogue: 0,2:42:27.00,2:42:29.12,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我的儿子比你好多了
+Dialogue: 0,2:42:56.86,2:42:58.32,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}叫他们撤退
+Dialogue: 0,2:43:01.87,2:43:03.33,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}叫他们
+Dialogue: 0,2:43:04.45,2:43:05.66,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}撤退
+Dialogue: 0,2:43:23.68,2:43:24.72,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}亲爱的夏绿蒂
+Dialogue: 0,2:43:25.47,2:43:27.10,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}战事已经改观
+Dialogue: 0,2:43:27.43,2:43:30.94,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}康瓦理斯将军带着手下逃向北方
+Dialogue: 0,2:43:31.10,2:43:34.31,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我们持续与英军交战在未来数月间
+Dialogue: 0,2:43:34.40,2:43:37.73,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}康瓦理斯会被困在维吉尼亚州约克镇
+Dialogue: 0,2:43:38.61,2:43:41.50,Default,,0000,0000,0000,,{\fn方正宋黑_GBK\fs19\pos(190,227)\bord1\shad1\fsp1}约{\fs16}克镇，\N\h\h\h\h\h\h\h\h\h\h\h\h{\i1}年{\r\fn方正宋黑_gbk\fs16\bord1\shad1\fsp1\pos(650,220)}
+Dialogue: 0,2:43:39.36,2:43:41.53,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}乔治·华盛顿悄悄地突围到北方
+Dialogue: 0,2:43:41.70,2:43:45.28,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}包围了康瓦理斯 他无法撤退至海上
+Dialogue: 0,2:43:45.28,2:43:48.70,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}因为我们期待已久的朋友终于抵达
+Dialogue: 0,2:43:48.75,2:43:51.08,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}挡住他的去路
+Dialogue: 0,2:43:55.75,2:43:57.17,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}法国万岁
+Dialogue: 0,2:43:59.88,2:44:01.47,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}自由万岁
+Dialogue: 0,2:44:13.65,2:44:15.52,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}大人 我求你
+Dialogue: 0,2:44:16.11,2:44:18.40,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}你一定要下令投降
+Dialogue: 0,2:44:19.23,2:44:23.06,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}怎么可能会变成这样 他们只是杂牌军
+Dialogue: 0,2:44:23.07,2:44:24.45,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}庄稼汉
+Dialogue: 0,2:44:26.53,2:44:28.62,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}一切都会不同
+Dialogue: 0,2:44:32.12,2:44:34.12,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}一切都不同了
+Dialogue: 0,2:44:34.88,2:44:36.96,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}虽然他终于还是投降了
+Dialogue: 0,2:44:37.17,2:44:39.63,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}但康瓦理斯无脸见人
+Dialogue: 0,2:44:39.84,2:44:43.43,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}派他的手下前来投降
+Dialogue: 0,2:44:44.64,2:44:47.76,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}战争就要结束 民兵团即将解散
+Dialogue: 0,2:44:47.97,2:44:50.52,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我回顾我们所失去的
+Dialogue: 0,2:44:50.85,2:44:52.39,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}及我们得到的
+Dialogue: 0,2:44:53.56,2:44:58.27,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我希望这么多人的牺牲
+Dialogue: 0,2:44:58.52,2:45:02.36,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}能够让我们的新国家诞生
+Dialogue: 0,2:45:03.78,2:45:06.10,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}告诉孩子们 尤其要告诉苏珊
+Dialogue: 0,2:45:06.10,2:45:07.90,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我会遵守诺言
+Dialogue: 0,2:45:07.91,2:45:11.37,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我很快就会回到你们身边
+Dialogue: 0,2:45:17.63,2:45:19.34,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}你要去哪里
+Dialogue: 0,2:45:20.09,2:45:22.34,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}回家 从头开始
+Dialogue: 0,2:45:22.59,2:45:24.93,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}你太太就快生了 对吧
+Dialogue: 0,2:45:25.13,2:45:27.89,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}她三周前生了个儿子
+Dialogue: 0,2:45:29.05,2:45:30.43,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}你帮他取什么名字
+Dialogue: 0,2:45:32.52,2:45:34.52,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我们叫他佳百列
+Dialogue: 0,2:45:40.11,2:45:41.15,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}谢谢 哈利
+Dialogue: 0,2:45:48.37,2:45:51.29,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}佳百列是个适合农夫的名字
+Dialogue: 0,2:45:51.58,2:45:54.00,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}没错
+Dialogue: 0,2:45:54.54,2:45:55.66,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}尚
+Dialogue: 0,2:45:55.91,2:45:56.96,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}班
+Dialogue: 0,2:47:04.36,2:47:07.27,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}佳百列说如果我们打赢的话
+Dialogue: 0,2:47:07.44,2:47:10.20,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我们会建立一个全新的世界
+Dialogue: 0,2:47:10.24,2:47:13.20,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}我想我们就从这里开始
+Dialogue: 0,2:47:14.62,2:47:17.23,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}从你们的家开始
+Dialogue: 0,2:47:20.33,2:47:22.21,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}好主意
+Dialogue: 0,2:47:25.17,2:47:26.21,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}谢谢
+Dialogue: 0,2:47:31.01,2:47:32.05,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\fsp2\1c&HBCBCBC&\b0}夫人
+Dialogue: 0,2:47:55.60,2:48:01.00,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\bord1\shad1\b0}＝＝ {\fsp3}谢谢观{\fsp0}赏 ＝＝
+Dialogue: 0,2:48:03.00,2:54:45.00,Default,,0000,0000,0000,,{\fn华文中宋\fs14\bord1\shad1\4c&H1B1B1B&\b0}特效字幕制作{\bord1\shad1\r\fs24\fsp1\1c&H8C7F00&}天行者
+
