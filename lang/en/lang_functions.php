@@ -288,6 +288,8 @@ $lang_functions = array
 	'text_thirty_percent_down' => "30%",
 	'text_please_download_something_within' => "Please download something within ",
 	'text_inactive_account_be_deleted' => ". Inactive accounts (with no transfer amount) will be deleted.",
+	'text_check_in' => "check in",
+	'text_checked_in' => "checked in",
 );
 
 ?>

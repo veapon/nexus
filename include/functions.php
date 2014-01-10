@@ -824,17 +824,17 @@ function simpletag(thetag)
 <tr><td align="left" colspan="2">
 <table cellspacing="1" cellpadding="2" border="0">
 <tr>
-<td class="embedded"><input style="font-weight: bold;font-size:11px; margin-right:3px" type="button" name="b" value="B" onclick="javascript: simpletag('b')" /></td>
-<td class="embedded"><input class="codebuttons" style="font-style: italic;font-size:11px;margin-right:3px" type="button" name="i" value="I" onclick="javascript: simpletag('i')" /></td>
-<td class="embedded"><input class="codebuttons" style="text-decoration: underline;font-size:11px;margin-right:3px" type="button" name="u" value="U" onclick="javascript: simpletag('u')" /></td>
+<td class="embedded"><input style="font-weight: bold;font-size:11px; margin-right:3px" type="button" name="b" value="B" onClick="javascript: simpletag('b')" /></td>
+<td class="embedded"><input class="codebuttons" style="font-style: italic;font-size:11px;margin-right:3px" type="button" name="i" value="I" onClick="javascript: simpletag('i')" /></td>
+<td class="embedded"><input class="codebuttons" style="text-decoration: underline;font-size:11px;margin-right:3px" type="button" name="u" value="U" onClick="javascript: simpletag('u')" /></td>
 <?php
 print("<td class=\"embedded\"><input class=\"codebuttons\" style=\"font-size:11px;margin-right:3px\" type=\"button\" name='url' value='URL' onclick=\"javascript:tag_url('" . $lang_functions['js_prompt_enter_url'] . "','" . $lang_functions['js_prompt_enter_title'] . "','" . $lang_functions['js_prompt_error'] . "')\" /></td>");
 print("<td class=\"embedded\"><input class=\"codebuttons\" style=\"font-size:11px;margin-right:3px\" type=\"button\" name=\"IMG\" value=\"IMG\" onclick=\"javascript: tag_image('" . $lang_functions['js_prompt_enter_image_url'] . "','" . $lang_functions['js_prompt_error'] . "')\" /></td>");
 print("<td class=\"embedded\"><input type=\"button\" style=\"font-size:11px;margin-right:3px\" name=\"list\" value=\"List\" onclick=\"tag_list('" . addslashes($lang_functions['js_prompt_enter_item']) . "','" . $lang_functions['js_prompt_error'] . "')\" /></td>");
 ?>
-<td class="embedded"><input class="codebuttons" style="font-size:11px;margin-right:3px" type="button" name="quote" value="QUOTE" onclick="javascript: simpletag('quote')" /></td>
+<td class="embedded"><input class="codebuttons" style="font-size:11px;margin-right:3px" type="button" name="quote" value="QUOTE" onClick="javascript: simpletag('quote')" /></td>
 <td class="embedded"><input style="font-size:11px;margin-right:3px" type="button" onclick='javascript:closeall();' name='tagcount' value="Close all tags" /></td>
-<td class="embedded"><select class="med codebuttons" style="margin-right:3px" name='color' onchange="alterfont(this.options[this.selectedIndex].value, 'color')">
+<td class="embedded"><select class="med codebuttons" style="margin-right:3px" name='color' onChange="alterfont(this.options[this.selectedIndex].value, 'color')">
 <option value='0'>--- <?php echo $lang_functions['select_color'] ?> ---</option>
 <option style="background-color: black" value="Black">Black</option>
 <option style="background-color: sienna" value="Sienna">Sienna</option>
@@ -878,7 +878,7 @@ print("<td class=\"embedded\"><input type=\"button\" style=\"font-size:11px;marg
 <option style="background-color: white" value="White">White</option>
 </select></td>
 <td class="embedded">
-<select class="med codebuttons" name='font' onchange="alterfont(this.options[this.selectedIndex].value, 'font')">
+<select class="med codebuttons" name='font' onChange="alterfont(this.options[this.selectedIndex].value, 'font')">
 <option value="0">--- <?php echo $lang_functions['select_font'] ?> ---</option>
 <option value="Arial">Arial</option>
 <option value="Arial Black">Arial Black</option>
@@ -903,7 +903,7 @@ print("<td class=\"embedded\"><input type=\"button\" style=\"font-size:11px;marg
 </select>
 </td>
 <td class="embedded">
-<select class="med codebuttons" name='size' onchange="alterfont(this.options[this.selectedIndex].value, 'size')">
+<select class="med codebuttons" name='size' onChange="alterfont(this.options[this.selectedIndex].value, 'size')">
 <option value="0">--- <?php echo $lang_functions['select_size'] ?> ---</option>
 <option value="1">1</option>
 <option value="2">2</option>
@@ -2352,7 +2352,21 @@ else {
 
 <table id="info_block" cellpadding="4" cellspacing="0" border="0" width="100%"><tr>
 	<td><table width="100%" cellspacing="0" cellpadding="0" border="0"><tr>
-		<td class="bottom" align="left"><span class="medium"><?php echo $lang_functions['text_welcome_back'] ?>, <?php echo get_username($CURUSER['id'])?>  [<a href="logout.php"><?php echo $lang_functions['text_logout'] ?></a>]<?php if (get_user_class() >= UC_MODERATOR) { ?> [<a href="staffpanel.php"><?php echo $lang_functions['text_staff_panel'] ?></a>] <?php }?> <?php if (get_user_class() >= UC_SYSOP) { ?> [<a href="settings.php"><?php echo $lang_functions['text_site_settings'] ?></a>]<?php } ?> [<a href="torrents.php?inclbookmarked=1&amp;allsec=1&amp;incldead=0"><?php echo $lang_functions['text_bookmarks'] ?></a>] <font class = 'color_bonus'><?php echo $lang_functions['text_bonus'] ?></font>[<a href="mybonus.php"><?php echo $lang_functions['text_use'] ?></a>]: <?php echo number_format($CURUSER['seedbonus'], 1)?> <font class = 'color_invite'><?php echo $lang_functions['text_invite'] ?></font>[<a href="invite.php?id=<?php echo $CURUSER['id']?>"><?php echo $lang_functions['text_send'] ?></a>]: <?php echo $CURUSER['invites']?><br />
+		<td class="bottom" align="left"><span class="medium"><?php echo $lang_functions['text_welcome_back'] ?>, <?php echo get_username($CURUSER['id'])?>  [<a href="logout.php"><?php echo $lang_functions['text_logout'] ?></a>]<?php if (get_user_class() >= UC_MODERATOR) { ?> [<a href="staffpanel.php"><?php echo $lang_functions['text_staff_panel'] ?></a>] <?php }?> <?php if (get_user_class() >= UC_SYSOP) { ?> [<a href="settings.php"><?php echo $lang_functions['text_site_settings'] ?></a>]<?php } ?> [<a href="torrents.php?inclbookmarked=1&amp;allsec=1&amp;incldead=0"><?php echo $lang_functions['text_bookmarks'] ?></a>] <font class = 'color_bonus'><?php echo $lang_functions['text_bonus'] ?></font>[<a href="mybonus.php"><?php echo $lang_functions['text_use'] ?></a>]: <?php echo number_format($CURUSER['seedbonus'], 1)?> <font class = 'color_invite'><?php echo $lang_functions['text_invite'] ?></font>[<a href="invite.php?id=<?php echo $CURUSER['id']?>"><?php echo $lang_functions['text_send'] ?></a>]: <?php echo $CURUSER['invites']?>
+
+    <!--2013-12-13 start check in--->
+                <font style=" font-weight: bold;"> <?php 
+        $row = mysql_fetch_array(sql_query("SELECT checkin_date FROM users WHERE id= ".$CURUSER['id']));
+        if ($row['checkin_date']<>date("Ymd") ) {
+            print("<span id=\"checkin\"><a href=\"#\" onclick=\"javascript:checkin('checkin')\">[".$lang_functions['text_check_in']."]</a></span><span id=\"checkedin\" style=\"display: none;\">[".$lang_functions['text_checked_in']."]</span>");
+        }
+        else{
+            print("<span id=\"checkedin\">[".$lang_functions['text_checked_in']."]</span>");
+        }
+
+        print("</font> ");?>
+                <!--2013-12-13 end check in--->
+                <br />
 
 	<font class="color_ratio"><?php echo $lang_functions['text_ratio'] ?></font> <?php echo $ratio?>  <font class='color_uploaded'><?php echo $lang_functions['text_uploaded'] ?></font> <?php echo mksize($CURUSER['uploaded'])?><font class='color_downloaded'> <?php echo $lang_functions['text_downloaded'] ?></font> <?php echo mksize($CURUSER['downloaded'])?>  <font class='color_active'><?php echo $lang_functions['text_active_torrents'] ?></font> <img class="arrowup" alt="Torrents seeding" title="<?php echo $lang_functions['title_torrents_seeding'] ?>" src="pic/trans.gif" /><?php echo $activeseed?>  <img class="arrowdown" alt="Torrents leeching" title="<?php echo $lang_functions['title_torrents_leeching'] ?>" src="pic/trans.gif" /><?php echo $activeleech?>&nbsp;&nbsp;<font class='color_connectable'><?php echo $lang_functions['text_connectable'] ?></font><?php echo $connectable?> <?php echo maxslots();?></span></td>
 
@@ -3016,9 +3030,13 @@ if ($smalldescription_main == 'no' || $CURUSER['showsmalldescr'] == 'no')
 else $displaysmalldescr = true;
 while ($row = mysql_fetch_assoc($res))
 {
+	//add highlight for the sticky torrents
 	$id = $row["id"];
-	$sphighlight = get_torrent_bg_color($row['sp_state']);
-	print("<tr" . $sphighlight . ">\n");
+	if ($row['pos_state'] == 'sticky' && $CURUSER['appendsticky'] == 'yes') {
+		$sphighlight = " class='twoupfree_bg'"; 
+	}
+	else $sphighlight = get_torrent_bg_color($row['sp_state']);
+	print("<tr" . $sphighlight . ">\n"); 
 
 	print("<td class=\"rowfollow nowrap\" valign=\"middle\" style='padding: 0px'>");
 	if (isset($row["category"])) {
@@ -3102,8 +3120,11 @@ while ($row = mysql_fetch_assoc($res))
 	if ($CURUSER['appendnew'] != 'no' && strtotime($row["added"]) >= $last_browse)
 		print("<b> (<font class='new'>".$lang_functions['text_new_uppercase']."</font>)</b>");
 
-	$banned_torrent = ($row["banned"] == 'yes' ? " <b>(<font class=\"striking\">".$lang_functions['text_banned']."</font>)</b>" : "");
-	print($banned_torrent.$picked_torrent.$sp_torrent);
+	$banned_torrent = ($row["banned"] == 'yes' ? " (".$lang_functions['text_banned'].")" : "");
+	//add promotion left time display
+	$sp_torrent_sub = get_torrent_promotion_append_sub($row['sp_state'],"",true,$row["added"], $row['promotion_time_type'], $row['promotion_until']); 
+	print($banned_torrent.$picked_torrent.$sp_torrent.$sp_torrent_sub); 
+	
 	if ($displaysmalldescr){
 		//small descr
 		$dissmall_descr = trim($row["small_descr"]);
@@ -3915,6 +3936,148 @@ function get_torrent_promotion_append($promotion = 1,$forcemode = "",$showtimele
 			$sp_torrent = " <img class=\"pro_30pctdown\" src=\"pic/trans.gif\" alt=\"30%\" ".($onmouseover ? $onmouseover : "title=\"".$lang_functions['text_thirty_percent_down']."\"")." />";
 	}
 	return $sp_torrent;
+}
+function get_torrent_promotion_append_sub($promotion = 1,$forcemode = "",$showtimeleft = false, $added = "", $promotionTimeType = 0, $promotionUntil = ''){
+	global $CURUSER,$lang_functions;
+global $expirehalfleech_torrent, $expirefree_torrent, $expiretwoup_torrent, $expiretwoupfree_torrent, $expiretwouphalfleech_torrent, $expirethirtypercentleech_torrent;
+$sp_torrent_sub = "";
+$onmouseover_sub = "";
+if (get_global_sp_state() == 1) {
+switch ($promotion){
+case 2:
+{
+if ($showtimeleft && (($expirefree_torrent && $promotionTimeType == 0) || $promotionTimeType == 2))
+{
+if ($promotionTimeType == 2) {
+$futuretime = strtotime($promotionUntil);
+} else {
+$futuretime = strtotime($added) + $expirefree_torrent * 86400;
+}
+$timeout = gettime(date("Y-m-d H:i:s", $futuretime), false, false, true, false, true);
+if ($timeout)
+$onmouseover_sub = " (<font color='#0000FF'>".$lang_functions['text_will_end_in'].$timeout."</font>".")"; //free类型字符显示为蓝色，可以更改它
+else $promotion = 1;
+}
+break;
+}
+case 3:
+{
+if ($showtimeleft && (($expiretwoup_torrent && $promotionTimeType == 0) || $promotionTimeType == 2))
+{
+if ($promotionTimeType == 2) {
+$futuretime = strtotime($promotionUntil);
+} else {
+$futuretime = strtotime($added) + $expiretwoup_torrent * 86400;
+}
+$timeout = gettime(date("Y-m-d H:i:s", $futuretime), false, false, true, false, true);
+if ($timeout)
+$onmouseover_sub = " (".$lang_functions['text_will_end_in'].$timeout.")";
+else $promotion = 1;
+}
+break;
+}
+case 4:
+{
+if ($showtimeleft && (($expiretwoupfree_torrent && $promotionTimeType == 0) || $promotionTimeType == 2))
+{
+if ($promotionTimeType == 2) {
+$futuretime = strtotime($promotionUntil);
+} else {
+$futuretime = strtotime($added) + $expiretwoupfree_torrent * 86400;
+}
+$timeout = gettime(date("Y-m-d H:i:s", $futuretime), false, false, true, false, true);
+if ($timeout)
+$onmouseover_sub = " (<font color='#00CC66'>".$lang_functions['text_will_end_in'].$timeout."</font>".")"; //2XFree 显示为青色，可以更改它
+else $promotion = 1;
+}
+break;
+}
+case 5:
+{
+if ($showtimeleft && (($expirehalfleech_torrent && $promotionTimeType == 0) || $promotionTimeType == 2))
+{
+if ($promotionTimeType == 2) {
+$futuretime = strtotime($promotionUntil);
+} else {
+$futuretime = strtotime($added) + $expirehalfleech_torrent * 86400;
+}
+$timeout = gettime(date("Y-m-d H:i:s", $futuretime), false, false, true, false, true);
+if ($timeout)
+$onmouseover_sub = " (".$lang_functions['text_will_end_in'].$timeout.")";
+else $promotion = 1;
+}
+break;
+}
+case 6:
+{
+if ($showtimeleft && (($expiretwouphalfleech_torrent && $promotionTimeType == 0) || $promotionTimeType == 2))
+{
+if ($promotionTimeType == 2) {
+$futuretime = strtotime($promotionUntil);
+} else {
+$futuretime = strtotime($added) + $expiretwouphalfleech_torrent * 86400;
+}
+$timeout = gettime(date("Y-m-d H:i:s", $futuretime), false, false, true, false, true);
+if ($timeout)
+$onmouseover_sub = " (".$lang_functions['text_will_end_in'].$timeout.")";
+else $promotion = 1;
+}
+break;
+}
+case 7:
+{
+if ($showtimeleft && (($expirethirtypercentleech_torrent && $promotionTimeType == 0) || $promotionTimeType == 2))
+{
+if ($promotionTimeType == 2) {
+$futuretime = strtotime($promotionUntil);
+} else {
+$futuretime = strtotime($added) + $expirethirtypercentleech_torrent * 86400;
+}
+$timeout = gettime(date("Y-m-d H:i:s", $futuretime), false, false, true, false, true);
+if ($timeout)
+$onmouseover_sub = " (".$lang_functions['text_will_end_in'].$timeout.")";
+else $promotion = 1;
+}
+break;
+}
+}
+}
+if (($CURUSER['appendpromotion'] == 'word' && $forcemode == "" ) || $forcemode == 'word'){
+if(($promotion==2 && get_global_sp_state() == 1) || get_global_sp_state() == 2){
+$sp_torrent_sub = $onmouseover_sub;
+}
+elseif(($promotion==3 && get_global_sp_state() == 1) || get_global_sp_state() == 3){
+$sp_torrent_sub = $onmouseover_sub;
+}
+elseif(($promotion==4 && get_global_sp_state() == 1) || get_global_sp_state() == 4){
+$sp_torrent_sub = $onmouseover_sub;
+}
+elseif(($promotion==5 && get_global_sp_state() == 1) || get_global_sp_state() == 5){
+$sp_torrent_sub = $onmouseover_sub;
+}
+elseif(($promotion==6 && get_global_sp_state() == 1) || get_global_sp_state() == 6){
+$sp_torrent_sub = $onmouseover_sub;
+
+}
+elseif(($promotion==7 && get_global_sp_state() == 1) || get_global_sp_state() == 7){
+$sp_torrent_sub = $onmouseover_sub;
+}
+}
+elseif (($CURUSER['appendpromotion'] == 'icon' && $forcemode == "") || $forcemode == 'icon'){
+if(($promotion==2 && get_global_sp_state() == 1) || get_global_sp_state() == 2)
+$sp_torrent_sub = $onmouseover_sub;
+elseif(($promotion==3 && get_global_sp_state() == 1) || get_global_sp_state() == 3)
+$sp_torrent_sub = $onmouseover_sub;
+elseif(($promotion==4 && get_global_sp_state() == 1) || get_global_sp_state() == 4)
+$sp_torrent_sub = $onmouseover_sub;
+elseif(($promotion==5 && get_global_sp_state() == 1) || get_global_sp_state() == 5)
+$sp_torrent_sub = $onmouseover_sub;
+elseif(($promotion==6 && get_global_sp_state() == 1) || get_global_sp_state() == 6)
+$sp_torrent_sub = $onmouseover_sub;
+elseif(($promotion==7 && get_global_sp_state() == 1) || get_global_sp_state() == 7)
+$sp_torrent_sub = $onmouseover_sub; 
+}
+return $sp_torrent_sub;
 }
 
 function get_user_id_from_name($username){

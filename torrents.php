@@ -871,9 +871,9 @@ if ($allsec != 1 || $enablespecial != 'yes'){ //do not print searchbox if showin
 	<table border="1" class="searchbox" cellspacing="0" cellpadding="5" width="100%">
 		<tbody>
 		<tr>
-		<td class="colhead" align="center" colspan="2"><a href="javascript: klappe_news('searchboxmain')"><img class="minus" src="pic/trans.gif" id="picsearchboxmain" alt="Show/Hide" /><?php echo $lang_torrents['text_search_box'] ?></a></td>
+		<td class="colhead" align="center" colspan="2"><a href="javascript: klappe_news('searchboxmain')"><img class="plus" src="pic/trans.gif" id="picsearchboxmain" alt="Show/Hide" /><?php echo $lang_torrents['text_search_box'] ?></a></td>
 		</tr></tbody>
-		<tbody id="ksearchboxmain">
+		<tbody id="ksearchboxmain"  style="display:none">
 		<tr>
 			<td class="rowfollow" align="left">
 				<table>
@@ -1074,6 +1074,8 @@ elseif($inclbookmarked == 2)
 
 if ($count) {
 	print($pagertop);
+	// 增加种子类别快速搜索功能 
+	//print("<p align=\"center\"> ".$lang_functions['text_promoted_torrents_note']."</p>\n");
 	if ($sectiontype == $browsecatmode)
 		torrenttable($res, "torrents");
 	elseif ($sectiontype == $specialcatmode) 

@@ -288,6 +288,8 @@ $lang_functions = array
 	'text_thirty_percent_down' => "30%",
 	'text_please_download_something_within' => "請在",
 	'text_inactive_account_be_deleted' => "內做些下載。沒有流量的用戶會被移除賬號。",
+	'text_check_in' => "簽 到",
+	'text_checked_in' => "簽到成功",
 );
 
 ?>

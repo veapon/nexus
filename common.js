@@ -372,3 +372,13 @@ document.getElementById("giftselect").disabled = true;
 document.getElementById("giftcustom").disabled = false;
 }
 }
+
+function checkin(action)
+{
+    var list=ajax.post('checkin.php',function(msg){ 
+    document.getElementById( "checkin" ).style.display = "none";
+    document.getElementById( "checkedin" ).style.display = "inline";
+    document.getElementById("mybounus").innerHTML = document.getElementById("mybounus").innerHTML+" 签到奖励：<span style='color: rgb(255, 0, 0);'>"+msg+"</span>";
+    alert("你还需要继续努力哦！此次签到，你获得了魔力奖励："+msg);
+    },'action='+action);
+}
