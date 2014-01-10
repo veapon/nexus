@@ -1,0 +1,927 @@
+[Script Info]
+; // 此字幕由 Hirobumi 制作
+; // http://weibo.com@Hir0bumi
+Title:Hirobumi
+Original Script:Hirobumi
+Synch Point:0
+ScriptType:v4.00+
+Collisions:Normal
+Timer:100.0000
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,微软雅黑,20,&H00FFFFFF,&HF0000000,&H00000000,&H00000000,-1,0,0,0,100,100,0,0.00,1,1,0,2,5,5,5,134
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:01:19.77,0:01:22.02,*Default,NTP,0000,0000,0000,,快点 不能再让人们等太久了\N{\fs14}Quick,We can't hold them back much longer.
+Dialogue: 0,0:01:25.65,0:01:26.44,*Default,NTP,0000,0000,0000,,赶紧\N{\fs14}Hurry
+Dialogue: 0,0:01:30.11,0:01:31.03,*Default,NTP,0000,0000,0000,,快!\N{\fs14}Come on!
+Dialogue: 0,0:01:39.41,0:01:40.20,*Default,NTP,0000,0000,0000,,快!\N{\fs14}Quick!
+Dialogue: 0,0:01:45.71,0:01:46.63,*Default,NTP,0000,0000,0000,,快点!\N{\fs14}Faster!
+Dialogue: 0,0:01:59.72,0:02:01.89,*Default,NTP,0000,0000,0000,,开门 快 快!\N{\fs14}Open the doors, Come on, quickly!
+Dialogue: 0,0:02:11.86,0:02:14.49,*Default,NTP,0000,0000,0000,,绞死他 该死的人渣!\N{\fs14}String him up, the burning scum!
+Dialogue: 0,0:02:15.20,0:02:17.99,*Default,NTP,0000,0000,0000,,要让他也尝尝我妹妹受的痛苦!\N{\fs14}Let him suffer like my sister suffered!
+Dialogue: 0,0:02:17.99,0:02:20.28,*Default,NTP,0000,0000,0000,,交给我们来处置他!\N{\fs14}Give him to the people!
+Dialogue: 0,0:02:27.29,0:02:29.63,*Default,NTP,0000,0000,0000,,你将永受火刑的诅咒!\N{\fs14}May you burn in the eternal fires of damnation!
+Dialogue: 0,0:02:29.63,0:02:31.80,*Default,NTP,0000,0000,0000,,把判决结果念了\N{\fs14}Just read them the sentence.
+Dialogue: 0,0:02:32.42,0:02:35.38,*Default,NTP,0000,0000,0000,,你杀了我妹妹 你必须付出代价!\N{\fs14}You killed my sister! You'll pay, you will!
+Dialogue: 0,0:02:35.38,0:02:37.63,*Default,NTP,0000,0000,0000,,法庭判决结果如下:\N{\fs14}The sentence of the court
+Dialogue: 0,0:02:37.63,0:02:39.97,*Default,NTP,0000,0000,0000,,两天之后\N{\fs14}is that in two days hence
+Dialogue: 0,0:02:39.97,0:02:44.73,*Default,NTP,0000,0000,0000,,香水制造熟练工 让·巴蒂斯特·格雷诺耶\N{\fs14}the perfumer journeyman Jean Baptiste Grenouille
+Dialogue: 0,0:02:44.73,0:02:47.35,*Default,NTP,0000,0000,0000,,将被绑在一个木十字架上\N{\fs14}shall be bound to a wooden cross
+Dialogue: 0,0:02:47.35,0:02:50.44,*Default,NTP,0000,0000,0000,,面朝天空\N{\fs14}with his face raised toward heaven,
+Dialogue: 0,0:02:52.07,0:02:58.32,*Default,NTP,0000,0000,0000,,由行刑者用铁棍活活猛击十二下\N{\fs14}And whilst still alive be dealt twelve blows with an iron rod
+Dialogue: 0,0:03:00.78,0:03:10.33,*Default,NTP,0000,0000,0000,,使其臂 肩 髋 腿部关节全部碎裂\N{\fs14}breaking the joints of his arms, his shoulders, his hips, his legs,
+Dialogue: 0,0:03:12.25,0:03:16.84,*Default,NTP,0000,0000,0000,,并钉在十字架上示众 一直到死\N{\fs14}He shall then be raised up to hang until dead
+Dialogue: 0,0:03:16.84,0:03:20.30,*Default,NTP,0000,0000,0000,,并禁止行刑官使用通常的人道做法\N{\fs14}and all customary acts of mercy
+Dialogue: 0,0:03:20.30,0:03:23.22,*Default,NTP,0000,0000,0000,,要使其生不如死\N{\fs14}are expressly forbidden the executioner!
+Dialogue: 0,0:03:32.31,0:03:35.69,*Default,NTP,0000,0000,0000,,十八世纪法国曾出现过这么一个人\N{\fs14}In 18th. Century France,there lived a man
+Dialogue: 0,0:03:35.69,0:03:41.37,*Default,NTP,0000,0000,0000,,他天赋异禀 又恶名昭彰\N{\fs14}who was one of the most gifted and notorious personages of his time.
+Dialogue: 0,0:03:41.37,0:03:44.99,*Default,NTP,0000,0000,0000,,他名叫让·巴蒂斯特·格雷诺耶\N{\fs14}His name was Jean Baptiste Grenouille
+Dialogue: 0,0:03:44.99,0:03:47.75,*Default,NTP,0000,0000,0000,,如果他的名字现今已经被人遗忘\N{\fs14}and if his name has been forgotten today
+Dialogue: 0,0:03:47.75,0:03:50.71,*Default,NTP,0000,0000,0000,,只因他野心的仅仅局限于\N{\fs14}it is for the sole reason that his entire ambition
+Dialogue: 0,0:03:50.71,0:03:55.13,*Default,NTP,0000,0000,0000,,在历史完全不曾留下痕迹的领域\N{\fs14}was restricted to a domain that leaves no trace in history
+Dialogue: 0,0:03:59.80,0:04:02.80,*Default,NTP,0000,0000,0000,,即转瞬即逝的气味王国\N{\fs14}To the fleeting realm of scent
+Dialogue: 0,0:04:03.76,0:04:08.73,*Default,NTP,0000,0000,0000,,香水: 一个谋杀犯的故事\N{\fs14}Perfume: The Story Of A Murderer
+Dialogue: 0,0:04:16.90,0:04:21.32,*Default,NTP,0000,0000,0000,,我们所要讲述的这个时代里 各城市中始终弥漫着\N{\fs14}In the period of which we speak, there reigned in the cities a stench
+Dialogue: 0,0:04:21.32,0:04:25.37,*Default,NTP,0000,0000,0000,,我们现代人难以想象的臭气\N{\fs14}barely conceivable to us modern men and women,
+Dialogue: 0,0:04:25.37,0:04:28.87,*Default,NTP,0000,0000,0000,,当然 最秽臭的要数巴黎\N{\fs14}Naturally, the stench was foulest in Paris
+Dialogue: 0,0:04:28.87,0:04:31.29,*Default,NTP,0000,0000,0000,,因为巴黎是欧洲最大的城市\N{\fs14}for Paris was the largest city in Europe,
+Dialogue: 0,0:04:32.08,0:04:37.63,*Default,NTP,0000,0000,0000,,而在巴黎市内最令人作呕的恶臭又来自鱼贩集市\N{\fs14}And nowhere in Paris was that stench more profoundly repugnant than in the city is fish market,
+Dialogue: 0,0:04:39.76,0:04:42.63,*Default,NTP,0000,0000,0000,,先就这些 我再拿个箱子来\N{\fs14}Here we are, I'll get another box
+Dialogue: 0,0:04:43.72,0:04:48.18,*Default,NTP,0000,0000,0000,,而就在这整个王国最腐臭的地方\N{\fs14}It was here, then, on the most putrid spot in the whole kingdom
+Dialogue: 0,0:04:48.18,0:04:53.44,*Default,NTP,0000,0000,0000,,让·巴蒂斯特·格雷诺耶在1738年7月17日这天出世了\N{\fs14}that Jean Baptiste Grenouille was born on the 17th of July, 1738.
+Dialogue: 0,0:05:18.13,0:05:20.42,*Default,NTP,0000,0000,0000,,这是他母亲生的第五胎\N{\fs14}It was his mother is fifth birth
+Dialogue: 0,0:05:20.42,0:05:23.22,*Default,NTP,0000,0000,0000,,每次都在这鱼摊旁完成\N{\fs14}She id delivered them all here under her fish stand
+Dialogue: 0,0:05:23.22,0:05:26.39,*Default,NTP,0000,0000,0000,,每次都是死胎或半死胎\N{\fs14}and all had been stillbirths, or semi. Stillbirths
+Dialogue: 0,0:05:26.60,0:05:27.93,*Default,NTP,0000,0000,0000,,你没事吧?\N{\fs14}You all right?
+Dialogue: 0,0:05:27.93,0:05:31.02,*Default,NTP,0000,0000,0000,,到了晚上 这堆乱糟糟的东西\N{\fs14}And by evening the whole mess had been shoveled away
+Dialogue: 0,0:05:31.02,0:05:33.48,*Default,NTP,0000,0000,0000,,就和鱼肠之类一起 统统铲进河里\N{\fs14}with the fish guts into the river
+Dialogue: 0,0:05:33.48,0:05:36.77,*Default,NTP,0000,0000,0000,,今天这次本该也是如此\N{\fs14}It would be much the same today
+Dialogue: 0,0:05:36.77,0:05:41.24,*Default,NTP,0000,0000,0000,,但让·巴蒂斯特的选择却有所不同\N{\fs14}but then, Jean Baptiste chose differently,
+Dialogue: 0,0:06:15.39,0:06:16.23,*Default,NTP,0000,0000,0000,,什么声音?\N{\fs14}What's that noise?
+Dialogue: 0,0:06:18.23,0:06:19.94,*Default,NTP,0000,0000,0000,,- 是个婴儿  - 出了什么事?\N{\fs14}- It's a baby,  - What's going on here?
+Dialogue: 0,0:06:24.11,0:06:25.20,*Default,NTP,0000,0000,0000,,一个新生儿\N{\fs14}It's a newborn
+Dialogue: 0,0:06:26.28,0:06:27.32,*Default,NTP,0000,0000,0000,,他妈妈在哪?\N{\fs14}Where's its mother?
+Dialogue: 0,0:06:28.95,0:06:30.24,*Default,NTP,0000,0000,0000,,刚还在这儿的\N{\fs14}She was just here
+Dialogue: 0,0:06:32.33,0:06:35.87,*Default,NTP,0000,0000,0000,,她居然想弄死他! 是她自己的孩子啊!\N{\fs14}She tried to kill it. Her own child.
+Dialogue: 0,0:06:35.87,0:06:37.96,*Default,NTP,0000,0000,0000,,她居然想弄死她的婴儿\N{\fs14}She tried to kill her baby!
+Dialogue: 0,0:06:39.63,0:06:41.50,*Default,NTP,0000,0000,0000,,那儿! 她在那儿!\N{\fs14}There! There she is!
+Dialogue: 0,0:06:41.75,0:06:43.38,*Default,NTP,0000,0000,0000,,站住! 给我站住!\N{\fs14}Stop! Stop where you are!
+Dialogue: 0,0:06:43.38,0:06:44.05,*Default,NTP,0000,0000,0000,,杀人犯!\N{\fs14}Murderer!
+Dialogue: 0,0:06:44.42,0:06:48.59,*Default,NTP,0000,0000,0000,,如此这般 格雷诺耶口中发出的第一声哭喊\N{\fs14}Thus, the first sound to escape Grenouilleis lips
+Dialogue: 0,0:06:48.59,0:06:50.39,*Default,NTP,0000,0000,0000,,把他的母亲送上了绞刑台\N{\fs14}sent his motherto the gallows
+Dialogue: 0,0:06:54.43,0:06:56.98,*Default,NTP,0000,0000,0000,,而让·巴蒂斯特则由官方授权托付给了\N{\fs14}and Jean Baptiste, by official order
+Dialogue: 0,0:06:58.10,0:07:00.15,*Default,NTP,0000,0000,0000,,加拉尔夫人的育婴所\N{\fs14}to the orphanage of Madame Gaillard,
+Dialogue: 0,0:07:04.07,0:07:05.78,*Default,NTP,0000,0000,0000,,今天几个?\N{\fs14}How many today?
+Dialogue: 0,0:07:05.78,0:07:08.66,*Default,NTP,0000,0000,0000,,四个 呃 现在只剩三个半了\N{\fs14}Four, Well, three and a half,
+Dialogue: 0,0:07:13.12,0:07:15.50,*Default,NTP,0000,0000,0000,,又是老样子 死样活气的\N{\fs14}As usual, more dead than alive,
+Dialogue: 0,0:07:15.50,0:07:17.71,*Default,NTP,0000,0000,0000,,行了 收钱签字完事吧\N{\fs14}Just take the money and sign,
+Dialogue: 0,0:07:26.01,0:07:27.22,*Default,NTP,0000,0000,0000,,让让\N{\fs14}Make room
+Dialogue: 0,0:07:28.47,0:07:29.64,*Default,NTP,0000,0000,0000,,怎么让?\N{\fs14}Where?
+Dialogue: 0,0:07:29.64,0:07:30.64,*Default,NTP,0000,0000,0000,,让啊!\N{\fs14}Move!
+Dialogue: 0,0:07:32.76,0:07:34.01,*Default,NTP,0000,0000,0000,,快让\N{\fs14}Go on, now
+Dialogue: 0,0:07:45.48,0:07:46.74,*Default,NTP,0000,0000,0000,,他死了吗?\N{\fs14}Is it dead?
+Dialogue: 0,0:08:14.01,0:08:16.06,*Default,NTP,0000,0000,0000,,我才不要他待在我床上\N{\fs14}That's not staying in my bed
+Dialogue: 0,0:08:16.39,0:08:18.06,*Default,NTP,0000,0000,0000,,我们干掉他算了\N{\fs14}Let's throw it out, then
+Dialogue: 0,0:08:18.06,0:08:20.48,*Default,NTP,0000,0000,0000,,要是他哭起来怎么办?\N{\fs14}What if it screams?
+Dialogue: 0,0:08:20.48,0:08:21.81,*Default,NTP,0000,0000,0000,,一个小毛孩罢了\N{\fs14}Let's just kill it
+Dialogue: 0,0:08:40.91,0:08:42.42,*Default,NTP,0000,0000,0000,,用力! 按!\N{\fs14}Harder! Push!
+Dialogue: 0,0:08:44.38,0:08:45.50,*Default,NTP,0000,0000,0000,,你们干什么?\N{\fs14}What are you doing?!
+Dialogue: 0,0:08:54.89,0:09:00.02,*Default,NTP,0000,0000,0000,,对加拉尔夫人来说格雷诺耶和别人一样都不过是收入来源\N{\fs14}For Mme Gaillard, Grenouille was a source of income just like any other
+Dialogue: 0,0:09:00.02,0:09:02.98,*Default,NTP,0000,0000,0000,,孩子们却敏锐地察觉到\N{\fs14}The children, however, sensed at once
+Dialogue: 0,0:09:02.98,0:09:05.77,*Default,NTP,0000,0000,0000,,这个婴孩不比寻常\N{\fs14}that there was something different about him
+Dialogue: 0,0:09:22.37,0:09:27.92,*Default,NTP,0000,0000,0000,,让·巴蒂斯特直到五岁还不会说话\N{\fs14}By the age of five, Jean Baptiste still could not talk,
+Dialogue: 0,0:09:27.92,0:09:32.84,*Default,NTP,0000,0000,0000,,但他却有着与生俱来的异禀天赋\N{\fs14}But he had been born with a talent that made him unique among mankind,
+Dialogue: 0,0:10:35.70,0:10:39.74,*Default,NTP,0000,0000,0000,,倒不是说其它孩子有多痛恨他\N{\fs14}It was not that the other children hated him
+Dialogue: 0,0:10:39.74,0:10:42.29,*Default,NTP,0000,0000,0000,,而是他让他们紧张不安\N{\fs14}they felt unnerved by him
+Dialogue: 0,0:10:46.37,0:10:50.54,*Default,NTP,0000,0000,0000,,渐渐地 他开始明白这种对气味奇异的天赋\N{\fs14}Increasingly he became aware that his phenomenal sense of smell
+Dialogue: 0,0:10:50.54,0:10:54.59,*Default,NTP,0000,0000,0000,,归他所有 唯他独有\N{\fs14}was a gift that had been given to him, and him alone
+Dialogue: 0,0:11:03.47,0:11:06.77,*Default,NTP,0000,0000,0000,,当让·巴蒂斯特最终开口学习说话的时候\N{\fs14}When Jean Baptiste did finally learn to speak
+Dialogue: 0,0:11:06.77,0:11:10.19,*Default,NTP,0000,0000,0000,,他很快就发现自己积累的嗅觉体验\N{\fs14}he soon found that everyday language proved inadequate
+Dialogue: 0,0:11:10.19,0:11:14.36,*Default,NTP,0000,0000,0000,,仅靠日常词语根本不能描述\N{\fs14}for all the olfactory experiences accumulating within himself
+Dialogue: 0,0:11:19.20,0:11:20.28,*Default,NTP,0000,0000,0000,,木头\N{\fs14}Wood
+Dialogue: 0,0:11:26.33,0:11:27.62,*Default,NTP,0000,0000,0000,,干的木头\N{\fs14}Warm wood
+Dialogue: 0,0:11:29.21,0:11:30.42,*Default,NTP,0000,0000,0000,,草\N{\fs14}Grass
+Dialogue: 0,0:11:31.34,0:11:33.34,*Default,NTP,0000,0000,0000,,湿的草\N{\fs14}Wet grass
+Dialogue: 0,0:11:33.88,0:11:34.92,*Default,NTP,0000,0000,0000,,石头\N{\fs14}Stones
+Dialogue: 0,0:11:35.71,0:11:37.22,*Default,NTP,0000,0000,0000,,干的石头\N{\fs14}Warm stones
+Dialogue: 0,0:11:39.84,0:11:40.97,*Default,NTP,0000,0000,0000,,水\N{\fs14}Water
+Dialogue: 0,0:11:43.14,0:11:44.77,*Default,NTP,0000,0000,0000,,冰冷的水\N{\fs14}Cold water
+Dialogue: 0,0:11:51.31,0:11:52.69,*Default,NTP,0000,0000,0000,,青蛙\N{\fs14}Frog
+Dialogue: 0,0:11:54.82,0:11:56.61,*Default,NTP,0000,0000,0000,,湿的石头\N{\fs14}Wet stones
+Dialogue: 0,0:11:57.53,0:12:00.91,*Default,NTP,0000,0000,0000,,大的 湿的青蛙…石头\N{\fs14}Big, wet frog stones
+Dialogue: 0,0:12:02.83,0:12:04.08,*Default,NTP,0000,0000,0000,,什么东西\N{\fs14}Something
+Dialogue: 0,0:12:06.33,0:12:09.21,*Default,NTP,0000,0000,0000,,什么东西 什么\N{\fs14}something, something
+Dialogue: 0,0:12:10.96,0:12:16.17,*Default,NTP,0000,0000,0000,,他十三岁时 加拉尔夫人的地方不够给他住了\N{\fs14}By the age of 13, Madame Gaillard no longer had room forJean Baptiste
+Dialogue: 0,0:12:16.17,0:12:17.88,*Default,NTP,0000,0000,0000,,于是决定把他卖掉\N{\fs14}and therefore decided to sell him
+Dialogue: 0,0:12:17.88,0:12:18.80,*Default,NTP,0000,0000,0000,,快走\N{\fs14}Come on
+Dialogue: 0,0:12:22.43,0:12:23.60,*Default,NTP,0000,0000,0000,,十法郎\N{\fs14}Ten francs
+Dialogue: 0,0:12:25.26,0:12:28.73,*Default,NTP,0000,0000,0000,,第一次闻到这人周围环绕的臭气\N{\fs14}From his first breath of the odor enveloping this man
+Dialogue: 0,0:12:28.73,0:12:31.15,*Default,NTP,0000,0000,0000,,七法郎 一分也不多\N{\fs14}Seven, and not one sou more
+Dialogue: 0,0:12:31.15,0:12:34.02,*Default,NTP,0000,0000,0000,,格雷诺耶就知道在格里马制革铺\N{\fs14}Grenouille knew that his life in Grimalis tannery
+Dialogue: 0,0:12:34.02,0:12:37.99,*Default,NTP,0000,0000,0000,,他的性命值什么价全由他能干多少活而定\N{\fs14}would be won'th precisely as much as the work he could accomplish,
+Dialogue: 0,0:12:37.99,0:12:39.24,*Default,NTP,0000,0000,0000,,走\N{\fs14}Come on
+Dialogue: 0,0:12:41.16,0:12:43.28,*Default,NTP,0000,0000,0000,,加拉尔夫人可就不太走运了\N{\fs14}Unfortunately for Madame Gaillard
+Dialogue: 0,0:12:46.62,0:12:47.33,*Default,NTP,0000,0000,0000,,拿着!\N{\fs14}Take it!
+Dialogue: 0,0:12:47.33,0:12:49.79,*Default,NTP,0000,0000,0000,,做了场送命的交易\N{\fs14}The bargain was short. Lived
+Dialogue: 0,0:12:55.75,0:12:59.92,*Default,NTP,0000,0000,0000,,在制革铺里可预计的生命周期仅有五年\N{\fs14}Life expectancy in the tannery was a mere five years
+Dialogue: 0,0:12:59.92,0:13:04.30,*Default,NTP,0000,0000,0000,,但让·巴蒂斯特的生命力却有如病菌一样顽强\N{\fs14}but Jean Baptiste proved to be as tough as a resilient bacterium
+Dialogue: 0,0:13:04.85,0:13:09.85,*Default,NTP,0000,0000,0000,,他适应了新的命运 温顺又勤劳 俨然工人楷模\N{\fs14}He adjusted to his new fate and became a paragon of docility and diligence
+Dialogue: 0,0:13:09.98,0:13:14.10,*Default,NTP,0000,0000,0000,,不分寒暑的每天勤奋劳作十五 六个小时\N{\fs14}Slaved 15, 16 hours a day,summer and winter
+Dialogue: 0,0:13:15.69,0:13:20.99,*Default,NTP,0000,0000,0000,,渐渐地 他开始意识到制革铺之外的世界\N{\fs14}Gradually he became aware of a world beyond the tannery
+Dialogue: 0,0:13:20.99,0:13:25.78,*Default,NTP,0000,0000,0000,,那里有未经探索的气味乌托邦正静候他前往探寻\N{\fs14}where a Utopia of unexplored smells lay in store for him
+Dialogue: 0,0:13:50.47,0:13:51.31,*Default,NTP,0000,0000,0000,,格雷诺耶!\N{\fs14}Grenouille!
+Dialogue: 0,0:13:55.06,0:13:58.69,*Default,NTP,0000,0000,0000,,跟我们来 我带你去镇上送货\N{\fs14}Come with us,I'm taking you to town for delivery
+Dialogue: 0,0:13:59.44,0:14:02.78,*Default,NTP,0000,0000,0000,,让·巴蒂斯特·格雷诺耶成功了\N{\fs14}Jean Baptiste Grenouille had triumphed
+Dialogue: 0,0:14:02.78,0:14:04.24,*Default,NTP,0000,0000,0000,,他存活了下来\N{\fs14}He was alive
+Dialogue: 0,0:14:05.03,0:14:08.24,*Default,NTP,0000,0000,0000,,且终于如鱼得水\N{\fs14}and at last he was in his element
+Dialogue: 0,0:14:47.57,0:14:50.03,*Default,NTP,0000,0000,0000,,对气味他并不加以抉择\N{\fs14}He was not choosy
+Dialogue: 0,0:14:50.03,0:14:54.75,*Default,NTP,0000,0000,0000,,也不挑拣世俗眼光所认同的香臭\N{\fs14}He did not differentiate between what are commonly considered to be good smells from bad
+Dialogue: 0,0:14:56.46,0:14:57.92,*Default,NTP,0000,0000,0000,,至少 目前还不曾\N{\fs14}at least not yet
+Dialogue: 0,0:15:01.30,0:15:03.34,*Default,NTP,0000,0000,0000,,他很贪婪\N{\fs14}He was very greedy
+Dialogue: 0,0:15:04.30,0:15:10.43,*Default,NTP,0000,0000,0000,,想把这个世界所提供的气味统统占为己有\N{\fs14}The goal was to possess everything the world had to offer in the way of odors
+Dialogue: 0,0:15:10.43,0:15:14.14,*Default,NTP,0000,0000,0000,,唯一的标准是这些气味应该是以前未知的\N{\fs14}His only condition being,that they were new ones
+Dialogue: 0,0:15:17.02,0:15:20.90,*Default,NTP,0000,0000,0000,,千千万万种气味融成无形的稀粥\N{\fs14}Thousands upon thousands of odors formed an invisible gruel
+Dialogue: 0,0:15:20.90,0:15:25.40,*Default,NTP,0000,0000,0000,,他将其分解成最细微的分子与部分\N{\fs14}which he dissected into its smallest and most remote parts and pieces
+Dialogue: 0,0:15:35.16,0:15:38.79,*Default,NTP,0000,0000,0000,,来买今晚圣母院烟火晚会的旗子啊\N{\fs14}Buy your pennant here fortonight's fireworks at Notre Dame
+Dialogue: 0,0:15:42.34,0:15:43.46,*Default,NTP,0000,0000,0000,,格雷诺耶!\N{\fs14}Grenouille!
+Dialogue: 0,0:15:47.72,0:15:48.63,*Default,NTP,0000,0000,0000,,过来!\N{\fs14}Come on!
+Dialogue: 0,0:15:52.89,0:15:54.60,*Default,NTP,0000,0000,0000,,快他妈的过来!\N{\fs14}Get your ass over here!
+Dialogue: 0,0:15:57.14,0:16:01.11,*Default,NTP,0000,0000,0000,,他下周要两打皮子 你能有吗?\N{\fs14}He needs two dozen skins by next week, Can you do that?
+Dialogue: 0,0:16:01.11,0:16:03.86,*Default,NTP,0000,0000,0000,,- 嗯 嗯  - 跟我来\N{\fs14}- Yeah, Yeah  - come with me
+Dialogue: 0,0:17:09.05,0:17:10.67,*Default,NTP,0000,0000,0000,,它叫什么名字?\N{\fs14}What is it called?
+Dialogue: 0,0:17:10.67,0:17:12.72,*Default,NTP,0000,0000,0000,,爱神与赛琪 夫人\N{\fs14}Amor and Psyche, madame
+Dialogue: 0,0:17:12.72,0:17:14.55,*Default,NTP,0000,0000,0000,,我的最新成果\N{\fs14}My latest creation
+Dialogue: 0,0:17:14.80,0:17:16.72,*Default,NTP,0000,0000,0000,,我能试试吗?\N{\fs14}May I try it?
+Dialogue: 0,0:17:16.72,0:17:19.39,*Default,NTP,0000,0000,0000,,请让我来 小姐\N{\fs14}If you'll allow me, mademoiselle
+Dialogue: 0,0:17:26.61,0:17:28.57,*Default,NTP,0000,0000,0000,,我的天那!\N{\fs14}Sheer heaven!
+Dialogue: 0,0:17:32.03,0:17:36.70,*Default,NTP,0000,0000,0000,,佩利西埃先生 您可真是位技艺家\N{\fs14}Monsieur Pelissier, you are truly an artiste
+Dialogue: 0,0:19:12.88,0:19:15.92,*Default,NTP,0000,0000,0000,,请拿着吧 我这里还多着呢\N{\fs14}Please, take them, I've got fartoo many
+Dialogue: 0,0:20:04.72,0:20:05.98,*Default,NTP,0000,0000,0000,,你想要什么?\N{\fs14}What do you want?
+Dialogue: 0,0:20:15.19,0:20:16.57,*Default,NTP,0000,0000,0000,,要买些吗?\N{\fs14}Want to buy some?
+Dialogue: 0,0:20:30.25,0:20:31.71,*Default,NTP,0000,0000,0000,,一苏尔两只\N{\fs14}Two for a sou
+Dialogue: 0,0:21:00.11,0:21:01.32,*Default,NTP,0000,0000,0000,,请勿靠近!\N{\fs14}Stand clear!
+Dialogue: 0,0:26:44.75,0:26:48.63,*Default,NTP,0000,0000,0000,,下次再跑远了的话 我就杀了你!\N{\fs14}Next time you run off like that,I'll kill you!
+Dialogue: 0,0:26:52.26,0:26:56.18,*Default,NTP,0000,0000,0000,,当晚他无法入眠\N{\fs14}That night, he could not sleep
+Dialogue: 0,0:26:56.18,0:27:00.64,*Default,NTP,0000,0000,0000,,那女孩醉人的气息突然让他清醒地意识到\N{\fs14}The intoxicating power of the girl's scent suddenly made it clear to him
+Dialogue: 0,0:27:00.64,0:27:05.35,*Default,NTP,0000,0000,0000,,他的生命为什么如此顽强 狂野\N{\fs14}why he'd come to his own life so tenaciously, so savagely
+Dialogue: 0,0:27:06.65,0:27:12.90,*Default,NTP,0000,0000,0000,,他悲惨的生活有了意义与目标也有了更高的使命\N{\fs14}The meaning and purpose of his miserable existence had a higher destiny
+Dialogue: 0,0:27:12.90,0:27:15.95,*Default,NTP,0000,0000,0000,,他必须学会如何保藏气味\N{\fs14}He would learn how to preserve scent
+Dialogue: 0,0:27:15.95,0:27:19.99,*Default,NTP,0000,0000,0000,,这样 他才再也不会遗失这种超凡的美\N{\fs14}so that never again would he lose such sublime beauty
+Dialogue: 0,0:27:44.31,0:27:49.06,*Default,NTP,0000,0000,0000,,当年在巴黎 至少有一打的香水制造者\N{\fs14}There were about a dozen perfumers in Paris in those days
+Dialogue: 0,0:27:49.06,0:27:53.90,*Default,NTP,0000,0000,0000,,其中有一位曾负盛名的香水制造者意大利人吉赛佩·巴尔迪尼\N{\fs14}One of them, the once. Celebrated Italian perfumer, Giuseppe Baldini
+Dialogue: 0,0:27:53.90,0:27:56.69,*Default,NTP,0000,0000,0000,,三十多年前 他刚来到巴黎的时候\N{\fs14}had set up shop in the center of the bridge called the Pont au...
+Dialogue: 0,0:27:56.69,0:28:00.41,*Default,NTP,0000,0000,0000,,在兑换桥的正中开了一间店铺\N{\fs14}...Change on his arrival in Paris over thirty years ago
+Dialogue: 0,0:28:00.95,0:28:03.79,*Default,NTP,0000,0000,0000,,当然 在他年轻时\N{\fs14}To be sure, at one time in his youth
+Dialogue: 0,0:28:03.79,0:28:09.46,*Default,NTP,0000,0000,0000,,的确也设计出来过几款高明的香水并由此赚得了他如今的全副身家\N{\fs14}Baldini had created several truly great perfumes, to which he owed his fortune
+Dialogue: 0,0:28:11.17,0:28:15.96,*Default,NTP,0000,0000,0000,,但如今 巴尔迪尼已经落伍了 不时新了\N{\fs14}But now Baldini was out of touch, out of fashion
+Dialogue: 0,0:28:15.96,0:28:20.14,*Default,NTP,0000,0000,0000,,他整日在店铺中苦苦守候 但顾客们已不复再来\N{\fs14}and spent his days waiting for customers that no longer came
+Dialogue: 0,0:28:21.55,0:28:23.10,*Default,NTP,0000,0000,0000,,谢尼埃 你来了!\N{\fs14}Chnier! There you are!
+Dialogue: 0,0:28:23.10,0:28:24.06,*Default,NTP,0000,0000,0000,,巴尔迪尼先生\N{\fs14}Monsieur Baldini
+Dialogue: 0,0:28:24.06,0:28:25.10,*Default,NTP,0000,0000,0000,,把假发戴上\N{\fs14}Put on your wig
+Dialogue: 0,0:28:26.27,0:28:27.27,*Default,NTP,0000,0000,0000,,把你的假发戴上!\N{\fs14}Put on your wig!
+Dialogue: 0,0:28:29.90,0:28:31.44,*Default,NTP,0000,0000,0000,,你要出门?\N{\fs14}You going out?
+Dialogue: 0,0:28:31.44,0:28:33.82,*Default,NTP,0000,0000,0000,,我现在要回书房独处几个小时\N{\fs14}I wish to retire to my study for a few hours
+Dialogue: 0,0:28:33.82,0:28:36.61,*Default,NTP,0000,0000,0000,,不希望任何人打搅\N{\fs14}and do not want to be disturbed under any circumstances
+Dialogue: 0,0:28:36.61,0:28:39.32,*Default,NTP,0000,0000,0000,,你要设计新香水吗 巴尔迪尼先生?\N{\fs14}Will you be creating a new perfume, Monsieur Baldini?
+Dialogue: 0,0:28:39.32,0:28:41.91,*Default,NTP,0000,0000,0000,,没错 给维拉蒙特伯爵的\N{\fs14}Correct, For Count Verhamont
+Dialogue: 0,0:28:41.91,0:28:44.20,*Default,NTP,0000,0000,0000,,他要一种 像那个像…\N{\fs14}He has asked for something like
+Dialogue: 0,0:28:44.20,0:28:48.21,*Default,NTP,0000,0000,0000,,我记得他说的是叫什么…"爱神与赛琪"的香水吧?\N{\fs14}I think he said it was called Amor and Psyche
+Dialogue: 0,0:28:48.21,0:28:51.50,*Default,NTP,0000,0000,0000,,就是那个圣安德烈艺术大街的骗子…\N{\fs14}from that swindler in the Rue Saint Andre des Arts
+Dialogue: 0,0:28:51.50,0:28:52.29,*Default,NTP,0000,0000,0000,,佩利西埃?\N{\fs14}Pelissier?
+Dialogue: 0,0:28:52.29,0:28:56.26,*Default,NTP,0000,0000,0000,,佩利西埃 就是他\N{\fs14}Pelissier, that's him
+Dialogue: 0,0:28:56.26,0:28:57.67,*Default,NTP,0000,0000,0000,,哈! 爱神与赛琪\N{\fs14}Amor and Psyche
+Dialogue: 0,0:29:02.59,0:29:04.85,*Default,NTP,0000,0000,0000,,- 你听说过吗?  - 嗯 当然\N{\fs14}- Do you know it?  - Oh, yes.
+Dialogue: 0,0:29:04.85,0:29:07.77,*Default,NTP,0000,0000,0000,,现在到处都能闻到这种香水 先生\N{\fs14}You can smell it everywhere these days, monsieur
+Dialogue: 0,0:29:07.77,0:29:10.73,*Default,NTP,0000,0000,0000,,满大街都是\N{\fs14}On every street corner
+Dialogue: 0,0:29:10.73,0:29:13.90,*Default,NTP,0000,0000,0000,,事实上 我给您买了一瓶样品\N{\fs14}In fact, I just purchased you a sample
+Dialogue: 0,0:29:16.19,0:29:17.74,*Default,NTP,0000,0000,0000,,如果您想试闻一下的话\N{\fs14}In case you wanted to test it
+Dialogue: 0,0:29:20.82,0:29:25.66,*Default,NTP,0000,0000,0000,,你怎么会认为我有兴趣试这个?\N{\fs14}What on earth makes you think I'd be interested in testing it?
+Dialogue: 0,0:29:25.66,0:29:28.50,*Default,NTP,0000,0000,0000,,您说得对 这没什么特别\N{\fs14}You're right, It's nothing special
+Dialogue: 0,0:29:28.50,0:29:32.08,*Default,NTP,0000,0000,0000,,老实说 这气味挺庸常的\N{\fs14}Actually,it's a very common scent
+Dialogue: 0,0:29:32.08,0:29:37.00,*Default,NTP,0000,0000,0000,,我相信 前调里用了不少青柠油\N{\fs14}I believe the head chord contains lime oil
+Dialogue: 0,0:29:37.00,0:29:39.17,*Default,NTP,0000,0000,0000,,真的?\N{\fs14}Really?
+Dialogue: 0,0:29:39.17,0:29:40.97,*Default,NTP,0000,0000,0000,,中调呢?\N{\fs14}And the heart chord?
+Dialogue: 0,0:29:40.97,0:29:43.93,*Default,NTP,0000,0000,0000,,我猜是橙花香精\N{\fs14}Orange blossom, I believe
+Dialogue: 0,0:29:43.93,0:29:48.52,*Default,NTP,0000,0000,0000,,后调也许是麝猫香酊 但我不敢肯定\N{\fs14}And civet in the base chord, but, you know, I cannot say for sure
+Dialogue: 0,0:29:48.52,0:29:52.60,*Default,NTP,0000,0000,0000,,无所谓了 管那个半瓶醋往他的香水里掺什么呢!\N{\fs14}Well, I couldn't care less what that bungler Pelissier slops into his perfumes
+Dialogue: 0,0:29:52.60,0:29:54.65,*Default,NTP,0000,0000,0000,,的确如此 先生\N{\fs14}Naturally not, monsieur
+Dialogue: 0,0:29:54.65,0:29:58.57,*Default,NTP,0000,0000,0000,,我为维拉蒙特伯爵设计的东西\N{\fs14}And I am thinking of creating something for Count Verhamont
+Dialogue: 0,0:29:58.57,0:30:02.40,*Default,NTP,0000,0000,0000,,肯定能引起真正的轰动\N{\fs14}that will cause a veritable sensation
+Dialogue: 0,0:30:02.40,0:30:05.12,*Default,NTP,0000,0000,0000,,那是一定的 巴尔迪尼先生\N{\fs14}I'm sure it will, Monsieur Baldini
+Dialogue: 0,0:30:05.12,0:30:09.12,*Default,NTP,0000,0000,0000,,店里的事你来照顾 谢尼埃 别让任何人打扰我\N{\fs14}Take charge of the shop, Chnier, and don't let anyone come near me
+Dialogue: 0,0:30:09.41,0:30:12.46,*Default,NTP,0000,0000,0000,,灵感需要静谧安宁\N{\fs14}Inspiration requires peace and tranquility
+Dialogue: 0,0:30:54.71,0:30:57.50,*Default,NTP,0000,0000,0000,,还需要别的什么吗?\N{\fs14}Is there anything else you need?
+Dialogue: 0,0:30:57.50,0:30:59.55,*Default,NTP,0000,0000,0000,,灵感吧 也许\N{\fs14}Inspiration, perhaps
+Dialogue: 0,0:30:59.55,0:31:01.17,*Default,NTP,0000,0000,0000,,啊 我的先生\N{\fs14}Ah, my Giuseppe
+Dialogue: 0,0:31:03.55,0:31:06.47,*Default,NTP,0000,0000,0000,,您依然是伟大的香水制作者巴尔迪尼\N{\fs14}You are still the great perfumer Baldini
+Dialogue: 0,0:32:01.86,0:32:03.15,*Default,NTP,0000,0000,0000,,妙极了\N{\fs14}Wonderful
+Dialogue: 0,0:32:07.36,0:32:08.99,*Default,NTP,0000,0000,0000,,他又成功了\N{\fs14}He did it again
+Dialogue: 0,0:32:15.37,0:32:18.17,*Default,NTP,0000,0000,0000,,青柠油 果然\N{\fs14}Lime oil. Yes, indeed
+Dialogue: 0,0:32:21.50,0:32:24.59,*Default,NTP,0000,0000,0000,,橙花香精 没错\N{\fs14}Orange blossom to be sure
+Dialogue: 0,0:32:29.26,0:32:30.80,*Default,NTP,0000,0000,0000,,一缕丁香 大概\N{\fs14}And a hint of cloves, perhaps
+Dialogue: 0,0:32:33.47,0:32:37.69,*Default,NTP,0000,0000,0000,,不 也可能是肉桂\N{\fs14}No, Or could be cinnamon?
+Dialogue: 0,0:32:40.15,0:32:41.40,*Default,NTP,0000,0000,0000,,气味走了\N{\fs14}It's gone
+Dialogue: 0,0:32:45.03,0:32:45.86,*Default,NTP,0000,0000,0000,,是肉桂\N{\fs14}Cinnamon
+Dialogue: 0,0:32:46.90,0:32:48.32,*Default,NTP,0000,0000,0000,,不是肉桂\N{\fs14}It's not cinnamon
+Dialogue: 0,0:32:52.53,0:32:53.37,*Default,NTP,0000,0000,0000,,丁香?\N{\fs14}Cloves?
+Dialogue: 0,0:32:53.95,0:32:55.04,*Default,NTP,0000,0000,0000,,不对\N{\fs14}No
+Dialogue: 0,0:32:55.49,0:32:56.66,*Default,NTP,0000,0000,0000,,麝香?\N{\fs14}Musk?
+Dialogue: 0,0:32:56.66,0:32:57.45,*Default,NTP,0000,0000,0000,,不对\N{\fs14}No
+Dialogue: 0,0:33:38.20,0:33:39.79,*Default,NTP,0000,0000,0000,,是谁?\N{\fs14}Who's there?
+Dialogue: 0,0:33:39.79,0:33:41.37,*Default,NTP,0000,0000,0000,,我是从格里马的制革铺来\N{\fs14}I'm from Grimal's tannery
+Dialogue: 0,0:33:45.21,0:33:46.96,*Default,NTP,0000,0000,0000,,送来了您订购的山羊皮\N{\fs14}I've brought the goat skins you ordered
+Dialogue: 0,0:33:53.26,0:33:54.09,*Default,NTP,0000,0000,0000,,跟我来\N{\fs14}Follow me
+Dialogue: 0,0:34:00.60,0:34:01.44,*Default,NTP,0000,0000,0000,,这边\N{\fs14}This way
+Dialogue: 0,0:34:36.05,0:34:37.01,*Default,NTP,0000,0000,0000,,那里\N{\fs14}There
+Dialogue: 0,0:34:37.68,0:34:38.68,*Default,NTP,0000,0000,0000,,就放那里\N{\fs14}Lay them there
+Dialogue: 0,0:34:48.15,0:34:50.44,*Default,NTP,0000,0000,0000,,跟你主人说 皮子不错\N{\fs14}Tell your masterthat the skins are fine
+Dialogue: 0,0:34:50.44,0:34:54.15,*Default,NTP,0000,0000,0000,,我过两天会顺路去付账\N{\fs14}I'll come by in the next few days and pay for them
+Dialogue: 0,0:34:54.15,0:34:55.24,*Default,NTP,0000,0000,0000,,是的 先生\N{\fs14}Yes, monsieur
+Dialogue: 0,0:35:02.00,0:35:04.71,*Default,NTP,0000,0000,0000,,您是想让这皮子变得好闻 对吧?\N{\fs14}You want to make this leather smell good, don't you?
+Dialogue: 0,0:35:06.17,0:35:08.84,*Default,NTP,0000,0000,0000,,的确如此 会变好闻的\N{\fs14}Why, of course, And so it shall,
+Dialogue: 0,0:35:08.84,0:35:11.09,*Default,NTP,0000,0000,0000,,用佩利西埃的"爱神与赛琪"香水?\N{\fs14}With Amor and Psyche by Pelissier?
+Dialogue: 0,0:35:15.72,0:35:20.93,*Default,NTP,0000,0000,0000,,我会用别家做的香水? 你哪来的这种荒谬想法?\N{\fs14}Whatever gave you the absurd idea? I would use someone else's perfume?
+Dialogue: 0,0:35:20.93,0:35:22.18,*Default,NTP,0000,0000,0000,,你全身都是这味道\N{\fs14}It's all over you
+Dialogue: 0,0:35:22.39,0:35:24.48,*Default,NTP,0000,0000,0000,,你的额头 鼻子 手\N{\fs14}It's on your forehead, your nose, your hands
+Dialogue: 0,0:35:24.48,0:35:26.98,*Default,NTP,0000,0000,0000,,这个"爱神与赛琪"不好 师傅\N{\fs14}It's bad, Amor and Psyche is, master
+Dialogue: 0,0:35:26.98,0:35:33.61,*Default,NTP,0000,0000,0000,,迷迭香太多 还有这个 这个也太多\N{\fs14}There's too much rosemary in it and too much of that and that
+Dialogue: 0,0:35:36.45,0:35:42.04,*Default,NTP,0000,0000,0000,,佛手柑和广藿香?\N{\fs14}Bergamotand patchouli?
+Dialogue: 0,0:35:42.04,0:35:43.16,*Default,NTP,0000,0000,0000,,广藿香\N{\fs14}Patchouli
+Dialogue: 0,0:35:43.16,0:35:45.37,*Default,NTP,0000,0000,0000,,广藿香 广藿香\N{\fs14}Patchouli, patchouli
+Dialogue: 0,0:35:49.71,0:35:50.84,*Default,NTP,0000,0000,0000,,还有什么?\N{\fs14}What else?
+Dialogue: 0,0:35:54.67,0:35:55.80,*Default,NTP,0000,0000,0000,,这些\N{\fs14}That and that
+Dialogue: 0,0:35:57.76,0:35:58.64,*Default,NTP,0000,0000,0000,,还有这些\N{\fs14}That and that
+Dialogue: 0,0:36:08.60,0:36:10.06,*Default,NTP,0000,0000,0000,,橙花\N{\fs14}Orange blossom
+Dialogue: 0,0:36:11.48,0:36:12.44,*Default,NTP,0000,0000,0000,,青柠\N{\fs14}lime
+Dialogue: 0,0:36:14.28,0:36:15.86,*Default,NTP,0000,0000,0000,,- 麝香  - 迷迭香\N{\fs14}- musk  - Rosemary
+Dialogue: 0,0:36:18.82,0:36:20.49,*Default,NTP,0000,0000,0000,,还有丁香\N{\fs14}and cloves
+Dialogue: 0,0:36:20.91,0:36:21.99,*Default,NTP,0000,0000,0000,,还有这个\N{\fs14}And this
+Dialogue: 0,0:36:30.92,0:36:32.00,*Default,NTP,0000,0000,0000,,安息香?\N{\fs14}Storax?
+Dialogue: 0,0:36:32.42,0:36:33.46,*Default,NTP,0000,0000,0000,,这也在里面\N{\fs14}That's in it, too
+Dialogue: 0,0:36:33.80,0:36:34.46,*Default,NTP,0000,0000,0000,,安息香?\N{\fs14}Storax?
+Dialogue: 0,0:36:34.46,0:36:36.59,*Default,NTP,0000,0000,0000,,- 安息香?  - 安息香\N{\fs14}- Storax?  - Storax
+Dialogue: 0,0:36:43.60,0:36:46.43,*Default,NTP,0000,0000,0000,,年轻人 看起来你鼻子还挺灵,但是…\N{\fs14}You have, it appears, a fine nose, young man, But a
+Dialogue: 0,0:36:46.43,0:36:48.81,*Default,NTP,0000,0000,0000,,我的鼻子能分辨世上所有的气味\N{\fs14}My nose knows all the smells in the world
+Dialogue: 0,0:36:48.81,0:36:51.61,*Default,NTP,0000,0000,0000,,是巴黎最灵的 我只是不知道名称\N{\fs14}It's the best nose in Paris, only I don't know the names
+Dialogue: 0,0:36:51.61,0:36:54.78,*Default,NTP,0000,0000,0000,,但我可以学 统统学会…\N{\fs14}I need to learn the names, learn them all
+Dialogue: 0,0:36:54.78,0:36:56.61,*Default,NTP,0000,0000,0000,,住嘴! 你别打断我说话!\N{\fs14}You don't interrupt me when I'm speaking
+Dialogue: 0,0:36:56.61,0:36:59.82,*Default,NTP,0000,0000,0000,,你这个人太无礼 太狂妄!\N{\fs14}You are both impertinent and insolent!
+Dialogue: 0,0:36:59.82,0:37:04.62,*Default,NTP,0000,0000,0000,,连我都不能分辨所有的气味!\N{\fs14}Even I don't know every scent!
+Dialogue: 0,0:37:04.62,0:37:08.04,*Default,NTP,0000,0000,0000,,我当然早就知道"爱神与赛琪"的内容组成\N{\fs14}I've, of course, known for some time the ingredients of Amor and Psyche
+Dialogue: 0,0:37:08.04,0:37:12.29,*Default,NTP,0000,0000,0000,,只要有个灵敏的鼻子就行 别无其他\N{\fs14}But all it needs to find that out is a passably fine nose, nothing else
+Dialogue: 0,0:37:14.21,0:37:18.38,*Default,NTP,0000,0000,0000,,但只有凭真正的香水专家的技艺\N{\fs14}But it needs the craft of a true perfumer
+Dialogue: 0,0:37:18.38,0:37:20.38,*Default,NTP,0000,0000,0000,,才能弄清楚具体的配方\N{\fs14}to detect the exact formula
+Dialogue: 0,0:37:20.68,0:37:25.51,*Default,NTP,0000,0000,0000,,用什么香调 什么原料及精确的用量\N{\fs14}Which notes, which chords, and in what precise measurements
+Dialogue: 0,0:37:26.56,0:37:30.23,*Default,NTP,0000,0000,0000,,你能告诉我"爱神与赛琪"的配方是什么吗?\N{\fs14}Could you tell me the exact formula of Amor and Psyche?
+Dialogue: 0,0:37:32.65,0:37:34.32,*Default,NTP,0000,0000,0000,,巴黎最灵的鼻子!\N{\fs14}Best Nose In Paris!
+Dialogue: 0,0:37:39.78,0:37:40.90,*Default,NTP,0000,0000,0000,,说话啊!\N{\fs14}Speak up!
+Dialogue: 0,0:37:42.20,0:37:46.74,*Default,NTP,0000,0000,0000,,你看 不行了吧 行吗? 我告诉你\N{\fs14}You see, you can't, can you? And I'll tell you why.
+Dialogue: 0,0:37:46.74,0:37:49.83,*Default,NTP,0000,0000,0000,,因为有点天赋那不算什么\N{\fs14}Because talent means next to nothing
+Dialogue: 0,0:37:51.92,0:37:58.30,*Default,NTP,0000,0000,0000,,多年经验 谦谨态度 辛勤工作 那才决定了一切\N{\fs14}while experience acquired in humility and hard work means everything
+Dialogue: 0,0:38:02.68,0:38:05.43,*Default,NTP,0000,0000,0000,,我不知道"配方"是什么意思\N{\fs14}I don't know what a formula is
+Dialogue: 0,0:38:05.43,0:38:07.93,*Default,NTP,0000,0000,0000,,但我现在就可以帮你把"爱神与赛琪"做出来\N{\fs14}but I can make Amor and Psyche for you now
+Dialogue: 0,0:38:09.73,0:38:12.85,*Default,NTP,0000,0000,0000,,你以为我会让你在我的实验室里胡闹?\N{\fs14}And you think I'd just let you slop around in my laboratory
+Dialogue: 0,0:38:12.85,0:38:16.36,*Default,NTP,0000,0000,0000,,用价值连城的香精油胡闹? 就凭你?\N{\fs14}with essential oils that are won't a fortune? You?
+Dialogue: 0,0:38:17.52,0:38:18.19,*Default,NTP,0000,0000,0000,,嗯\N{\fs14}Yes
+Dialogue: 0,0:38:18.19,0:38:19.61,*Default,NTP,0000,0000,0000,,听好了\N{\fs14}Now, pay attention!
+Dialogue: 0,0:38:23.24,0:38:24.74,*Default,NTP,0000,0000,0000,,你叫什么名字来着?\N{\fs14}What is your name, anyway?
+Dialogue: 0,0:38:26.83,0:38:28.37,*Default,NTP,0000,0000,0000,,让·巴蒂斯特·格雷诺耶\N{\fs14}Jean Baptiste Grenouille
+Dialogue: 0,0:38:31.37,0:38:33.96,*Default,NTP,0000,0000,0000,,好吧 让·巴蒂斯特·格雷诺耶\N{\fs14}Very well, Jean Baptiste Grenouille
+Dialogue: 0,0:38:35.79,0:38:39.38,*Default,NTP,0000,0000,0000,,我给你个机会 让你证明你说的话\N{\fs14}You shall have the opportunity now, this very moment, to prove your assertion
+Dialogue: 0,0:38:39.38,0:38:41.84,*Default,NTP,0000,0000,0000,,你会败得很惨\N{\fs14}Your grandiose failure will also be an opportunity for you
+Dialogue: 0,0:38:41.84,0:38:44.05,*Default,NTP,0000,0000,0000,,但这也是让你学习谦虚美德的一个机会\N{\fs14}to learn the virtue of humility
+Dialogue: 0,0:38:44.05,0:38:45.80,*Default,NTP,0000,0000,0000,,你想让我做多少?\N{\fs14}How much do you want me to make?
+Dialogue: 0,0:38:45.80,0:38:47.60,*Default,NTP,0000,0000,0000,,多少什么?\N{\fs14}How much of what?
+Dialogue: 0,0:38:47.60,0:38:49.43,*Default,NTP,0000,0000,0000,,爱神与赛琪 你想要多少?\N{\fs14}How much Amor and Psyche do you want?
+Dialogue: 0,0:38:52.18,0:38:53.85,*Default,NTP,0000,0000,0000,,要把这个烧瓶装满吗?\N{\fs14}Shall I fill this flask?
+Dialogue: 0,0:38:53.85,0:38:55.94,*Default,NTP,0000,0000,0000,,别! 你休想!\N{\fs14}No! You shall not!
+Dialogue: 0,0:39:05.61,0:39:06.82,*Default,NTP,0000,0000,0000,,把这个装满吧\N{\fs14}You may fill this one
+Dialogue: 0,0:39:06.95,0:39:08.03,*Default,NTP,0000,0000,0000,,是的 师傅\N{\fs14}Yes, master
+Dialogue: 0,0:39:11.37,0:39:13.79,*Default,NTP,0000,0000,0000,,但是 巴尔迪尼先生\N{\fs14}But, Master Baldini?
+Dialogue: 0,0:39:13.79,0:39:17.00,*Default,NTP,0000,0000,0000,,您得让我照我自己的法子来\N{\fs14}You must let me do it in my own way
+Dialogue: 0,0:39:17.00,0:39:18.25,*Default,NTP,0000,0000,0000,,随你便吧\N{\fs14}As you please
+Dialogue: 0,0:39:24.09,0:39:25.34,*Default,NTP,0000,0000,0000,,别!\N{\fs14}No!
+Dialogue: 0,0:39:25.34,0:39:27.85,*Default,NTP,0000,0000,0000,,小心摔了 那可是纯酒精!\N{\fs14}Don't drop that! That's pure alcohol!
+Dialogue: 0,0:39:27.85,0:39:29.72,*Default,NTP,0000,0000,0000,,你想把整个房子都烧了吗?\N{\fs14}You want to blow up the entire building?
+Dialogue: 0,0:39:32.64,0:39:34.14,*Default,NTP,0000,0000,0000,,你得先用量筒\N{\fs14}You have to measure it first
+Dialogue: 0,0:40:23.23,0:40:27.07,*Default,NTP,0000,0000,0000,,够了! 给我停下! 停下!\N{\fs14}Stop! Stop it! That's enough!
+Dialogue: 0,0:40:27.07,0:40:28.91,*Default,NTP,0000,0000,0000,,你屁也不懂!\N{\fs14}You know nothing!
+Dialogue: 0,0:40:28.91,0:40:33.70,*Default,NTP,0000,0000,0000,,得先混合精油 然后才添进酒精\N{\fs14}Essential oils are always to be mixed first, then the alcohol added
+Dialogue: 0,0:40:33.70,0:40:36.62,*Default,NTP,0000,0000,0000,,还有 香水哪能那样乱摇的!\N{\fs14}And never, ever is perfume to be shaken like that!
+Dialogue: 0,0:40:36.96,0:40:40.46,*Default,NTP,0000,0000,0000,,我真是昏了头 居然听信了你的胡说八道!\N{\fs14}I must have been insane to listen to your asinine gibberish!
+Dialogue: 0,0:40:42.75,0:40:43.59,*Default,NTP,0000,0000,0000,,做好了\N{\fs14}It's all done
+Dialogue: 0,0:41:30.01,0:41:31.93,*Default,NTP,0000,0000,0000,,真的是爱神与赛琪\N{\fs14}This is Amor and Psyche
+Dialogue: 0,0:41:33.10,0:41:35.47,*Default,NTP,0000,0000,0000,,这香水不好 师傅\N{\fs14}But it's not a good perfume, master
+Dialogue: 0,0:41:37.14,0:41:40.52,*Default,NTP,0000,0000,0000,,如果您允许我再来一次的话 师傅 我可以改进它\N{\fs14}If you let me again, master, I'll make it more better
+Dialogue: 0,0:42:55.76,0:42:57.68,*Default,NTP,0000,0000,0000,,这香水就相当好了\N{\fs14}Now it's a really good perfume
+Dialogue: 0,0:43:04.73,0:43:07.06,*Default,NTP,0000,0000,0000,,您不想闻一下吗 师傅?\N{\fs14}Don't you want to smell it, master?
+Dialogue: 0,0:43:07.06,0:43:11.40,*Default,NTP,0000,0000,0000,,现在没心情 我有别的事要操心 你走吧\N{\fs14}I'm not in the mood to test it now, I have other things on my mind, Go now
+Dialogue: 0,0:43:13.90,0:43:16.20,*Default,NTP,0000,0000,0000,,- 但是师傅  - 快走吧!\N{\fs14}- But, master.  - Go! Now!
+Dialogue: 0,0:43:31.42,0:43:33.72,*Default,NTP,0000,0000,0000,,让我在您这儿工作吧 师傅 行吗?\N{\fs14}Can I come to work for you, master? Can I?
+Dialogue: 0,0:43:36.68,0:43:37.97,*Default,NTP,0000,0000,0000,,我得仔细考虑一下\N{\fs14}Let me think about it
+Dialogue: 0,0:43:37.97,0:43:38.89,*Default,NTP,0000,0000,0000,,师傅!\N{\fs14}Master!
+Dialogue: 0,0:43:40.51,0:43:42.98,*Default,NTP,0000,0000,0000,,我必须学会怎样保存气味!\N{\fs14}I have to learn how to keep smell!
+Dialogue: 0,0:43:45.10,0:43:46.02,*Default,NTP,0000,0000,0000,,什么?\N{\fs14}What?
+Dialogue: 0,0:43:47.40,0:43:48.77,*Default,NTP,0000,0000,0000,,你能教我吗?\N{\fs14}Can you teach me that?
+Dialogue: 0,0:43:50.07,0:43:52.57,*Default,NTP,0000,0000,0000,,我得想想 你走吧\N{\fs14}I shall have to think about it, Now, go
+Dialogue: 0,0:44:38.74,0:44:39.99,*Default,NTP,0000,0000,0000,,我爱你\N{\fs14}I love you
+Dialogue: 0,0:44:46.83,0:44:48.71,*Default,NTP,0000,0000,0000,,我给你五十法郎 把他买下\N{\fs14}I'll give you 50 francs for him
+Dialogue: 0,0:44:48.71,0:44:52.96,*Default,NTP,0000,0000,0000,,我说什么了? 用尽你全身的力气去推!\N{\fs14}What have I said? Put your measly weight behind it and push!
+Dialogue: 0,0:44:52.96,0:44:55.01,*Default,NTP,0000,0000,0000,,- 继续推!  - 快啊 贱骨头!\N{\fs14}- Keep pulling!  - Come on, you heap of bones!
+Dialogue: 0,0:44:55.01,0:44:56.55,*Default,NTP,0000,0000,0000,,推! 用力推!\N{\fs14}Push! Push hard!
+Dialogue: 0,0:44:56.55,0:44:57.72,*Default,NTP,0000,0000,0000,,格雷诺耶!\N{\fs14}Grenouille!
+Dialogue: 0,0:44:58.47,0:45:02.26,*Default,NTP,0000,0000,0000,,格里马的交易对三方人士都影响重大\N{\fs14}Grimal's transaction had a profound effect on all three parties
+Dialogue: 0,0:45:02.26,0:45:03.72,*Default,NTP,0000,0000,0000,,嘿 小心!\N{\fs14}Hey, watch out!
+Dialogue: 0,0:45:07.02,0:45:09.85,*Default,NTP,0000,0000,0000,,对他自己 也殊非轻忽\N{\fs14}Not least upon Monsieur Grimal himself
+Dialogue: 0,0:45:12.98,0:45:14.86,*Default,NTP,0000,0000,0000,,至于巴尔迪尼\N{\fs14}As for Giuseppe Baldini
+Dialogue: 0,0:45:14.86,0:45:19.95,*Default,NTP,0000,0000,0000,,他本渐衰落的商店 竟奇迹般地复苏了\N{\fs14}the acquisition of Grenouille miraculously transformed his dwindling business
+Dialogue: 0,0:45:19.95,0:45:22.70,*Default,NTP,0000,0000,0000,,甚至超越了当年全盛时期的景况\N{\fs14}even surpassing its former glory
+Dialogue: 0,0:45:30.83,0:45:33.25,*Default,NTP,0000,0000,0000,,而对让·巴蒂斯特而言\N{\fs14}While at last, for Jean Baptiste
+Dialogue: 0,0:45:33.25,0:45:37.51,*Default,NTP,0000,0000,0000,,香水制作的神秘工艺也终于在他面前呈现\N{\fs14}the mysterious secrets of the perfumer's craft began to unfold
+Dialogue: 0,0:45:41.76,0:45:43.43,*Default,NTP,0000,0000,0000,,他是个天才!\N{\fs14}He's a genius!
+Dialogue: 0,0:45:43.43,0:45:44.22,*Default,NTP,0000,0000,0000,,真是太好了!\N{\fs14}It's magnificent!
+Dialogue: 0,0:45:44.22,0:45:46.93,*Default,NTP,0000,0000,0000,,仔细听着我的话\N{\fs14}Now, pay careful attention to what I tell you
+Dialogue: 0,0:45:46.93,0:45:51.56,*Default,NTP,0000,0000,0000,,正如和弦音一样 香水的调子也包含着四种要素或原料\N{\fs14}Just like a musical chord, a perfume chord contains four essences
+Dialogue: 0,0:45:51.56,0:45:55.90,*Default,NTP,0000,0000,0000,,都经过精心选择 以达到和谐统一\N{\fs14}or notes, carefully selected for their harmonic affinity
+Dialogue: 0,0:45:55.90,0:45:58.99,*Default,NTP,0000,0000,0000,,每种香水有三调\N{\fs14}Each perfume contains three chords:
+Dialogue: 0,0:45:58.99,0:46:04.62,*Default,NTP,0000,0000,0000,,前调 中调 和后调 总体有十二种香料\N{\fs14}The head, the heart and the base, necessitating twelve notes in all
+Dialogue: 0,0:46:04.62,0:46:07.66,*Default,NTP,0000,0000,0000,,前调是最初的体验\N{\fs14}The head chord contains the first impression
+Dialogue: 0,0:46:07.66,0:46:11.54,*Default,NTP,0000,0000,0000,,停留几分钟然后中调步入\N{\fs14}lasting a few minutes before giving way to the heart chord
+Dialogue: 0,0:46:11.54,0:46:15.38,*Default,NTP,0000,0000,0000,,那是香水的主题 会停留几个小时\N{\fs14}the theme of the perfume, lasting several hours
+Dialogue: 0,0:46:15.38,0:46:18.26,*Default,NTP,0000,0000,0000,,末了是后调\N{\fs14}Finally, the base chord
+Dialogue: 0,0:46:18.26,0:46:22.05,*Default,NTP,0000,0000,0000,,香水的余韵会停留几天\N{\fs14}the trail of the perfume, lasting several days
+Dialogue: 0,0:46:26.47,0:46:28.31,*Default,NTP,0000,0000,0000,,记住 古埃及人相信\N{\fs14}Mind you, the ancient Egyptians believed
+Dialogue: 0,0:46:28.31,0:46:31.56,*Default,NTP,0000,0000,0000,,要制造出真正新颖的香水\N{\fs14}that one can only create a truly original perfume
+Dialogue: 0,0:46:31.56,0:46:36.65,*Default,NTP,0000,0000,0000,,还必须外加一种香料\N{\fs14}by adding an extra note, one final essence
+Dialogue: 0,0:46:36.65,0:46:40.53,*Default,NTP,0000,0000,0000,,它要能脱颖而出 臣服其它的味道\N{\fs14}that will ring out and dominate the others
+Dialogue: 0,0:46:43.28,0:46:47.99,*Default,NTP,0000,0000,0000,,传说在一位法老的坟墓中曾发掘出一个双耳陶瓶\N{\fs14}Legend has it that an amphora was once found in a pharaoh's tomb
+Dialogue: 0,0:46:47.99,0:46:51.83,*Default,NTP,0000,0000,0000,,打开之后 其中释放香水芳香\N{\fs14}and when it was opened a perfume was released
+Dialogue: 0,0:46:51.83,0:46:55.15,*Default,NTP,0000,0000,0000,,千载之后依然萦绕不散\N{\fs14}After all those thousands of years,
+Dialogue: 0,0:46:55.15,0:46:59.10,*Default,NTP,0000,0000,0000,,那芬郁气息细腻而又强烈\N{\fs14}a perfume of such subtle beauty and yet such power
+Dialogue: 0,0:46:59.10,0:47:06.43,*Default,NTP,0000,0000,0000,,一时间 地球上所有人都以为自己进入了天堂\N{\fs14}that for one single moment every person on earth believed they were in paradise
+Dialogue: 0,0:47:08.22,0:47:11.93,*Default,NTP,0000,0000,0000,,其中十二中要素都被分辨了出来\N{\fs14}Twelve essences could be identified
+Dialogue: 0,0:47:11.93,0:47:15.81,*Default,NTP,0000,0000,0000,,但最后第十三种 最重要的那种\N{\fs14}but the 13th, the vital one
+Dialogue: 0,0:47:17.65,0:47:19.82,*Default,NTP,0000,0000,0000,,却永远无从判断\N{\fs14}could never be determined
+Dialogue: 0,0:47:21.65,0:47:22.44,*Default,NTP,0000,0000,0000,,为什么?\N{\fs14}Why not?
+Dialogue: 0,0:47:24.70,0:47:28.45,*Default,NTP,0000,0000,0000,,为什么? 什么为什么?\N{\fs14}Why not? What do you mean, why not?
+Dialogue: 0,0:47:28.45,0:47:31.16,*Default,NTP,0000,0000,0000,,那是传说啊 笨蛋!\N{\fs14}Because it's a legend, numbskull!
+Dialogue: 0,0:47:32.45,0:47:33.79,*Default,NTP,0000,0000,0000,,什么叫"传说"?\N{\fs14}What's a legend?
+Dialogue: 0,0:47:36.13,0:47:37.08,*Default,NTP,0000,0000,0000,,算了吧\N{\fs14}Never mind
+Dialogue: 0,0:48:19.54,0:48:22.21,*Default,NTP,0000,0000,0000,,让·巴蒂斯特 让·巴蒂斯特?\N{\fs14}Jean Baptiste, Jean Baptiste?
+Dialogue: 0,0:48:27.80,0:48:29.72,*Default,NTP,0000,0000,0000,,怎么了?\N{\fs14}What's the matter?
+Dialogue: 0,0:48:29.72,0:48:33.39,*Default,NTP,0000,0000,0000,,师傅 我得学会怎么捕捉气味\N{\fs14}Master, I have to learn how to capture scent
+Dialogue: 0,0:48:36.52,0:48:37.77,*Default,NTP,0000,0000,0000,,你在说什么?\N{\fs14}What are you talking about?
+Dialogue: 0,0:48:38.35,0:48:42.94,*Default,NTP,0000,0000,0000,,我得学会怎么捕捉气味然后永远拥有它\N{\fs14}I have to learn how to capture scent and reprise it forever
+Dialogue: 0,0:48:43.61,0:48:44.61,*Default,NTP,0000,0000,0000,,你是说 保藏\N{\fs14}You mean, preserve
+Dialogue: 0,0:48:44.61,0:48:46.28,*Default,NTP,0000,0000,0000,,你得要教我\N{\fs14}You have to teach me that
+Dialogue: 0,0:48:46.28,0:48:49.41,*Default,NTP,0000,0000,0000,,好的 冷静 我的孩子\N{\fs14}All right, Calm down, my boy
+Dialogue: 0,0:48:49.41,0:48:50.16,*Default,NTP,0000,0000,0000,,冷静\N{\fs14}Calm down
+Dialogue: 0,0:48:50.91,0:48:54.24,*Default,NTP,0000,0000,0000,,我们有工作要做的\N{\fs14}We have work to do
+Dialogue: 0,0:48:54.24,0:48:58.00,*Default,NTP,0000,0000,0000,,生命的精魂就在于气味\N{\fs14}The soul of beings is their scent
+Dialogue: 0,0:48:58.00,0:48:59.67,*Default,NTP,0000,0000,0000,,这话是您说的 师傅\N{\fs14}You said that, master
+Dialogue: 0,0:49:01.38,0:49:02.00,*Default,NTP,0000,0000,0000,,是吗?\N{\fs14}Did I?
+Dialogue: 0,0:49:02.54,0:49:05.01,*Default,NTP,0000,0000,0000,,您要多少香水我都可以做\N{\fs14}I will make you as many perfumes as you want
+Dialogue: 0,0:49:05.01,0:49:09.18,*Default,NTP,0000,0000,0000,,但您必须教会我怎么捕捉万物的气味\N{\fs14}but you have to teach me how to capture the smell of all things
+Dialogue: 0,0:49:11.01,0:49:11.97,*Default,NTP,0000,0000,0000,,行吗?\N{\fs14}Can you do that?
+Dialogue: 0,0:49:13.85,0:49:15.81,*Default,NTP,0000,0000,0000,,唔 当然了\N{\fs14}Well, naturally
+Dialogue: 0,0:49:16.14,0:49:18.02,*Default,NTP,0000,0000,0000,,那把您知道的都教给我吧\N{\fs14}Then teach me everything you know
+Dialogue: 0,0:49:21.69,0:49:23.98,*Default,NTP,0000,0000,0000,,我会给您制作世上最好的香水\N{\fs14}and I'll make you the best perfume in the whole world
+Dialogue: 0,0:49:34.99,0:49:36.58,*Default,NTP,0000,0000,0000,,小心\N{\fs14}Mind yourselves
+Dialogue: 0,0:49:42.08,0:49:44.38,*Default,NTP,0000,0000,0000,,想想看啊 让·巴蒂斯特\N{\fs14}Imagine, Jean Baptiste
+Dialogue: 0,0:49:44.38,0:49:50.84,*Default,NTP,0000,0000,0000,,上万朵玫瑰才凝成一盎司的精油\N{\fs14}ten thousand roses to produce one single ounce of essential oil
+Dialogue: 0,0:49:50.84,0:49:52.47,*Default,NTP,0000,0000,0000,,就是这些了\N{\fs14}That's the last of them
+Dialogue: 0,0:49:52.47,0:49:59.06,*Default,NTP,0000,0000,0000,,保持空气流动 别把底下的花朵闷坏了\N{\fs14}Now, keep the air flowing or the bottom petals will begin to stew
+Dialogue: 0,0:49:59.06,0:50:02.69,*Default,NTP,0000,0000,0000,,我去把炉子架起来 可别碰伤了它们\N{\fs14}while I set up the alembic, And take care not to damage them
+Dialogue: 0,0:50:02.77,0:50:07.03,*Default,NTP,0000,0000,0000,,它们死去时 芳香必须丝毫无损\N{\fs14}We have to let them go to their deaths with their scent intact
+Dialogue: 0,0:50:25.09,0:50:26.25,*Default,NTP,0000,0000,0000,,很好\N{\fs14}Perfect
+Dialogue: 0,0:50:26.34,0:50:28.63,*Default,NTP,0000,0000,0000,,帮我把这盖子架上\N{\fs14}Now, help me with the Moor's head
+Dialogue: 0,0:50:42.19,0:50:43.85,*Default,NTP,0000,0000,0000,,温度至关重要\N{\fs14}Temperature is vital
+Dialogue: 0,0:50:43.85,0:50:47.48,*Default,NTP,0000,0000,0000,,水银达到刻度这里的时候热度就刚刚好\N{\fs14}When the quicksilver is here, the heat is precisely correct
+Dialogue: 0,0:50:47.48,0:50:49.99,*Default,NTP,0000,0000,0000,,精油缓缓由此上升\N{\fs14}and the oil will gradually rise
+Dialogue: 0,0:50:51.90,0:50:57.95,*Default,NTP,0000,0000,0000,,这机制可不同寻常 是我自己设计的\N{\fs14}Note that this mechanism is a remarkable invention of my own devising
+Dialogue: 0,0:50:57.95,0:51:04.75,*Default,NTP,0000,0000,0000,,你能看到抽上来的冷水通过这里\N{\fs14}You will observe how cold water is pumped through here
+Dialogue: 0,0:51:04.75,0:51:09.88,*Default,NTP,0000,0000,0000,,让精油就在这部分冷凝\N{\fs14}allowing the essence to condense here
+Dialogue: 0,0:51:09.88,0:51:16.80,*Default,NTP,0000,0000,0000,,最终在此积聚\N{\fs14}until it finally, appears, here
+Dialogue: 0,0:51:17.89,0:51:21.31,*Default,NTP,0000,0000,0000,,当然 在格拉斯的山野上\N{\fs14}Of course, out on the hillside above Grasse
+Dialogue: 0,0:51:21.31,0:51:25.52,*Default,NTP,0000,0000,0000,,我们只用纯净的新鲜空气就行了\N{\fs14}we had only to bellow pure, fresh air
+Dialogue: 0,0:51:25.52,0:51:27.11,*Default,NTP,0000,0000,0000,,啊 格拉斯\N{\fs14}Ah, Grasse
+Dialogue: 0,0:51:27.61,0:51:28.90,*Default,NTP,0000,0000,0000,,多好的镇子啊\N{\fs14}What a town
+Dialogue: 0,0:51:30.65,0:51:36.24,*Default,NTP,0000,0000,0000,,芬芳的古城 香水的宝地\N{\fs14}The Rome of scents, The Promised Land of perfume
+Dialogue: 0,0:51:37.62,0:51:42.54,*Default,NTP,0000,0000,0000,,没在那神圣的地方历练过的人\N{\fs14}No man can rightly call himself a perfumer
+Dialogue: 0,0:51:42.54,0:51:47.00,*Default,NTP,0000,0000,0000,,就不配自称香水制造者\N{\fs14}unless he has proved his won't in that hallowed place
+Dialogue: 0,0:51:49.42,0:51:51.96,*Default,NTP,0000,0000,0000,,不必担心 一直都这样\N{\fs14}Not to worry, Happens all the time
+Dialogue: 0,0:51:54.09,0:51:54.84,*Default,NTP,0000,0000,0000,,敬格拉斯一杯\N{\fs14}To Grasse
+Dialogue: 0,0:52:13.32,0:52:16.78,*Default,NTP,0000,0000,0000,,师傅 看\N{\fs14}Master, Look
+Dialogue: 0,0:52:22.20,0:52:24.75,*Default,NTP,0000,0000,0000,,玫瑰的精魂\N{\fs14}The very soul of the rose
+Dialogue: 0,0:53:18.97,0:53:20.09,*Default,NTP,0000,0000,0000,,让·巴蒂斯特\N{\fs14}Jean Baptiste
+Dialogue: 0,0:53:23.35,0:53:24.35,*Default,NTP,0000,0000,0000,,怎么了?\N{\fs14}What's wrong?
+Dialogue: 0,0:53:25.93,0:53:27.02,*Default,NTP,0000,0000,0000,,让·巴蒂斯特\N{\fs14}Jean Baptiste
+Dialogue: 0,0:53:30.85,0:53:31.90,*Default,NTP,0000,0000,0000,,你都做了些什么啊?\N{\fs14}What have you done?
+Dialogue: 0,0:53:32.52,0:53:34.15,*Default,NTP,0000,0000,0000,,你说谎\N{\fs14}You lied
+Dialogue: 0,0:53:34.15,0:53:35.53,*Default,NTP,0000,0000,0000,,什么?\N{\fs14}What?
+Dialogue: 0,0:53:35.53,0:53:37.78,*Default,NTP,0000,0000,0000,,你骗我\N{\fs14}You lied to me
+Dialogue: 0,0:53:37.78,0:53:40.49,*Default,NTP,0000,0000,0000,,你敢这样跟我说话?\N{\fs14}How dare you talk to me like that
+Dialogue: 0,0:53:42.07,0:53:44.28,*Default,NTP,0000,0000,0000,,你说我可以捕捉所有东西的气味\N{\fs14}You said I could capture the scent of anything
+Dialogue: 0,0:53:45.70,0:53:46.87,*Default,NTP,0000,0000,0000,,是可以的啊\N{\fs14}And so you can
+Dialogue: 0,0:53:51.08,0:53:52.46,*Default,NTP,0000,0000,0000,,你闻闻看 这是什么?\N{\fs14}What do you smell?
+Dialogue: 0,0:53:53.67,0:53:54.71,*Default,NTP,0000,0000,0000,,这是什么?\N{\fs14}What do you smell?
+Dialogue: 0,0:54:00.55,0:54:01.34,*Default,NTP,0000,0000,0000,,什么也没有\N{\fs14}Nothing
+Dialogue: 0,0:54:04.68,0:54:06.97,*Default,NTP,0000,0000,0000,,你指望它闻起来什么味道?\N{\fs14}What were you expecting to smell?
+Dialogue: 0,0:54:06.97,0:54:08.06,*Default,NTP,0000,0000,0000,,玻璃味\N{\fs14}Glass
+Dialogue: 0,0:54:08.89,0:54:10.89,*Default,NTP,0000,0000,0000,,可是玻璃没有味道\N{\fs14}But glass doesn't smell
+Dialogue: 0,0:54:10.89,0:54:13.06,*Default,NTP,0000,0000,0000,,当然有了 这是什么?\N{\fs14}Course it does, What's this?
+Dialogue: 0,0:54:18.19,0:54:19.70,*Default,NTP,0000,0000,0000,,我什么也闻不出来\N{\fs14}I don't smell a thing
+Dialogue: 0,0:54:21.70,0:54:23.03,*Default,NTP,0000,0000,0000,,应该是铜的味道!\N{\fs14}It should smell like copper!
+Dialogue: 0,0:54:23.03,0:54:23.99,*Default,NTP,0000,0000,0000,,够了!\N{\fs14}Enough!
+Dialogue: 0,0:54:26.83,0:54:30.71,*Default,NTP,0000,0000,0000,,你想蒸馏铜的味道?\N{\fs14}You were trying to distill the smell of copper?
+Dialogue: 0,0:54:31.21,0:54:34.34,*Default,NTP,0000,0000,0000,,铁 玻璃 铜?\N{\fs14}Iron? Glass? Copper?
+Dialogue: 0,0:54:38.59,0:54:40.22,*Default,NTP,0000,0000,0000,,你还试了什么?\N{\fs14}What else did you try?
+Dialogue: 0,0:54:44.18,0:54:45.14,*Default,NTP,0000,0000,0000,,不!\N{\fs14}No!
+Dialogue: 0,0:54:46.06,0:54:49.02,*Default,NTP,0000,0000,0000,,你是不是疯了? !\N{\fs14}Have you gone completely insane?!
+Dialogue: 0,0:54:50.02,0:54:52.14,*Default,NTP,0000,0000,0000,,你说要我实验的\N{\fs14}You told me I had to experiment
+Dialogue: 0,0:54:52.69,0:54:54.10,*Default,NTP,0000,0000,0000,,实验?\N{\fs14}Experiment?
+Dialogue: 0,0:54:54.10,0:54:57.98,*Default,NTP,0000,0000,0000,,实验?  你别拿猫啊\N{\fs14}Experiment?! But not with the cat
+Dialogue: 0,0:55:00.99,0:55:02.99,*Default,NTP,0000,0000,0000,,你这人怎么这样? !\N{\fs14}What kind of a human being are you?
+Dialogue: 0,0:55:03.57,0:55:05.49,*Default,NTP,0000,0000,0000,,什么都不懂吗?!\N{\fs14}Don't you know anything?!
+Dialogue: 0,0:55:05.49,0:55:07.99,*Default,NTP,0000,0000,0000,,猫的味道是不可能蒸馏出来的\N{\fs14}You can no more distill the scent of a cat
+Dialogue: 0,0:55:07.99,0:55:10.00,*Default,NTP,0000,0000,0000,,正如你同我的味道一样 不行的\N{\fs14}than you can distill the scent of you or me
+Dialogue: 0,0:55:21.42,0:55:22.30,*Default,NTP,0000,0000,0000,,不行吗?\N{\fs14}I can't?
+Dialogue: 0,0:55:22.38,0:55:23.84,*Default,NTP,0000,0000,0000,,当然不行\N{\fs14}Of course not!
+Dialogue: 0,0:55:31.35,0:55:33.89,*Default,NTP,0000,0000,0000,,- 他已经病入膏肓了  - 什么?\N{\fs14}- He is in stadio ultimo,  - What?
+Dialogue: 0,0:55:33.89,0:55:36.48,*Default,NTP,0000,0000,0000,,- 他快死了  - 难道没有解救的方法吗?\N{\fs14}- He's dying,  - Is there nothing you can do?
+Dialogue: 0,0:55:36.48,0:55:39.11,*Default,NTP,0000,0000,0000,,- 恐怕没有  - 不行!\N{\fs14}- I fear not  - No
+Dialogue: 0,0:55:39.11,0:55:42.40,*Default,NTP,0000,0000,0000,,- 他不能死啊  - 诊金50法郎\N{\fs14}- He cannot die,  - Well, my fee is 50 francs
+Dialogue: 0,0:55:42.40,0:55:46.12,*Default,NTP,0000,0000,0000,,50法郎? 有没有搞错! 你甚至都没诊断出他得了什么病!\N{\fs14}50 francs?! You charlatan! You can't even name the disease!
+Dialogue: 0,0:55:55.46,0:55:59.75,*Default,NTP,0000,0000,0000,,让·巴蒂斯特 别这样对待我 请别因我而死\N{\fs14}You cannot do this to me, Please, don't die on me
+Dialogue: 0,0:56:00.21,0:56:02.34,*Default,NTP,0000,0000,0000,,别死 别现在死啊\N{\fs14}Not now, Not yet
+Dialogue: 0,0:56:13.89,0:56:26.28,*Default,NTP,0000,0000,0000,,除了蒸馏之外还有别的办法能保存事物的气味吗?\N{\fs14}Is there any other way to preserve smell besides distill it?
+Dialogue: 0,0:56:26.78,0:56:27.99,*Default,NTP,0000,0000,0000,,让·巴蒂斯特?\N{\fs14}Jean Baptiste?
+Dialogue: 0,0:56:33.45,0:56:34.79,*Default,NTP,0000,0000,0000,,有吗 师傅?\N{\fs14}Is there, master?
+Dialogue: 0,0:56:36.17,0:56:39.59,*Default,NTP,0000,0000,0000,,有 我想是有办法的\N{\fs14}Well, yes, I believe there is
+Dialogue: 0,0:56:40.88,0:56:42.13,*Default,NTP,0000,0000,0000,,怎样?\N{\fs14}What is it?
+Dialogue: 0,0:56:44.72,0:56:48.76,*Default,NTP,0000,0000,0000,,这种神秘的技艺 叫做油脂离析法\N{\fs14}It is known as the mysterious art of enfleurage
+Dialogue: 0,0:56:51.43,0:56:52.81,*Default,NTP,0000,0000,0000,,您能教我吗?\N{\fs14}Can you teach me?
+Dialogue: 0,0:56:56.31,0:56:59.15,*Default,NTP,0000,0000,0000,,连我都不知道其中秘密啊\N{\fs14}Not even I am intimate with its secrets
+Dialogue: 0,0:57:02.61,0:57:04.90,*Default,NTP,0000,0000,0000,,那我能去格拉斯学到吗?\N{\fs14}But could I learn it in Grasse?
+Dialogue: 0,0:57:06.11,0:57:07.03,*Default,NTP,0000,0000,0000,,唔\N{\fs14}Well
+Dialogue: 0,0:57:07.74,0:57:08.86,*Default,NTP,0000,0000,0000,,能吗?\N{\fs14}Could I?
+Dialogue: 0,0:57:14.87,0:57:17.12,*Default,NTP,0000,0000,0000,,当然是在格拉斯 还能在哪呢?\N{\fs14}Where else but in Grasse?
+Dialogue: 0,0:57:24.17,0:57:26.97,*Default,NTP,0000,0000,0000,,一星期内 格雷诺耶就完全康复了\N{\fs14}Within a week Grenouille was well again
+Dialogue: 0,0:57:26.97,0:57:29.51,*Default,NTP,0000,0000,0000,,但如果想去格拉斯找工作\N{\fs14}but in order to travel to Grasse and find a job
+Dialogue: 0,0:57:29.51,0:57:32.05,*Default,NTP,0000,0000,0000,,他需要一份学徒升熟练工的满师证书\N{\fs14}he needed a journey mars papers
+Dialogue: 0,0:57:32.60,0:57:34.81,*Default,NTP,0000,0000,0000,,巴尔迪尼答应给他开一份文书\N{\fs14}Baldini agreed to provide them
+Dialogue: 0,0:57:34.81,0:57:37.23,*Default,NTP,0000,0000,0000,,前提是格雷诺耶为他留下\N{\fs14}on condition that Grenouille left him not less
+Dialogue: 0,0:57:37.23,0:57:40.10,*Default,NTP,0000,0000,0000,,不少于一百种新香水的配方\N{\fs14}than one hundred formulas for new perfumes
+Dialogue: 0,0:57:41.56,0:57:45.44,*Default,NTP,0000,0000,0000,,格雷诺耶并不介怀 要一千种配方都无所谓\N{\fs14}Grenouille did not mind, He could have given him a thousand
+Dialogue: 0,0:57:51.45,0:57:55.87,*Default,NTP,0000,0000,0000,,格雷诺耶离去的那早 巴尔迪尼心情颇为愉快\N{\fs14}The morning of Grenouilleis departure, Baldini was pleased
+Dialogue: 0,0:57:55.87,0:58:00.54,*Default,NTP,0000,0000,0000,,他觉得多年来的辛勤工作总算有了回报\N{\fs14}At last, he felt rewarded for his many years of hard work
+Dialogue: 0,0:58:00.54,0:58:03.79,*Default,NTP,0000,0000,0000,,这是他一生记忆中最快乐的一天\N{\fs14}He could not remember a happier day
+Dialogue: 0,0:58:03.79,0:58:07.34,*Default,NTP,0000,0000,0000,,他满心欢喜地回去睡觉\N{\fs14}Deeply satisfied, he went back to sleep
+Dialogue: 0,0:58:07.34,0:58:09.93,*Default,NTP,0000,0000,0000,,从此便长眠不醒\N{\fs14}and awoke no more in this life
+Dialogue: 0,0:58:29.61,0:58:34.37,*Default,NTP,0000,0000,0000,,格雷诺耶每离城市远一些 他就越觉快乐\N{\fs14}With every step Grenouille took away from the city, the happier he felt
+Dialogue: 0,0:58:34.87,0:58:39.91,*Default,NTP,0000,0000,0000,,周围的空气变得清晰 纯净 明洁\N{\fs14}The air above him grew clearer, purer, cleaner
+Dialogue: 0,0:58:39.91,0:58:43.08,*Default,NTP,0000,0000,0000,,他终于得以自由呼吸\N{\fs14}and at last he was able to breathe freely
+Dialogue: 0,0:58:46.71,0:58:50.17,*Default,NTP,0000,0000,0000,,去格拉斯有两条路\N{\fs14}There were two ways to reach Grasse
+Dialogue: 0,0:58:50.17,0:58:53.43,*Default,NTP,0000,0000,0000,,第一条路蜿蜒穿过村落\N{\fs14}The first followed the winding roads through the villages
+Dialogue: 0,0:58:53.43,0:58:58.18,*Default,NTP,0000,0000,0000,,第二条路则直接翻过山岭 下达普罗旺斯\N{\fs14}while the second lead straight across the hills and mountains, down into Provence
+Dialogue: 0,0:58:59.98,0:59:02.02,*Default,NTP,0000,0000,0000,,选择显而易见\N{\fs14}The choice was quite easy
+Dialogue: 0,0:59:06.15,0:59:11.53,*Default,NTP,0000,0000,0000,,他的鼻子指引他远离人烟\N{\fs14}Thus his nose led him ever higher, ever further from mankind
+Dialogue: 0,0:59:11.53,0:59:16.78,*Default,NTP,0000,0000,0000,,愈高愈远 愈孤寂荒凉 寂寞有如磁极 引领他前往顶峰\N{\fs14}ever more towards the magnetic, pole of the greatest possible solitude
+Dialogue: 0,0:59:55.61,1:00:00.33,*Default,NTP,0000,0000,0000,,一时间 格雷诺耶简直不相信他找到了一处\N{\fs14}Grenouille needed a moment to believe that he had actually found a spot on earth
+Dialogue: 0,1:00:00.33,1:00:03.16,*Default,NTP,0000,0000,0000,,几乎全无气味的地方\N{\fs14}where scent was almost absent
+Dialogue: 0,1:00:08.42,1:00:12.84,*Default,NTP,0000,0000,0000,,周围铺展着的只有死寂的石头的宁静气息\N{\fs14}Spread all around lay nothing but the tranquil scent of dead stone
+Dialogue: 0,1:00:16.47,1:00:19.01,*Default,NTP,0000,0000,0000,,这是片神圣的地方\N{\fs14}There was something sacred about this place
+Dialogue: 0,1:00:23.23,1:00:26.69,*Default,NTP,0000,0000,0000,,没有外界事物的侵扰\N{\fs14}No longer distracted by anything external
+Dialogue: 0,1:00:26.69,1:00:31.23,*Default,NTP,0000,0000,0000,,他终于可以沐浴在自我之中\N{\fs14}he was finally able to bask in his own existence
+Dialogue: 0,1:00:32.90,1:00:35.28,*Default,NTP,0000,0000,0000,,感觉极其美妙\N{\fs14}and found it splendid
+Dialogue: 0,1:00:43.62,1:00:47.58,*Default,NTP,0000,0000,0000,,如此过了一阵 他几乎忘了自己的野心和执念\N{\fs14}After a while, he almost forgot his plans and obsessions
+Dialogue: 0,1:00:49.46,1:00:52.92,*Default,NTP,0000,0000,0000,,差点也就全然放弃了\N{\fs14}and, indeed, might have done so altogether
+Dialogue: 0,1:01:07.94,1:01:09.10,*Default,NTP,0000,0000,0000,,喂?\N{\fs14}Hello?
+Dialogue: 0,1:01:13.11,1:01:14.11,*Default,NTP,0000,0000,0000,,喂?\N{\fs14}Hello?
+Dialogue: 0,1:01:17.32,1:01:18.28,*Default,NTP,0000,0000,0000,,喂?\N{\fs14}Hello?
+Dialogue: 0,1:01:36.63,1:01:39.43,*Default,NTP,0000,0000,0000,,他的衣服间有千百种气味\N{\fs14}There were a thousand smells in his clothes
+Dialogue: 0,1:01:39.43,1:01:42.39,*Default,NTP,0000,0000,0000,,沙 石 苔藓\N{\fs14}The smell of sand, stone, moss
+Dialogue: 0,1:01:42.39,1:01:45.10,*Default,NTP,0000,0000,0000,,甚至几周前吃的香肠\N{\fs14}Even the smell of the sausage he'd eaten weeks ago
+Dialogue: 0,1:01:45.39,1:01:47.89,*Default,NTP,0000,0000,0000,,只差一种气味\N{\fs14}Only one smell was not there
+Dialogue: 0,1:01:51.44,1:01:52.69,*Default,NTP,0000,0000,0000,,他自己的\N{\fs14}His own
+Dialogue: 0,1:02:30.06,1:02:31.52,*Default,NTP,0000,0000,0000,,有生之来\N{\fs14}For the first time in his life
+Dialogue: 0,1:02:31.52,1:02:34.65,*Default,NTP,0000,0000,0000,,格雷诺耶初次意识到他没有自己的气味\N{\fs14}Grenouille realized that he had no smell of his own
+Dialogue: 0,1:02:36.73,1:02:40.65,*Default,NTP,0000,0000,0000,,他一生对他人都无足轻重\N{\fs14}He realized that all his life he had been a nobody to everyone
+Dialogue: 0,1:02:41.91,1:02:45.53,*Default,NTP,0000,0000,0000,,他怕自我被忽视 被湮没\N{\fs14}What he now felt was the fear of his own oblivion
+Dialogue: 0,1:02:46.41,1:02:50.00,*Default,NTP,0000,0000,0000,,仿佛他不复存在\N{\fs14}It was as though he did not exist
+Dialogue: 0,1:02:55.71,1:03:00.51,*Default,NTP,0000,0000,0000,,第二天晨曦初现 格雷诺耶就有了新的计划\N{\fs14}By the first light of next morning, Grenouille had a new plan
+Dialogue: 0,1:03:00.51,1:03:03.64,*Default,NTP,0000,0000,0000,,他必须继续踏上格拉斯的行旅\N{\fs14}He must continue his journey to Grasse
+Dialogue: 0,1:03:03.64,1:03:08.89,*Default,NTP,0000,0000,0000,,在那里他不仅要告诉这世界他的存在\N{\fs14}There he would teach the world not only that he existed, that he was someone
+Dialogue: 0,1:03:08.89,1:03:11.60,*Default,NTP,0000,0000,0000,,他还是非常重要并且出类拔萃\N{\fs14}but that he was exceptional
+Dialogue: 0,1:03:15.86,1:03:18.03,*Default,NTP,0000,0000,0000,,做出这个决定后\N{\fs14}And with this decision
+Dialogue: 0,1:03:18.03,1:03:22.03,*Default,NTP,0000,0000,0000,,上帝仿佛终于向他展颜微笑了\N{\fs14}it seemed that the gods had at last begun to smile on him
+Dialogue: 0,1:07:49.71,1:07:50.84,*Default,NTP,0000,0000,0000,,萝拉?\N{\fs14}Laura?
+Dialogue: 0,1:07:58.89,1:07:59.93,*Default,NTP,0000,0000,0000,,萝拉?\N{\fs14}Laura?
+Dialogue: 0,1:08:01.06,1:08:02.27,*Default,NTP,0000,0000,0000,,来了 爸爸\N{\fs14}Coming, Papa
+Dialogue: 0,1:08:39.47,1:08:41.18,*Default,NTP,0000,0000,0000,,以前可没见过你啊\N{\fs14}Haven't seen you here before
+Dialogue: 0,1:08:43.27,1:08:44.73,*Default,NTP,0000,0000,0000,,这是我在这儿的第一个收割季节\N{\fs14}It's my first season
+Dialogue: 0,1:08:46.40,1:08:50.32,*Default,NTP,0000,0000,0000,,男女搭配 干活不累\N{\fs14}Picking together is always more fun
+Dialogue: 0,1:08:50.32,1:08:52.15,*Default,NTP,0000,0000,0000,,听说你是大小通吃的人啊\N{\fs14}They say you pick everything you find
+Dialogue: 0,1:09:36.95,1:09:41.08,*Default,NTP,0000,0000,0000,,蠢货! 跟你说了多少次了 别把花瓣胡掐乱塞\N{\fs14}Idiot! How many times have I told you not to cram the blossoms in
+Dialogue: 0,1:09:41.08,1:09:42.79,*Default,NTP,0000,0000,0000,,跟填鸭似的\N{\fs14}like you're stuffing a chicken?!
+Dialogue: 0,1:09:44.29,1:09:45.87,*Default,NTP,0000,0000,0000,,跟人家格雷诺耶学学\N{\fs14}Watch how Grenouille does it
+Dialogue: 0,1:09:47.96,1:09:50.63,*Default,NTP,0000,0000,0000,,瞧他的手法 多灵巧\N{\fs14}Look how skillfully he handles them
+Dialogue: 0,1:09:50.83,1:09:54.67,*Default,NTP,0000,0000,0000,,油脂离析法的要点就是让花朵慢慢衰谢\N{\fs14}The whole art of enfleurage is to allow the flowers to die slowly
+Dialogue: 0,1:09:54.67,1:09:56.55,*Default,NTP,0000,0000,0000,,有如缓缓入眠\N{\fs14}In their sleep, as it were
+Dialogue: 0,1:09:56.67,1:09:59.01,*Default,NTP,0000,0000,0000,,对待它们 就要像对待女士\N{\fs14}Handle them as you would a lady
+Dialogue: 0,1:09:59.01,1:10:01.51,*Default,NTP,0000,0000,0000,,我说得没错吧 德鲁?\N{\fs14}Wouldn't you agree with me, Druot?
+Dialogue: 0,1:10:02.18,1:10:03.72,*Default,NTP,0000,0000,0000,,如您所言 夫人\N{\fs14}If you say so, Madame
+Dialogue: 0,1:10:06.43,1:10:09.19,*Default,NTP,0000,0000,0000,,你 去检查一下黄水仙花瓣\N{\fs14}You, Check the jonquil blossoms
+Dialogue: 0,1:10:12.73,1:10:14.11,*Default,NTP,0000,0000,0000,,火候还没到\N{\fs14}They need more time
+Dialogue: 0,1:10:16.90,1:10:18.36,*Default,NTP,0000,0000,0000,,我叫你去你就去!\N{\fs14}Do what I say!
+Dialogue: 0,1:11:03.12,1:11:04.07,*Default,NTP,0000,0000,0000,,住手!\N{\fs14}Stop it!
+Dialogue: 0,1:11:05.33,1:11:09.16,*Default,NTP,0000,0000,0000,,- 我没心情  - 真的?\N{\fs14}- I'm not in the mood,  - Are you sure?
+Dialogue: 0,1:11:09.16,1:11:10.58,*Default,NTP,0000,0000,0000,,当然\N{\fs14}Of course I'm sure
+Dialogue: 0,1:11:17.34,1:11:19.09,*Default,NTP,0000,0000,0000,,我说了\N{\fs14}I said
+Dialogue: 0,1:11:21.72,1:11:22.55,*Default,NTP,0000,0000,0000,,不行!\N{\fs14}no!
+Dialogue: 0,1:11:34.40,1:11:35.44,*Default,NTP,0000,0000,0000,,随你便\N{\fs14}Suit yourself
+Dialogue: 0,1:11:39.23,1:11:40.15,*Default,NTP,0000,0000,0000,,路西安\N{\fs14}Lucien?
+Dialogue: 0,1:11:44.16,1:11:45.49,*Default,NTP,0000,0000,0000,,帮我把梯子架上啊\N{\fs14}Fetch me back the ladder
+Dialogue: 0,1:11:45.49,1:11:46.87,*Default,NTP,0000,0000,0000,,你自己架得了\N{\fs14}Fetch it yourself
+Dialogue: 0,1:11:59.09,1:12:00.05,*Default,NTP,0000,0000,0000,,路西安?\N{\fs14}Lucien?
+Dialogue: 0,1:12:03.68,1:12:05.01,*Default,NTP,0000,0000,0000,,路西安? !\N{\fs14}Lucien?!
+Dialogue: 0,1:12:16.15,1:12:17.15,*Default,NTP,0000,0000,0000,,路西安? !\N{\fs14}Lucien?!
+Dialogue: 0,1:12:20.40,1:12:21.49,*Default,NTP,0000,0000,0000,,路西安? !\N{\fs14}Lucien?!
+Dialogue: 0,1:12:40.67,1:12:41.67,*Default,NTP,0000,0000,0000,,路西安? !\N{\fs14}Lucien?!
+Dialogue: 0,1:13:39.40,1:13:43.57,*Default,NTP,0000,0000,0000,,给阿尔努菲夫人送的晚香玉 她在吗?\N{\fs14}Tuberoses for Madame Arnulfi, She here?
+Dialogue: 0,1:13:47.45,1:13:48.28,*Default,NTP,0000,0000,0000,,她忙着呢\N{\fs14}She's busy
+Dialogue: 0,1:13:56.16,1:13:58.29,*Default,NTP,0000,0000,0000,,煮了它们真是浪费啊\N{\fs14}Seems such a waste to boil them
+Dialogue: 0,1:13:59.88,1:14:01.71,*Default,NTP,0000,0000,0000,,还是怎么搞的来着\N{\fs14}Or what ever you do with them
+Dialogue: 0,1:14:07.05,1:14:08.80,*Default,NTP,0000,0000,0000,,你们到底是怎么弄的?\N{\fs14}So what do you do with them?
+Dialogue: 0,1:14:10.26,1:14:11.97,*Default,NTP,0000,0000,0000,,用动物油来煮\N{\fs14}Warm them in animal fat
+Dialogue: 0,1:14:12.68,1:14:13.72,*Default,NTP,0000,0000,0000,,为什么?\N{\fs14}What for?
+Dialogue: 0,1:14:14.43,1:14:16.39,*Default,NTP,0000,0000,0000,,这样油就吸收了香气\N{\fs14}The fat soaks up their scent
+Dialogue: 0,1:14:17.10,1:14:18.06,*Default,NTP,0000,0000,0000,,然后呢?\N{\fs14}Then what?
+Dialogue: 0,1:14:20.35,1:14:23.44,*Default,NTP,0000,0000,0000,,然后我等它凉却\N{\fs14}Then I cool it to a pomade
+Dialogue: 0,1:14:23.44,1:14:28.45,*Default,NTP,0000,0000,0000,,过滤 接着…\N{\fs14}and then I filter it before...
+Dialogue: 0,1:14:32.95,1:14:34.08,*Default,NTP,0000,0000,0000,,接着怎样?\N{\fs14}Before what?
+Dialogue: 0,1:14:34.70,1:14:37.62,*Default,NTP,0000,0000,0000,,接着掺上酒精和其它精油 做成香水\N{\fs14}Before I add in alcohol and other essences to make a perfume
+Dialogue: 0,1:14:37.62,1:14:38.96,*Default,NTP,0000,0000,0000,,什么都别碰\N{\fs14}Don't touch anything
+Dialogue: 0,1:14:45.30,1:14:46.51,*Default,NTP,0000,0000,0000,,那里面是什么?\N{\fs14}What's in there?
+Dialogue: 0,1:14:47.84,1:14:50.13,*Default,NTP,0000,0000,0000,,没什么 就是花\N{\fs14}Nothing, Just flowers
+Dialogue: 0,1:14:50.13,1:14:51.39,*Default,NTP,0000,0000,0000,,- 我能看看吗?  - 不行\N{\fs14}- Can I look?  - No
+Dialogue: 0,1:14:51.84,1:14:54.31,*Default,NTP,0000,0000,0000,,现在不行 我有工作要做 你该走了\N{\fs14}Not now, I've got work to do, You must go now
+Dialogue: 0,1:14:54.39,1:14:55.85,*Default,NTP,0000,0000,0000,,别这样  让我看看\N{\fs14}Come on, Let me look
+Dialogue: 0,1:14:55.93,1:14:56.27,*Default,NTP,0000,0000,0000,,不许碰\N{\fs14}Don't touch
+Dialogue: 0,1:14:56.27,1:14:57.85,*Default,NTP,0000,0000,0000,,啊 我的晚香玉\N{\fs14}Ah, my tuberoses
+Dialogue: 0,1:15:00.23,1:15:01.52,*Default,NTP,0000,0000,0000,,早啊 夫人\N{\fs14}Morning, Madame
+Dialogue: 0,1:15:01.90,1:15:02.81,*Default,NTP,0000,0000,0000,,早\N{\fs14}Morning
+Dialogue: 0,1:15:06.23,1:15:07.82,*Default,NTP,0000,0000,0000,,你怎么把罐子罩起来了?\N{\fs14}Why have you covered the tank?
+Dialogue: 0,1:15:10.03,1:15:11.78,*Default,NTP,0000,0000,0000,,实验一下 夫人\N{\fs14}It's an experiment, Madame
+Dialogue: 0,1:15:14.45,1:15:16.91,*Default,NTP,0000,0000,0000,,让花朵不受日光照射\N{\fs14}To protect the blossoms from daylight
+Dialogue: 0,1:15:17.45,1:15:18.75,*Default,NTP,0000,0000,0000,,以便更好地保藏香气\N{\fs14}To preserve the scent better
+Dialogue: 0,1:15:20.33,1:15:22.25,*Default,NTP,0000,0000,0000,,唔 你说是就是吧\N{\fs14}Well, if you say so
+Dialogue: 0,1:15:24.08,1:15:25.00,*Default,NTP,0000,0000,0000,,跟我来\N{\fs14}Come with me,
+Dialogue: 0,1:15:25.63,1:15:27.30,*Default,NTP,0000,0000,0000,,我给你主人记上账\N{\fs14}I'll settle your master's account
+Dialogue: 0,1:15:29.80,1:15:32.13,*Default,NTP,0000,0000,0000,,更好地保藏香气 啊?\N{\fs14}To preserve their scent better, you say?
+Dialogue: 0,1:15:46.69,1:15:48.11,*Default,NTP,0000,0000,0000,,我闻着没什么味道\N{\fs14}I don't smell much
+Dialogue: 0,1:15:54.62,1:15:55.37,*Default,NTP,0000,0000,0000,,也是\N{\fs14}No,
+Dialogue: 0,1:15:55.37,1:15:58.37,*Default,NTP,0000,0000,0000,,我的实验失败了\N{\fs14}Then my experiment was a failure
+Dialogue: 0,1:16:01.87,1:16:04.96,*Default,NTP,0000,0000,0000,,你自己私底下胡混无所谓 该干活的钟点还得给我干活\N{\fs14}Make sure it's your time you're wasting, not ours
+Dialogue: 0,1:16:17.81,1:16:19.39,*Default,NTP,0000,0000,0000,,多少钱?\N{\fs14}How much must I pay
+Dialogue: 0,1:16:22.06,1:16:23.02,*Default,NTP,0000,0000,0000,,要和你在一起的话\N{\fs14}to be with you?
+Dialogue: 0,1:16:24.23,1:16:25.56,*Default,NTP,0000,0000,0000,,看你想干嘛了\N{\fs14}Depends what you want
+Dialogue: 0,1:16:40.16,1:16:41.29,*Default,NTP,0000,0000,0000,,那是什么玩意?\N{\fs14}What's that stuff?
+Dialogue: 0,1:16:44.83,1:16:46.50,*Default,NTP,0000,0000,0000,,我在创造一种香水\N{\fs14}I'm creating a perfume
+Dialogue: 0,1:16:49.97,1:16:51.26,*Default,NTP,0000,0000,0000,,请躺下\N{\fs14}Lie down, please
+Dialogue: 0,1:17:11.20,1:17:12.57,*Default,NTP,0000,0000,0000,,怪恶心的\N{\fs14}It feels horrible
+Dialogue: 0,1:17:14.20,1:17:17.70,*Default,NTP,0000,0000,0000,,这是动物油 用来吸收你的气味\N{\fs14}It's only animal fat, To soak up your scent
+Dialogue: 0,1:17:18.54,1:17:20.66,*Default,NTP,0000,0000,0000,,创造一种香水 啊?\N{\fs14}Creating a perfume, eh?
+Dialogue: 0,1:17:21.08,1:17:24.63,*Default,NTP,0000,0000,0000,,少装模作样了 承认吧 折腾这套古怪 你挺爽吧?\N{\fs14}Come on, Admit it, You're getting some sort of bang out of this, aren't you?
+Dialogue: 0,1:17:25.21,1:17:26.55,*Default,NTP,0000,0000,0000,,对吧?\N{\fs14}Arrest you?
+Dialogue: 0,1:17:27.46,1:17:28.96,*Default,NTP,0000,0000,0000,,我喜欢我的工作\N{\fs14}I enjoy my work
+Dialogue: 0,1:17:30.88,1:17:32.47,*Default,NTP,0000,0000,0000,,手不要动\N{\fs14}Hold your arm still
+Dialogue: 0,1:17:40.43,1:17:42.27,*Default,NTP,0000,0000,0000,,休想绑住我\N{\fs14}Don't think you're gonna tie me up
+Dialogue: 0,1:17:43.77,1:17:45.31,*Default,NTP,0000,0000,0000,,请你伸手\N{\fs14}Hold out your arm, please
+Dialogue: 0,1:17:53.53,1:17:55.57,*Default,NTP,0000,0000,0000,,有怪僻的家伙我倒也见过不少\N{\fs14}I've come across some strange men in my time
+Dialogue: 0,1:17:55.57,1:17:58.45,*Default,NTP,0000,0000,0000,,你就...放松点\N{\fs14}Just...relax
+Dialogue: 0,1:18:06.25,1:18:08.21,*Default,NTP,0000,0000,0000,,我的天 那是什么? !\N{\fs14}Holy Mother, what's that?!
+Dialogue: 0,1:18:11.47,1:18:14.30,*Default,NTP,0000,0000,0000,,- 用来刮油的  - 你有毛病吧?\N{\fs14}- Just for scraping off the fat,  - Are you mad?
+Dialogue: 0,1:18:14.30,1:18:15.43,*Default,NTP,0000,0000,0000,,我说了放松点\N{\fs14}I said relax
+Dialogue: 0,1:18:15.43,1:18:17.85,*Default,NTP,0000,0000,0000,,别搞砸了\N{\fs14}You'll ruin everything
+Dialogue: 0,1:18:17.85,1:18:22.10,*Default,NTP,0000,0000,0000,,你要是害怕起来 就会发臭 香水就变坏了\N{\fs14}If you're frightened, you stink, Then your perfume will be spoiled
+Dialogue: 0,1:18:22.10,1:18:23.14,*Default,NTP,0000,0000,0000,,我受够了\N{\fs14}I've had enough
+Dialogue: 0,1:18:24.52,1:18:25.48,*Default,NTP,0000,0000,0000,,出去!\N{\fs14}Get out!
+Dialogue: 0,1:18:25.85,1:18:27.27,*Default,NTP,0000,0000,0000,,拿上你的钱\N{\fs14}Here, take your money
+Dialogue: 0,1:18:27.98,1:18:29.36,*Default,NTP,0000,0000,0000,,涂得我浑身黏黏的\N{\fs14}Basting me up in all this goo
+Dialogue: 0,1:18:29.36,1:18:31.44,*Default,NTP,0000,0000,0000,,你当我什么 圣诞节大鹅啊?\N{\fs14}What do you think I am, a Christmas goose?
+Dialogue: 0,1:18:31.82,1:18:33.07,*Default,NTP,0000,0000,0000,,滚出去!\N{\fs14}Get out of here!
+Dialogue: 0,1:21:59.65,1:22:03.03,*Default,NTP,0000,0000,0000,,快点吹灭了 免得玫瑰融了\N{\fs14}Quickly, blow them out before the roses melt
+Dialogue: 0,1:22:03.03,1:22:05.66,*Default,NTP,0000,0000,0000,,- 玫瑰不会融的 爸爸  - 这些可是会的\N{\fs14}- Roses can't melt, Papa,  - These ones can
+Dialogue: 0,1:22:20.71,1:22:23.38,*Default,NTP,0000,0000,0000,,我建议敬我们的贵客\N{\fs14}Now I'd like to propose a toast
+Dialogue: 0,1:22:23.38,1:22:28.31,*Default,NTP,0000,0000,0000,,蒙特斯奇侯爵阁下一杯\N{\fs14}to our guest of honor, His Excellency, the Marquis De Montesquieu
+Dialogue: 0,1:22:28.31,1:22:31.06,*Default,NTP,0000,0000,0000,,祝愿我们的生意继续欣欣向荣\N{\fs14}May our trade continue to flourish
+Dialogue: 0,1:22:31.31,1:22:32.81,*Default,NTP,0000,0000,0000,,来 来\N{\fs14}Here, here
+Dialogue: 0,1:22:36.36,1:22:39.73,*Default,NTP,0000,0000,0000,,感谢各位 也希望我有这个荣幸\N{\fs14}I thank you all, and would ask of you the honor
+Dialogue: 0,1:22:39.73,1:22:43.53,*Default,NTP,0000,0000,0000,,第一个向您美丽的女儿说声恭喜\N{\fs14}to be the first to offer my congratulations to your beautiful daughter
+Dialogue: 0,1:22:43.53,1:22:46.70,*Default,NTP,0000,0000,0000,,并向她送上一份我感情的见证\N{\fs14}and present her with a small token of my affection
+Dialogue: 0,1:22:54.54,1:22:55.62,*Default,NTP,0000,0000,0000,,真美\N{\fs14}It's beautiful
+Dialogue: 0,1:23:06.43,1:23:08.43,*Default,NTP,0000,0000,0000,,- 棒极了  - 好漂亮\N{\fs14}- Splendid,  - It's beautiful
+Dialogue: 0,1:23:12.52,1:23:14.85,*Default,NTP,0000,0000,0000,,我受宠若惊 阁下\N{\fs14}I'm overwhelmed, Your Grace
+Dialogue: 0,1:23:14.85,1:23:16.94,*Default,NTP,0000,0000,0000,,阁下?\N{\fs14}Your Grace?
+Dialogue: 0,1:23:16.94,1:23:20.07,*Default,NTP,0000,0000,0000,,事到如今 跟我就不用这么客气了吧?\N{\fs14}I had hoped that we would be on more familiar terms by now
+Dialogue: 0,1:23:23.78,1:23:25.57,*Default,NTP,0000,0000,0000,,不如来玩捉迷藏吧?\N{\fs14}Let's have a game of hide and seek
+Dialogue: 0,1:23:25.57,1:23:27.03,*Default,NTP,0000,0000,0000,,噢 好\N{\fs14}Oh, yes
+Dialogue: 0,1:23:27.03,1:23:28.53,*Default,NTP,0000,0000,0000,,但大家都要玩\N{\fs14}But everyone must play,
+Dialogue: 0,1:23:30.45,1:23:32.37,*Default,NTP,0000,0000,0000,,男人找女人\N{\fs14}Let the men catch the women,
+Dialogue: 0,1:23:34.66,1:23:36.12,*Default,NTP,0000,0000,0000,,好啊! 好啊!\N{\fs14}Bravo! Bravo!
+Dialogue: 0,1:25:11.26,1:25:12.26,*Default,NTP,0000,0000,0000,,放我下来\N{\fs14}Put me down
+Dialogue: 0,1:25:12.51,1:25:13.51,*Default,NTP,0000,0000,0000,,求你了?\N{\fs14}Please?
+Dialogue: 0,1:25:18.06,1:25:19.77,*Default,NTP,0000,0000,0000,,这下无处可逃了吧\N{\fs14}Now there's no escape
+Dialogue: 0,1:25:50.51,1:25:52.30,*Default,NTP,0000,0000,0000,,游戏结束了\N{\fs14}Game's over, everybody
+Dialogue: 0,1:25:54.64,1:25:55.68,*Default,NTP,0000,0000,0000,,萝拉?\N{\fs14}Laura?
+Dialogue: 0,1:25:57.64,1:25:59.18,*Default,NTP,0000,0000,0000,,该回来了\N{\fs14}Time to go in now
+Dialogue: 0,1:26:23.62,1:26:24.63,*Default,NTP,0000,0000,0000,,萝拉?\N{\fs14}Laura?
+Dialogue: 0,1:26:43.10,1:26:44.31,*Default,NTP,0000,0000,0000,,阿尔冰?\N{\fs14}Albine?
+Dialogue: 0,1:26:44.73,1:26:45.85,*Default,NTP,0000,0000,0000,,佛朗斯法?\N{\fs14}Franoise?
+Dialogue: 0,1:26:51.36,1:26:54.28,*Default,NTP,0000,0000,0000,,萝拉 你瞧见双胞胎姐妹了吗?\N{\fs14}Laura, have you seen the twins?
+Dialogue: 0,1:26:54.28,1:26:56.66,*Default,NTP,0000,0000,0000,,没有 开始做游戏之后就没见着\N{\fs14}No, not since the game started
+Dialogue: 0,1:26:58.95,1:27:01.25,*Default,NTP,0000,0000,0000,,阿尔冰 佛朗斯法?\N{\fs14}Albine? Franoise?
+Dialogue: 0,1:27:12.09,1:27:14.17,*Default,NTP,0000,0000,0000,,阿尔冰 佛朗斯法?\N{\fs14}Albine? Franoise?
+Dialogue: 0,1:27:14.17,1:27:15.09,*Default,NTP,0000,0000,0000,,雅克?\N{\fs14}Jacques?
+Dialogue: 0,1:27:16.72,1:27:17.72,*Default,NTP,0000,0000,0000,,你们走这边\N{\fs14}Take this way
+Dialogue: 0,1:27:18.51,1:27:20.14,*Default,NTP,0000,0000,0000,,你们两个跟我\N{\fs14}You two with me
+Dialogue: 0,1:27:20.14,1:27:21.31,*Default,NTP,0000,0000,0000,,阁下?\N{\fs14}Your Excellency?
+Dialogue: 0,1:27:23.10,1:27:24.02,*Default,NTP,0000,0000,0000,,这边走\N{\fs14}Through here
+Dialogue: 0,1:27:24.85,1:27:30.98,*Default,NTP,0000,0000,0000,,阿尔冰! 佛朗斯法!\N{\fs14}Albine! Franoise!
+Dialogue: 0,1:28:42.18,1:28:46.02,*Default,NTP,0000,0000,0000,,我跟那死小子说了十次了 叫他快点干完\N{\fs14}I told that cretin ten times to get these ready!
+Dialogue: 0,1:28:46.02,1:28:47.60,*Default,NTP,0000,0000,0000,,别欺负小孩子\N{\fs14}Don't keep picking on the boy
+Dialogue: 0,1:28:48.89,1:28:51.52,*Default,NTP,0000,0000,0000,,看我不宰了这没用的小杂种!\N{\fs14}I'll kill him, the useless little sewer rat!
+Dialogue: 0,1:28:51.73,1:28:53.02,*Default,NTP,0000,0000,0000,,格雷诺耶!\N{\fs14}Grenouille!
+Dialogue: 0,1:28:54.23,1:28:55.57,*Default,NTP,0000,0000,0000,,你在干嘛?\N{\fs14}What are you doing?
+Dialogue: 0,1:28:55.57,1:28:57.61,*Default,NTP,0000,0000,0000,,怎么不去收拾萃取的…\N{\fs14}Why aren't the enfleurage frames
+Dialogue: 0,1:29:04.79,1:29:06.12,*Default,NTP,0000,0000,0000,,什么事 师傅?\N{\fs14}Yes, master?
+Dialogue: 0,1:29:06.25,1:29:09.50,*Default,NTP,0000,0000,0000,,麻烦你准备一下萃取用具好吗?\N{\fs14}I mean, would you be good enough to prepare the enfleurage frames
+Dialogue: 0,1:29:09.50,1:29:10.67,*Default,NTP,0000,0000,0000,,让·巴蒂斯特?\N{\fs14}Jean Baptiste?
+Dialogue: 0,1:29:14.46,1:29:15.55,*Default,NTP,0000,0000,0000,,好的 师傅\N{\fs14}Certainly, master
+Dialogue: 0,1:29:26.93,1:29:27.72,*Default,NTP,0000,0000,0000,,嘿 看!\N{\fs14}Hey, look!
+Dialogue: 0,1:29:29.52,1:29:30.44,*Default,NTP,0000,0000,0000,,天啊\N{\fs14}Sweet
+Dialogue: 0,1:29:32.10,1:29:33.52,*Default,NTP,0000,0000,0000,,宵禁?\N{\fs14}A curfew?!
+Dialogue: 0,1:29:33.81,1:29:35.27,*Default,NTP,0000,0000,0000,,你疯了吗?\N{\fs14}Are you mad?!
+Dialogue: 0,1:29:35.27,1:29:38.32,*Default,NTP,0000,0000,0000,,茉莉只能在破晓前采摘 我们都清楚\N{\fs14}Jasmine can only be picked before dawn, We all know that
+Dialogue: 0,1:29:38.32,1:29:43.45,*Default,NTP,0000,0000,0000,,这样我们的生意就毁了 包括你的\N{\fs14}This could mean the ruin of our trade, Yours
+Dialogue: 0,1:29:43.45,1:29:46.20,*Default,NTP,0000,0000,0000,,还有你的 你的\N{\fs14}And yours and yours
+Dialogue: 0,1:29:46.20,1:29:50.12,*Default,NTP,0000,0000,0000,,下次轮到你女儿头上怎么办?\N{\fs14}Supposing it's your daughter next time
+Dialogue: 0,1:29:50.12,1:29:54.29,*Default,NTP,0000,0000,0000,,宵禁是必要的 但我们也必须抓住那家伙\N{\fs14}Of course a curfew is necessary, but we also have to catch this man
+Dialogue: 0,1:29:54.29,1:29:57.55,*Default,NTP,0000,0000,0000,,这才能搞清楚他的想法\N{\fs14}and the only way to do that is to understand how he thinks
+Dialogue: 0,1:29:57.55,1:29:58.80,*Default,NTP,0000,0000,0000,,想要什么\N{\fs14}what he wants
+Dialogue: 0,1:29:58.80,1:30:00.97,*Default,NTP,0000,0000,0000,,我想这很明显\N{\fs14}I should have thought that was obvious
+Dialogue: 0,1:30:00.97,1:30:02.63,*Default,NTP,0000,0000,0000,,想想看吧!\N{\fs14}Use your imagination
+Dialogue: 0,1:30:02.63,1:30:04.97,*Default,NTP,0000,0000,0000,,那我告诉你 除了那个妓女\N{\fs14}And if I were to tell you that all except the prostitute
+Dialogue: 0,1:30:04.97,1:30:08.72,*Default,NTP,0000,0000,0000,,其余女孩遇害时 贞洁都不曾遭人点染\N{\fs14}went to their graves with their chastity intact?
+Dialogue: 0,1:30:08.72,1:30:10.23,*Default,NTP,0000,0000,0000,,你怎么知道的?\N{\fs14}How would you know?
+Dialogue: 0,1:30:10.23,1:30:14.19,*Default,NTP,0000,0000,0000,,验尸官做了检查 她们都还是处女之身\N{\fs14}The coroner had each girl examined, They were all found to be virgins
+Dialogue: 0,1:30:16.40,1:30:19.07,*Default,NTP,0000,0000,0000,,如果没有下次了呢?\N{\fs14}Supposing there isn't a next time?
+Dialogue: 0,1:30:19.07,1:30:23.16,*Default,NTP,0000,0000,0000,,要是贸然宵禁 我们都会白白破产\N{\fs14}If we introduce a curfew we may all go bankrupt for nothing
+Dialogue: 0,1:30:25.28,1:30:27.99,*Default,NTP,0000,0000,0000,,难道我们就眼睁睁地等着? 等他杀掉六个?\N{\fs14}So we wait until he's killed, what? Six?
+Dialogue: 0,1:30:27.99,1:30:29.62,*Default,NTP,0000,0000,0000,,七个? 八个?\N{\fs14}Seven? Eight?
+Dialogue: 0,1:30:53.81,1:30:55.40,*Default,NTP,0000,0000,0000,,上帝宽恕 是波林\N{\fs14}Lord save us, It's Pauline
+Dialogue: 0,1:30:55.40,1:30:57.86,*Default,NTP,0000,0000,0000,,- 宵禁了! 回家!  - 呆在家里\N{\fs14}- Curfew! Go back to your homes!  - Stay inside
+Dialogue: 0,1:30:59.61,1:31:01.11,*Default,NTP,0000,0000,0000,,宵禁了 回家去\N{\fs14}It's a curfew, Back inside
+Dialogue: 0,1:31:13.08,1:31:14.46,*Default,NTP,0000,0000,0000,,各位先生!\N{\fs14}Gentlemen!
+Dialogue: 0,1:31:14.46,1:31:16.33,*Default,NTP,0000,0000,0000,,各位先生!\N{\fs14}Gentlemen!
+Dialogue: 0,1:31:16.33,1:31:20.59,*Default,NTP,0000,0000,0000,,我们应该意识到本地警方对此无能为力\N{\fs14}We have to face the fact that our police are helpless in this matter
+Dialogue: 0,1:31:20.59,1:31:23.55,*Default,NTP,0000,0000,0000,,我建议我们应该请求巴黎警方援助\N{\fs14}I suggest that we ask for support from Paris
+Dialogue: 0,1:31:23.55,1:31:25.34,*Default,NTP,0000,0000,0000,,巴黎人也不见得有多厉害\N{\fs14}Paris won't be smarter than we are
+Dialogue: 0,1:31:25.34,1:31:27.80,*Default,NTP,0000,0000,0000,,我们必须逮捕普罗旺斯的所有吉普赛人和乞丐\N{\fs14}We must arrest every Gypsy in Provence! And every beggar!
+Dialogue: 0,1:31:27.80,1:31:30.10,*Default,NTP,0000,0000,0000,,还有没有妻室的男人\N{\fs14}And every man without a wife and family!
+Dialogue: 0,1:31:30.10,1:31:30.89,*Default,NTP,0000,0000,0000,,听着\N{\fs14}Listen
+Dialogue: 0,1:31:33.27,1:31:37.86,*Default,NTP,0000,0000,0000,,我们要置身处地 推测他的想法\N{\fs14}We have to put ourselves inside the mind of this man
+Dialogue: 0,1:31:37.86,1:31:42.94,*Default,NTP,0000,0000,0000,,每一个受害人都有其特别的美\N{\fs14}Each of his victims had an especial beauty
+Dialogue: 0,1:31:42.94,1:31:44.45,*Default,NTP,0000,0000,0000,,他既然没有侵犯他们\N{\fs14}We know he doesn't want their virginity
+Dialogue: 0,1:31:44.45,1:31:48.62,*Default,NTP,0000,0000,0000,,那吸引他的应该是这美丽本身\N{\fs14}so it seems to me that it's their beauty itself that he wants
+Dialogue: 0,1:31:48.62,1:31:52.37,*Default,NTP,0000,0000,0000,,仿佛他在收集什么似的\N{\fs14}It's almost as if he's trying to gather something
+Dialogue: 0,1:31:52.37,1:31:55.66,*Default,NTP,0000,0000,0000,,他简直有着收藏家的野心\N{\fs14}As if his ambitions are those of a collector
+Dialogue: 0,1:31:56.83,1:32:00.00,*Default,NTP,0000,0000,0000,,收藏家? 收藏什么?\N{\fs14}A collector? Of what?
+Dialogue: 0,1:32:00.00,1:32:01.42,*Default,NTP,0000,0000,0000,,她们的头发?\N{\fs14}Their hair?
+Dialogue: 0,1:32:01.63,1:32:04.17,*Default,NTP,0000,0000,0000,,滚出去 滚出我的店!\N{\fs14}Get out! Get out of my store!
+Dialogue: 0,1:32:04.17,1:32:05.76,*Default,NTP,0000,0000,0000,,你个人渣!\N{\fs14}You murdering scum!
+Dialogue: 0,1:32:07.76,1:32:10.22,*Default,NTP,0000,0000,0000,,无论是什么\N{\fs14}Whatever it is
+Dialogue: 0,1:32:10.22,1:32:15.48,*Default,NTP,0000,0000,0000,,在他完成全套藏品之前恐怕是不会罢手的了\N{\fs14}I fear he won't stop killing until his collection is complete
+Dialogue: 0,1:32:36.33,1:32:39.00,*Default,NTP,0000,0000,0000,,拿着 下一个 快点 对了\N{\fs14}There you are, Next, Quick as you can, Right
+Dialogue: 0,1:32:40.21,1:32:40.92,*Default,NTP,0000,0000,0000,,还有你\N{\fs14}You, too
+Dialogue: 0,1:32:41.00,1:32:41.79,*Default,NTP,0000,0000,0000,,先生\N{\fs14}Monsieur
+Dialogue: 0,1:32:44.96,1:32:47.88,*Default,NTP,0000,0000,0000,,这人 这人是恶魔\N{\fs14}This man, this man is a demon
+Dialogue: 0,1:32:47.88,1:32:51.76,*Default,NTP,0000,0000,0000,,是人力不能抵御的幽灵\N{\fs14}A phantom who cannot be fought by human means
+Dialogue: 0,1:32:51.76,1:32:57.02,*Default,NTP,0000,0000,0000,,我坚决提议 去找主教驱逐这个妖人!\N{\fs14}Now, I insist that we call upon our bishop to excommunicate him!
+Dialogue: 0,1:32:57.02,1:32:59.81,*Default,NTP,0000,0000,0000,,那能有什么用?\N{\fs14}What good would that do?
+Dialogue: 0,1:32:59.81,1:33:03.32,*Default,NTP,0000,0000,0000,,你难道不相信我们教堂的圣灵吗?\N{\fs14}Have you no faith in the power of our Holy Mother Church?
+Dialogue: 0,1:33:04.78,1:33:06.69,*Default,NTP,0000,0000,0000,,这不是信不信的问题!\N{\fs14}This is not a matter of faith
+Dialogue: 0,1:33:06.69,1:33:08.49,*Default,NTP,0000,0000,0000,,凶手逍遥法外\N{\fs14}There's a murderer out there
+Dialogue: 0,1:33:08.49,1:33:11.74,*Default,NTP,0000,0000,0000,,我们要抓住他 得靠上帝赐予我们的头脑\N{\fs14}and we must catch him by using our God. Given wits!
+Dialogue: 0,1:33:12.66,1:33:16.41,*Default,NTP,0000,0000,0000,,依我看 如果不向教会求助\N{\fs14}I say until we submit to Mother Church
+Dialogue: 0,1:33:16.41,1:33:18.71,*Default,NTP,0000,0000,0000,,凶手是不会善罢甘休的\N{\fs14}these killings will not cease
+Dialogue: 0,1:33:35.14,1:33:36.85,*Default,NTP,0000,0000,0000,,格拉斯的公民们\N{\fs14}Citizens of Grasse
+Dialogue: 0,1:33:36.85,1:33:43.44,*Default,NTP,0000,0000,0000,,我们在此宣布这杀手乃是恶魔\N{\fs14}we hereby declare that this murderer, this demon in our midst
+Dialogue: 0,1:33:43.44,1:33:47.57,*Default,NTP,0000,0000,0000,,我们要将其驱逐出境!\N{\fs14}has incurred the sentence of excommunication
+Dialogue: 0,1:33:49.19,1:33:54.70,*Default,NTP,0000,0000,0000,,这怪兽的恶爪掳走了我们的女儿\N{\fs14}Not only has this depraved monster robbed us of our daughters
+Dialogue: 0,1:33:54.70,1:33:58.91,*Default,NTP,0000,0000,0000,,我们城邦年轻美丽的花朵\N{\fs14}the young and fair blossom of this city
+Dialogue: 0,1:33:58.91,1:34:01.21,*Default,NTP,0000,0000,0000,,他蓄意凶残的行径\N{\fs14}and by his wanton acts
+Dialogue: 0,1:34:01.21,1:34:05.75,*Default,NTP,0000,0000,0000,,损伤了我们的生意 我们的营生 而且\N{\fs14}has brought our trade, our livelihood, nay
+Dialogue: 0,1:34:05.75,1:34:10.67,*Default,NTP,0000,0000,0000,,我们的生存被逼到了无尽的黑暗边缘\N{\fs14}our very existence to the brink of eternal darkness
+Dialogue: 0,1:34:12.68,1:34:14.68,*Default,NTP,0000,0000,0000,,由此我们判决\N{\fs14}We therefore declare
+Dialogue: 0,1:34:14.68,1:34:17.31,*Default,NTP,0000,0000,0000,,这卑劣的毒蛇\N{\fs14}that this vile viper
+Dialogue: 0,1:34:17.31,1:34:20.68,*Default,NTP,0000,0000,0000,,可耻的脓疮\N{\fs14}this ignominious carbuncle
+Dialogue: 0,1:34:20.68,1:34:23.98,*Default,NTP,0000,0000,0000,,我们身边的恶魔\N{\fs14}this execrable evil in our midst
+Dialogue: 0,1:34:23.98,1:34:29.49,*Default,NTP,0000,0000,0000,,我们圣洁的教区就此向其施以严正的诅咒\N{\fs14}shall henceforth be solemnly banned from our holy presence
+Dialogue: 0,1:34:29.49,1:34:33.91,*Default,NTP,0000,0000,0000,,以圣母的名义\N{\fs14}rejected from the communion of Holy Mother Church
+Dialogue: 0,1:34:34.28,1:34:37.08,*Default,NTP,0000,0000,0000,,从我们身边驱除这个撒旦的门徒\N{\fs14}as a disciple of Satan
+Dialogue: 0,1:34:37.79,1:34:40.04,*Default,NTP,0000,0000,0000,,灵魂的杀手\N{\fs14}slayer of souls
+Dialogue: 0,1:34:40.04,1:34:41.50,*Default,NTP,0000,0000,0000,,让路! 让路!\N{\fs14}Stand clear! Stand clear!
+Dialogue: 0,1:34:41.50,1:34:44.21,*Default,NTP,0000,0000,0000,,这是对我们信仰的侮辱\N{\fs14}An infected limb
+Dialogue: 0,1:34:44.21,1:34:46.67,*Default,NTP,0000,0000,0000,,对圣灵的无视\N{\fs14}an outsider of the faith
+Dialogue: 0,1:34:46.67,1:34:50.92,*Default,NTP,0000,0000,0000,,这魔鬼的随从 恶毒的巫师\N{\fs14}a necromancer, a diabolist, a sorcerer
+Dialogue: 0,1:34:50.92,1:34:53.72,*Default,NTP,0000,0000,0000,,可鄙的异教徒\N{\fs14}and a damned heretic
+Dialogue: 0,1:34:54.89,1:34:59.47,*Default,NTP,0000,0000,0000,,神啊 请赐予您的仁慈\N{\fs14}Oh, God, in Thy most merciful spirit
+Dialogue: 0,1:34:59.47,1:35:03.19,*Default,NTP,0000,0000,0000,,让他五雷轰顶\N{\fs14}bring down thunderbolts upon his head
+Dialogue: 0,1:35:03.19,1:35:06.94,*Default,NTP,0000,0000,0000,,让恶魔化为灰烬吧\N{\fs14}and may the Devil make soup of his bones
+Dialogue: 0,1:35:07.40,1:35:08.27,*Default,NTP,0000,0000,0000,,阿门!\N{\fs14}Amen!
+Dialogue: 0,1:35:08.27,1:35:11.15,*Default,NTP,0000,0000,0000,,主教大人! 主教大人!\N{\fs14}My Lord! My Lord!
+Dialogue: 0,1:35:11.15,1:35:13.90,*Default,NTP,0000,0000,0000,,真是神迹啊! 他被抓住了!\N{\fs14}It's a miracle! He's been caught!
+Dialogue: 0,1:35:14.15,1:35:15.16,*Default,NTP,0000,0000,0000,,他被抓住了!\N{\fs14}He's been caught!
+Dialogue: 0,1:35:16.87,1:35:20.62,*Default,NTP,0000,0000,0000,,主教大人 魔鬼已经被抓住了\N{\fs14}My Lord, the fiend has been caught
+Dialogue: 0,1:35:20.62,1:35:22.29,*Default,NTP,0000,0000,0000,,在格勒诺布尔\N{\fs14}In the city of Grenoble
+Dialogue: 0,1:35:22.29,1:35:24.50,*Default,NTP,0000,0000,0000,,他供认不讳!\N{\fs14}He's confessed to everything!
+Dialogue: 0,1:35:24.50,1:35:26.38,*Default,NTP,0000,0000,0000,,供认不讳!\N{\fs14}He's confessed to everything!
+Dialogue: 0,1:35:27.17,1:35:32.34,*Default,NTP,0000,0000,0000,,啊 哈利路亚! 哈利路亚!\N{\fs14}Oh, hallelujah, Hallelujah!
+Dialogue: 0,1:35:33.47,1:35:35.34,*Default,NTP,0000,0000,0000,,赞美主啊!\N{\fs14}Praise be to God!
+Dialogue: 0,1:35:35.34,1:35:41.39,*Default,NTP,0000,0000,0000,,感谢您倾听我们的祈祷并给予了回答\N{\fs14}And we thank Him for listening to our prayers and answering them
+Dialogue: 0,1:35:41.39,1:35:44.44,*Default,NTP,0000,0000,0000,,阿门!\N{\fs14}Amen!
+Dialogue: 0,1:36:03.20,1:36:06.92,*Default,NTP,0000,0000,0000,,你读一读这报告就知道了不可能是这个人\N{\fs14}Just read the report, This cannot possibly be the same man
+Dialogue: 0,1:36:10.25,1:36:14.63,*Default,NTP,0000,0000,0000,,他全招认了 包括在格拉斯的凶杀案\N{\fs14}He confessed to everything, Including the murders in Grasse
+Dialogue: 0,1:36:14.63,1:36:18.59,*Default,NTP,0000,0000,0000,,没错 可那是在酷刑伺候之下\N{\fs14}Yes, Under to rture
+Dialogue: 0,1:36:18.59,1:36:20.64,*Default,NTP,0000,0000,0000,,你看这里\N{\fs14}Look, Here
+Dialogue: 0,1:36:20.64,1:36:24.64,*Default,NTP,0000,0000,0000,,他承认他扼死了被害者们扯下她们的头发\N{\fs14}He admits to strangling his victims, pulling out their hair
+Dialogue: 0,1:36:24.64,1:36:26.27,*Default,NTP,0000,0000,0000,,并强暴了她们\N{\fs14}and ravaging them
+Dialogue: 0,1:36:26.27,1:36:29.40,*Default,NTP,0000,0000,0000,,格拉斯的少女们都是脑后一击致命\N{\fs14}The girls of Grasse were killed by a single blow to the back of their heads
+Dialogue: 0,1:36:29.40,1:36:33.03,*Default,NTP,0000,0000,0000,,头发被仔细剪干净 也不曾被人侵犯\N{\fs14}their hair was carefully cropped, and not one of them was violated
+Dialogue: 0,1:36:33.03,1:36:35.15,*Default,NTP,0000,0000,0000,,安托万\N{\fs14}Antoine
+Dialogue: 0,1:36:35.15,1:36:37.11,*Default,NTP,0000,0000,0000,,大家都很高兴事情已经结束了\N{\fs14}we're all happy it's over
+Dialogue: 0,1:36:38.82,1:36:39.66,*Default,NTP,0000,0000,0000,,就此罢手吧!\N{\fs14}Let it go!
+Dialogue: 0,1:37:27.58,1:37:29.12,*Default,NTP,0000,0000,0000,,爸爸 出什么事了?\N{\fs14}Papa, what's the matter?
+Dialogue: 0,1:37:29.12,1:37:30.75,*Default,NTP,0000,0000,0000,,我们回家 马上!\N{\fs14}We're going home, Now!
+Dialogue: 0,1:37:30.75,1:37:32.00,*Default,NTP,0000,0000,0000,,但为什么? 我玩得正高兴呢\N{\fs14}But why? I'm enjoying myself
+Dialogue: 0,1:37:32.00,1:37:33.13,*Default,NTP,0000,0000,0000,,不许顶撞 萝拉!\N{\fs14}Don't argue with me, Laura
+Dialogue: 0,1:37:33.13,1:37:34.67,*Default,NTP,0000,0000,0000,,住手! 我要…\N{\fs14}Stop it! I'm going...
+Dialogue: 0,1:37:42.93,1:37:43.97,*Default,NTP,0000,0000,0000,,萝拉!\N{\fs14}Laura!
+Dialogue: 0,1:37:45.60,1:37:46.47,*Default,NTP,0000,0000,0000,,萝拉!\N{\fs14}Laura!
+Dialogue: 0,1:37:49.85,1:37:51.10,*Default,NTP,0000,0000,0000,,别挡道!\N{\fs14}Out of my way!
+Dialogue: 0,1:37:51.85,1:37:52.81,*Default,NTP,0000,0000,0000,,萝拉!\N{\fs14}Laura!
+Dialogue: 0,1:38:49.79,1:38:50.58,*Default,NTP,0000,0000,0000,,萝拉!\N{\fs14}Laura!
+Dialogue: 0,1:38:52.08,1:38:52.79,*Default,NTP,0000,0000,0000,,爸爸!\N{\fs14}Papa!
+Dialogue: 0,1:38:58.84,1:39:00.09,*Default,NTP,0000,0000,0000,,真对不起\N{\fs14}I'm so sorry
+Dialogue: 0,1:39:14.10,1:39:18.48,*Default,NTP,0000,0000,0000,,你一定觉得我很愚蠢\N{\fs14}I know you must think me a very foolish man
+Dialogue: 0,1:39:18.48,1:39:21.28,*Default,NTP,0000,0000,0000,,但请谅解\N{\fs14}but try to understand
+Dialogue: 0,1:39:21.28,1:39:23.28,*Default,NTP,0000,0000,0000,,你是我仅有的一切了\N{\fs14}you're all I have left
+Dialogue: 0,1:39:23.28,1:39:24.82,*Default,NTP,0000,0000,0000,,你不需要解释 爸爸\N{\fs14}You don't need to explain, Papa
+Dialogue: 0,1:39:24.82,1:39:27.24,*Default,NTP,0000,0000,0000,,如果你有什么三长两短\N{\fs14}If anything were to happen to you
+Dialogue: 0,1:39:27.24,1:39:31.16,*Default,NTP,0000,0000,0000,,我明白 但你不用老这么担心我啊\N{\fs14}I know, But you must stop worrying about me all the time
+Dialogue: 0,1:39:52.27,1:39:54.44,*Default,NTP,0000,0000,0000,,做个好梦 宝贝\N{\fs14}Sweet dreams, my love
+Dialogue: 0,1:39:58.27,1:40:00.11,*Default,NTP,0000,0000,0000,,做个好梦 爸爸\N{\fs14}Sweet dreams, Papa
+Dialogue: 0,1:41:00.04,1:41:01.29,*Default,NTP,0000,0000,0000,,萝拉!\N{\fs14}Laura!
+Dialogue: 0,1:41:11.76,1:41:14.43,*Default,NTP,0000,0000,0000,,爸爸 出什么事了?\N{\fs14}Papa, what's the matter?
+Dialogue: 0,1:41:18.89,1:41:20.31,*Default,NTP,0000,0000,0000,,你开窗了吗?\N{\fs14}Did you open the window?
+Dialogue: 0,1:41:22.65,1:41:24.69,*Default,NTP,0000,0000,0000,,没有 为什么?\N{\fs14}No, Why?
+Dialogue: 0,1:41:28.07,1:41:31.87,*Default,NTP,0000,0000,0000,,立刻把这封信送去给蒙特斯奇侯爵\N{\fs14}Have this letter dispatched to the Marquis de Montesquieu immediately
+Dialogue: 0,1:41:32.45,1:41:34.03,*Default,NTP,0000,0000,0000,,玛丽 快点!\N{\fs14}Marie? Quickly!
+Dialogue: 0,1:42:13.82,1:42:14.87,*Default,NTP,0000,0000,0000,,停下!\N{\fs14}Steady!
+Dialogue: 0,1:42:21.21,1:42:23.79,*Default,NTP,0000,0000,0000,,你们继续向北 进山\N{\fs14}Stay on the road north into the mountains
+Dialogue: 0,1:42:41.85,1:42:43.60,*Default,NTP,0000,0000,0000,,里希先生走了\N{\fs14}Did Monsieur Richis leave?
+Dialogue: 0,1:42:43.60,1:42:44.31,*Default,NTP,0000,0000,0000,,对\N{\fs14}He did
+Dialogue: 0,1:42:44.77,1:42:45.65,*Default,NTP,0000,0000,0000,,走的哪条路?\N{\fs14}Which way?
+Dialogue: 0,1:42:46.82,1:42:47.57,*Default,NTP,0000,0000,0000,,北边\N{\fs14}North
+Dialogue: 0,1:42:54.78,1:42:56.49,*Default,NTP,0000,0000,0000,,你确定不是走的南面吗?\N{\fs14}You sure it wasn't south?
+Dialogue: 0,1:42:56.49,1:42:58.45,*Default,NTP,0000,0000,0000,,我亲眼看见的\N{\fs14}I saw them with my own eyes
+Dialogue: 0,1:42:58.45,1:42:59.75,*Default,NTP,0000,0000,0000,,你为什么想知道?\N{\fs14}Why do you want to know?
+Dialogue: 0,1:43:01.83,1:43:03.17,*Default,NTP,0000,0000,0000,,我说了是北边!\N{\fs14}I said north!
+Dialogue: 0,1:43:04.08,1:43:05.04,*Default,NTP,0000,0000,0000,,北边!\N{\fs14}North!
+Dialogue: 0,1:43:06.96,1:43:08.00,*Default,NTP,0000,0000,0000,,格雷诺耶?\N{\fs14}Grenouille?
+Dialogue: 0,1:43:10.38,1:43:11.42,*Default,NTP,0000,0000,0000,,格雷诺耶? !\N{\fs14}Grenouille?!
+Dialogue: 0,1:43:14.38,1:43:15.43,*Default,NTP,0000,0000,0000,,格雷诺耶? !\N{\fs14}Grenouille?!
+Dialogue: 0,1:43:26.02,1:43:27.02,*Default,NTP,0000,0000,0000,,格雷诺耶? !\N{\fs14}Grenouille?!
+Dialogue: 0,1:43:43.33,1:43:44.75,*Default,NTP,0000,0000,0000,,天哪!\N{\fs14}Good God!
+Dialogue: 0,1:44:42.14,1:44:43.31,*Default,NTP,0000,0000,0000,,下午好 先生\N{\fs14}Good afternoon, Monsieur
+Dialogue: 0,1:44:43.31,1:44:46.98,*Default,NTP,0000,0000,0000,,下午好 还有别人住在这里吗?\N{\fs14}Good afternoon, Do you have anyone else staying here?
+Dialogue: 0,1:44:46.98,1:44:48.27,*Default,NTP,0000,0000,0000,,没有 先生\N{\fs14}No, Monsieur
+Dialogue: 0,1:44:48.27,1:44:50.77,*Default,NTP,0000,0000,0000,,那今晚我包下了\N{\fs14}Then I would like to take all your rooms for the night
+Dialogue: 0,1:44:50.77,1:44:52.73,*Default,NTP,0000,0000,0000,,非常荣幸 先生\N{\fs14}It will be our pleasure, Monsieur
+Dialogue: 0,1:44:54.53,1:44:58.82,*Default,NTP,0000,0000,0000,,明天清早 我们想乘渡船到圣奥诺拉\N{\fs14}And tomorrow, at first light, we wish to be ferried to the Ile de Lrin
+Dialogue: 0,1:44:58.82,1:45:00.95,*Default,NTP,0000,0000,0000,,那里废弃了 只有些修道士…\N{\fs14}It's deserted except for a few monks...
+Dialogue: 0,1:45:00.95,1:45:02.03,*Default,NTP,0000,0000,0000,,我知道\N{\fs14}I'm aware of that
+Dialogue: 0,1:45:03.45,1:45:04.50,*Default,NTP,0000,0000,0000,,明白 先生\N{\fs14}Very well, Monsieur
+Dialogue: 0,1:45:09.00,1:45:11.04,*Default,NTP,0000,0000,0000,,这是我们最好的房间 小姐\N{\fs14}Our finest room, Mademoiselle
+Dialogue: 0,1:45:13.84,1:45:15.67,*Default,NTP,0000,0000,0000,,你看这海景\N{\fs14}With a superb view of the sea
+Dialogue: 0,1:45:16.67,1:45:17.59,*Default,NTP,0000,0000,0000,,等等\N{\fs14}One moment
+Dialogue: 0,1:45:24.26,1:45:25.27,*Default,NTP,0000,0000,0000,,很好\N{\fs14}Very well
+Dialogue: 0,1:45:26.39,1:45:29.10,*Default,NTP,0000,0000,0000,,有没有邻着的房间?\N{\fs14}Do you have a room next to this one?
+Dialogue: 0,1:45:29.10,1:45:31.36,*Default,NTP,0000,0000,0000,,有 但相比之下 风景就远不如…\N{\fs14}Yes, but the view cannot be compared...
+Dialogue: 0,1:45:31.36,1:45:33.48,*Default,NTP,0000,0000,0000,,我对风景没兴趣\N{\fs14}I have no interest in the view
+Dialogue: 0,1:46:26.95,1:46:31.54,*Default,NTP,0000,0000,0000,,爸爸 能告诉我出了什么事吗?\N{\fs14}Papa, will you please tell me now what's happening?
+Dialogue: 0,1:46:31.54,1:46:34.13,*Default,NTP,0000,0000,0000,,你整天都一言不发\N{\fs14}You haven't said a word all day
+Dialogue: 0,1:46:34.13,1:46:35.63,*Default,NTP,0000,0000,0000,,为什么这么神秘?\N{\fs14}Why all this secrecy?
+Dialogue: 0,1:46:40.13,1:46:43.55,*Default,NTP,0000,0000,0000,,昨晚我梦见你死了\N{\fs14}Last night I dreamt you were dead
+Dialogue: 0,1:46:43.55,1:46:45.80,*Default,NTP,0000,0000,0000,,和其它姑娘一样 被谋杀了\N{\fs14}Murdered, Like all the other girls
+Dialogue: 0,1:46:55.15,1:46:58.65,*Default,NTP,0000,0000,0000,,实话说 我确信凶手还未曾落网\N{\fs14}And the truth is, I'm convinced that the killer is still here somewhere
+Dialogue: 0,1:47:00.40,1:47:02.45,*Default,NTP,0000,0000,0000,,每个被害者都很年轻美丽\N{\fs14}All of his victims were young and beautiful
+Dialogue: 0,1:47:02.45,1:47:04.87,*Default,NTP,0000,0000,0000,,而还有谁能比你更美呢 萝拉?\N{\fs14}and who is there more beautiful than you, Laura?
+Dialogue: 0,1:47:06.62,1:47:11.87,*Default,NTP,0000,0000,0000,,不论他有什么疯狂的阴谋 没有得到你 他一定誓不罢休\N{\fs14}Whatever his insane scheme, it will surely be incomplete without you
+Dialogue: 0,1:47:20.55,1:47:21.56,*Default,NTP,0000,0000,0000,,我已经给蒙特斯奇侯爵回了信\N{\fs14}I've written to the Marquis,
+Dialogue: 0,1:47:21.56,1:47:23.72,*Default,NTP,0000,0000,0000,,代你应允了他的求婚\N{\fs14}accepting his proposal of marriage on your behalf
+Dialogue: 0,1:47:23.72,1:47:28.18,*Default,NTP,0000,0000,0000,,并要求婚礼尽快举行\N{\fs14}and requesting that it take place as soon as possible
+Dialogue: 0,1:47:28.18,1:47:31.64,*Default,NTP,0000,0000,0000,,在此之前 你得待在修道院以确保安全\N{\fs14}Until then, you stay in the safety of the monastery
+Dialogue: 0,1:47:33.19,1:47:36.40,*Default,NTP,0000,0000,0000,,这一切 只因为你做了一个恶梦?\N{\fs14}And all this, because you had a bad dream?
+Dialogue: 0,1:47:36.40,1:47:37.82,*Default,NTP,0000,0000,0000,,我已经决定了\N{\fs14}I've made my decision,
+Dialogue: 0,1:47:37.82,1:47:39.78,*Default,NTP,0000,0000,0000,,但我甚至还不知道我爱不爱他!\N{\fs14}But I don't know whether I even love him
+Dialogue: 0,1:47:39.78,1:47:42.36,*Default,NTP,0000,0000,0000,,形势所迫 不容我们选择\N{\fs14}I'm afraid the circumstances leave us no choice
+Dialogue: 0,1:47:42.36,1:47:45.11,*Default,NTP,0000,0000,0000,,- 爸爸  - 就这么定了 萝拉\N{\fs14}- Papa,  - It's all arranged, Laura
+Dialogue: 0,1:53:35.01,1:53:36.47,*Default,NTP,0000,0000,0000,,站住!\N{\fs14}On your feet!
+Dialogue: 0,1:53:36.47,1:53:37.72,*Default,NTP,0000,0000,0000,,把手举起来!\N{\fs14}Hands in the air!
+Dialogue: 0,1:54:23.68,1:54:26.10,*Default,NTP,0000,0000,0000,,你为什么要杀我女儿?\N{\fs14}Why did you kill my daughter?
+Dialogue: 0,1:54:30.44,1:54:31.10,*Default,NTP,0000,0000,0000,,为什么?\N{\fs14}Why?
+Dialogue: 0,1:54:34.98,1:54:36.02,*Default,NTP,0000,0000,0000,,我需要她\N{\fs14}I needed her
+Dialogue: 0,1:55:02.51,1:55:04.64,*Default,NTP,0000,0000,0000,,你为什么要杀我女儿?\N{\fs14}Why did you kill my daughter?
+Dialogue: 0,1:55:09.27,1:55:10.27,*Default,NTP,0000,0000,0000,,我只是...\N{\fs14}I just...
+Dialogue: 0,1:55:13.69,1:55:14.69,*Default,NTP,0000,0000,0000,,需要她\N{\fs14}needed her
+Dialogue: 0,1:55:23.24,1:55:24.28,*Default,NTP,0000,0000,0000,,好吧\N{\fs14}Very well
+Dialogue: 0,1:55:26.70,1:55:28.99,*Default,NTP,0000,0000,0000,,可你给我记住\N{\fs14}But remember this
+Dialogue: 0,1:55:35.29,1:55:37.09,*Default,NTP,0000,0000,0000,,我会看着你...\N{\fs14}I'll be looking at you...
+Dialogue: 0,1:55:39.96,1:55:41.76,*Default,NTP,0000,0000,0000,,被钉到木十字架上\N{\fs14}when you're laid on the cross
+Dialogue: 0,1:55:41.76,1:55:46.01,*Default,NTP,0000,0000,0000,,等十二杖棍刑 击碎了你的四肢\N{\fs14}and the twelve blows are crashing down on your limbs
+Dialogue: 0,1:55:48.43,1:55:55.35,*Default,NTP,0000,0000,0000,,等到围观的众人终于厌倦了你痛苦的叫喊 四散归去\N{\fs14}And when the crowd has finally tired of your screams and wandered home
+Dialogue: 0,1:55:55.35,1:55:59.11,*Default,NTP,0000,0000,0000,,我会踏过你的血泊\N{\fs14}I will climb up through your blood
+Dialogue: 0,1:56:01.69,1:56:03.95,*Default,NTP,0000,0000,0000,,在你身边坐下\N{\fs14}and sit beside you
+Dialogue: 0,1:56:05.53,1:56:08.74,*Default,NTP,0000,0000,0000,,凝视进你的双眼\N{\fs14}I will look deep into your eyes
+Dialogue: 0,1:56:10.58,1:56:12.83,*Default,NTP,0000,0000,0000,,我的眼神将一点一滴的\N{\fs14}and, drop by drop
+Dialogue: 0,1:56:15.29,1:56:19.17,*Default,NTP,0000,0000,0000,,将对你的憎恨慢慢灌入\N{\fs14}I will trickle my disgust into them
+Dialogue: 0,1:56:21.26,1:56:23.63,*Default,NTP,0000,0000,0000,,有如灼热的硫酸\N{\fs14}like burning acid
+Dialogue: 0,1:56:25.88,1:56:26.68,*Default,NTP,0000,0000,0000,,直至...\N{\fs14}until...
+Dialogue: 0,1:56:30.97,1:56:32.02,*Default,NTP,0000,0000,0000,,...最终...\N{\fs14}...finally...
+Dialogue: 0,1:56:35.94,1:56:37.52,*Default,NTP,0000,0000,0000,,...你的死亡\N{\fs14}...you perish
+Dialogue: 0,1:57:13.68,1:57:15.60,*Default,NTP,0000,0000,0000,,你觉得他们会怎么处置他?\N{\fs14}What do you think they'll do to him?
+Dialogue: 0,1:57:15.60,1:57:19.35,*Default,NTP,0000,0000,0000,,好像是要用铁棍敲碎他所有的骨头\N{\fs14}Apparently they're gonna break every bone in his body with an iron bar
+Dialogue: 0,1:57:23.82,1:57:25.11,*Default,NTP,0000,0000,0000,,肮脏的家伙!\N{\fs14}Filthy piece of bile
+Dialogue: 0,1:57:29.95,1:57:30.78,*Default,NTP,0000,0000,0000,,蠢货!\N{\fs14}Fathead!
+Dialogue: 0,1:57:32.74,1:57:34.04,*Default,NTP,0000,0000,0000,,看 他来了\N{\fs14}Look, there he comes
+Dialogue: 0,1:58:38.10,1:58:39.35,*Default,NTP,0000,0000,0000,,把犯人的锁链解开\N{\fs14}Unchain the prisoner
+Dialogue: 0,1:58:51.32,1:58:52.11,*Default,NTP,0000,0000,0000,,行了!\N{\fs14}That's enough!
+Dialogue: 0,1:58:54.16,1:58:55.99,*Default,NTP,0000,0000,0000,,带他去刑场\N{\fs14}Let him be brought to the scaffold
+Dialogue: 0,1:59:01.17,1:59:02.17,*Default,NTP,0000,0000,0000,,那是什么\N{\fs14}What's that?
+Dialogue: 0,2:00:16.41,2:00:18.37,*Default,NTP,0000,0000,0000,,他来了吗? 那是什么?\N{\fs14}Is he coming? What is it?
+Dialogue: 0,2:02:08.14,2:02:11.06,*Default,NTP,0000,0000,0000,,这人是无辜的!\N{\fs14}This man is innocent!
+Dialogue: 0,2:02:15.28,2:02:16.57,*Default,NTP,0000,0000,0000,,不是他干的 不可能!\N{\fs14}He didn't do it, It's impossible
+Dialogue: 0,2:02:16.57,2:02:17.99,*Default,NTP,0000,0000,0000,,他是无辜的!\N{\fs14}He's innocent!
+Dialogue: 0,2:03:41.95,2:03:43.16,*Default,NTP,0000,0000,0000,,天使!\N{\fs14}An angel!
+Dialogue: 0,2:03:44.16,2:03:45.45,*Default,NTP,0000,0000,0000,,这不是凡人!\N{\fs14}This is no man!
+Dialogue: 0,2:03:45.87,2:03:48.04,*Default,NTP,0000,0000,0000,,这是天使!\N{\fs14}This is an angel!
+Dialogue: 0,2:09:49.52,2:09:50.44,*Default,NTP,0000,0000,0000,,格雷诺耶!\N{\fs14}Grenouille!
+Dialogue: 0,2:09:56.61,2:09:58.95,*Default,NTP,0000,0000,0000,,你休想骗过我!\N{\fs14}You can't fool me!
+Dialogue: 0,2:10:47.87,2:10:48.87,*Default,NTP,0000,0000,0000,,原谅我\N{\fs14}Forgive me
+Dialogue: 0,2:10:56.34,2:10:57.34,*Default,NTP,0000,0000,0000,,我的儿子\N{\fs14}my son
+Dialogue: 0,2:12:00.61,2:12:06.12,*Default,NTP,0000,0000,0000,,格拉斯人仿佛宿醉醒来 头痛如裂\N{\fs14}The people of Grasse awoke to a terrible hangover
+Dialogue: 0,2:12:06.12,2:12:11.41,*Default,NTP,0000,0000,0000,,对多数人而言 此次经历实在骇人听闻 难以解释\N{\fs14}For many of them, the experience was so ghastly, so completely inexplicable
+Dialogue: 0,2:12:11.41,2:12:13.92,*Default,NTP,0000,0000,0000,,且与他们所持的道德观念背道而驰\N{\fs14}and incompatible with their morals
+Dialogue: 0,2:12:13.92,2:12:17.17,*Default,NTP,0000,0000,0000,,于是 事后他们干脆彻底抹除了这段记忆\N{\fs14}that they literally erased it from their memories
+Dialogue: 0,2:12:18.09,2:12:21.38,*Default,NTP,0000,0000,0000,,镇上的参议会下午商讨决定\N{\fs14}The town council was in session by the afternoon
+Dialogue: 0,2:12:21.38,2:12:23.68,*Default,NTP,0000,0000,0000,,命令警察局\N{\fs14}and an order was passed to the police lieutenant
+Dialogue: 0,2:12:23.68,2:12:26.93,*Default,NTP,0000,0000,0000,,立即重新开展调查\N{\fs14}to immediately begin fresh investigations into the murders
+Dialogue: 0,2:12:28.68,2:12:33.23,*Default,NTP,0000,0000,0000,,翌日 多米尼克·德鲁就被逮捕了\N{\fs14}The following day, Dominique Drouth was arrested since it was in his backyard
+Dialogue: 0,2:12:33.23,2:12:36.02,*Default,NTP,0000,0000,0000,,因为被害者的衣服和头发终归都是在他的后院找到的\N{\fs14}that the clothes and hair of all the victims had been found
+Dialogue: 0,2:12:37.31,2:12:41.24,*Default,NTP,0000,0000,0000,,十四个小时的严刑拷打之后,他招认了一切\N{\fs14}After 14 hours of torture, Drouth confessed to everything
+Dialogue: 0,2:12:43.74,2:12:46.53,*Default,NTP,0000,0000,0000,,本案件就此了结\N{\fs14}With that, the case was closed
+Dialogue: 0,2:12:50.79,2:12:54.58,*Default,NTP,0000,0000,0000,,此时 格雷诺耶已经在返回巴黎的半路上了\N{\fs14}By then, Grenouille was already halfway back to Paris
+Dialogue: 0,2:12:58.71,2:13:03.72,*Default,NTP,0000,0000,0000,,只要他愿意 他手上剩下的香水 足以征服整个世界\N{\fs14}He still had enough perfume left to enslave the whole world if he so chose
+Dialogue: 0,2:13:03.72,2:13:06.84,*Default,NTP,0000,0000,0000,,他可以走到凡尔赛去让国王亲吻他的脚\N{\fs14}He could walk to Versailles and have the King kiss his feet
+Dialogue: 0,2:13:07.39,2:13:11.77,*Default,NTP,0000,0000,0000,,他可以给教皇写封香水信宣布自己是新的救世主\N{\fs14}He could write the Pope a perfumed letter and reveal himself as the new Messiah
+Dialogue: 0,2:13:12.60,2:13:15.81,*Default,NTP,0000,0000,0000,,只要他愿意 他可以随心所欲\N{\fs14}He could do all this and more if he wanted to
+Dialogue: 0,2:13:16.44,2:13:21.94,*Default,NTP,0000,0000,0000,,他手中掌握的这种威力比金钱 恐惧 或死亡更强大\N{\fs14}He possessed a power stronger than the power of money, or terror, or death
+Dialogue: 0,2:13:21.94,2:13:25.70,*Default,NTP,0000,0000,0000,,可以激发人类的爱慕之心 所向披靡\N{\fs14}the invincible power to command the love of mankind
+Dialogue: 0,2:13:32.41,2:13:35.83,*Default,NTP,0000,0000,0000,,只有一件事是香水做不到的\N{\fs14}There was only one thing the perfume could not do
+Dialogue: 0,2:13:35.83,2:13:38.88,*Default,NTP,0000,0000,0000,,它无法使他如常人一般爱...\N{\fs14}It could not turn him into a person who could love...
+Dialogue: 0,2:13:38.88,2:13:41.04,*Default,NTP,0000,0000,0000,,...与被爱\N{\fs14}...and be loved like everyone else
+Dialogue: 0,2:13:42.34,2:13:44.30,*Default,NTP,0000,0000,0000,,那就都见鬼去吧 他想\N{\fs14}So, to hell with it, he thought
+Dialogue: 0,2:13:44.80,2:13:49.89,*Default,NTP,0000,0000,0000,,这世界 这香水和他自己都见鬼去吧\N{\fs14}To hell with the world, With the perfume, With himself
+Dialogue: 0,2:13:52.51,2:13:58.31,*Default,NTP,0000,0000,0000,,在一七六六年六月二十五日约晚上十一点\N{\fs14}On the 25th of June, 1766, around 11 o'clock at night
+Dialogue: 0,2:13:58.31,2:14:02.07,*Default,NTP,0000,0000,0000,,格雷诺耶通过奥尔良港口回到巴黎\N{\fs14}Grenouille entered the city through the Port d'Orlans
+Dialogue: 0,2:14:02.07,2:14:04.40,*Default,NTP,0000,0000,0000,,有如一个梦游者\N{\fs14}and like a sleepwalker
+Dialogue: 0,2:14:04.40,2:14:08.53,*Default,NTP,0000,0000,0000,,他的嗅觉记忆将他带回了出生的地方\N{\fs14}his olfactory memories drew him back to the place where he was born
+Dialogue: 0,2:15:31.28,2:15:32.70,*Default,NTP,0000,0000,0000,,天使啊!\N{\fs14}An angel
+Dialogue: 0,2:15:35.45,2:15:37.33,*Default,NTP,0000,0000,0000,,我爱你!\N{\fs14}I love you!
+Dialogue: 0,2:16:24.58,2:16:27.84,*Default,NTP,0000,0000,0000,,没过多久 让·巴蒂斯特格雷诺耶\N{\fs14}Within no time, Jean Baptiste Grenouille
+Dialogue: 0,2:16:27.84,2:16:30.13,*Default,NTP,0000,0000,0000,,就从世间消失了\N{\fs14}had disappeared from the face of the earth
+Dialogue: 0,2:16:31.26,2:16:36.93,*Default,NTP,0000,0000,0000,,事后 他们满心都是圣洁的幸福光辉\N{\fs14}When they had finished, they felt a virginal glow of happiness
+Dialogue: 0,2:16:36.93,2:16:39.81,*Default,NTP,0000,0000,0000,,有生以来第一次\N{\fs14}For the first time in their lives
+Dialogue: 0,2:16:39.81,2:16:42.64,*Default,NTP,0000,0000,0000,,他们觉得自己所作所为\N{\fs14}they believed they have done something
+Dialogue: 0,2:16:42.64,2:16:45.65,*Default,NTP,0000,0000,0000,,乃是源自内心纯粹的爱\N{\fs14}purely out of love
+Dialogue: 0,2:17:16.76,2:17:18.76,*Default,NTP,0000,0000,0000,,那里!\N{\fs14}Over here!
+Dialogue: 0,2:17:19.30,2:17:20.06,*Default,NTP,0000,0000,0000,,看!\N{\fs14}Look!
+Dialogue: 0,2:17:21.97,2:17:22.98,*Default,NTP,0000,0000,0000,,一件夹克\N{\fs14}A jacket
+Dialogue: 0,2:17:27.65,2:17:29.57,*Default,NTP,0000,0000,0000,,拿回家去吧\N{\fs14}Let's take them all home
+Dialogue: 0,2:17:29.57,2:17:31.02,*Default,NTP,0000,0000,0000,,给你穿好了\N{\fs14}You can wear them
