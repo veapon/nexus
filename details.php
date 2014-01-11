@@ -543,7 +543,7 @@ echo "</script>";
 		$bonus_donated = 0;
 		$bonus_sql = sql_query("SELECT userid FROM bonuses WHERE torrentid=".sqlesc($torrentid)." ORDER BY id DESC LIMIT 20");
 		$donateCount = get_row_count("bonuses", "WHERE torrentid=".sqlesc($torrentid));
-		$donate_all = mysql_num_rows($thanks_sql);
+		$donate_all = mysql_num_rows($bonus_sql);
 		if ($donate_all) {
 			while($rows_t = mysql_fetch_array($bonus_sql)) {
 				$donate_userid = $rows_t["userid"];
