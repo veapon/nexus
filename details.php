@@ -535,6 +535,53 @@ echo $scronload;
 echo "</script>";
 		}
 
+	// ------------- start donate bonus block--------------//
+
+		$torrentid = $id;
+		$donatedby = "";
+		$nodonate = "";
+		$bonus_donated = 0;
+		$bonus_sql = sql_query("SELECT userid FROM bonuses WHERE torrentid=".sqlesc($torrentid)." ORDER BY id DESC LIMIT 20");
+		$donateCount = get_row_count("bonuses", "WHERE torrentid=".sqlesc($torrentid));
+		$donate_all = mysql_num_rows($thanks_sql);
+		if ($donate_all) {
+			while($rows_t = mysql_fetch_array($bonus_sql)) {
+				$donate_userid = $rows_t["userid"];
+				if ($rows_t["userid"] == $CURUSER['id']) {
+					$bonus_donated = 1;
+				} else {
+					$donatedby .= get_username($thanks_userid)." ";
+				}
+			}
+		}
+		else $nodonate = $lang_details['text_no_donate_added'];
+
+		if (!$bonus_donated) {
+			$bonus_donated = get_row_count("bonuses", "WHERE torrentid=$torrentid AND userid=".sqlesc($CURUSER['id']));
+		}
+		if ($bonus_donated == 0) {
+			$buttonvalue5 = " value= \"5\" ";
+			$buttonvalue50 = " value= \"50\" ";
+			$buttonvalue100 = " value= \"100\" ";
+			
+		} else {
+			
+			$buttonvalue5 = " value= \"5\"   disabled=\"disabled\" ";
+			$buttonvalue50 = " value= \"50\"  disabled=\"disabled\"";
+			$buttonvalue100 = " value= \"100\"  disabled=\"disabled\"";
+			$donatedby = get_username($CURUSER['id'])." ".$donatedby;
+		}
+		$donatebutton5 = "<input class=\"btn\" type=\"button\" id=\"donatebutton5\"  onclick=\"givebonus_torrent(".$torrentid.",5);\" ".$buttonvalue5." />";
+		$thanksbutton50 = "<input class=\"btn\" type=\"button\" id=\"donatebutton50\"  onclick=\"givebonus_torrent(".$torrentid.",50);\" ".$buttonvalue50." />";
+		$thanksbutton100 = "<input class=\"btn\" type=\"button\" id=\"donatebutton100\"  onclick=\"givebonus_torrent(".$torrentid.",100);\" ".$buttonvalue100." />";
+		tr($lang_details['row_donate_by'],"<span id=\"donateadded\" style=\"display: none;\"><input class=\"btn\" type=\"button\" value=\"".$lang_details['text_donate_added']."\" disabled=\"disabled\" /></span><span id=\"curuserdonate\" style=\"display: none;\">".get_username($CURUSER['id'])." </span><span id=\"donatebutton5\">".$donatebutton5."</span><span id=\"donatebutton50\">".$thanksbutton50."</span><span id=\"donatebutton100\">".$thanksbutton100."</span>&nbsp;&nbsp;<span id=\"nodonate\">".$nodonate."</span><span id=\"addcuruserdonate\"></span>".$donatedby.($donate_all < $donateCount ? $lang_details['text_and_more'].$donateCount.$lang_details['text_users_in_total'] : ""),1);
+		   
+		   
+		// ------------- end donate bonus block--------------//
+
+
+
+
 		// ------------- start thanked-by block--------------//
 
 		$torrentid = $id;

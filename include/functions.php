@@ -3136,6 +3136,44 @@ while ($row = mysql_fetch_assoc($res))
 		}
 		print($dissmall_descr == "" ? "" : "<br />".htmlspecialchars($dissmall_descr));
 	}
+	
+	
+	// start display downloading process state
+	$userid=$CURUSER['id'];
+    $a=get_row_count("snatched", "WHERE userid=".$userid."  and  torrentid=".$id);
+    if ($a==1)
+	{//显示进度条
+        $res11 =  mysql_fetch_array(sql_query("SELECT uploaded, downloaded ,finished FROM snatched WHERE userid=".$userid."  and  torrentid=".$id));
+        $res12=  mysql_fetch_array(sql_query("SELECT  size  FROM torrents  WHERE  id=".$id));
+        $a=get_row_count("peers", "WHERE userid=$userid AND torrent=".$id." and seeder='yes' ");
+        if ($a==1)
+		{//做种中
+            $b="progress2";
+            $c="progress12";
+            $down_status=100;        
+        }
+        else{
+				if ($res11['downloaded']==$res12['size'])
+				{//已完成、未做种
+					$b="progress1";
+					$c="progress13";       
+					$down_status=100;
+				}
+            	else
+				{//未完成
+                	$b="progress3";
+               	 	$c="progress11";
+                	$down_status=$res11['downloaded']/$res12['size']*100;
+            	}
+        	}
+        	print("
+			<table style='width: 100%; margin-top: 5px;'><tr>
+			<td class='embedded' style='width: 12px;'><img class=".$b." src='pic/trans.gif'></td>
+			<td class='embedded'><div class='progressarea' title='uploaded:".mksize($res11['uploaded'])." downloaded:".mksize($res11['downloaded'])."' style='margin-top: 5px;margin-right: 3px;border: 1px #D2B48C solid;'><div  style='background-color:#36648B;height:3px;text-align:center;font-size:2px; width:".$down_status."%;' ></div></div></td>
+</tr></tbody></table>");
+	}
+	//end display downloading process state
+	
 	print("</td>");
 
 		$act = "";

@@ -217,7 +217,10 @@ $lang_details = array
 	'text_other_copies' => "个其它版本",
 	'row_uploader_bandwidth' => "发布者带宽",
 	'text_and_more' => "……（这里只显示最新记录。共",
-	'text_users_in_total' => "个用户表示了感谢）",
+	'text_users_in_total' => "个用户）",
+	'row_donate_by'=>"赠送魔力值",
+	'text_donate_added' => "赠送魔力值成功！",
+	'text_no_donate_added' => "暂无赠送者",
 );
 
 ?>

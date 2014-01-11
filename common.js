@@ -382,3 +382,23 @@ function checkin(action)
     alert("你还需要继续努力哦！此次签到，你获得了魔力奖励："+msg);
     },'action='+action);
 }
+
+function givebonus_post(postid,bonus,confirmtxt)
+{
+    if (confirm(confirmtxt)) 
+	{
+        var list = ajax.post('bonus.php', '', 'id='+postid+'&bonus='+bonus+'&type=post');
+        document.getElementById('post'+postid).innerHTML = document.getElementById('thanks'+postid).innerHTML;
+    }
+}
+
+
+// 
+
+function givebonus_torrent(torrentid,bonus)
+{
+  var list = ajax.post('bonus.php', '', 'id='+torrentid+'&bonus='+bonus+'&type=torrent');
+  document.getElementById("donatebutton"+bonus).innerHTML = document.getElementById("donateadded").innerHTML;
+  document.getElementById("nodonate").innerHTML = "";
+  document.getElementById("addcuruserdonate").innerHTML = document.getElementById("curuserdonate").innerHTML;
+}
