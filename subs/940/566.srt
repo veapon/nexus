@@ -1,0 +1,2157 @@
+1
+00:02:24,810 --> 00:02:28,070
+m 20 0 l 209 0 b 218 0 229 11 229 20 l 229 209 b 229 218 218 228 209 228 l 20 228 b 11 228 0 218 0 209 l 0 20 b 0 11 11 0 20 0
+
+2
+00:02:24,810 --> 00:02:28,070
+m 115 64 l 115 35 l 171 0 l 177 0 l 133 46 l 143 52 l 179 0 l 184 0 l 159 63 l 229 107 l 229 182 l 145 96 l 135 122 l 207 227 l 137 227 l 115 172 l 115 93 l 126 76 l 115 64 l 104 76 l 115 93 l 115 172 l 93 227 l 23 227 l 95 122 l 84 96 l 0 182 l 0 107 l 70 63 l 45 0 l 50 0 l 87 52 l 97 46 l 52 0 l 59 0 l 115 35
+
+3
+00:02:24,810 --> 00:02:28,190
+m 71 60 b 71 0 161 0 161 60 b 161 120 71 120 71 60
+
+4
+00:02:24,810 --> 00:02:28,190
+m 325 0 l 355 0 l 332 47 l 354 47 l 399 136 l 369 136 l 328 53 l 288 136 l 257 136 l 325 0 m 467 0 l 497 0 l 474 47 l 496 47 l 541 136 l 511 136 l 470 53 l 430 136 l 399 136 l 467 0 m 545 1 l 583 1 l 583 14 l 568 14 l 568 19 l 583 19 l 583 30 l 568 30 l 568 34 l 599 34 l 599 30 l 583 30 l 583 19 l 599 19 l 599 14 l 583 14 l 583 1 l 611 1 b 616 1 622 6 622 10 l 622 36 l 652 0 l 678 0 l 644 41 l 622 41 l 622 47 l 596 47 l 597 54 l 625 54 l 625 68 l 541 68 l 541 54 l 572 54 l 571 47 l 545 47 l 545 1 m 583 72 l 583 85 l 569 85 l 569 90 l 598 90 l 598 85 l 583 85 l 583 72 l 611 72 b 615 72 621 78 621 82 l 653 44 l 678 44 l 644 86 l 621 86 l 621 103 l 597 103 l 597 136 l 570 136 l 564 126 l 562 136 l 542 136 l 548 107 l 568 107 l 565 121 l 571 121 l 571 103 l 547 103 l 547 72 l 583 72 m 600 107 l 620 107 l 624 124 l 653 89 l 679 89 l 642 136 l 615 136 l 618 132 l 606 132 l 600 107 m 689 0 l 716 0 l 721 15 l 732 15 l 732 30 l 718 56 l 731 56 l 735 100 l 721 100 l 717 59 l 714 64 l 714 136 l 693 136 l 693 79 l 676 79 l 707 30 l 679 30 l 679 15 l 694 15 l 689 0 m 738 0 l 804 0 b 807 0 813 6 813 9 l 813 87 l 794 87 l 794 14 l 756 14 l 756 87 l 763 77 l 763 21 l 787 21 l 787 91 l 798 91 l 798 120 l 820 120 l 812 136 l 778 136 l 778 90 l 748 136 l 723 136 l 756 87 l 738 87 l 738 0 m 257 151 l 275 151 l 297 182 l 319 151 l 337 151 l 304 197 l 304 227 l 290 227 l 290 197 l 257 151 m 337 151 l 355 151 l 377 182 l 399 151 l 417 151 l 384 197 l 384 227 l 370 227 l 370 197 l 337 151 m 425 192 l 447 192 b 445 181 427 181 425 192 l 410 192 b 414 162 458 162 462 192 l 462 206 l 425 206 b 425 210 429 212 433 213 l 462 213 l 462 227 l 433 227 b 412 227 408 203 410 192 m 462 151 l 532 151 l 532 165 l 504 165 l 504 227 l 489 227 l 489 165 l 462 165 l 462 151 m 580 172 l 580 186 l 549 186 b 543 186 543 192 549 192 l 565 192 b 589 192 589 227 565 227 l 532 227 l 532 213 l 565 213 b 570 213 570 206 565 206 l 549 206 b 524 206 524 172 549 172 l 580 172 m 592 213 l 606 213 l 606 227 l 592 227 l 592 213 m 639 172 l 665 172 l 665 186 l 639 186 b 623 186 623 213 639 213 l 665 213 l 665 227 l 639 227 b 603 227 603 172 639 172 m 700 184 b 722 184 722 215 700 215 l 700 229 b 740 229 740 170 700 170 b 660 170 660 229 700 229 l 700 215 b 680 215 680 184 700 184 m 737 172 l 782 172 b 803 172 813 177 813 198 l 813 228 l 799 228 l 799 198 b 799 186 793 187 782 187 l 782 228 l 768 228 l 768 187 l 752 187 l 752 228 l 737 228 l 737 172
+
+5
+00:02:24,810 --> 00:02:28,190
+人人影視
+YYeTs.com
+
+6
+00:02:24,810 --> 00:02:28,190
+原創翻譯  雙語字幕
+
+7
+00:02:24,810 --> 00:02:28,190
+■
+
+8
+00:02:24,810 --> 00:02:28,190
+僅供學習 禁止用于任何商業盈利行為
+更多影視更新
+請登陸www.YYeTs.com
+
+9
+00:02:28,190 --> 00:02:32,810
+翻譯：淫賊叫獸賽太公  受騙學生YY貓  貓中之王  醉芝士
+
+10
+00:02:32,810 --> 00:02:37,010
+校對：淫賊叫獸賽太公  受騙學生YY貓總監   YY貓
+
+11
+00:02:37,010 --> 00:02:40,970
+后期：孤帆   時間軸：YY貓
+
+12
+00:02:42,840 --> 00:02:44,510
+生活大爆炸
+第七季  第七集
+
+13
+00:00:08,530 --> 00:00:10,130
+我從沒見過他這么歡樂
+I've never seen him this happy before.
+
+14
+00:00:10,130 --> 00:00:11,190
+那是因為你從來沒有在
+That's because you've never seen him
+
+15
+00:00:11,190 --> 00:00:13,820
+"醫藥箱補貨日"見過他
+on "Restock the Medicine Cabinet Day."
+
+16
+00:00:14,610 --> 00:00:15,220
+你們看
+Look!
+
+17
+00:00:15,220 --> 00:00:17,910
+新出的帶麻藥局部抗組胺劑呢
+A new topical antihistamine with lidocaine.
+
+18
+00:00:19,900 --> 00:00:22,010
+好想趕快發疹子來用用看啊
+I can't wait until I get a rash.
+
+19
+00:00:23,230 --> 00:00:26,590
+解脹氣藥也出了加強版呢
+Oh, Gas-X has a new ultra strength.
+
+20
+00:00:26,590 --> 00:00:28,760
+看來他們真會看顧客意見郵箱啊
+I guess they really do read their mail.
+
+21
+00:00:30,150 --> 00:00:33,400
+那不是質子教授嗎
+Hey, isn't that Professor Proton?
+
+22
+00:00:33,400 --> 00:00:34,770
+是啊
+Oh, yeah.
+
+23
+00:00:38,710 --> 00:00:41,230
+你們看他  像普通人一樣排隊
+Look at him, just standing in line
+
+24
+00:00:41,230 --> 00:00:44,540
+好像自己30年前并不是個二流名人似地
+like he wasn't moderately famous 30 years ago.
+
+25
+00:00:45,250 --> 00:00:46,320
+去跟他打招呼吧
+Let's go say hello.
+
+26
+00:00:46,320 --> 00:00:48,370
+我們還是別煩人家比較好吧
+Oh, maybe we shouldn't bother him.
+
+27
+00:00:48,410 --> 00:00:50,990
+我沒有要去煩他啊  我是要去跟他聊聊
+I'm not going to bother him, I'm going to talk to him.
+
+28
+00:00:52,650 --> 00:00:54,640
+他總以為這兩者不一樣
+He thinks there's a difference.
+
+29
+00:00:54,830 --> 00:00:55,830
+亞瑟
+Arthur?
+
+30
+00:00:56,480 --> 00:00:57,620
+亞瑟  是我啊
+Arthur, it's me--
+
+31
+00:00:57,620 --> 00:00:58,880
+謝爾頓·庫珀
+Sheldon Cooper.
+
+32
+00:00:58,880 --> 00:01:02,420
+你可能因為年事已高忘了我是誰了
+You may not remember because of your advanced age.
+
+33
+00:01:03,270 --> 00:01:06,080
+相信我  你化成灰我也認得
+Trust me, I... I remember.
+
+34
+00:01:06,500 --> 00:01:08,280
+這位是我的女朋友  艾米
+This is my girlfriend, Amy.
+
+35
+00:01:08,280 --> 00:01:10,960
+艾米  這位是電視圈傳奇亞瑟·杰弗里斯
+Amy, this is television legend Arthur Jeffries.
+
+36
+00:01:10,960 --> 00:01:14,690
+他的科普節目啟發了無數孩子
+His science show inspired millions of children.
+
+37
+00:01:14,690 --> 00:01:16,740
+等  等等
+Ho-hold on.
+
+38
+00:01:16,740 --> 00:01:19,650
+你...  你有女朋友啊
+You... You have a girlfriend?
+
+39
+00:01:20,750 --> 00:01:23,000
+是的  久仰大名啊
+Yes, and I've heard so much about you.
+
+40
+00:01:23,000 --> 00:01:26,720
+而且你看  我們穿著同款矯正鞋呢
+Hey look-- we're wearing the same orthopedic shoes.
+
+41
+00:01:27,760 --> 00:01:29,940
+真不敢相信我跟名人穿同樣的鞋
+I can't believe I dress like a celebrity.
+
+42
+00:01:32,230 --> 00:01:34,850
+現在我明白了
+O-Okay, I get it now.
+
+43
+00:01:36,040 --> 00:01:38,570
+你好  我是萊納德·霍夫斯塔德
+Dr. Jeffries, hello again. Leonard Hofstadter.
+
+44
+00:01:38,570 --> 00:01:41,910
+是你啊  我記得你的女朋友
+Oh, oh, right, I remember your-your girlfriend.
+
+45
+00:01:43,710 --> 00:01:46,560
+她...  她在嗎
+Is-Is she... is she here?
+
+46
+00:01:47,530 --> 00:01:49,240
+她不在這里
+No, she's not.
+
+47
+00:01:49,480 --> 00:01:51,290
+你是來補什么藥的存貨呢
+So, what prescription are you getting filled?
+
+48
+00:01:51,290 --> 00:01:53,090
+-謝爾頓  -別說  讓我猜猜
+- Sheldon. - Wait, I want to guess.
+
+49
+00:01:53,090 --> 00:01:54,550
+別告訴我答案
+Don't tell me.
+
+50
+00:01:54,550 --> 00:01:57,350
+我本來就沒打算告訴你
+I wasn't going to tell you.
+
+51
+00:01:57,750 --> 00:01:58,810
+謝爾頓  別玩了
+Sheldon, come on.
+
+52
+00:01:58,810 --> 00:02:00,030
+不不不  玩這個我最拿手了
+No, no, no. I'm really good at this.
+
+53
+00:02:00,030 --> 00:02:00,970
+好  給我的提示
+All right, give me a hint.
+
+54
+00:02:00,970 --> 00:02:05,940
+是不是跟排某些液體有困難有關
+Does it involve difficulty initiating a stream of anything?
+
+55
+00:02:06,960 --> 00:02:11,930
+看我的年紀就知道  猜中很容易吧
+Well, given my age, that's more than just a lucky guess.
+
+56
+00:02:11,930 --> 00:02:13,620
+謝爾頓  我們還是去取笑
+Hey, Sheldon, let's go mock the people
+
+57
+00:02:13,620 --> 00:02:16,370
+買順勢療法藥的人吧  你不是很喜歡嗎  
+buying homeopathic medicine-- you love that.
+
+58
+00:02:16,370 --> 00:02:17,970
+但是我現在跟朋友一起
+But I'm hanging out with my friend,
+
+59
+00:02:17,970 --> 00:02:19,220
+我們聊得正歡呢
+and we're having fun.
+
+60
+00:02:19,220 --> 00:02:21,830
+你看他多開心
+Look how happy he is.
+
+61
+00:02:54,210 --> 00:02:57,390
+妮妮這周五要在家里辦閨蜜之夜
+Bernie's having a girls' night on Friday at our place.
+
+62
+00:02:57,390 --> 00:02:58,750
+不如那晚咱倆出去玩呀
+You want to do something?
+
+63
+00:02:58,750 --> 00:03:01,300
+-那晚我有事呢  -什么事
+- Actually, I'm busy. - Doing what?
+
+64
+00:03:01,300 --> 00:03:03,720
+科羅拉多大街那邊開了一家新體育酒吧...
+There's a new sports bar over on Colorado Ave...
+
+65
+00:03:03,720 --> 00:03:05,230
+-你也要去參加閨蜜之夜  -是啦
+- You're going to girls' night. - Yeah.
+
+66
+00:03:08,040 --> 00:03:10,140
+你知道她們是要串珠寶的對吧
+You know they're making jewelry, right?
+
+67
+00:03:10,140 --> 00:03:12,510
+你以為那主意是她們想出來的嗎
+You think they came up with that?
+
+68
+00:03:13,020 --> 00:03:15,630
+她們本來是要喝啤酒  射飛鏢好嗎
+They were going to drink beer and play darts.
+
+69
+00:03:16,690 --> 00:03:17,620
+怎么樣啦[什么上升]
+What's up?
+
+70
+00:03:17,620 --> 00:03:20,070
+絕對不是他的睪丸酮水平
+Not his testosterone levels.
+
+71
+00:03:20,070 --> 00:03:21,020
+別亂說
+Excuse me.
+
+72
+00:03:21,020 --> 00:03:24,120
+人家對自己的男子氣概很滿意好咩
+I happen to be very comfortable with my masculinity.
+
+73
+00:03:24,120 --> 00:03:26,480
+這怎么可能
+How is that possible?
+
+74
+00:03:30,470 --> 00:03:33,810
+質子教授給我發了電郵
+Hey, I got an email from Professor Proton.
+
+75
+00:03:33,810 --> 00:03:35,320
+好耶  他說什么了
+Goody! What's it say?
+
+76
+00:03:35,320 --> 00:03:38,140
+他在寫一篇納米真空管的論文
+He's working on a paper about nano vacuum tubes,
+
+77
+00:03:38,140 --> 00:03:40,620
+問我能不能幫他看看
+and wants to know if I'd take a look at it.
+
+78
+00:03:40,620 --> 00:03:42,550
+奇怪
+That's strange.
+
+79
+00:03:42,550 --> 00:03:45,250
+他居然會找你  而不是找我幫忙
+That he would come to you for that and not me.
+
+80
+00:03:46,530 --> 00:03:48,900
+我收到他兩封電郵呢
+Oh, I got two emails from him.
+
+81
+00:03:49,670 --> 00:03:52,720
+"你有萊納德的郵箱嗎"
+"Do you have Leonard's email address?"
+
+82
+00:03:55,220 --> 00:03:56,610
+還有
+And...
+
+83
+00:03:56,610 --> 00:03:59,300
+"不用了  我找到了"
+"Never mind, I found it."
+
+84
+00:04:00,650 --> 00:04:03,190
+他居然會選你不選我
+I can't believe he picked you over me.
+
+85
+00:04:03,190 --> 00:04:05,500
+你也不會想看一篇好幾十年沒正經
+You don't want to read a paper by some old has-been
+
+86
+00:04:05,500 --> 00:04:08,860
+搞過科研的過氣老頭寫的論文呢
+who hasn't done any real science in decades.
+
+87
+00:04:08,860 --> 00:04:10,740
+這有什么好哭訴的
+Yeah, it's nothing to cry about.
+
+88
+00:04:11,080 --> 00:04:13,350
+謝爾頓·庫伯才不哭呢
+Sheldon Cooper does not cry.
+
+89
+00:04:13,350 --> 00:04:15,920
+有道理  你個機器人碰水會生銹
+It's true, you'd rust.
+
+90
+00:04:20,950 --> 00:04:23,620
+想到我居然曾經當他是我偶像
+And to think I idolized that man.
+
+91
+00:04:23,620 --> 00:04:24,980
+我何苦呢
+And why?
+
+92
+00:04:24,980 --> 00:04:28,050
+說到底  他不過也是個好萊塢偽君子罷了
+At the end of the day he's just another Hollywood phony.
+
+93
+00:04:29,500 --> 00:04:31,320
+這事情真的值得你不開心嗎
+Is it really worth getting upset about?
+
+94
+00:04:31,320 --> 00:04:33,210
+常言道  別見你心中的英雄
+They say don't meet your heroes.
+
+95
+00:04:33,210 --> 00:04:36,210
+不要窺探他們名望與名聲背后的真實
+Don't peek behind that curtain of fame and celebrity,
+
+96
+00:04:36,210 --> 00:04:39,090
+如果你犯了這禁忌  你會看到真實的他們
+because if you do, you'll see them as they really are--
+
+97
+00:04:39,090 --> 00:04:41,370
+墮落的賣笑戲子
+degenerate carnival folk.
+
+98
+00:04:43,050 --> 00:04:45,330
+別這樣  他只是個退休的兒童節目主持
+Come on, he's a retired kids show host.
+
+99
+00:04:45,330 --> 00:04:46,500
+這才更糟呢
+That's even worse.
+
+100
+00:04:46,500 --> 00:04:48,710
+用美好的科學當糖果
+Using the sweet candy of science
+
+101
+00:04:48,710 --> 00:04:50,830
+騙取小孩對他的愛慕
+to trick children into loving him.
+
+102
+00:04:52,030 --> 00:04:53,440
+死淫賊
+Pervert.
+
+103
+00:04:56,080 --> 00:04:57,270
+你有仔細想過
+Have you ever thought about
+
+104
+00:04:57,270 --> 00:05:00,000
+為什么亞瑟沒找你讀論文嗎
+why Arthur didn't want you to read his paper?
+
+105
+00:05:00,010 --> 00:05:01,410
+我想過
+Yes, I have.
+
+106
+00:05:01,410 --> 00:05:02,740
+我唯一的結論就是
+And my only conclusion
+
+107
+00:05:02,740 --> 00:05:04,610
+他那天在藥房買的藥
+is the prescription he was picking up the other day
+
+108
+00:05:04,610 --> 00:05:06,470
+是要治神經病的
+was for cuckoo pills.
+
+109
+00:05:07,720 --> 00:05:11,020
+有可能是他覺得你有點過了吧
+Maybe he found you, um, a bit much.
+
+110
+00:05:12,130 --> 00:05:14,360
+你這話說得才過吧
+That's kind of a stretch.
+
+111
+00:05:14,360 --> 00:05:16,010
+要說社交技巧
+Look, when it comes to social skills,
+
+112
+00:05:16,010 --> 00:05:17,460
+我已經掌握了三大技巧
+I've mastered the big three.
+
+113
+00:05:17,460 --> 00:05:19,590
+首先是靦腆一笑
+There's the coy smile.
+
+114
+00:05:21,500 --> 00:05:23,350
+以及友善的輕笑
+There's the friendly chuckle.
+
+115
+00:05:25,820 --> 00:05:28,550
+以及如何發出同情音
+There's the vocalization of sympathy.
+
+116
+00:05:31,240 --> 00:05:34,290
+最后這個太難了  我還在練
+That last one's tricky, I'm still working on it.
+
+117
+00:05:35,050 --> 00:05:36,980
+就我那天看到的情況來看
+From what I saw the other day,
+
+118
+00:05:36,980 --> 00:05:39,620
+我能理解他或...
+I could understand why he and...
+
+119
+00:05:40,150 --> 00:05:42,800
+有些人可能會覺得你
+some people might find you...
+
+120
+00:05:44,450 --> 00:05:45,980
+什么
+What?
+
+121
+00:05:47,710 --> 00:05:49,040
+算了
+Doesn't matter.
+
+122
+00:05:49,720 --> 00:05:52,130
+不行  快說
+No, go ahead, say it.
+
+123
+00:05:52,130 --> 00:05:53,630
+我知道你想說什么
+I know what it is.
+
+124
+00:05:53,630 --> 00:05:55,070
+我這輩子聽過無數遍了
+I've heard it my whole life.
+
+125
+00:05:55,070 --> 00:05:56,260
+你想說的是"惹人厭"
+The word's "annoying".
+
+126
+00:05:56,260 --> 00:05:57,570
+說吧  說吧
+Go ahead, say it.
+
+127
+00:05:57,570 --> 00:05:59,560
+快說  說我惹人厭
+Say it. Say I'm annoying.
+
+128
+00:05:59,560 --> 00:06:00,280
+謝爾頓
+Sheldon...
+
+129
+00:06:00,280 --> 00:06:01,900
+我才不會覺得受傷
+Oh, it won't hurt my feelings.
+
+130
+00:06:01,900 --> 00:06:03,730
+說吧  艾米  說我惹人厭啊
+Go ahead, Amy, say I'm annoying.
+
+131
+00:06:03,730 --> 00:06:06,200
+我惹人厭  我超級惹人厭
+I'm annoying. I'm annoying.
+
+132
+00:06:06,200 --> 00:06:07,500
+我最惹人厭了  沒錯
+I'm annoying. Yeah, now, uh...
+
+133
+00:06:07,500 --> 00:06:08,430
+你要去哪里
+Now where are you going?
+
+134
+00:06:08,430 --> 00:06:10,900
+你知道你想說出口  快說啊
+Look, you know you want to say it-- say it.
+
+135
+00:06:11,400 --> 00:06:13,390
+說我惹人厭  快說啊
+Say I'm annoying. Go ahead, say it.
+
+136
+00:06:13,880 --> 00:06:17,090
+說啊  艾米  快說啊
+Say it. Say it. Amy, say it.
+
+137
+00:06:19,690 --> 00:06:22,050
+這妞不能忍受我是對的就走啊
+Well, she can't stand it when I'm right.
+
+138
+00:06:24,210 --> 00:06:25,390
+真有意思
+This is fun.
+
+139
+00:06:25,390 --> 00:06:27,160
+我會像戴著珠寶的那種傲嬌的貴婦
+I'm going to feel like such a vixen wearing jewelry
+
+140
+00:06:27,160 --> 00:06:30,220
+只不過我不會對一大堆藥物過敏
+that doesn't have a list of medications I'm allergic to.
+
+141
+00:06:31,160 --> 00:06:32,700
+佩妮  你做得怎么樣
+Penny, how's it going over there?
+
+142
+00:06:32,700 --> 00:06:35,660
+很好  只是我有點搞不定膠水
+Good-- I'm just having little trouble with the glue.
+
+143
+00:06:37,290 --> 00:06:39,030
+你難道不會用膠水嗎
+How do you not know how to use glue?
+
+144
+00:06:39,030 --> 00:06:41,130
+你學前班老逃課了吧
+Did you ditch pre-school?
+
+145
+00:06:41,590 --> 00:06:44,790
+是啊  當時我忙著跟二年級的學生約會呢
+Yeah, but only because I was dating a second grader.
+
+146
+00:06:47,250 --> 00:06:48,600
+各位好啊
+Hello, everyone.
+
+147
+00:06:48,600 --> 00:06:50,990
+好吧  你想說什么就說吧
+Okay, let me have it.
+
+148
+00:06:50,990 --> 00:06:53,960
+你只管開"拉杰是娘們"的玩笑好了
+Let's hear all the "Raj is a girl" jokes.
+
+149
+00:06:53,960 --> 00:06:54,620
+你想錯了
+Nope.
+
+150
+00:06:54,620 --> 00:06:57,310
+伯納黛特說這樣不對  她不許我這樣
+Bernadette told me it isn't nice and I'm not allowed.
+
+151
+00:06:57,310 --> 00:06:58,000
+那還真是多謝了
+Thank you.
+
+152
+00:06:58,000 --> 00:06:59,460
+所以我不會嘲笑你
+So I won't be making fun of you,
+
+153
+00:06:59,460 --> 00:07:00,670
+也不會恥笑你喜歡的事物
+or the things you like,
+
+154
+00:07:00,670 --> 00:07:04,080
+更不會譏笑你"只想玩樂"的事實
+or the fact that you just want to have fun.
+
+155
+00:07:00,670 --> 00:07:04,080
+源自辛迪·勞帕的著名單曲《Girls Just Wanna Have Fun 女孩們只想玩樂》
+
+156
+00:07:07,170 --> 00:07:08,440
+華仔  別說了
+Howie, stop.
+
+157
+00:07:08,440 --> 00:07:10,290
+過來看看我做的東西
+Come on, look at what I'm making.
+
+158
+00:07:11,280 --> 00:07:12,560
+還挺好看的嘛
+Oh, that's actually pretty nice.
+
+159
+00:07:12,560 --> 00:07:13,720
+我在做手鐲
+I'm making a bracelet.
+
+160
+00:07:13,720 --> 00:07:15,860
+而我做的是"一團糟"
+Yeah, I'm just making a mess.
+
+161
+00:07:17,900 --> 00:07:20,640
+你們其實可以拿我的焊鐵玩
+You know, instead of beads and glue,
+
+162
+00:07:20,640 --> 00:07:22,040
+而不是在這光玩珠子和膠水
+you guys can use my soldering iron.
+
+163
+00:07:22,040 --> 00:07:23,840
+這樣你們可以做更酷的東西
+You'd be able to make much cooler stuff.
+
+164
+00:07:23,840 --> 00:07:27,410
+我覺得這樣就挺好  謝啦
+Oh, I think we're doing just fine, thank you.
+
+165
+00:07:27,410 --> 00:07:30,120
+-老實說  我想試試  -我也是
+- Actually, I'd kind of like to try that. - Me, too.
+
+166
+00:07:30,120 --> 00:07:31,970
+馬上給你們拿來
+Be right back.
+
+167
+00:07:32,590 --> 00:07:35,240
+我胳膊上怎么黏有開心果
+When did I have pistachios?
+
+168
+00:07:40,560 --> 00:07:41,670
+亞瑟
+Arthur.
+
+169
+00:07:42,250 --> 00:07:43,380
+亞瑟
+Arthur.
+
+170
+00:07:43,950 --> 00:07:45,400
+亞瑟
+Arthur.
+
+171
+00:07:46,790 --> 00:07:48,410
+門環
+Door knocker.
+
+172
+00:07:48,410 --> 00:07:50,630
+從那個電視節目賺的吧
+That's TV money.
+
+173
+00:07:48,410 --> 00:07:50,630
+同名DIY電視節目
+
+174
+00:07:53,750 --> 00:07:55,430
+謝爾頓  你來這兒干嘛
+Sheldon, what are you doing here?
+
+175
+00:07:55,810 --> 00:07:58,150
+抱歉  我吵醒你了嗎
+I'm sorry, did I wake you?
+
+176
+00:07:58,150 --> 00:08:00,790
+當然啦  現在都晚上7點半了
+Of course you woke me, it's 7:30.
+
+177
+00:08:02,990 --> 00:08:04,550
+本來我可以早點到的
+Well, I would have been here sooner,
+
+178
+00:08:04,550 --> 00:08:06,010
+但不知道為什么
+but for some reason your home
+
+179
+00:08:06,010 --> 00:08:09,210
+你家不在"好萊塢明星之家"這幅地圖上
+isn't on this map of Hollywood stars.
+
+180
+00:08:09,700 --> 00:08:11,590
+你找我有事嗎  謝爾頓
+What do you want, Sheldon?
+
+181
+00:08:12,340 --> 00:08:14,610
+我的女朋友指出
+It's been pointed out by my girlfriend
+
+182
+00:08:14,610 --> 00:08:17,140
+那天我可能惹到你了
+that I may have been annoying to you.
+
+183
+00:08:17,140 --> 00:08:19,600
+這么懂事的姑娘你可別放手
+She sounds like a keeper.
+
+184
+00:08:20,820 --> 00:08:23,300
+總之我想跟你道歉
+Anyway, I wanted to apologize.
+
+185
+00:08:23,300 --> 00:08:24,770
+真的很對不起
+I am truly sorry.
+
+186
+00:08:24,770 --> 00:08:26,970
+好的  我接受你的道歉  晚安
+All right, apology accepted. Have a nice night.
+
+187
+00:08:26,970 --> 00:08:29,750
+不  還有呢  既然我們冰釋前嫌
+No, no, now that... we've cleared the air,
+
+188
+00:08:29,750 --> 00:08:32,440
+我還想跟你商量一件事
+I wanted to discuss another matter with you.
+
+189
+00:08:32,440 --> 00:08:35,140
+謝爾頓  再過兩個小時  我就得起床
+Sheldon, in a couple hours, I have to get up,
+
+190
+00:08:35,140 --> 00:08:38,470
+尿個尿  然后在房子里游蕩[夢游]
+pee and then wander around the house.
+
+191
+00:08:44,740 --> 00:08:46,060
+那我長話短說
+Well, then, I'll make this quick.
+
+192
+00:08:46,060 --> 00:08:49,640
+我想跟你談談你發給萊納德那篇論文
+Um, I want to talk about the paper you sent Leonard.
+
+193
+00:08:49,640 --> 00:08:51,510
+我知道他說可行性很高
+Now, I know he said it's promising
+
+194
+00:08:51,510 --> 00:08:53,400
+他也打算跟你合作
+and he's going to collaborate on it,
+
+195
+00:08:53,400 --> 00:08:55,730
+但現在我們又是朋友了
+but now that you and I are friends again,
+
+196
+00:08:55,730 --> 00:08:57,360
+我隨時聽候您差遣
+I am at your disposal.
+
+197
+00:08:57,360 --> 00:09:00,380
+坦白說  借助我的名字和聲望會對論文大有幫助
+Frankly, lending my name and reputation to it will help,
+
+198
+00:09:00,380 --> 00:09:03,850
+因為很多人都認為你已經是"過氣的前浪"
+because a lot of people think that you're a washed-up has-been.
+
+199
+00:09:04,380 --> 00:09:06,290
+或已經"死在沙灘上"了
+Or dead.
+
+200
+00:09:07,740 --> 00:09:09,610
+那我真是走了大運啊
+I should be so lucky.
+
+201
+00:09:11,040 --> 00:09:13,350
+那你覺得怎么樣
+So, uh, what do you say?
+
+202
+00:09:13,350 --> 00:09:14,780
+如果你還是跟以前一樣
+You know, if it's all the same with you,
+
+203
+00:09:14,780 --> 00:09:16,930
+那我還是繼續跟萊納德合作吧
+I think I'll stick with Leonard.
+
+204
+00:09:17,400 --> 00:09:19,060
+因為我惹人厭  對吧
+It's because I'm annoying, right?
+
+205
+00:09:19,060 --> 00:09:21,000
+我知道  說啊
+I know it is. Say it.
+
+206
+00:09:21,000 --> 00:09:22,720
+快說  說我惹人厭
+Say it. Say I'm annoying.
+
+207
+00:09:22,720 --> 00:09:24,130
+-晚安  -說啊
+- Good night. - Say it.
+
+208
+00:09:24,130 --> 00:09:26,170
+亞瑟  說啊  說我惹人厭
+Arthur, say it. Say I'm annoying.
+
+209
+00:09:26,170 --> 00:09:27,950
+說啊  快說啊
+Say it. Say it.
+
+210
+00:09:27,950 --> 00:09:30,020
+說我惹人厭
+I'm annoying. Say it.
+
+211
+00:09:30,900 --> 00:09:32,980
+你超級惹人厭
+You're annoying!
+
+212
+00:09:36,190 --> 00:09:38,150
+人家好傷心啊
+Wow, that really hurt.
+
+213
+00:09:46,820 --> 00:09:48,340
+如果在我小時候  有人跟我說
+If you would have told me when I was a kid
+
+214
+00:09:48,340 --> 00:09:49,880
+我長大后會有機會
+that someday I would be doing science
+
+215
+00:09:49,880 --> 00:09:51,380
+跟質子教授一起做實驗
+next to Professor Proton,
+
+216
+00:09:51,380 --> 00:09:53,500
+我一定不會相信
+I would not have believed you.
+
+217
+00:09:53,500 --> 00:09:54,540
+如果有人跟我說
+If someone had told me
+
+218
+00:09:54,540 --> 00:09:57,040
+人們在我83歲的時候
+that people would still call me Professor Proton
+
+219
+00:09:57,040 --> 00:09:59,320
+還會稱我為"質子教授"
+when I was 83 years old,
+
+220
+00:09:59,600 --> 00:10:02,180
+我肯定不會戒煙
+I never would have quit smoking.
+
+221
+00:10:04,740 --> 00:10:07,370
+抱歉  杰弗里斯博士  我只是太興奮了
+I'm sorry, Dr. Jeffries, I'm just excited.
+
+222
+00:10:07,370 --> 00:10:10,360
+你對于納米真空管的想法很有意思
+This nano vacuum tube idea of yours is really interesting.
+
+223
+00:10:10,360 --> 00:10:11,420
+你好啊  萊納德
+Hello, Leonard.
+
+224
+00:10:11,420 --> 00:10:13,160
+你好  亞瑟
+Oh, hello, Arthur.
+
+225
+00:10:13,160 --> 00:10:15,810
+你們倆都在這里  真是意外的巧合呀
+What an odd coincidence that you're both here.
+
+226
+00:10:15,810 --> 00:10:17,240
+有什么巧合的
+Why is it odd?
+
+227
+00:10:17,240 --> 00:10:20,030
+因為碰巧的是  我今天也跟一位
+Because as it just so happens, I'm also spending the day
+
+228
+00:10:20,030 --> 00:10:23,160
+深受兒童喜愛的電視科學明星在一起
+with a beloved children's television science personality.
+
+229
+00:10:23,370 --> 00:10:25,590
+對不對呀  我的新友兼新同事
+Isn't that right, new friend and colleague,
+
+230
+00:10:25,590 --> 00:10:27,840
+美國科教節目《比爾·奈教科學》主持人
+
+231
+00:10:25,590 --> 00:10:27,840
+教科學的比爾·奈
+Bill Nye the Science Guy.
+
+232
+00:10:32,110 --> 00:10:35,160
+不好意思  我用新型號替換了你
+Sorry, I replaced you with a newer model.
+
+233
+00:10:36,250 --> 00:10:37,910
+亞瑟·杰弗里斯
+Wow, Arthur Jeffries.
+
+234
+00:10:37,910 --> 00:10:39,280
+見到您真是太榮幸了
+It's an honor to meet you.
+
+235
+00:10:39,280 --> 00:10:41,620
+沒有您的鋪墊  也不會有我的節目
+My show never would have happened without yours.
+
+236
+00:10:41,620 --> 00:10:44,080
+所以我跟我律師說你是抄襲我
+That's what I told my lawyers.
+
+237
+00:10:46,500 --> 00:10:47,470
+奈先生  你好
+Mr. Nye, hello.
+
+238
+00:10:47,470 --> 00:10:50,330
+被他把你卷進這無謂的紛爭里  真是抱歉
+I'm sorry he got you involved in this nonsense.
+
+239
+00:10:50,330 --> 00:10:52,630
+他說是請我來給學生上課的
+He said I'd be speaking to a class.
+
+240
+00:10:52,630 --> 00:10:55,470
+不對  我是說請你來給某人上一課[教訓]
+No, I said you were teaching someone a lesson.
+
+241
+00:10:55,470 --> 00:10:56,720
+好了  走吧
+Now let's go.
+
+242
+00:10:58,290 --> 00:10:59,510
+你們在研究什么呢
+What are you guys working on?
+
+243
+00:10:59,510 --> 00:11:01,730
+我們在研制納米真空管
+Oh, uh, we're making nano vacuum tubes.
+
+244
+00:11:03,160 --> 00:11:04,490
+很有意思嘛
+That's interesting.
+
+245
+00:11:04,490 --> 00:11:05,930
+你從我這里偷的哽還不夠嗎
+Haven't you stolen enough from me?
+
+246
+00:11:05,930 --> 00:11:07,950
+走開啦  領結男
+Back off, bow tie!
+
+247
+00:11:14,020 --> 00:11:15,240
+各位
+Hey, guys...
+
+248
+00:11:15,240 --> 00:11:17,020
+這一副怎么樣
+What do you think?
+
+249
+00:11:17,350 --> 00:11:18,990
+佩妮  做得真漂亮
+Wow, Penny, good job.
+
+250
+00:11:18,990 --> 00:11:20,990
+謝了  在商場買的  4塊99
+Thanks. Target, $4.99.
+
+251
+00:11:20,990 --> 00:11:22,360
+我再去倒一杯酒
+I'm getting a drink.
+
+252
+00:11:23,630 --> 00:11:24,710
+你在做什么呢
+What are you working on?
+
+253
+00:11:24,710 --> 00:11:26,540
+幫我媽做一串項鏈
+Oh, I'm making a necklace for my mom.
+
+254
+00:11:26,540 --> 00:11:27,520
+真孝順
+That's sweet.
+
+255
+00:11:27,520 --> 00:11:28,810
+最近她和我爸的
+Yeah, she and my dad are going through
+
+256
+00:11:28,810 --> 00:11:30,170
+關系有點緊張
+a bit of a rough patch, so
+
+257
+00:11:30,170 --> 00:11:31,290
+所以我想表示一下讓她知道
+I wanted to do something to let her know
+
+258
+00:11:31,290 --> 00:11:32,580
+我掛念著她
+I was thinking about her.
+
+259
+00:11:32,580 --> 00:11:33,980
+他們干嘛吵架呢
+What's going on with them?
+
+260
+00:11:33,980 --> 00:11:36,240
+他們有點小小的溝通不良
+They're just having a little trouble communicating.
+
+261
+00:11:36,240 --> 00:11:38,570
+我爸說我媽的聲音
+My dad says it's because the sound of my mom's voice
+
+262
+00:11:38,570 --> 00:11:39,910
+讓他想把自己耳朵揪下來
+makes him want to tear his ears off
+
+263
+00:11:39,910 --> 00:11:40,850
+再縫在他的眼睛上
+and sew them over his eyes
+
+264
+00:11:40,850 --> 00:11:42,600
+這樣他就永遠不用再看見她了
+so he never has to look at her again.
+
+265
+00:11:45,120 --> 00:11:45,670
+嗨
+Hi.
+
+266
+00:11:45,670 --> 00:11:46,680
+-大家好啊  -嗨
+- Hey, guys. - Hello.
+
+267
+00:11:46,680 --> 00:11:47,570
+看看是誰把
+Look who's here to put
+
+268
+00:11:47,570 --> 00:11:50,270
+猶太和珠寶音似
+
+269
+00:11:47,570 --> 00:11:50,270
+"猶太人"帶進"珠寶之夜"了
+the "Jew" In "Jewelry Night"!
+
+270
+00:11:53,280 --> 00:11:56,100
+種族笑話你自己說就沒關系是吧
+Oh, sure, so it's fine when you say it.
+
+271
+00:11:56,990 --> 00:11:57,710
+抱歉我們遲到了
+Sorry we're late.
+
+272
+00:11:57,710 --> 00:11:58,700
+我順便去了實驗室
+I wanted to swing by the lab
+
+273
+00:11:58,700 --> 00:12:01,820
+把更給力的工具給搬來了
+and pick up some even cooler tools for us to use.
+
+274
+00:12:01,820 --> 00:12:03,180
+我沒想到你居然又出現了
+I didn't know you were coming again.
+
+275
+00:12:03,180 --> 00:12:04,550
+上周還挺好玩的
+Well, last week was a blast.
+
+276
+00:12:04,550 --> 00:12:07,580
+再說  我想你們也愿意有個男士陪伴吧
+Plus, I thought you might like having a guy here.
+
+277
+00:12:11,160 --> 00:12:12,960
+其實一點也不好笑
+It was not funny.
+
+278
+00:12:13,970 --> 00:12:15,390
+那你帶了什么工具來
+So, what tools did you bring?
+
+279
+00:12:15,390 --> 00:12:17,170
+各種制作珠寶模子的工具
+Everything we need to make jewelry molds.
+
+280
+00:12:17,170 --> 00:12:18,920
+銀  坩堝
+Here's some silver, a crucible
+
+281
+00:12:18,920 --> 00:12:21,080
+還有用來融化的乙炔炬
+and an acetylene torch to melt it down.
+
+282
+00:12:21,080 --> 00:12:22,950
+這個看起來有意思
+Ooh, that looks like fun.
+
+283
+00:12:22,950 --> 00:12:24,380
+還是等你先搞定膠水
+Maybe you should master glue
+
+284
+00:12:24,380 --> 00:12:26,710
+再學習玩火吧
+before you move on to fire.
+
+285
+00:12:27,580 --> 00:12:29,110
+好了  誰想先玩啊
+Okay, who's up first?
+
+286
+00:12:29,110 --> 00:12:30,970
+拉杰什  你想再做一副和那項鏈
+Rajesh, do you want to make a bracelet for your mom
+
+287
+00:12:30,970 --> 00:12:32,410
+搭配的手鐲送給你媽嗎
+to go with the necklace?
+
+288
+00:12:32,410 --> 00:12:33,510
+不用了
+No, thanks.
+
+289
+00:12:33,570 --> 00:12:35,420
+我也想給我媽做一串項鏈
+I was gonna make a necklace for my mom,
+
+290
+00:12:35,420 --> 00:12:38,070
+可惜  她胖得脖子都沒有
+but unfortunately, she doesn't have a neck.
+
+291
+00:12:39,790 --> 00:12:43,160
+她下巴之下是脂肪  脂肪之下就是腳
+She's just chins and fat and feet.
+
+292
+00:12:47,380 --> 00:12:48,910
+好  我們馬上就可以開始了
+Okay, we're almost ready to go.
+
+293
+00:12:48,910 --> 00:12:51,390
+把線連上  就可以開始測試這些管子了
+Once we bond the wires, we can test the tubes.
+
+294
+00:12:51,390 --> 00:12:54,120
+太讓人激動了  我覺得
+This is so exciting, I-I feel...
+
+295
+00:12:54,120 --> 00:12:56,930
+就像重新回到75歲一樣
+like I'm 75 again.
+
+296
+00:13:01,130 --> 00:13:02,510
+老天爺
+Oh, God.
+
+297
+00:13:02,510 --> 00:13:03,650
+出...什么事了
+What... what is it?
+
+298
+00:13:03,650 --> 00:13:04,800
+謝爾頓發了一張
+Sheldon just sent me a picture
+
+299
+00:13:04,800 --> 00:13:07,370
+他和比爾·奈一起喝冰沙的照片
+of him and Bill Nye getting smoothies.
+
+300
+00:13:10,500 --> 00:13:12,130
+我  我能問個問題嗎
+Can-can I ask you a question?
+
+301
+00:13:12,130 --> 00:13:13,560
+當然  問吧
+Yeah, sure.
+
+302
+00:13:13,560 --> 00:13:16,350
+你怎么能忍受謝爾頓這種人啊
+W-Why do you put up with Sheldon?
+
+303
+00:13:16,350 --> 00:13:20,060
+因為我們是朋友呀
+Oh, uh, you know, because we're friends.
+
+304
+00:13:21,480 --> 00:13:23,290
+為什么呀
+Why?
+
+305
+00:13:25,200 --> 00:13:28,040
+-你真喜歡給人出難題  -當然
+- Wow, you ask really hard questions. - Yeah.
+
+306
+00:13:28,390 --> 00:13:30,930
+我知道他總是惹人厭
+Look, I-I know he can be aggravating,
+
+307
+00:13:30,930 --> 00:13:32,290
+但你要知道
+but what you have to remember is that
+
+308
+00:13:32,290 --> 00:13:33,730
+他不是故意的
+he's not doing it on purpose.
+
+309
+00:13:33,730 --> 00:13:35,460
+只是他這人天性如此
+It's just how he is.
+
+310
+00:13:35,460 --> 00:13:38,580
+其實他很忠誠也很可靠
+But he's also loyal and trustworthy
+
+311
+00:13:38,580 --> 00:13:40,070
+我們在一起挺開心的
+and we have fun together...
+
+312
+00:13:40,070 --> 00:13:43,280
+你...你知道自己是在描述一只狗吧
+You... you know you're describing a dog.
+
+313
+00:13:45,140 --> 00:13:46,940
+他的確咬過我一次
+He did bite me once.
+
+314
+00:13:48,600 --> 00:13:49,530
+但他解釋說
+But in his defense,
+
+315
+00:13:49,530 --> 00:13:51,570
+我在他進食時突然從背后冒出來  所以
+I came up behind him while he was eating, so...
+
+316
+00:13:52,660 --> 00:13:54,730
+狗都不喜歡那樣
+Yeah, they-they hate that.
+
+317
+00:13:56,410 --> 00:14:00,290
+謝爾頓是我遇見過的最聰明的家伙
+You know what, Sheldon is the smartest person I have ever met.
+
+318
+00:14:00,290 --> 00:14:03,910
+他并不是完人  所以才需要我
+And he's a little broken and he needs me.
+
+319
+00:14:04,940 --> 00:14:06,930
+我大概也需要他吧
+I guess I need him, too.
+
+320
+00:14:07,450 --> 00:14:08,970
+為  為什么呢
+Why-why is that?
+
+321
+00:14:08,970 --> 00:14:11,380
+你非得打破沙鍋問到底  是吧
+Boy, you will not let this go, will you?
+
+322
+00:14:14,110 --> 00:14:15,450
+我的天
+Oh, geez.
+
+323
+00:14:15,450 --> 00:14:16,790
+又是謝爾頓發來的照片嗎
+Another photo from Sheldon?
+
+324
+00:14:16,790 --> 00:14:18,380
+不是  我得去接他一下
+No, I have to go pick him up.
+
+325
+00:14:18,380 --> 00:14:20,850
+比爾·奈把他拋棄在冰沙店了
+Bill Nye ditched him at the smoothie place.
+
+326
+00:14:22,880 --> 00:14:25,150
+大概把他的錢包也順手偷走了
+He probably stole his wallet, too.
+
+327
+00:14:29,850 --> 00:14:31,010
+如果你們感興趣的話
+You know, if you guys are interested,
+
+328
+00:14:31,010 --> 00:14:33,360
+有種技術可以讓我把你們的一束頭發
+there's a technique where I can take a lock of your hair,
+
+329
+00:14:33,360 --> 00:14:35,280
+提煉成碳粉
+refine it into carbon dust,
+
+330
+00:14:35,280 --> 00:14:36,690
+然后用實驗室的液壓器
+and use the hydraulic press at work
+
+331
+00:14:36,690 --> 00:14:38,620
+把它轉變成一顆小小的鉆石
+to turn it into a tiny little diamond
+
+332
+00:14:38,620 --> 00:14:40,100
+里面還有你自己的DNA哦
+with your DNA in it.
+
+333
+00:14:40,100 --> 00:14:41,870
+太神奇了吧
+Oh, that's amazing!
+
+334
+00:14:41,870 --> 00:14:43,150
+看到妮妮訂婚戒指了嗎
+Yeah. See Bernie's engagement ring?
+
+335
+00:14:43,150 --> 00:14:45,540
+原料是我媽背部的體毛
+That came right off my mom's back.
+
+336
+00:14:47,240 --> 00:14:48,520
+他開玩笑的
+He's kidding.
+
+337
+00:14:48,520 --> 00:14:51,170
+真是這樣  鉆石會大得多
+If that were true, it'd be so much bigger.
+
+338
+00:14:53,060 --> 00:14:54,020
+我叫霍華德
+"My name is Howard.
+
+339
+00:14:54,020 --> 00:14:55,410
+我可以把你的毛發變成鉆石
+I can make your hair into diamonds.
+
+340
+00:14:55,410 --> 00:14:56,690
+我媽有病態肥胖癥
+My mom is morbidly obese.
+
+341
+00:14:56,690 --> 00:14:58,660
+人人都愛我
+Everybody love me."
+
+342
+00:14:59,920 --> 00:15:02,050
+為啥一股很不爽我的口氣
+Whoa, where is that coming from?
+
+343
+00:15:02,050 --> 00:15:03,860
+我告訴你為什么
+I'll tell you where it's coming from.
+
+344
+00:15:03,860 --> 00:15:05,870
+你之前嘲笑我參加閨蜜之夜
+All you do is make fun of me for coming to girls' night
+
+345
+00:15:05,870 --> 00:15:08,010
+現在你又跑來這里毀了大家的好時光
+and now you're here ruining it for everyone.
+
+346
+00:15:08,010 --> 00:15:09,040
+拉杰  淡定
+Raj, cool it...
+
+347
+00:15:09,040 --> 00:15:11,370
+他要給咱們做鉆石呢
+he's gonna make us hair diamonds.
+
+348
+00:15:12,400 --> 00:15:13,800
+我怎么毀了你們的好時光
+How am I ruining anything?
+
+349
+00:15:13,800 --> 00:15:16,070
+我只是想幫你把珠寶做得更好
+I'm just trying to help you make better jewelry.
+
+350
+00:15:16,070 --> 00:15:17,710
+但是重點不在珠寶
+But this isn't about the jewelry.
+
+351
+00:15:17,710 --> 00:15:19,350
+而在于在這里
+This is about me having a place
+
+352
+00:15:19,350 --> 00:15:21,650
+我可以敞開心扉  無所不談
+where I can open up about my feelings.
+
+353
+00:15:21,650 --> 00:15:24,770
+你什么時候開始不能對我敞開心扉談了
+Since when can't you open up with me?
+
+354
+00:15:24,770 --> 00:15:26,250
+有些話題
+There are just some things
+
+355
+00:15:26,250 --> 00:15:28,110
+我覺得和姑娘們說更自在
+that I feel more comfortable sharing with the girls,
+
+356
+00:15:28,110 --> 00:15:29,730
+因為她們不會嘲笑我
+because they won't make fun of me
+
+357
+00:15:29,730 --> 00:15:31,130
+不會給我取綽號  或是問我
+or and call me names, or ask me if my
+
+358
+00:15:31,130 --> 00:15:34,080
+庫薩帕里你的內褲是不是卷在了一起
+"Koothrapanties are in a bunch."
+
+359
+00:15:31,130 --> 00:15:34,080
+意為因為小事就發脾氣
+
+360
+00:15:37,690 --> 00:15:40,510
+兄弟  我那是開玩笑的
+Buddy, I was just joking around.
+
+361
+00:15:40,510 --> 00:15:42,830
+有時候你的玩笑很傷人
+Yeah, well, sometimes your jokes hurt.
+
+362
+00:15:43,570 --> 00:15:44,680
+你說得對
+Well, you're right.
+
+363
+00:15:44,680 --> 00:15:48,210
+我沒意識到會讓你有這種感受
+I didn't realize I was making you feel that way.
+
+364
+00:15:49,540 --> 00:15:51,400
+你能坦白告訴我真是太勇敢了
+It was very brave of you to tell me.
+
+365
+00:15:51,400 --> 00:15:53,280
+謝謝
+Thank you.
+
+366
+00:15:53,280 --> 00:15:55,070
+對我來說不容易
+It wasn't easy.
+
+367
+00:15:56,770 --> 00:15:58,500
+他們會搶在我和謝爾頓之前先上床  
+They're gonna have sex before Sheldon and I do,
+
+368
+00:15:58,500 --> 00:16:00,580
+我就知道
+I know it.
+
+369
+00:16:05,460 --> 00:16:06,530
+亞瑟
+Arthur.
+
+370
+00:16:06,530 --> 00:16:07,980
+你好  謝爾頓
+Hi, Sheldon.
+
+371
+00:16:07,980 --> 00:16:09,850
+真意外在這里看見你
+I'm surprised to see you here.
+
+372
+00:16:09,850 --> 00:16:11,160
+我也意外
+Yeah, me, too.
+
+373
+00:16:11,160 --> 00:16:13,560
+我爬到三樓時
+Somewhere around the third floor,
+
+374
+00:16:13,560 --> 00:16:16,560
+我眼前都開始出現白光了[回光返照]
+I began to see a white light.
+
+375
+00:16:19,200 --> 00:16:20,110
+我去叫萊納德
+I'll get Leonard.
+
+376
+00:16:20,110 --> 00:16:21,240
+不用  我...
+No, no, no, I'm...
+
+377
+00:16:21,870 --> 00:16:24,220
+我是來找你的
+I'm here... I'm here to see you.
+
+378
+00:16:24,220 --> 00:16:25,880
+如果你想通過我的關系找比爾·奈
+If you're hoping to get in touch with Bill Nye,
+
+379
+00:16:25,880 --> 00:16:27,490
+我幫不了你
+I can't help you.
+
+380
+00:16:28,010 --> 00:16:29,000
+我已經被通知他現在是
+I've been informed that he's now
+
+381
+00:16:29,000 --> 00:16:31,830
+限制令男比爾·奈
+Bill Nye the Restraining Order Guy.
+
+382
+00:16:33,830 --> 00:16:34,770
+不是  我...
+No, I'm...
+
+383
+00:16:34,770 --> 00:16:37,380
+我想  如果不太麻煩的話
+I-I was thinking, if it isn't too much trouble,
+
+384
+00:16:37,380 --> 00:16:41,970
+我希望你給我的論文提提意見
+I'd like to get your opinion about my-my paper.
+
+385
+00:16:41,970 --> 00:16:43,210
+謝謝
+Thank you.
+
+386
+00:16:43,210 --> 00:16:44,630
+這是我的榮幸
+It would be an honor.
+
+387
+00:16:44,630 --> 00:16:46,100
+太好了
+Oh. Uh, great.
+
+388
+00:16:46,100 --> 00:16:47,770
+其實你可以不用給我稿子了
+Well, actually, I don't need that.
+
+389
+00:16:47,770 --> 00:16:50,770
+我已經黑進你的郵箱看過了
+I hacked into your e-mail account and read it.
+
+390
+00:16:52,110 --> 00:16:54,550
+那你覺得如何
+And... what did you think?
+
+391
+00:16:54,550 --> 00:16:56,790
+首先  我覺得
+Well, first, I think the fact that
+
+392
+00:16:56,790 --> 00:16:58,820
+你使用生日作為郵箱密碼
+you use your birthday as a password
+
+393
+00:16:58,820 --> 00:17:00,400
+這個錯誤太丟人
+is embarrassing.
+
+394
+00:17:02,200 --> 00:17:03,970
+多謝提醒
+Thank you.
+
+395
+00:17:05,350 --> 00:17:07,230
+第二
+Second, um...
+
+396
+00:17:07,230 --> 00:17:10,000
+我覺得你的論文極具啟發性
+I thought your paper was inspired.
+
+397
+00:17:10,620 --> 00:17:13,670
+你的肯定對我來說意義重大
+Oh, well, that... that means a lot to me.
+
+398
+00:17:13,670 --> 00:17:15,340
+進來喝杯茶好嗎
+Can I invite you in for tea?
+
+399
+00:17:15,340 --> 00:17:17,120
+不用了  我真的得...
+Uh, no, no. I-I really...
+
+400
+00:17:17,120 --> 00:17:18,720
+我得走了
+I have... I have to run.
+
+401
+00:17:18,720 --> 00:17:20,400
+亞瑟  你好嗎
+Hey, Arthur. How are you?
+
+402
+00:17:20,400 --> 00:17:22,790
+喝一杯也無妨
+Well, I guess one cup wouldn't hurt.
+
+403
+00:17:30,610 --> 00:17:32,430
+兄弟  什么事
+Oh, hey, buddy, what's up?
+
+404
+00:17:32,430 --> 00:17:35,010
+我為自己那天晚上的表現感到內疚
+Well, I was feeling bad about how I acted the other night
+
+405
+00:17:35,010 --> 00:17:37,700
+所以我給你做了個小禮物
+so I made you a little something.
+
+406
+00:17:37,700 --> 00:17:39,230
+這么客氣干嘛呀
+You didn't have to do that.
+
+407
+00:17:39,230 --> 00:17:40,210
+很有趣
+Well, it was fun.
+
+408
+00:17:40,210 --> 00:17:42,740
+我運用了你教我們的珠寶制作技藝
+I used some of the jewelry techniques you taught us.
+
+409
+00:17:45,220 --> 00:17:47,890
+這是一個光劍皮帶扣
+It's a lightsaber belt buckle.
+
+410
+00:17:49,220 --> 00:17:51,600
+太厲害了  謝謝
+Wow, this is so cool, thanks.
+
+411
+00:17:51,600 --> 00:17:53,670
+好戲在后頭
+Oh gets better.
+
+412
+00:17:58,340 --> 00:18:00,200
+更精彩的好戲還在后面  瞧
+And that's not even the best part. See?
+
+413
+00:18:00,660 --> 00:18:02,530
+我也有一個
+I have one, too.
+
+414
+00:18:04,890 --> 00:18:06,050
+你瞧
+Check it out.
+
+415
+00:18:06,050 --> 00:18:08,130
+你可以戴上你的  咱們隨時可以來一場
+You can wear yours and we can have little sword fights
+
+416
+00:18:08,130 --> 00:18:10,390
+激情小劍大比拼
+whenever we want.
+
+417
+00:18:27,530 --> 00:18:30,370
+質子教授節目  我心中排名第八的那集是
+Yeah, and my eighth favorite episode of Professor Proton
+
+418
+00:18:30,370 --> 00:18:32,420
+泡騰劑式消化片火箭
+was "Alka-Seltzer Rocket."
+
+419
+00:18:32,420 --> 00:18:34,850
+你說  撲通撲通  嘶嘶嘶嘶
+You said, "Plop, plop, fizz, fizz,
+
+420
+00:18:34,850 --> 00:18:36,880
+精彩的發射來一次
+oh, what a blast-off it is."
+
+421
+00:18:38,230 --> 00:18:39,500
+記得嗎  記得這集嗎
+Remember? Remember that?
+
+422
+00:18:39,500 --> 00:18:40,880
+記得嗎
+Remember?
+
+423
+00:18:42,110 --> 00:18:42,940
+他就是這德行  就是這樣
+He can't help it. He can't.
+
+424
+00:18:42,940 --> 00:18:44,110
+他真的沒辦法
+He really can't.
+
+425
+00:18:44,790 --> 00:18:45,430
+你等著
+You wait here.
+
+426
+00:18:45,430 --> 00:18:46,550
+我去拿些消化片
+I'll get some Alka-Seltzer,
+
+427
+00:18:46,550 --> 00:18:47,690
+我們可以造出火箭
+we can build that rocket,
+
+428
+00:18:47,690 --> 00:18:49,930
+然后朝著比爾·奈家發射
+and we can shoot it at Bill Nye's house.
+
+429
+00:18:51,390 --> 00:18:53,560
+只要我離他超過五百英尺范圍就行
+As long as I'm not within 500 feet of it.
+
+430
+00:18:58,890 --> 00:19:00,450
+那么   你...
+So, you, uh...
+
+431
+00:19:00,450 --> 00:19:02,370
+你有沒有
+you have... you have any...
+
+432
+00:19:02,370 --> 00:19:05,130
+單身的奶奶或外婆
+single grandmothers?
+
+433
+00:19:07,000 --> 00:19:09,570
+-抱歉  兩位都嫁人了  -很好
+- Sorry, they're both married. - Good.
+
+434
+00:19:12,570 --> 00:19:15,800
+婚姻幸福嗎
+H-Happily?
+

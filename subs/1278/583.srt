@@ -1,0 +1,1760 @@
+1
+00:02:39,220 --> 00:02:43,290
+m 20 0 l 209 0 b 218 0 229 11 229 20 l 229 209 b 229 218 218 228 209 228 l 20 228 b 11 228 0 218 0 209 l 0 20 b 0 11 11 0 20 0
+
+2
+00:02:39,220 --> 00:02:43,290
+m 115 64 l 115 35 l 171 0 l 177 0 l 133 46 l 143 52 l 179 0 l 184 0 l 159 63 l 229 107 l 229 182 l 145 96 l 135 122 l 207 227 l 137 227 l 115 172 l 115 93 l 126 76 l 115 64 l 104 76 l 115 93 l 115 172 l 93 227 l 23 227 l 95 122 l 84 96 l 0 182 l 0 107 l 70 63 l 45 0 l 50 0 l 87 52 l 97 46 l 52 0 l 59 0 l 115 35
+
+3
+00:02:39,220 --> 00:02:43,290
+m 71 60 b 71 0 161 0 161 60 b 161 120 71 120 71 60
+
+4
+00:02:39,220 --> 00:02:43,290
+m 325 0 l 355 0 l 332 47 l 354 47 l 399 136 l 369 136 l 328 53 l 288 136 l 257 136 l 325 0 m 467 0 l 497 0 l 474 47 l 496 47 l 541 136 l 511 136 l 470 53 l 430 136 l 399 136 l 467 0 m 545 1 l 583 1 l 583 14 l 568 14 l 568 19 l 583 19 l 583 30 l 568 30 l 568 34 l 599 34 l 599 30 l 583 30 l 583 19 l 599 19 l 599 14 l 583 14 l 583 1 l 611 1 b 616 1 622 6 622 10 l 622 36 l 652 0 l 678 0 l 644 41 l 622 41 l 622 47 l 596 47 l 597 54 l 625 54 l 625 68 l 541 68 l 541 54 l 572 54 l 571 47 l 545 47 l 545 1 m 583 72 l 583 85 l 569 85 l 569 90 l 598 90 l 598 85 l 583 85 l 583 72 l 611 72 b 615 72 621 78 621 82 l 653 44 l 678 44 l 644 86 l 621 86 l 621 103 l 597 103 l 597 136 l 570 136 l 564 126 l 562 136 l 542 136 l 548 107 l 568 107 l 565 121 l 571 121 l 571 103 l 547 103 l 547 72 l 583 72 m 600 107 l 620 107 l 624 124 l 653 89 l 679 89 l 642 136 l 615 136 l 618 132 l 606 132 l 600 107 m 689 0 l 716 0 l 721 15 l 732 15 l 732 30 l 718 56 l 731 56 l 735 100 l 721 100 l 717 59 l 714 64 l 714 136 l 693 136 l 693 79 l 676 79 l 707 30 l 679 30 l 679 15 l 694 15 l 689 0 m 738 0 l 804 0 b 807 0 813 6 813 9 l 813 87 l 794 87 l 794 14 l 756 14 l 756 87 l 763 77 l 763 21 l 787 21 l 787 91 l 798 91 l 798 120 l 820 120 l 812 136 l 778 136 l 778 90 l 748 136 l 723 136 l 756 87 l 738 87 l 738 0 m 257 151 l 275 151 l 297 182 l 319 151 l 337 151 l 304 197 l 304 227 l 290 227 l 290 197 l 257 151 m 337 151 l 355 151 l 377 182 l 399 151 l 417 151 l 384 197 l 384 227 l 370 227 l 370 197 l 337 151 m 425 192 l 447 192 b 445 181 427 181 425 192 l 410 192 b 414 162 458 162 462 192 l 462 206 l 425 206 b 425 210 429 212 433 213 l 462 213 l 462 227 l 433 227 b 412 227 408 203 410 192 m 462 151 l 532 151 l 532 165 l 504 165 l 504 227 l 489 227 l 489 165 l 462 165 l 462 151 m 580 172 l 580 186 l 549 186 b 543 186 543 192 549 192 l 565 192 b 589 192 589 227 565 227 l 532 227 l 532 213 l 565 213 b 570 213 570 206 565 206 l 549 206 b 524 206 524 172 549 172 l 580 172 m 592 213 l 606 213 l 606 227 l 592 227 l 592 213 m 639 172 l 665 172 l 665 186 l 639 186 b 623 186 623 213 639 213 l 665 213 l 665 227 l 639 227 b 603 227 603 172 639 172 m 700 184 b 722 184 722 215 700 215 l 700 229 b 740 229 740 170 700 170 b 660 170 660 229 700 229 l 700 215 b 680 215 680 184 700 184 m 737 172 l 782 172 b 803 172 813 177 813 198 l 813 228 l 799 228 l 799 198 b 799 186 793 187 782 187 l 782 228 l 768 228 l 768 187 l 752 187 l 752 228 l 737 228 l 737 172
+
+5
+00:00:01,270 --> 00:00:03,020
+Previously on The Big Bang Theory:
+
+6
+00:00:03,020 --> 00:00:05,120
+This is just a minor setback.
+
+7
+00:00:05,120 --> 00:00:06,410
+No, it's not, okay?
+
+8
+00:00:06,410 --> 00:00:08,010
+I've been out here for, like, ten years.
+
+9
+00:00:08,010 --> 00:00:09,750
+I have nothing to show for it.
+
+10
+00:00:09,750 --> 00:00:11,670
+Well, you have me.
+
+11
+00:00:13,760 --> 00:00:16,200
+I do have you.
+
+12
+00:00:21,440 --> 00:00:23,360
+Leonard Hofstadter,
+
+13
+00:00:23,360 --> 00:00:25,350
+will you marry me?
+
+14
+00:00:30,220 --> 00:00:32,950
+Did you seriously just say, "Um..."?
+
+15
+00:00:33,990 --> 00:00:36,530
+- It's an outrage. - I know.
+
+16
+00:00:36,530 --> 00:00:38,870
+The university-- they think they can do whatever they want.
+
+17
+00:00:38,870 --> 00:00:40,530
+We just have to sit there and take it.
+
+18
+00:00:40,530 --> 00:00:41,730
+You need to let it go, Sheldon.
+
+19
+00:00:41,730 --> 00:00:44,900
+You work tirelessly for someone, and this is what you get.
+
+20
+00:00:44,950 --> 00:00:45,550
+Oh, my God!
+
+21
+00:00:45,560 --> 00:00:48,900
+They're just making you use your vacation days!
+
+22
+00:00:50,070 --> 00:00:51,710
+But I don't want a vacation.
+
+23
+00:00:51,710 --> 00:00:54,420
+Okay, listen, I don't mean to diminish what you're going through,
+
+24
+00:00:54,420 --> 00:00:56,340
+but I'm a little distracted right now.
+
+25
+00:00:56,340 --> 00:00:58,180
+Oh, this again?
+
+26
+00:00:58,180 --> 00:01:00,820
+So, Penny proposed, you didn't say yes,
+
+27
+00:01:00,820 --> 00:01:02,940
+and now you think you may have lost her love forever.
+
+28
+00:01:02,940 --> 00:01:04,910
+How does this compare to me being forced
+
+29
+00:01:04,910 --> 00:01:07,590
+to relax for a few days?
+
+30
+00:01:08,860 --> 00:01:11,520
+- It doesn't! - Thank you!
+
+31
+00:01:13,440 --> 00:01:15,000
+I'm gonna go talk to Penny.
+
+32
+00:01:15,020 --> 00:01:18,170
+I'm going to go inside, put on my coziest pajamas,
+
+33
+00:01:18,170 --> 00:01:19,440
+curl up with a good book
+
+34
+00:01:19,440 --> 00:01:21,970
+and wait for this nightmare to be over.
+
+35
+00:01:25,750 --> 00:01:26,800
+Penny.
+
+36
+00:01:33,240 --> 00:01:35,240
+Sorry.
+
+37
+00:01:38,080 --> 00:01:39,650
+Hey. Look, I'm sorry I didn't text you back.
+
+38
+00:01:39,650 --> 00:01:41,080
+I just needed some time to think.
+
+39
+00:01:41,080 --> 00:01:43,110
+- Okay. - Here. Come in.
+
+40
+00:01:43,110 --> 00:01:45,140
+Look, if you want to break up, just say it.
+
+41
+00:01:45,140 --> 00:01:46,620
+- Leonard... - No, no, no, no. I take it back.
+
+42
+00:01:46,620 --> 00:01:48,840
+Don't say it. Just-just hate me, but stay with me.
+
+43
+00:01:48,840 --> 00:01:50,930
+It worked for my parents.
+
+44
+00:01:52,620 --> 00:01:55,560
+Listen, I don't want to break up with you.
+
+45
+00:01:55,560 --> 00:01:58,140
+Oh. O-Okay.
+
+46
+00:01:58,140 --> 00:02:00,080
+Good, good.
+
+47
+00:02:00,080 --> 00:02:02,740
+So, it's cool if I cry a little?
+
+48
+00:02:03,690 --> 00:02:05,800
+Yeah, I probably wouldn't.
+
+49
+00:02:05,800 --> 00:02:07,850
+Yeah.
+
+50
+00:02:09,280 --> 00:02:10,900
+Look, you did the right thing last night.
+
+51
+00:02:10,900 --> 00:02:12,230
+I was a mess.
+
+52
+00:02:12,230 --> 00:02:14,680
+I was just frustrated because my career is going nowhere.
+
+53
+00:02:14,680 --> 00:02:16,670
+Look, I get it, and I want you to know
+
+54
+00:02:16,710 --> 00:02:19,220
+that I support whatever you want to do.
+
+55
+00:02:19,220 --> 00:02:21,110
+Great, because I've been thinking,
+
+56
+00:02:21,110 --> 00:02:22,660
+if I really want this acting thing to work,
+
+57
+00:02:22,660 --> 00:02:24,780
+I need to focus all my energy on it.
+
+58
+00:02:24,840 --> 00:02:25,870
+And to do that,
+
+59
+00:02:25,870 --> 00:02:29,330
+I should quit waitressing at The Cheesecake Factory.
+
+60
+00:02:30,650 --> 00:02:32,740
+- That-That's a big step. - I know.
+
+61
+00:02:32,740 --> 00:02:34,850
+So, you know, before making any rash...
+
+62
+00:02:34,850 --> 00:02:37,820
+- I already quit. - And I support you!
+
+63
+00:03:08,090 --> 00:03:10,520
+- Come on, take me to work with you. - No.
+
+64
+00:03:10,520 --> 00:03:12,680
+- You're on vacation. - Please.
+
+65
+00:03:12,680 --> 00:03:14,320
+What if there's a big breakthrough in science today
+
+66
+00:03:14,320 --> 00:03:15,720
+and I'm not there to see it?
+
+67
+00:03:15,720 --> 00:03:17,230
+Do you really think there's gonna be a breakthrough
+
+68
+00:03:17,230 --> 00:03:18,440
+without you there to do it?
+
+69
+00:03:18,440 --> 00:03:20,890
+No. I was just tricking you.
+
+70
+00:03:21,810 --> 00:03:23,440
+Bye.
+
+71
+00:03:25,290 --> 00:03:26,860
+Leonard, wait!
+
+72
+00:03:26,860 --> 00:03:28,660
+- Take me with you.- No!
+
+73
+00:03:29,450 --> 00:03:30,870
+- Please. - No!
+
+74
+00:03:30,920 --> 00:03:32,220
+Too bad. I'm coming with you.
+
+75
+00:03:32,220 --> 00:03:33,730
+- Oh, Sheldon, stay! - But...
+
+76
+00:03:33,730 --> 00:03:36,500
+I said stay!
+
+77
+00:03:42,520 --> 00:03:44,710
+I'm going to work.
+
+78
+00:03:44,710 --> 00:03:47,800
+Do not follow me.
+
+79
+00:04:05,320 --> 00:04:06,600
+Hey, Stuart.
+
+80
+00:04:08,710 --> 00:04:10,130
+- Hey. - Sorry. Did I startle you?
+
+81
+00:04:10,200 --> 00:04:13,180
+Yes, but at this point, pretty much any customer does.
+
+82
+00:04:14,590 --> 00:04:15,610
+What can I do for you?
+
+83
+00:04:15,610 --> 00:04:17,100
+Well, I need a little help.
+
+84
+00:04:17,100 --> 00:04:19,860
+I accidentally destroyed one of Howard's comic books this morning,
+
+85
+00:04:19,860 --> 00:04:21,630
+and I was hoping I could replace it.
+
+86
+00:04:21,630 --> 00:04:23,060
+Wow. What happened?
+
+87
+00:04:23,070 --> 00:04:26,280
+Batman got his ass kicked by my curling iron.
+
+88
+00:04:27,480 --> 00:04:30,290
+Well, don't let The Riddler know that.
+
+89
+00:04:31,440 --> 00:04:34,100
+It's a comic book joke.
+
+90
+00:04:35,030 --> 00:04:37,160
+Or maybe it's not.
+
+91
+00:04:37,970 --> 00:04:39,090
+Do you have this one?
+
+92
+00:04:39,090 --> 00:04:40,910
+Uh, well, it's-it's pretty rare.
+
+93
+00:04:40,910 --> 00:04:43,340
+Can you give me a few days to track it down?
+
+94
+00:04:43,340 --> 00:04:44,560
+Ooh, I was kind of hoping to get it
+
+95
+00:04:44,560 --> 00:04:46,150
+before Howie comes home from work.
+
+96
+00:04:46,150 --> 00:04:47,220
+Oh. What's the hurry?
+
+97
+00:04:47,220 --> 00:04:48,210
+Well, he's always saying
+
+98
+00:04:48,210 --> 00:04:50,400
+I should be more careful with my curling iron,
+
+99
+00:04:50,400 --> 00:04:51,740
+and it seems like a dangerous precedent
+
+100
+00:04:51,740 --> 00:04:53,930
+to let him think he can be right.
+
+101
+00:04:55,500 --> 00:04:56,740
+Well, I'll do what I can,
+
+102
+00:04:56,770 --> 00:04:59,310
+but I can't make any promises.
+
+103
+00:04:59,310 --> 00:05:03,260
+You know, I do work at a pharmaceutical company.
+
+104
+00:05:03,260 --> 00:05:05,000
+If you can make this happen today,
+
+105
+00:05:05,000 --> 00:05:07,500
+I can hook you up with anxiety medication,
+
+106
+00:05:07,500 --> 00:05:10,310
+- antidepressants. - Really?
+
+107
+00:05:11,510 --> 00:05:13,790
+Do you have any of these?
+
+108
+00:05:18,340 --> 00:05:21,230
+Hello, Mr. Rat Brain.
+
+109
+00:05:21,980 --> 00:05:23,840
+Not so bitey without the rest of the rat
+
+110
+00:05:23,870 --> 00:05:25,820
+to back us up now, are we?
+
+111
+00:05:26,770 --> 00:05:28,070
+Anybody home?
+
+112
+00:05:28,070 --> 00:05:29,100
+Hey, what brings you guys here?
+
+113
+00:05:29,110 --> 00:05:30,340
+Well, we were just on our way to lunch
+
+114
+00:05:30,340 --> 00:05:32,590
+and wanted to see if you'd like to join.
+
+115
+00:05:32,590 --> 00:05:33,390
+Why?
+
+116
+00:05:33,390 --> 00:05:34,650
+Because Sheldon's not here this week,
+
+117
+00:05:34,650 --> 00:05:36,130
+and you don't think I have any other options?
+
+118
+00:05:36,130 --> 00:05:38,180
+I'm just kidding. I'll get my purse.
+
+119
+00:05:39,000 --> 00:05:40,190
+Hi, Amy. I... Oh.
+
+120
+00:05:41,020 --> 00:05:43,180
+I'm sorry. I didn't know you had any company.
+
+121
+00:05:43,180 --> 00:05:44,010
+That's okay.
+
+122
+00:05:44,010 --> 00:05:45,660
+Uh, Bert, this is Howard and Rajesh.
+
+123
+00:05:45,660 --> 00:05:47,110
+Guys, this is Bert.
+
+124
+00:05:47,110 --> 00:05:48,260
+- Hey. Good to see you. - Hey.
+
+125
+00:05:48,260 --> 00:05:49,570
+Anyway, I wanted to show you
+
+126
+00:05:49,570 --> 00:05:52,540
+this tourmalinated quartz that we got in the lab.
+
+127
+00:05:52,540 --> 00:05:53,900
+This is so pretty.
+
+128
+00:05:53,900 --> 00:05:56,530
+- Bert works for the geology department. - Yeah.
+
+129
+00:05:56,530 --> 00:05:59,700
+You know what, uh, geologists and Bon Jovi have in common?
+
+130
+00:06:00,160 --> 00:06:02,180
+You're both into rock?
+
+131
+00:06:04,290 --> 00:06:05,990
+Yeah.
+
+132
+00:06:07,950 --> 00:06:09,420
+Well, see ya.
+
+133
+00:06:09,420 --> 00:06:11,570
+Oh, you forgot your quartz.
+
+134
+00:06:11,570 --> 00:06:13,210
+Oh, it's okay.
+
+135
+00:06:13,210 --> 00:06:15,210
+I want you to have it.
+
+136
+00:06:15,210 --> 00:06:17,130
+Bye.
+
+137
+00:06:17,130 --> 00:06:19,020
+He's nice.
+
+138
+00:06:19,020 --> 00:06:21,920
+Yeah, he's nice because he likes you.
+
+139
+00:06:21,920 --> 00:06:24,460
+What?! No, he doesn't.
+
+140
+00:06:24,460 --> 00:06:26,190
+He brought you a pretty rock.
+
+141
+00:06:26,200 --> 00:06:27,900
+So? He does that every day...Oh.
+
+142
+00:06:30,760 --> 00:06:31,920
+You know, if you'd rather skip lunch
+
+143
+00:06:31,920 --> 00:06:34,670
+and hang out with your boyfriend Bert, it's totally okay.
+
+144
+00:06:34,670 --> 00:06:36,040
+He's not my boyfriend.
+
+145
+00:06:36,040 --> 00:06:38,010
+Are you sure? He's tall, pale and awkward.
+
+146
+00:06:38,010 --> 00:06:40,090
+That sounds like your type.
+
+147
+00:06:41,020 --> 00:06:43,660
+Should someone as lonely as you really be making fun of me?
+
+148
+00:06:43,660 --> 00:06:46,090
+Yeah, grow up, Howard. God.
+
+149
+00:06:47,490 --> 00:06:50,160
+What do I do? I don't want to hurt his feelings.
+
+150
+00:06:50,160 --> 00:06:52,560
+Maybe the problem is he thinks you're available.
+
+151
+00:06:52,560 --> 00:06:54,260
+Does he know you're dating Sheldon?
+
+152
+00:06:54,260 --> 00:06:56,590
+I guess it hasn't come up.
+
+153
+00:06:56,590 --> 00:06:58,260
+There you go.
+
+154
+00:06:58,260 --> 00:07:01,130
+And does Sheldon know you're dating Sheldon?
+
+155
+00:07:03,530 --> 00:07:06,170
+I'm sorry. Who are you dating?
+
+156
+00:07:06,170 --> 00:07:08,490
+Yeah, knock it off, Howard!
+
+157
+00:07:18,200 --> 00:07:19,390
+Hey, Sheldon.
+
+158
+00:07:19,390 --> 00:07:21,270
+Hello.
+
+159
+00:07:27,780 --> 00:07:29,400
+You okay?
+
+160
+00:07:29,400 --> 00:07:32,820
+I'm on vacation. What do you think?
+
+161
+00:07:33,750 --> 00:07:35,830
+Why are you sitting in the stairwell?
+
+162
+00:07:36,480 --> 00:07:39,020
+Leonard told me to stay.
+
+163
+00:07:39,870 --> 00:07:43,110
+Oh. Well, good boy.
+
+164
+00:07:44,300 --> 00:07:45,530
+Where are you going?
+
+165
+00:07:45,530 --> 00:07:46,670
+Oh, I have a ton of errands to run.
+
+166
+00:07:46,670 --> 00:07:47,840
+I need to make copies of my headshot,
+
+167
+00:07:47,840 --> 00:07:48,920
+send them off to agents
+
+168
+00:07:48,920 --> 00:07:51,340
+and sign up for a new acting class and...
+
+169
+00:07:51,340 --> 00:07:53,870
+- Well, have fun. - Okay.
+
+170
+00:08:00,320 --> 00:08:02,980
+- You want to come with me? - Really?
+
+171
+00:08:03,620 --> 00:08:06,090
+Come on, boy. Come on. Let's go. Let's go.
+
+172
+00:08:06,090 --> 00:08:08,960
+Get in the car. Come on.
+
+173
+00:08:10,690 --> 00:08:12,300
+All right, thanks a lot.
+
+174
+00:08:13,250 --> 00:08:14,970
+They have one at Capital Comics.
+
+175
+00:08:15,000 --> 00:08:16,970
+- Oh, that's great. - No, it's not.
+
+176
+00:08:16,970 --> 00:08:18,540
+I hate that place.
+
+177
+00:08:18,540 --> 00:08:20,610
+Guy who owns it is a jerk.
+
+178
+00:08:20,610 --> 00:08:22,910
+He's always making me feel bad about myself.
+
+179
+00:08:22,910 --> 00:08:24,610
+Oh, that's terrible.
+
+180
+00:08:25,300 --> 00:08:27,360
+What's the address?
+
+181
+00:08:28,550 --> 00:08:29,810
+You know, why don't I just take you there?
+
+182
+00:08:29,820 --> 00:08:31,590
+That way, I can make sure he doesn't rip you off.
+
+183
+00:08:31,590 --> 00:08:33,510
+Oh, thanks, but I don't want you to close up.
+
+184
+00:08:33,510 --> 00:08:35,700
+I mean, won't you lose business?
+
+185
+00:08:38,290 --> 00:08:40,470
+Sorry. That was mean.
+
+186
+00:08:44,080 --> 00:08:46,500
+- Penny really quit The Cheesecake Factory? - Yeah.
+
+187
+00:08:46,500 --> 00:08:48,840
+- So, what is she doing today? - I don't know.
+
+188
+00:08:48,840 --> 00:08:50,300
+She already thinks I don't support this,
+
+189
+00:08:50,310 --> 00:08:52,780
+so if I call, it might look like I'm checking up on her.
+
+190
+00:08:52,780 --> 00:08:53,960
+Well, do you support this?
+
+191
+00:08:53,960 --> 00:08:55,230
+Of course I do.
+
+192
+00:08:55,230 --> 00:08:56,570
+She's a great actress.
+
+193
+00:08:56,570 --> 00:08:58,480
+I'm proud she's taking this risk.
+
+194
+00:08:58,480 --> 00:08:59,410
+That's nice.
+
+195
+00:08:59,410 --> 00:09:01,900
+You bought that? Great!
+
+196
+00:09:04,780 --> 00:09:07,300
+I got to call her before I forget how I said it.
+
+197
+00:09:09,850 --> 00:09:11,020
+Hi. What's up?
+
+198
+00:09:11,030 --> 00:09:11,790
+Oh, how's it going?
+
+199
+00:09:11,790 --> 00:09:13,230
+You taking Hollywood by storm?
+
+200
+00:09:13,230 --> 00:09:14,870
+Actually, I'm at The Cheesecake Factory.
+
+201
+00:09:14,870 --> 00:09:17,290
+You got your job back. That is great news.
+
+202
+00:09:17,290 --> 00:09:18,800
+I didn't want to say anything,
+
+203
+00:09:18,800 --> 00:09:20,420
+but you are making the right choice.
+
+204
+00:09:20,420 --> 00:09:21,750
+To plunge yourself into debt right now
+
+205
+00:09:21,750 --> 00:09:24,000
+- would be literally insane. Yeah.
+
+206
+00:09:24,000 --> 00:09:26,560
+I'm just returning my uniform.
+
+207
+00:09:28,990 --> 00:09:31,920
+And I support you.
+
+208
+00:09:40,490 --> 00:09:42,940
+Before we begin your guided meditation,
+
+209
+00:09:42,940 --> 00:09:43,800
+close your eyes
+
+210
+00:09:43,800 --> 00:09:47,300
+and picture yourself in a peaceful environment.
+
+211
+00:09:47,300 --> 00:09:49,320
+Okay.
+
+212
+00:09:50,390 --> 00:09:55,090
+I'm inside the CERN super collider.
+
+213
+00:09:55,690 --> 00:09:59,330
+Now, take a deep, relaxing breath in through your nose.
+
+214
+00:10:01,080 --> 00:10:02,890
+And let it out.
+
+215
+00:10:02,890 --> 00:10:05,690
+Didn't see that coming.
+
+216
+00:10:06,950 --> 00:10:08,290
+In.
+
+217
+00:10:10,070 --> 00:10:11,400
+Let me guess.
+
+218
+00:10:11,400 --> 00:10:13,160
+And out.
+
+219
+00:10:14,760 --> 00:10:18,190
+What was I gonna do? Two "ins" in a row?
+
+220
+00:10:21,460 --> 00:10:22,720
+Where's my lemonade?
+
+221
+00:10:22,720 --> 00:10:24,390
+I didn't get it.
+
+222
+00:10:24,910 --> 00:10:27,490
+A fitting swan song to your career as a waitress
+
+223
+00:10:27,490 --> 00:10:30,440
+to forget my order one last time.
+
+224
+00:10:36,160 --> 00:10:38,880
+Do you think quitting my job was a mistake?
+
+225
+00:10:39,580 --> 00:10:42,470
+Do you see me drinking lemonade?
+
+226
+00:10:43,140 --> 00:10:44,920
+No. I'm serious.
+
+227
+00:10:45,580 --> 00:10:46,940
+Why do you ask?
+
+228
+00:10:47,010 --> 00:10:49,210
+Because Leonard just pissed me off.
+
+229
+00:10:49,210 --> 00:10:51,380
+Am I being an idiot or not?
+
+230
+00:10:51,380 --> 00:10:53,850
+No, I don't think you are.
+
+231
+00:10:53,850 --> 00:10:55,210
+Really?
+
+232
+00:10:55,220 --> 00:10:58,150
+The best way to achieve a goal is to devote 100%
+
+233
+00:10:58,150 --> 00:11:00,510
+of your time and energy to it.
+
+234
+00:11:00,510 --> 00:11:02,650
+When I decided I was going to be a physicist,
+
+235
+00:11:02,650 --> 00:11:04,190
+I didn't take some other job
+
+236
+00:11:04,190 --> 00:11:06,110
+in case it didn't work out.
+
+237
+00:11:06,110 --> 00:11:08,130
+Which wasn't easy because there was a lot of pressure
+
+238
+00:11:08,130 --> 00:11:11,500
+from Ms. Pierson for me to be chalk monitor that year.
+
+239
+00:11:13,000 --> 00:11:15,270
+Thank you. I needed to hear that.
+
+240
+00:11:15,270 --> 00:11:17,700
+Why can't Leonard understand it?
+
+241
+00:11:18,370 --> 00:11:20,680
+Because he's not like us, Penny.
+
+242
+00:11:21,590 --> 00:11:23,530
+We're dreamers.
+
+243
+00:11:25,510 --> 00:11:26,870
+Yeah, I need to start cracking the window
+
+244
+00:11:26,870 --> 00:11:29,000
+when I leave you in the car.
+
+245
+00:11:37,290 --> 00:11:38,520
+Hello, Bert.
+
+246
+00:11:38,520 --> 00:11:42,080
+So, anyway, there's this big, uh, rock and mineral show
+
+247
+00:11:42,080 --> 00:11:43,350
+next week in Santa Monica and...
+
+248
+00:11:43,350 --> 00:11:45,030
+Listen, um, Bert,
+
+249
+00:11:45,030 --> 00:11:47,820
+before you say anything else, I...
+
+250
+00:11:47,820 --> 00:11:50,000
+I have a boyfriend.
+
+251
+00:11:50,000 --> 00:11:52,540
+This is awkward.
+
+252
+00:11:52,540 --> 00:11:54,290
+You thought I was gonna ask you to go with me
+
+253
+00:11:54,290 --> 00:11:57,940
+to the mineral show. - Weren't you?
+
+254
+00:11:57,980 --> 00:11:59,940
+Yeah.
+
+255
+00:12:02,250 --> 00:12:03,970
+That's very nice of you, but...
+
+256
+00:12:03,970 --> 00:12:06,000
+I do have a boyfriend.
+
+257
+00:12:06,000 --> 00:12:07,660
+That's what you all say.
+
+258
+00:12:07,660 --> 00:12:08,860
+You just don't want to go out with me
+
+259
+00:12:08,860 --> 00:12:11,020
+because I have an off-putting personality.
+
+260
+00:12:11,020 --> 00:12:12,700
+No, that's not true.
+
+261
+00:12:12,700 --> 00:12:15,230
+My boyfriend has an off-putting personality, too.
+
+262
+00:12:15,230 --> 00:12:17,420
+Like, way worse than you.
+
+263
+00:12:19,340 --> 00:12:20,460
+Don't worry.
+
+264
+00:12:20,460 --> 00:12:21,590
+I'm used to it.
+
+265
+00:12:21,590 --> 00:12:25,270
+I mean, I'm big and weird and funny-looking
+
+266
+00:12:25,270 --> 00:12:27,910
+and no one ever wants to do anything with me.
+
+267
+00:12:27,910 --> 00:12:30,330
+Don't say that.
+
+268
+00:12:30,330 --> 00:12:31,870
+It's okay.
+
+269
+00:12:31,870 --> 00:12:33,650
+I know I'm a monster.
+
+270
+00:12:33,650 --> 00:12:36,010
+No, Bert, come on.
+
+271
+00:12:36,540 --> 00:12:39,120
+I'd love to go to the mineral show with you.
+
+272
+00:12:39,120 --> 00:12:40,110
+Sweet.
+
+273
+00:12:40,110 --> 00:12:42,000
+It's a date.
+
+274
+00:12:44,550 --> 00:12:45,790
+No, it's not.
+
+275
+00:12:45,790 --> 00:12:47,440
+Too late!
+
+276
+00:12:58,620 --> 00:13:01,240
+Yeah. Haven't seen this many people in my store
+
+277
+00:13:01,240 --> 00:13:02,800
+since that Korean church bus
+
+278
+00:13:02,800 --> 00:13:04,970
+crashed through my front window.
+
+279
+00:13:05,840 --> 00:13:07,650
+Hey! Stuart!
+
+280
+00:13:07,650 --> 00:13:08,590
+Jesse.
+
+281
+00:13:08,590 --> 00:13:10,430
+Haven't seen you in forever.
+
+282
+00:13:10,430 --> 00:13:12,080
+Look how gray you've gotten.
+
+283
+00:13:12,080 --> 00:13:14,390
+My hair's exactly the same color as always.
+
+284
+00:13:14,390 --> 00:13:16,950
+No, I was talking about your skin.
+
+285
+00:13:17,850 --> 00:13:20,270
+Look, uh, my friend here needs a comic book...
+
+286
+00:13:20,270 --> 00:13:22,900
+And she went into your store by mistake.
+
+287
+00:13:22,900 --> 00:13:25,450
+Good thing there was no one there to see you.
+
+288
+00:13:25,970 --> 00:13:27,330
+What do you need?
+
+289
+00:13:28,130 --> 00:13:29,470
+Oh, yeah, yeah. I got this.
+
+290
+00:13:29,470 --> 00:13:31,290
+Right over here.
+
+291
+00:13:33,340 --> 00:13:35,320
+Even you, Sweatpants?
+
+292
+00:13:35,320 --> 00:13:37,600
+Free popcorn.
+
+293
+00:13:38,950 --> 00:13:40,440
+Can I offer you a coffee?
+
+294
+00:13:40,440 --> 00:13:41,930
+Espresso? Latte?
+
+295
+00:13:41,930 --> 00:13:42,650
+No, thanks.
+
+296
+00:13:42,650 --> 00:13:44,830
+How about you, Stu? Mocha? Scone?
+
+297
+00:13:44,830 --> 00:13:48,330
+Directions to the nearest soup kitchen?
+
+298
+00:13:49,960 --> 00:13:52,670
+He knows where the soup kitchen is.
+
+299
+00:13:54,610 --> 00:13:56,650
+It's on Merton Avenue.
+
+300
+00:13:58,130 --> 00:14:00,390
+I don't think I like the way you're treating my friend.
+
+301
+00:14:00,390 --> 00:14:01,810
+Sorry.
+
+302
+00:14:01,810 --> 00:14:03,330
+You want the book or not?
+
+303
+00:14:03,330 --> 00:14:04,660
+Not from you.
+
+304
+00:14:04,660 --> 00:14:06,730
+Let's go, Stuart.
+
+305
+00:14:09,520 --> 00:14:11,550
+You know something, Jesse?
+
+306
+00:14:11,550 --> 00:14:13,810
+You may have a successful business
+
+307
+00:14:13,810 --> 00:14:15,670
+a-and the kind of pink complexion
+
+308
+00:14:15,670 --> 00:14:17,860
+that comes with good nutrition...
+
+309
+00:14:18,760 --> 00:14:20,880
+...but I have something more important.
+
+310
+00:14:20,880 --> 00:14:22,450
+What's that?
+
+311
+00:14:22,450 --> 00:14:25,490
+Friendship.
+
+312
+00:14:27,240 --> 00:14:30,360
+Which I would trade in a heartbeat for all of this.
+
+313
+00:14:33,840 --> 00:14:35,770
+The mineral and rock show?
+
+314
+00:14:35,770 --> 00:14:39,090
+That would be awful even without Bert.
+
+315
+00:14:39,670 --> 00:14:41,700
+So what am I supposed to do now?
+
+316
+00:14:41,700 --> 00:14:45,280
+Prepare your uterus for his gigantic offspring?
+
+317
+00:14:47,350 --> 00:14:49,090
+This isn't funny.
+
+318
+00:14:49,090 --> 00:14:50,410
+I'm gonna have to tell him the truth:
+
+319
+00:14:50,410 --> 00:14:51,950
+that even if I didn't have a boyfriend,
+
+320
+00:14:51,950 --> 00:14:53,530
+I wouldn't be interested in him.
+
+321
+00:14:53,530 --> 00:14:55,700
+I've heard those words so many times.
+
+322
+00:14:55,700 --> 00:14:57,890
+From Linda Nosenchuck, Tammy Rosenworcel...
+
+323
+00:14:57,890 --> 00:14:59,710
+Padma Kapur, Neha Chowdury...
+
+324
+00:14:59,710 --> 00:15:01,450
+...Marci Grossman, Lisa Mazzarino...
+
+325
+00:15:01,450 --> 00:15:03,300
+- ...Megan Pincus... - ...Tammy Cho...
+
+326
+00:15:03,300 --> 00:15:04,620
+Oh, who was that girl from our Starbucks?
+
+327
+00:15:04,620 --> 00:15:07,600
+- Arlene Russel! - Yes! Arlene!
+
+328
+00:15:07,600 --> 00:15:12,840
+She wrote "no way" on both our cappuccinos.
+
+329
+00:15:12,840 --> 00:15:14,050
+Poor Bert.
+
+330
+00:15:14,160 --> 00:15:16,680
+That guy's got a rough afternoon ahead of him.
+
+331
+00:15:16,680 --> 00:15:18,570
+Well, how would you want a girl
+
+332
+00:15:18,570 --> 00:15:20,570
+to tell you she wasn't interested?
+
+333
+00:15:20,570 --> 00:15:23,510
+I guess, uh, I'd like her to sit me down,
+
+334
+00:15:23,510 --> 00:15:25,640
+look me in the eye and say,
+
+335
+00:15:25,640 --> 00:15:28,380
+"I was wrong. I love you."
+
+336
+00:15:28,380 --> 00:15:32,040
+And then maybe she could touch me in a special way.
+
+337
+00:15:33,100 --> 00:15:35,750
+That's how you reject a guy.
+
+338
+00:15:36,300 --> 00:15:37,240
+Okay, I don't have time for this.
+
+339
+00:15:37,240 --> 00:15:39,790
+I'm just gonna go find him and be brutally honest.
+
+340
+00:15:39,790 --> 00:15:41,450
+- No, don't. - He'll be so upset.
+
+341
+00:15:41,450 --> 00:15:42,950
+He'll probably climb up the Empire State Building
+
+342
+00:15:42,950 --> 00:15:46,020
+and start swatting at planes.
+
+343
+00:15:50,370 --> 00:15:52,000
+You want us to talk to him?
+
+344
+00:15:52,000 --> 00:15:53,040
+Really?
+
+345
+00:15:53,040 --> 00:15:54,620
+- You would do that? - Sure.
+
+346
+00:15:54,620 --> 00:15:55,760
+We've both been in his shoes.
+
+347
+00:15:55,760 --> 00:15:58,730
+We'll let him down with compassion and respect.
+
+348
+00:15:58,730 --> 00:16:00,390
+Thank you.
+
+349
+00:16:00,390 --> 00:16:02,430
+Let's go.
+
+350
+00:16:03,730 --> 00:16:05,370
+So we tell him she's a lesbian, right?
+
+351
+00:16:05,370 --> 00:16:07,790
+Of course we tell him she's a lesbian.
+
+352
+00:16:15,590 --> 00:16:17,840
+And hold three...
+
+353
+00:16:17,840 --> 00:16:20,680
+two... one.
+
+354
+00:16:20,680 --> 00:16:22,620
+Very good.
+
+355
+00:16:22,620 --> 00:16:26,170
+Now let's try Warrior II.
+
+356
+00:16:26,920 --> 00:16:29,180
+And hold.
+
+357
+00:16:31,720 --> 00:16:33,710
+I've read that there are great yogis
+
+358
+00:16:33,710 --> 00:16:36,080
+who have such mastery over their bodies
+
+359
+00:16:36,080 --> 00:16:39,890
+they can draw water in through their genitals.
+
+360
+00:16:47,730 --> 00:16:50,770
+Yeah, well, I don't think we're gonna get to do that today.
+
+361
+00:16:52,210 --> 00:16:54,070
+Too bad.
+
+362
+00:16:54,070 --> 00:16:55,730
+It seems like a good way to drink a milk shake
+
+363
+00:16:55,730 --> 00:16:58,290
+without getting brain freeze.
+
+364
+00:17:01,910 --> 00:17:05,180
+And now we go to Reverse Warrior.
+
+365
+00:17:09,500 --> 00:17:11,660
+How did she get you to do yoga?
+
+366
+00:17:11,660 --> 00:17:15,920
+Well, to be honest, I thought she said "Yoda."
+
+367
+00:17:18,440 --> 00:17:21,230
+I'm helping him relax because, unlike you,
+
+368
+00:17:21,230 --> 00:17:22,730
+he supports me.
+
+369
+00:17:22,730 --> 00:17:24,740
+Oh, how many times do I have to say it?
+
+370
+00:17:24,740 --> 00:17:26,370
+I support you.
+
+371
+00:17:26,370 --> 00:17:27,880
+Sheldon, take a break.
+
+372
+00:17:28,860 --> 00:17:30,790
+Namaste.
+
+373
+00:17:31,920 --> 00:17:34,900
+Okay, if you support me, what was with that phone call?
+
+374
+00:17:34,900 --> 00:17:37,460
+Fine. I'm not sure you should have quit.
+
+375
+00:17:37,460 --> 00:17:38,910
+But if you care so much what I think,
+
+376
+00:17:38,910 --> 00:17:40,610
+why didn't you ask me before you did it?
+
+377
+00:17:40,610 --> 00:17:42,200
+Oh, so now I need your permission?
+
+378
+00:17:42,200 --> 00:17:44,720
+Would you have asked me before you quit your job?
+
+379
+00:17:44,720 --> 00:17:45,690
+Yes.
+
+380
+00:17:45,690 --> 00:17:47,220
+I thought we were in the kind of relationship
+
+381
+00:17:47,220 --> 00:17:48,570
+where we make decisions together.
+
+382
+00:17:48,570 --> 00:17:50,190
+If I'm wrong, then maybe we need to talk about
+
+383
+00:17:50,190 --> 00:17:52,010
+the kind of relationship we're actually in.
+
+384
+00:17:52,010 --> 00:17:53,440
+Yeah, well, maybe we do.
+
+385
+00:17:53,440 --> 00:17:55,820
+I'm willing to if you guys are.
+
+386
+00:17:57,600 --> 00:17:58,970
+Can we please have some privacy?
+
+387
+00:17:58,970 --> 00:18:00,230
+Y... No.
+
+388
+00:18:00,230 --> 00:18:02,430
+I'm as much a part of this relationship as you two,
+
+389
+00:18:02,430 --> 00:18:05,160
+and I think it's high time we put all our cards on the table.
+
+390
+00:18:05,160 --> 00:18:07,620
+Yeah. For example, where is this going?
+
+391
+00:18:07,620 --> 00:18:09,610
+Are you two ever getting married?
+
+392
+00:18:09,610 --> 00:18:11,690
+And, if so, where will we all live?
+
+393
+00:18:11,690 --> 00:18:13,990
+Have you thought about that?
+
+394
+00:18:13,990 --> 00:18:15,880
+- No. - Penny?
+
+395
+00:18:15,880 --> 00:18:17,370
+Okay, wait. What are we doing?
+
+396
+00:18:17,370 --> 00:18:19,420
+For some reason, we're planning a future
+
+397
+00:18:19,420 --> 00:18:21,510
+where we both live with Sheldon forever.
+
+398
+00:18:21,510 --> 00:18:24,660
+Good. Now we're getting somewhere.
+
+399
+00:18:25,540 --> 00:18:26,780
+Look, I know you think I'm being reckless,
+
+400
+00:18:26,780 --> 00:18:27,670
+and you might be right,
+
+401
+00:18:27,670 --> 00:18:29,140
+but I need to take this shot.
+
+402
+00:18:29,140 --> 00:18:30,230
+Yeah, no kidding.
+
+403
+00:18:30,230 --> 00:18:32,000
+Despite what it says on her resume,
+
+404
+00:18:32,000 --> 00:18:34,500
+she is no longer 22.
+
+405
+00:18:37,420 --> 00:18:40,130
+I swear, I am on your side.
+
+406
+00:18:40,130 --> 00:18:41,680
+You keep saying you're on my side,
+
+407
+00:18:41,680 --> 00:18:43,970
+- but you don't act like it. - He does that to me, too.
+
+408
+00:18:43,970 --> 00:18:46,560
+Why do we put up with it?
+
+409
+00:18:47,460 --> 00:18:50,580
+Listen, I could never do what you're doing, okay?
+
+410
+00:18:50,580 --> 00:18:52,270
+I would be terrified.
+
+411
+00:18:52,270 --> 00:18:53,690
+Well, it's scary for me, too.
+
+412
+00:18:53,690 --> 00:18:55,630
+I'm fine with it.
+
+413
+00:18:57,060 --> 00:18:59,780
+My point is, just because I couldn't do it
+
+414
+00:18:59,780 --> 00:19:01,150
+doesn't mean you shouldn't.
+
+415
+00:19:01,150 --> 00:19:04,180
+And I'm proud of you.
+
+416
+00:19:05,690 --> 00:19:08,740
+Okay. Thank you.
+
+417
+00:19:08,740 --> 00:19:10,610
+Well, to celebrate this reconciliation,
+
+418
+00:19:10,610 --> 00:19:12,400
+let's all share a milk shake.
+
+419
+00:19:12,400 --> 00:19:15,220
+Uh, Penny, you'll need a straw.
+
+420
+00:19:21,260 --> 00:19:22,700
+- You're back. - Yes, I am!
+
+421
+00:19:22,700 --> 00:19:24,360
+There's a few more things I want to say to you.
+
+422
+00:19:24,360 --> 00:19:26,040
+Stuart's store is just fine,
+
+423
+00:19:26,040 --> 00:19:27,670
+and he's a much nicer person than you are,
+
+424
+00:19:27,670 --> 00:19:28,810
+and if you still have that comic,
+
+425
+00:19:28,810 --> 00:19:31,530
+I'd like to buy it right now!
+
+426
+00:19:31,910 --> 00:19:33,450
+No problem.
+
+427
+00:19:33,450 --> 00:19:35,660
+Oh, you want a latte while you wait?
+
+428
+00:19:35,660 --> 00:19:37,640
+No, I don't want a latte!
+
+429
+00:19:37,640 --> 00:19:40,830
+I want a cappuccino and a blueberry scone!
+
+430
+00:19:40,830 --> 00:19:42,680
+I only have chocolate chip.
+
+431
+00:19:42,680 --> 00:19:45,870
+Well, that sounds even better!
+
+432
+00:19:55,320 --> 00:19:58,740
+Thanks for coming to the mineral and rock show with me.
+
+433
+00:20:02,230 --> 00:20:04,870
+We're sorry Amy didn't want to go.
+
+434
+00:20:04,870 --> 00:20:08,450
+Really, really sorry.
+
+435
+00:20:09,190 --> 00:20:11,800
+Who needs her when I have you guys?
+
+436
+00:20:11,800 --> 00:20:13,700
+Rock show!
+
+437
+00:20:13,700 --> 00:20:15,410
+Rock show! Rock show!
+
+438
+00:20:15,720 --> 00:20:17,470
+Rock show! Rock show!
+
+439
+00:20:17,470 --> 00:20:19,380
+Rock show!
+
+440
+00:20:19,380 --> 00:20:23,650
+Rock show...!
+
