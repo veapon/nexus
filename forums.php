@@ -470,291 +470,325 @@ if ($action == "post")
 
 if ($action == "viewtopic")
 {
-	$highlight = htmlspecialchars(trim($_GET["highlight"]));
+        $highlight = htmlspecialchars(trim($_GET["highlight"]));
 
-	$topicid = 0+$_GET["topicid"];
-	int_check($topicid,true);
-	$page = $_GET["page"];
-	$authorid = 0+$_GET["authorid"];
-	if ($authorid)
-	{
-		$where = "WHERE topicid=".sqlesc($topicid)." AND userid=".sqlesc($authorid);
-		$addparam = "action=viewtopic&topicid=".$topicid."&authorid=".$authorid;
-	}
-	else
-	{
-		$where = "WHERE topicid=".sqlesc($topicid);
-		$addparam = "action=viewtopic&topicid=".$topicid;
-	}
-	$userid = $CURUSER["id"];
+        $topicid = 0+$_GET["topicid"];
+        int_check($topicid,true);
+        $page = $_GET["page"];
+        $authorid = 0+$_GET["authorid"];
+        if ($authorid)
+        {
+                $where = "WHERE topicid=".sqlesc($topicid)." AND posts.userid=".sqlesc($authorid);
+                $addparam = "action=viewtopic&topicid=".$topicid."&authorid=".$authorid;
+        }
+        else
+        {
+                $where = "WHERE topicid=".sqlesc($topicid);
+                $addparam = "action=viewtopic&topicid=".$topicid;
+        }
+        $userid = $CURUSER["id"];
 
-	//------ Get topic info
+        //------ Get topic info
 
-	$res = sql_query("SELECT * FROM topics WHERE id=".sqlesc($topicid)." LIMIT 1") or sqlerr(__FILE__, __LINE__);
-	$arr = mysql_fetch_assoc($res) or stderr($lang_forums['std_forum_error'], $lang_forums['std_topic_not_found']);
+        $res = sql_query("SELECT * FROM topics WHERE id=".sqlesc($topicid)." LIMIT 1") or sqlerr(__FILE__, __LINE__);
+        $arr = mysql_fetch_assoc($res) or stderr($lang_forums['std_forum_error'], $lang_forums['std_topic_not_found']);
 
-	$forumid = $arr['forumid'];
-	$locked = $arr['locked'] == "yes";
-	$orgsubject = $arr['subject'];
-	$subject = htmlspecialchars($arr['subject']);
-	if ($highlight){
-		$subject = highlight($highlight,$orgsubject);
-	}
-	$sticky = $arr['sticky'] == "yes";
-	$hlcolor = $arr['hlcolor'];
-	$views = $arr['views'];
-	$forumid = $arr["forumid"];
+        $forumid = $arr['forumid'];
+        $locked = $arr['locked'] == "yes";
+        $orgsubject = $arr['subject'];
+        $subject = htmlspecialchars($arr['subject']);
+        if ($highlight){
+                $subject = highlight($highlight,$orgsubject);
+        }
+        $sticky = $arr['sticky'] == "yes";
+        $hlcolor = $arr['hlcolor'];
+        $views = $arr['views'];
+        $forumid = $arr["forumid"];
+        $topicowner = $arr['userid'];
 
-	$row = get_forum_row($forumid);
-	//------ Get forum name, moderators
-	$forumname = $row['name'];
-	$is_forummod = is_forum_moderator($forumid,'forum');
+        $row = get_forum_row($forumid);
+        //------ Get forum name, moderators
+        $forumname = $row['name'];
+        $is_forummod = is_forum_moderator($forumid,'forum');
 
-	if (get_user_class() < $row["minclassread"])
-		stderr($lang_forums['std_error'], $lang_forums['std_unpermitted_viewing_topic']);
-	if (((get_user_class() >= $row["minclasswrite"] && !$locked) || get_user_class() >= $postmanage_class || $is_forummod) && $CURUSER["forumpost"] == 'yes')
-		$maypost = true;
-	else $maypost = false;
+        if (get_user_class() < $row["minclassread"])
+                stderr($lang_forums['std_error'], $lang_forums['std_unpermitted_viewing_topic']);
+        if (((get_user_class() >= $row["minclasswrite"] && !$locked) || get_user_class() >= $postmanage_class || $is_forummod) && $CURUSER["forumpost"] == 'yes')
+                $maypost = true;
+        else $maypost = false;
 
-	//------ Update hits column
-	sql_query("UPDATE topics SET views = views + 1 WHERE id=$topicid") or sqlerr(__FILE__, __LINE__);
+        //------ Update hits column
+        sql_query("UPDATE topics SET views = views + 1 WHERE id=$topicid") or sqlerr(__FILE__, __LINE__);
 
-	//------ Get post count
-	$postcount = get_row_count("posts",$where);
-	if (!$authorid)
-		$Cache->cache_value('topic_'.$topicid.'_post_count', $postcount, 3600);
+        //------ Get post count
+        $postcount = get_row_count("posts",$where);
+        if (!$authorid)
+                $Cache->cache_value('topic_'.$topicid.'_post_count', $postcount, 3600);
 
-	//------ Make page menu
+        //------ Make page menu
 
-	$pagerarr = array();
+        $pagerarr = array();
 
-	$perpage = $postsperpage;
+        $perpage = $postsperpage;
 
-	$pages = ceil($postcount / $perpage);
+        $pages = ceil($postcount / $perpage);
 
-	if ($page[0] == "p")
-	{
-		$findpost = substr($page, 1);
-		$res = sql_query("SELECT id FROM posts $where ORDER BY added") or sqlerr(__FILE__, __LINE__);
-		$i = 0;
-		while ($arr = mysql_fetch_row($res))
-		{
-			if ($arr[0] == $findpost)
-			break;
-			++$i;
-		}
-		$page = floor($i / $perpage);
-	}
-	if ($page === "last"){
-	$page = $pages-1;
-	}
-	elseif(isset($page))
-	{
-		if($page < 0){
-		$page = 0;
-		}
-		elseif ($page > $pages - 1){
-		$page = $pages - 1;
-		}
-	}
-	else {if ($CURUSER["clicktopic"] == "firstpage")
-		$page = 0;
-		else $page = $pages-1;
-	}
+        if ($page[0] == "p")
+        {
+                $findpost = substr($page, 1);
+                $res = sql_query("SELECT id FROM posts $where ORDER BY added") or sqlerr(__FILE__, __LINE__);
+                $i = 0;
+                while ($arr = mysql_fetch_row($res))
+                {
+                        if ($arr[0] == $findpost)
+                        break;
+                        ++$i;
+                }
+                $page = floor($i / $perpage);
+        }
+        if ($page === "last"){
+        $page = $pages-1;
+        }
+        elseif(isset($page))
+        {
+                if($page < 0){
+                $page = 0;
+                }
+                elseif ($page > $pages - 1){
+                $page = $pages - 1;
+                }
+        }
+        else {if ($CURUSER["clicktopic"] == "firstpage")
+                $page = 0;
+                else $page = $pages-1;
+        }
 
-	$offset = $page * $perpage;
-	$dotted = 0;
-	$dotspace = 3;
-	$dotend = $pages - $dotspace;
-	$curdotend = $page - $dotspace;
-	$curdotstart = $page + $dotspace;
-	for ($i = 0; $i < $pages; ++$i)
-	{
-		if (($i >= $dotspace && $i <= $curdotend) || ($i >= $curdotstart && $i < $dotend)) {
-				if (!$dotted)
-				$pagerarr[] = "...";
-				$dotted = 1;
-				continue;
-		}
-		$dotted = 0;
-		if ($i != $page)
-		$pagerarr[] .= "<a href=\"".htmlspecialchars("?".$addparam."&page=".$i)."\"><b>".($i+1)."</b></a>\n";
-		else
-		$pagerarr[] .= "<font class=\"gray\"><b>".($i+1)."</b></font>\n";
-	}
-	if ($page == 0)
-	$pager = "<font class=\"gray\"><b>&lt;&lt;".$lang_forums['text_prev']."</b></font>";
-	else
-	$pager = "<a href=\"".htmlspecialchars("?".$addparam."&page=" . ($page - 1)) .
-	"\"><b>&lt;&lt;".$lang_forums['text_prev']."</b></a>";
-	$pager .= "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;";
-	if ($page == $pages-1)
-	$pager .= "<font class=\"gray\"><b>".$lang_forums['text_next']." &gt;&gt;</b></font>\n";
-	else
-	$pager .= "<a href=\"".htmlspecialchars("?".$addparam."&page=" . ($page + 1)) .
-	"\"><b>".$lang_forums['text_next']." &gt;&gt;</b></a>\n";
+        $offset = $page * $perpage;
+        $dotted = 0;
+        $dotspace = 3;
+        $dotend = $pages - $dotspace;
+        $curdotend = $page - $dotspace;
+        $curdotstart = $page + $dotspace;
+        for ($i = 0; $i < $pages; ++$i)
+        {
+                if (($i >= $dotspace && $i <= $curdotend) || ($i >= $curdotstart && $i < $dotend)) {
+                                if (!$dotted)
+                                $pagerarr[] = "...";
+                                $dotted = 1;
+                                continue;
+                }
+                $dotted = 0;
+                if ($i != $page)
+                $pagerarr[] .= "<a href=\"".htmlspecialchars("?".$addparam."&page=".$i)."\"><b>".($i+1)."</b></a>\n";
+                else
+                $pagerarr[] .= "<font class=\"gray\"><b>".($i+1)."</b></font>\n";
+        }
+        if ($page == 0)
+        $pager = "<font class=\"gray\"><b>&lt;&lt;".$lang_forums['text_prev']."</b></font>";
+        else
+        $pager = "<a href=\"".htmlspecialchars("?".$addparam."&page=" . ($page - 1)) .
+        "\"><b>&lt;&lt;".$lang_forums['text_prev']."</b></a>";
+        $pager .= "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;";
+        if ($page == $pages-1)
+        $pager .= "<font class=\"gray\"><b>".$lang_forums['text_next']." &gt;&gt;</b></font>\n";
+        else
+        $pager .= "<a href=\"".htmlspecialchars("?".$addparam."&page=" . ($page + 1)) .
+        "\"><b>".$lang_forums['text_next']." &gt;&gt;</b></a>\n";
 
-	$pagerstr = join(" | ", $pagerarr);
-	$pagertop = "<p align=\"center\">".$pager."<br />".$pagerstr."</p>\n";
-	$pagerbottom = "<p align=\"center\">".$pagerstr."<br />".$pager."</p>\n";
-	//------ Get posts
+        $pagerstr = join(" | ", $pagerarr);
+        $pagertop = "<p align=\"center\">".$pager."<br />".$pagerstr."</p>\n";
+        $pagerbottom = "<p align=\"center\">".$pagerstr."<br />".$pager."</p>\n";
+        //------ Get posts
 
-	$res = sql_query("SELECT * FROM posts $where ORDER BY id LIMIT $offset,$perpage") or sqlerr(__FILE__, __LINE__);
+        $res = sql_query("SELECT posts.*, bonuses.bonus, bonuses.userid as bonus_userid FROM posts LEFT JOIN bonuses ON posts.id = bonuses.postid $where ORDER BY id LIMIT $offset,$perpage") or sqlerr(__FILE__, __LINE__);
+		
+        stdhead($lang_forums['head_view_topic']." \"".$orgsubject."\"");
+        begin_main_frame("",true);
 
-	stdhead($lang_forums['head_view_topic']." \"".$orgsubject."\"");
-	begin_main_frame("",true);
+        print("<h1 align=\"center\"><a class=\"faqlink\" href=\"forums.php\">".$SITENAME."&nbsp;".$lang_forums['text_forums']."</a>--><a class=\"faqlink\" href=\"".htmlspecialchars("?action=viewforum&forumid=".$forumid)."\">".$forumname."</a><b>--></b><span id=\"top\">".$subject.($locked ? "&nbsp;&nbsp;<b>[<font class=\"striking\">".$lang_forums['text_locked']."</font>]</b>" : "")."</span></h1>\n");
+        end_main_frame();
+        print($pagertop);
 
-	print("<h1 align=\"center\"><a class=\"faqlink\" href=\"forums.php\">".$SITENAME."&nbsp;".$lang_forums['text_forums']."</a>--><a class=\"faqlink\" href=\"".htmlspecialchars("?action=viewforum&forumid=".$forumid)."\">".$forumname."</a><b>--></b><span id=\"top\">".$subject.($locked ? "&nbsp;&nbsp;<b>[<font class=\"striking\">".$lang_forums['text_locked']."</font>]</b>" : "")."</span></h1>\n");
-	end_main_frame();
-	print($pagertop);
+        //------ Print table
 
-	//------ Print table
+        begin_main_frame();
+        print("<table border=\"0\" class=\"main\" cellspacing=\"0\" cellpadding=\"5\" width=\"940\"><tr>\n");
+        print("<td class=\"embedded\" width=\"99%\">&nbsp;&nbsp;".$lang_forums['there_is']."<b>".$views."</b>".$lang_forums['hits_on_this_topic']);
+        print("</td>\n");
+        print("<td class=\"embedded nowrap\" width=\"1%\" align=\"right\">");
+        if ($maypost)
+        {
+                print("<a href=\"".htmlspecialchars("?action=reply&topicid=".$topicid)."\"><img class=\"f_reply\" src=\"pic/trans.gif\" alt=\"Add Reply\" title=\"".$lang_forums['title_reply_directly']."\" /></a>&nbsp;&nbsp;");
+        }
+        print("</td>");
+        print("</tr></table>\n");
+        begin_frame();
 
-	begin_main_frame();
-	print("<table border=\"0\" class=\"main\" cellspacing=\"0\" cellpadding=\"5\" width=\"940\"><tr>\n");
-	print("<td class=\"embedded\" width=\"99%\">&nbsp;&nbsp;".$lang_forums['there_is']."<b>".$views."</b>".$lang_forums['hits_on_this_topic']);
-	print("</td>\n");
-	print("<td class=\"embedded nowrap\" width=\"1%\" align=\"right\">");
-	if ($maypost)
-	{
-		print("<a href=\"".htmlspecialchars("?action=reply&topicid=".$topicid)."\"><img class=\"f_reply\" src=\"pic/trans.gif\" alt=\"Add Reply\" title=\"".$lang_forums['title_reply_directly']."\" /></a>&nbsp;&nbsp;");
-	}
-	print("</td>");
-	print("</tr></table>\n");
-	begin_frame();
+        $pc = mysql_num_rows($res);
 
-	$pc = mysql_num_rows($res);
+        $pn = 0;
+        $lpr = get_last_read_post_id($topicid);
 
-	$pn = 0;
-	$lpr = get_last_read_post_id($topicid);
+        if ($Advertisement->enable_ad())
+                $forumpostad=$Advertisement->get_ad('forumpost');
+        while ($arr = mysql_fetch_assoc($res))
+        {
+                if ($pn>=1)
+                {
+                        if ($Advertisement->enable_ad()){
+                                if ($forumpostad[$pn-1])
+                                echo "<div align=\"center\" style=\"margin-top: 10px\" id=\"ad_forumpost_".$pn."\">".$forumpostad[$pn-1]."</div>";
+                        }
+                }
+                ++$pn;
 
-	if ($Advertisement->enable_ad())
-		$forumpostad=$Advertisement->get_ad('forumpost');
-	while ($arr = mysql_fetch_assoc($res))
-	{
-		if ($pn>=1)
-		{
-			if ($Advertisement->enable_ad()){
-				if ($forumpostad[$pn-1])
-				echo "<div align=\"center\" style=\"margin-top: 10px\" id=\"ad_forumpost_".$pn."\">".$forumpostad[$pn-1]."</div>";
-			}
-		}
-		++$pn;
+                $postid = $arr["id"];
+                $posterid = $arr["userid"];
 
-		$postid = $arr["id"];
-		$posterid = $arr["userid"];
+                $added = gettime($arr["added"],true,false);
 
-		$added = gettime($arr["added"],true,false);
+                //---- Get poster details
 
-		//---- Get poster details
+                $arr2 = get_user_row($posterid);
+                $uploaded = mksize($arr2["uploaded"]);
+                $downloaded = mksize($arr2["downloaded"]);
+                $ratio = get_ratio($arr2['id']);
 
-		$arr2 = get_user_row($posterid);
-		$uploaded = mksize($arr2["uploaded"]);
-		$downloaded = mksize($arr2["downloaded"]);
-		$ratio = get_ratio($arr2['id']);
+                if (!$forumposts = $Cache->get_value('user_'.$posterid.'_post_count')){
+                        $forumposts = get_row_count("posts","WHERE userid=".$posterid);
+                        $Cache->cache_value('user_'.$posterid.'_post_count', $forumposts, 3600);
+                }
 
-		if (!$forumposts = $Cache->get_value('user_'.$posterid.'_post_count')){
-			$forumposts = get_row_count("posts","WHERE userid=".$posterid);
-			$Cache->cache_value('user_'.$posterid.'_post_count', $forumposts, 3600);
-		}
+                $signature = ($CURUSER["signatures"] == "yes" ? $arr2["signature"] : "");
+                $avatar = ($CURUSER["avatars"] == "yes" ? htmlspecialchars($arr2["avatar"]) : "");
 
-		$signature = ($CURUSER["signatures"] == "yes" ? $arr2["signature"] : "");
-		$avatar = ($CURUSER["avatars"] == "yes" ? htmlspecialchars($arr2["avatar"]) : "");
+                $uclass = get_user_class_image($arr2["class"]);
+                $by = get_username($posterid,false,true,true,false,false,true);
 
-		$uclass = get_user_class_image($arr2["class"]);
-		$by = get_username($posterid,false,true,true,false,false,true);
+                if (!$avatar)
+                        $avatar = "pic/default_avatar.png";
 
-		if (!$avatar)
-			$avatar = "pic/default_avatar.png";
+                if ($pn == $pc)
+                {
+                        print("<span id=\"last\"></span>\n");
+                        if ($postid > $lpr){
+                                if ($lpr == $CURUSER['last_catchup']) // There is no record of this topic
+                                        sql_query("INSERT INTO readposts(userid, topicid, lastpostread) VALUES (".$userid.", ".$topicid.", ".$postid.")") or sqlerr(__FILE__, __LINE__);
+                                elseif ($lpr > $CURUSER['last_catchup']) //There is record of this topic
+                                        sql_query("UPDATE readposts SET lastpostread=$postid WHERE userid=$userid AND topicid=$topicid") or sqlerr(__FILE__, __LINE__);
+                                $Cache->delete_value('user_'.$CURUSER['id'].'_last_read_post_list');
+                        }
+                }
 
-		if ($pn == $pc)
-		{
-			print("<span id=\"last\"></span>\n");
-			if ($postid > $lpr){
-				if ($lpr == $CURUSER['last_catchup']) // There is no record of this topic
-					sql_query("INSERT INTO readposts(userid, topicid, lastpostread) VALUES (".$userid.", ".$topicid.", ".$postid.")") or sqlerr(__FILE__, __LINE__);
-				elseif ($lpr > $CURUSER['last_catchup']) //There is record of this topic
-					sql_query("UPDATE readposts SET lastpostread=$postid WHERE userid=$userid AND topicid=$topicid") or sqlerr(__FILE__, __LINE__);
-				$Cache->delete_value('user_'.$CURUSER['id'].'_last_read_post_list');
-			}
-		}
+                print("<div style=\"margin-top: 8pt; margin-bottom: 8pt;\"><table id=\"pid".$postid."\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\" width=\"100%\"><tr><td class=\"embedded\" width=\"99%\"><a href=\"".htmlspecialchars("forums.php?action=viewtopic&topicid=".$topicid."&page=p".$postid."#pid".$postid)."\">#".$postid."</a>&nbsp;&nbsp;<font color=\"gray\">".$lang_forums['text_by']."</font>".$by."&nbsp;&nbsp;<font color=\"gray\">".$lang_forums['text_at']."</font>".$added);
+                if (is_valid_id($arr['editedby']))
+                        print("");
+                print("&nbsp;&nbsp;<font color=\"gray\">|</font>&nbsp;&nbsp;");
+                if ($authorid)
+                        print("<a href=\"?action=viewtopic&topicid=".$topicid."\">".$lang_forums['text_view_all_posts']."</a>");
+                else
+                        print("<a href=\"".htmlspecialchars("?action=viewtopic&topicid=".$topicid."&authorid=".$posterid)."\">".$lang_forums['text_view_this_author_only']."</a>");
+                //show bonus received 
+				$bonus = "";
+                if ($arr['bonus'] > 0)
+                        $bonus = "<font color=\"grey\">".$lang_forums['text_bonus_got']."</font><b>".$arr['bonus']."</b>&nbsp;&nbsp;<font color=\"grey\">|</font>&nbsp;&nbsp;";
+                print("</td><td class=\"embedded nowrap\" width=\"1%\"><font class=\"big\">".$bonus.$lang_forums['text_number']."<b>".($pn+$offset)."</b>".$lang_forums['text_lou']."&nbsp;&nbsp;</font><a href=\"#top\"><img class=\"top\" src=\"pic/trans.gif\" alt=\"Top\" title=\"".$lang_forums['text_back_to_top']."\" /></a>&nbsp;&nbsp;</td></tr>");
 
-		print("<div style=\"margin-top: 8pt; margin-bottom: 8pt;\"><table id=\"pid".$postid."\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\" width=\"100%\"><tr><td class=\"embedded\" width=\"99%\"><a href=\"".htmlspecialchars("forums.php?action=viewtopic&topicid=".$topicid."&page=p".$postid."#pid".$postid)."\">#".$postid."</a>&nbsp;&nbsp;<font color=\"gray\">".$lang_forums['text_by']."</font>".$by."&nbsp;&nbsp;<font color=\"gray\">".$lang_forums['text_at']."</font>".$added);
-		if (is_valid_id($arr['editedby']))
-			print("");
-		print("&nbsp;&nbsp;<font color=\"gray\">|</font>&nbsp;&nbsp;");
-		if ($authorid)
-			print("<a href=\"?action=viewtopic&topicid=".$topicid."\">".$lang_forums['text_view_all_posts']."</a>");
-		else
-			print("<a href=\"".htmlspecialchars("?action=viewtopic&topicid=".$topicid."&authorid=".$posterid)."\">".$lang_forums['text_view_this_author_only']."</a>");
-		print("</td><td class=\"embedded nowrap\" width=\"1%\"><font class=\"big\">".$lang_forums['text_number']."<b>".($pn+$offset)."</b>".$lang_forums['text_lou']."&nbsp;&nbsp;</font><a href=\"#top\"><img class=\"top\" src=\"pic/trans.gif\" alt=\"Top\" title=\"".$lang_forums['text_back_to_top']."\" /></a>&nbsp;&nbsp;</td></tr>");
+                print("</table></div>\n");
 
-		print("</table></div>\n");
+                print("<table class=\"main\" width=\"100%\" border=\"1\" cellspacing=\"0\" cellpadding=\"5\">\n");
 
-		print("<table class=\"main\" width=\"100%\" border=\"1\" cellspacing=\"0\" cellpadding=\"5\">\n");
+                $body = "<div id=\"pid".$postid."body\">".format_comment($arr["body"]);
 
-		$body = "<div id=\"pid".$postid."body\">".format_comment($arr["body"]);
+                if ($highlight){
+                        $body = highlight($highlight,$body);
+                }
 
-		if ($highlight){
-			$body = highlight($highlight,$body);
-		}
+                if (is_valid_id($arr['editedby']))
+                {
+                        $lastedittime = gettime($arr['editdate'],true,false);
+                        $body .= "<br /><p><font class=\"small\">".$lang_forums['text_last_edited_by'].get_username($arr['editedby']).$lang_forums['text_last_edit_at'].$lastedittime."</font></p>\n";
+                }
+                $body .= "</div>";
+                if ($signature)
+                $body .= "<p style='vertical-align:bottom'><br />____________________<br />" . format_comment($signature,false,false,false,true,500,true,false, 1,200) . "</p>";
 
-		if (is_valid_id($arr['editedby']))
-		{
-			$lastedittime = gettime($arr['editdate'],true,false);
-			$body .= "<br /><p><font class=\"small\">".$lang_forums['text_last_edited_by'].get_username($arr['editedby']).$lang_forums['text_last_edit_at'].$lastedittime."</font></p>\n";
-		}
-		$body .= "</div>";
-		if ($signature)
-		$body .= "<p style='vertical-align:bottom'><br />____________________<br />" . format_comment($signature,false,false,false,true,500,true,false, 1,200) . "</p>";
+                $stats = "<br />"."&nbsp;&nbsp;".$lang_forums['text_posts']."$forumposts<br />"."&nbsp;&nbsp;".$lang_forums['text_ul']."$uploaded <br />"."&nbsp;&nbsp;".$lang_forums['text_dl']."$downloaded<br />"."&nbsp;&nbsp;".$lang_forums['text_ratio']."$ratio";
+                print("<tr><td class=\"rowfollow\" width=\"150\" valign=\"top\" align=\"left\" style='padding: 0px'>" .
+                return_avatar_image($avatar). "<br /><br /><br />&nbsp;&nbsp;<img alt=\"".get_user_class_name($arr2["class"],false,false,true)."\" title=\"".get_user_class_name($arr2["class"],false,false,true)."\" src=\"".$uclass."\" />".$stats."</td><td class=\"rowfollow\" valign=\"top\"><br />".$body."</td></tr>\n");
+                $secs = 900;
+                $dt = sqlesc(date("Y-m-d H:i:s",(TIMENOW - $secs))); // calculate date.
+                print("<tr><td class=\"rowfollow\" align=\"center\" valign=\"middle\">".("'".$arr2['last_access']."'">$dt?"<img class=\"f_online\" src=\"pic/trans.gif\" alt=\"Online\" title=\"".$lang_forums['title_online']."\" />":"<img class=\"f_offline\" src=\"pic/trans.gif\" alt=\"Offline\" title=\"".$lang_forums['title_offline']."\" />" )."<a href=\"sendmessage.php?receiver=".htmlspecialchars(trim($arr2["id"]))."\"><img class=\"f_pm\" src=\"pic/trans.gif\" alt=\"PM\" title=\"".$lang_forums['title_send_message_to'].htmlspecialchars($arr2["username"])."\" /></a><a href=\"report.php?forumpost=$postid\"><img class=\"f_report\" src=\"pic/trans.gif\" alt=\"Report\" title=\"".$lang_forums['title_report_this_post']."\" /></a></td>");
+                print("<td class=\"toolbox\" align=\"right\" valign=\"middle\">");
 
-		$stats = "<br />"."&nbsp;&nbsp;".$lang_forums['text_posts']."$forumposts<br />"."&nbsp;&nbsp;".$lang_forums['text_ul']."$uploaded <br />"."&nbsp;&nbsp;".$lang_forums['text_dl']."$downloaded<br />"."&nbsp;&nbsp;".$lang_forums['text_ratio']."$ratio";
-		print("<tr><td class=\"rowfollow\" width=\"150\" valign=\"top\" align=\"left\" style='padding: 0px'>" .
-		return_avatar_image($avatar). "<br /><br /><br />&nbsp;&nbsp;<img alt=\"".get_user_class_name($arr2["class"],false,false,true)."\" title=\"".get_user_class_name($arr2["class"],false,false,true)."\" src=\"".$uclass."\" />".$stats."</td><td class=\"rowfollow\" valign=\"top\"><br />".$body."</td></tr>\n");
-		$secs = 900;
-		$dt = sqlesc(date("Y-m-d H:i:s",(TIMENOW - $secs))); // calculate date.
-		print("<tr><td class=\"rowfollow\" align=\"center\" valign=\"middle\">".("'".$arr2['last_access']."'">$dt?"<img class=\"f_online\" src=\"pic/trans.gif\" alt=\"Online\" title=\"".$lang_forums['title_online']."\" />":"<img class=\"f_offline\" src=\"pic/trans.gif\" alt=\"Offline\" title=\"".$lang_forums['title_offline']."\" />" )."<a href=\"sendmessage.php?receiver=".htmlspecialchars(trim($arr2["id"]))."\"><img class=\"f_pm\" src=\"pic/trans.gif\" alt=\"PM\" title=\"".$lang_forums['title_send_message_to'].htmlspecialchars($arr2["username"])."\" /></a><a href=\"report.php?forumpost=$postid\"><img class=\"f_report\" src=\"pic/trans.gif\" alt=\"Report\" title=\"".$lang_forums['title_report_this_post']."\" /></a></td>");
-		print("<td class=\"toolbox\" align=\"right\">");
+                // give bonus block
+				
+				//if ($CURUSER['id'] == $topicowner)
+                {
+                        //one post will receive bonus from more than one donator if without !$arr['bonus']
+						if ($CURUSER['id'] != $posterid && !$arr['bonus']) 
+						//if ($CURUSER['id'] != $posterid  ) 
+						{
+                                $bonus_array = array(10,20,50,100,200,500,1000);
+                                $bonus_block = "<span id=\"thanks".$postid."\" style=\"display: none;\"><input class=\"btn\" type=\"button\" value=\"".$lang_forums['text_bonus_thanks']."\" disabled=\"disabled\"></span> ";
+                                $bonus_block .= "<span id=\"post".$postid."\"><font color=\"grey\">".$lang_forums['text_bonus']."</font>";
+                              	if($CURUSER['id']!=$arr['bonus_userid'])
+							  	{
+									foreach ($bonus_array as $x) 
+									{
+                                        if ($CURUSER["seedbonus"] < $x) break;
+                                        $confirm_text = sprintf($lang_forums['text_bonus_confirm'], $x);
+                                        $bonus_block .= "<input class=\"btn\" style=\"width: 50px;\" type=\"button\" value=\"$x\" onclick=\"givebonus_post($postid, $x, '$confirm_text');\" /> ";
+                                	}
+								}else
+									{
+										$bonus_block .= "<span id=\"thanks".$postid."\" ><input class=\"btn\" type=\"button\" value=\"".$lang_forums['text_bonus_thanks']."\" disabled=\"disabled\"></span> ";
+									}
+							    
+                                $bonus_block .= "</span>";
+                                print($bonus_block);
+                        }
+                }
 
-		if ($maypost)
-		print("<a href=\"".htmlspecialchars("?action=quotepost&postid=".$postid)."\"><img class=\"f_quote\" src=\"pic/trans.gif\" alt=\"Quote\" title=\"".$lang_forums['title_reply_with_quote']."\" /></a>");
+                if ($maypost)
+                print("<a href=\"".htmlspecialchars("?action=quotepost&postid=".$postid)."\"><img class=\"f_quote\" src=\"pic/trans.gif\" alt=\"Quote\" title=\"".$lang_forums['title_reply_with_quote']."\" /></a>");
 
-		if (get_user_class() >= $postmanage_class || $is_forummod)
-		print("<a href=\"".htmlspecialchars("?action=deletepost&postid=".$postid)."\"><img class=\"f_delete\" src=\"pic/trans.gif\" alt=\"Delete\" title=\"".$lang_forums['title_delete_post']."\" /></a>");
+                if (get_user_class() >= $postmanage_class || $is_forummod)
+                print("<a href=\"".htmlspecialchars("?action=deletepost&postid=".$postid)."\"><img class=\"f_delete\" src=\"pic/trans.gif\" alt=\"Delete\" title=\"".$lang_forums['title_delete_post']."\" /></a>");
 
-		if (($CURUSER["id"] == $posterid && !$locked) || get_user_class() >= $postmanage_class || $is_forummod)
-		print("<a href=\"".htmlspecialchars("?action=editpost&postid=".$postid)."\"><img class=\"f_edit\" src=\"pic/trans.gif\" alt=\"Edit\" title=\"".$lang_forums['title_edit_post']."\" /></a>");
-		print("</td></tr></table>");
-	}
+                if (($CURUSER["id"] == $posterid && !$locked) || get_user_class() >= $postmanage_class || $is_forummod)
+                print("<a href=\"".htmlspecialchars("?action=editpost&postid=".$postid)."\"><img class=\"f_edit\" src=\"pic/trans.gif\" alt=\"Edit\" title=\"".$lang_forums['title_edit_post']."\" /></a>");
+                print("</td></tr></table>");
+        }
 
-	//------ Mod options
+        //------ Mod options
 
-	if (get_user_class() >= $postmanage_class || $is_forummod)
-	{
-		print("</td></tr><tr><td class=\"toolbox\" align=\"center\">\n");
-		print("<table border=\"0\" cellspacing=\"0\" cellpadding=\"0\" align=\"left\">\n");
-		print("<tr><td class=\"embedded\"><form method=\"post\" action=\"?action=setsticky\">\n");
-		print("<input type=\"hidden\" name=\"topicid\" value=\"".$topicid."\" />\n");
-		print("<input type=\"hidden\" name=\"returnto\" value=\"".htmlspecialchars($_SERVER[REQUEST_URI])."\" />\n");
-		print("<input type=\"hidden\" name=\"sticky\" value=\"".($sticky ? 'no' : 'yes')."\" /><input type=\"submit\" class=\"medium\" value=\"".($sticky ? $lang_forums['submit_unsticky'] : $lang_forums['submit_sticky'])."\" /></form></td>\n");
-		print("<td class=\"embedded\"><form method=\"post\" action=\"?action=setlocked\">\n");
-		print("<input type=\"hidden\" name=\"topicid\" value=\"".$topicid."\" />\n");
-		print("<input type=\"hidden\" name=\"returnto\" value=\"".htmlspecialchars($_SERVER[REQUEST_URI])."\" />\n");
-		print("<input type=\"hidden\" name=\"locked\" value=\"".($locked ? 'no' : 'yes')."\" /><input type=\"submit\" class=\"medium\" value=\"".($locked ? $lang_forums['submit_unlock'] : $lang_forums['submit_lock'])."\" /></form></td>\n");
-		print("<td class=\"embedded\"><form method=\"get\" action=\"?\">\n");
-		print("<input type=\"hidden\" name=\"action\" value=\"deletetopic\" />\n");
-		print("<input type=\"hidden\" name=\"topicid\" value=\"".$topicid."\" />\n");
-		print("<input type=\"hidden\" name=\"forumid\" value=\"".$forumid."\" />\n");
-		print("<input type=\"submit\" class=\"medium\" value=\"".$lang_forums['submit_delete_topic']."\" /></form></td>\n");
-		print("<td class=\"embedded\"><form method=\"post\" action=\"".htmlspecialchars("?action=movetopic&topicid=".$topicid)."\">\n"."&nbsp;".$lang_forums['text_move_thread_to']."&nbsp;<select class=\"med\" name=\"forumid\">");
-		$forums = get_forum_row();
-		foreach ($forums as $arr){
-			if ($arr["id"] != $forumid && get_user_class() >= $arr["minclasswrite"])
-				print("<option value=\"" . $arr["id"] . "\">" . htmlspecialchars($arr["name"]) . "</option>\n");
-		}
-		print("</select> <input type=\"submit\" class=\"medium\" value=\"".$lang_forums['submit_move']."\" /></form></td>");
-		print("<td class=\"embedded\"><form method=\"post\" action=\"".htmlspecialchars("?action=hltopic&topicid=".$topicid)."\">\n"."&nbsp;".$lang_forums['text_highlight_topic']."&nbsp;<select class=\"med\" name=\"color\">");
-		print("<option value='0'>".$lang_forums['select_color']."</option>
+        if (get_user_class() >= $postmanage_class || $is_forummod)
+        {
+                print("</td></tr><tr><td class=\"toolbox\" align=\"center\">\n");
+                print("<table border=\"0\" cellspacing=\"0\" cellpadding=\"0\" align=\"left\">\n");
+                print("<tr><td class=\"embedded\"><form method=\"post\" action=\"?action=setsticky\">\n");
+                print("<input type=\"hidden\" name=\"topicid\" value=\"".$topicid."\" />\n");
+                print("<input type=\"hidden\" name=\"returnto\" value=\"".htmlspecialchars($_SERVER[REQUEST_URI])."\" />\n");
+                print("<input type=\"hidden\" name=\"sticky\" value=\"".($sticky ? 'no' : 'yes')."\" /><input type=\"submit\" class=\"medium\" value=\"".($sticky ? $lang_forums['submit_unsticky'] : $lang_forums['submit_sticky'])."\" /></form></td>\n");
+                print("<td class=\"embedded\"><form method=\"post\" action=\"?action=setlocked\">\n");
+                print("<input type=\"hidden\" name=\"topicid\" value=\"".$topicid."\" />\n");
+                print("<input type=\"hidden\" name=\"returnto\" value=\"".htmlspecialchars($_SERVER[REQUEST_URI])."\" />\n");
+                print("<input type=\"hidden\" name=\"locked\" value=\"".($locked ? 'no' : 'yes')."\" /><input type=\"submit\" class=\"medium\" value=\"".($locked ? $lang_forums['submit_unlock'] : $lang_forums['submit_lock'])."\" /></form></td>\n");
+                print("<td class=\"embedded\"><form method=\"get\" action=\"?\">\n");
+                print("<input type=\"hidden\" name=\"action\" value=\"deletetopic\" />\n");
+                print("<input type=\"hidden\" name=\"topicid\" value=\"".$topicid."\" />\n");
+                print("<input type=\"hidden\" name=\"forumid\" value=\"".$forumid."\" />\n");
+                print("<input type=\"submit\" class=\"medium\" value=\"".$lang_forums['submit_delete_topic']."\" /></form></td>\n");
+                print("<td class=\"embedded\"><form method=\"post\" action=\"".htmlspecialchars("?action=movetopic&topicid=".$topicid)."\">\n"."&nbsp;".$lang_forums['text_move_thread_to']."&nbsp;<select class=\"med\" name=\"forumid\">");
+                $forums = get_forum_row();
+                foreach ($forums as $arr){
+                        if ($arr["id"] != $forumid && get_user_class() >= $arr["minclasswrite"])
+                                print("<option value=\"" . $arr["id"] . "\">" . htmlspecialchars($arr["name"]) . "</option>\n");
+                }
+                print("</select> <input type=\"submit\" class=\"medium\" value=\"".$lang_forums['submit_move']."\" /></form></td>");
+                print("<td class=\"embedded\"><form method=\"post\" action=\"".htmlspecialchars("?action=hltopic&topicid=".$topicid)."\">\n"."&nbsp;".$lang_forums['text_highlight_topic']."&nbsp;<select class=\"med\" name=\"color\">");
+                print("<option value='0'>".$lang_forums['select_color']."</option>
 <option style='background-color: black' value=\"1\">Black</option>
 <option style='background-color: sienna' value=\"2\">Sienna</option>
 <option style='background-color: darkolivegreen' value=\"3\">Dark Olive Green</option>
@@ -795,36 +829,35 @@ if ($action == "viewtopic")
 <option style='background-color: lightblue' value=\"38\">Light Blue</option>
 <option style='background-color: plum' value=\"39\">Plum</option>
 <option style='background-color: white' value=\"40\">White</option>");
-		print("</select>");
-		print("<input type=\"hidden\" name=\"returnto\" value=\"".htmlspecialchars($_SERVER[REQUEST_URI])."\" />\n");
-		print("<input type=\"submit\" class=\"medium\" value=\"".$lang_forums['submit_change']."\" /></form></td>");
-		print("</tr>\n");
-		print("</table>\n");
-	}
+                print("</select>");
+                print("<input type=\"hidden\" name=\"returnto\" value=\"".htmlspecialchars($_SERVER[REQUEST_URI])."\" />\n");
+                print("<input type=\"submit\" class=\"medium\" value=\"".$lang_forums['submit_change']."\" /></form></td>");
+                print("</tr>\n");
+                print("</table>\n");
+        }
 
-	end_frame();
+        end_frame();
 
-	end_main_frame();
+        end_main_frame();
 
-	print($pagerbottom);
-	if ($maypost){
-	print("<br /><table style='border:1px solid #000000;'><tr>".
+        print($pagerbottom);
+        if ($maypost){
+        print("<br /><table style='border:1px solid #000000;'><tr>".
 "<td class=\"text\" align=\"center\"><b>".$lang_forums['text_quick_reply']."</b><br /><br />".
 "<form id=\"compose\" name=\"compose\" method=\"post\" action=\"?action=post\" onsubmit=\"return postvalid(this);\">".
 "<input type=\"hidden\" name=\"id\" value=\"".$topicid."\" /><input type=\"hidden\" name=\"type\" value=\"reply\" /><br />");
-	quickreply('compose', 'body',$lang_forums['submit_add_reply']);
-	print("</form></td></tr></table>");
-	print("<p align=\"center\"><a class=\"index\" href=\"".htmlspecialchars("?action=reply&topicid=".$topicid)."\">".$lang_forums['text_add_reply']."</a></p>\n");
-	}
-	elseif ($locked)
-		print($lang_forums['text_topic_locked_new_denied']);
-	else print($lang_forums['text_unpermitted_posting_here']);
+        quickreply('compose', 'body',$lang_forums['submit_add_reply']);
+        print("</form></td></tr></table>");
+        print("<p align=\"center\"><a class=\"index\" href=\"".htmlspecialchars("?action=reply&topicid=".$topicid)."\">".$lang_forums['text_add_reply']."</a></p>\n");
+        }
+        elseif ($locked)
+                print($lang_forums['text_topic_locked_new_denied']);
+        else print($lang_forums['text_unpermitted_posting_here']);
 
-	print(key_shortcut($page,$pages-1));
-	stdfoot();
-	die;
+        print(key_shortcut($page,$pages-1));
+        stdfoot();
+        die;
 }
-
 //-------- Action: Move topic
 
 if ($action == "movetopic")

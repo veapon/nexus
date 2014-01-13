@@ -218,6 +218,9 @@ $lang_details = array
 	'row_uploader_bandwidth' => "Uploader<br />Bandwidth",
 	'text_and_more' => " and more (thanks from ",
 	'text_users_in_total' => " users in total)",
+	'row_donate_by'=>"Donate bonus",
+	'text_donate_added' => "Donate bonus successfully",
+	'text_no_donate_added' => "Nobody donates",
 );
 
 ?>

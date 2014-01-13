@@ -218,6 +218,9 @@ $lang_details = array
 	'row_uploader_bandwidth' => "發布者頻寬",
 	'text_and_more' => "……（這裏只顯示最新記錄。共",
 	'text_users_in_total' => "個用戶表示了感謝）",
+	'row_donate_by'=>"贈送魔力值",
+	'text_donate_added' => "贈送魔力值成功！",
+	'text_no_donate_added' => "暫無贈送者",
 );
 
 ?>

@@ -198,6 +198,10 @@ $lang_forums = array
 	'text_topic_asc' => "Topic Time Ascendant",
 	'text_post_asc' => "Last Post Time Ascendant",
 	'text_post_desc' => "Last Post Time Descendant",
+	'text_bonus_confirm' => "donate %d bonus points. Are you sure?",
+    'text_bonus_thanks' => "Bonus donated. Thank you.",
+    'text_bonus' => "donate bonus: ",
+    'text_bonus_got' => "Bonus: ",
 );
 
 ?>
