@@ -33,9 +33,11 @@ if ($type == 'torrent')
         $t_ab = $trows[0];
         if ($t_ab != 0)
                 stderr("Error", "You've already given your bonus, thank you.");
+		$timestamp=sqlesc(date("Ymd H:i:s"));
         if (isset($userid) && isset($torrentid))
         {
-                $res = sql_query("INSERT INTO bonuses (torrentid, userid, bonus) VALUES ($torrentid, $userid, $bonus)");
+                $res = sql_query("INSERT INTO bonuses (torrentid, userid, bonus, date) VALUES ($torrentid, $userid, $bonus, $timestamp)");
+                //$res = sql_query("INSERT INTO bonuses (torrentid, userid, bonus) VALUES ($torrentid, $userid, $bonus)");
                 KPS("-",$bonus,$CURUSER['id']); // User lost bonus
                 KPS("+",$bonus,$owner); // Torrent uploader got bonus
         }
@@ -58,7 +60,9 @@ if ($type == 'post')
                 stderr("Error", "You've already given your bonus, thank you.");        
         if (isset($userid) && isset($postid))
         {
-                $res = sql_query("INSERT INTO bonuses (postid, userid, bonus) VALUES ($postid, $userid, $bonus)");
+					$timestamp=sqlesc(date("Ymd H:i:s"));
+                $res = sql_query("INSERT INTO bonuses (postid, userid, bonus, date) VALUES ($postid, $userid, $bonus, $timestamp)");
+                //$res = sql_query("INSERT INTO bonuses (postid, userid, bonus) VALUES ($postid, $userid, $bonus)");
                 KPS("-",$bonus,$CURUSER['id']); // User lost bonus
                 KPS("+",$bonus,$owner); // Post author got bonus
                 $lang = get_user_lang($owner);

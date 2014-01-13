@@ -571,12 +571,11 @@ echo "</script>";
 			$buttonvalue100 = " value= \"100\"  disabled=\"disabled\"";
 			$donatedby = get_username($CURUSER['id'])." ".$donatedby;
 		}
-		$donatebutton5 = "<input class=\"btn\" type=\"button\" id=\"donatebutton5\"  onclick=\"givebonus_torrent(".$torrentid.",5);\" ".$buttonvalue5." />";
-		$donatebutton50 = "<input class=\"btn\" type=\"button\" id=\"donatebutton50\"  onclick=\"givebonus_torrent(".$torrentid.",50);\" ".$buttonvalue50." />";
-		$donatebutton100 = "<input class=\"btn\" type=\"button\" id=\"donatebutton100\"  onclick=\"givebonus_torrent(".$torrentid.",100);\" ".$buttonvalue100." />";
+		$donatebutton5 = "<input class=\"btn\" type=\"button\"  style=\"width: 50px;\"  id=\"donatebutton5\"  onclick=\"givebonus_torrent(".$torrentid.",5);\" ".$buttonvalue5." />";
+		$donatebutton50 = "<input class=\"btn\" type=\"button\" style=\"width: 50px;\"  id=\"donatebutton50\"  onclick=\"givebonus_torrent(".$torrentid.",50);\" ".$buttonvalue50." />";
+		$donatebutton100 = "<input class=\"btn\" type=\"button\" style=\"width: 50px;\" id=\"donatebutton100\"  onclick=\"givebonus_torrent(".$torrentid.",100);\" ".$buttonvalue100." />";
 		tr($lang_details['row_donate_by'],"<span id=\"donateadded\" style=\"display: none;\"><input class=\"btn\" type=\"button\" value=\"".$lang_details['text_donate_added']."\" disabled=\"disabled\" /></span><span id=\"curuserdonate\" style=\"display: none;\">".get_username($CURUSER['id'])." </span><span id=\"donatebutton5\">".$donatebutton5."</span><span id=\"donatebutton50\">".$donatebutton50."</span><span id=\"donatebutton100\">".$donatebutton100."</span>&nbsp;&nbsp;<span id=\"nodonate\">".$nodonate."</span><span id=\"addcuruserdonate\"></span>".$donatedby.($donate_all < $donateCount ? $lang_details['text_and_more'].$donateCount.$lang_details['text_users_in_total'] : ""),1);
-		   
-		   
+			   
 		// ------------- end donate bonus block--------------//
 
 
