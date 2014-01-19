@@ -2,6 +2,7 @@
 require_once("include/bittorrent.php");
 dbconn();
 loggedinorreturn();
+require_once(get_langfile_path("",true));
 
 if ($_GET['id'])
        stderr("Party is over!", "This trick doesn't work anymore. You need to click the button!");
