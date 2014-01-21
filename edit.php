@@ -139,6 +139,7 @@ else {
 			"<option" . (($row["pos_state"] == "normal") ? " selected=\"selected\"" : "" ) . " value=\"0\">".$lang_edit['select_normal']."</option>" .
 			"<option" . (($row["pos_state"] == "sticky") ? " selected=\"selected\"" : "" ) . " value=\"1\">".$lang_edit['select_sticky']."</option>" .
 			"</select>&nbsp;&nbsp;&nbsp;";
+			$pickcontent .= "<b>".$lang_edit['row_promotion_period'].":&nbsp;</b>"."<select name=\"promotion_time_period\" style=\"width: 100px;\">" .promotion_time_selection(0). "</select>&nbsp;&nbsp;&nbsp;";
 		}
 		if(get_user_class()>=$torrentmanage_class && $CURUSER["picker"] == 'yes')
 		{

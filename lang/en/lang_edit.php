@@ -67,6 +67,8 @@ $lang_edit = array
 	'text_team' => "Group",
 	'text_audio_codec' => "Audio Codec",
 	'row_content' => "Content",
+	'row_promotion_period'=>"promotion period",
+
 );
 
 ?>

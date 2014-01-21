@@ -2366,8 +2366,9 @@ else {
 
         print("</font> ");?>
                 <!--2013-12-13 end check in--->
-                <br />
-
+                
+               <br />
+	 
 	<font class="color_ratio"><?php echo $lang_functions['text_ratio'] ?></font> <?php echo $ratio?>  <font class='color_uploaded'><?php echo $lang_functions['text_uploaded'] ?></font> <?php echo mksize($CURUSER['uploaded'])?><font class='color_downloaded'> <?php echo $lang_functions['text_downloaded'] ?></font> <?php echo mksize($CURUSER['downloaded'])?>  <font class='color_active'><?php echo $lang_functions['text_active_torrents'] ?></font> <img class="arrowup" alt="Torrents seeding" title="<?php echo $lang_functions['title_torrents_seeding'] ?>" src="pic/trans.gif" /><?php echo $activeseed?>  <img class="arrowdown" alt="Torrents leeching" title="<?php echo $lang_functions['title_torrents_leeching'] ?>" src="pic/trans.gif" /><?php echo $activeleech?>&nbsp;&nbsp;<font class='color_connectable'><?php echo $lang_functions['text_connectable'] ?></font><?php echo $connectable?> <?php echo maxslots();?></span></td>
 
 	<td class="bottom" align="right"><span class="medium"><?php echo $lang_functions['text_the_time_is_now'] ?><?php echo $datum[hours].":".$datum[minutes]?><br />
@@ -4413,6 +4414,43 @@ function promotion_selection($selected = 0, $hide = 0)
 	return $selection;
 }
 
+
+function promotion_time_selection($selected = 0)
+{
+	global $lang_functions;
+	$selection = "";
+	
+		$selection .= "<option value=\"0\"".($selected == 0 ? " selected=\"selected\"" : "").">".$lang_functions['promotion_time_unchange']."</option>";
+		$selection .= "<option value=\"6\"".($selected == 6 ? " selected=\"selected\"" : "").">".$lang_functions['promotion_time_6h']."</option>";
+		$selection .= "<option value=\"12\"".($selected == 12 ? " selected=\"selected\"" : "").">".$lang_functions['promotion_time_12h']."</option>";
+		$selection .= "<option value=\"24\"".($selected == 24 ? " selected=\"selected\"" : "").">".$lang_functions['promotion_time_24h']."</option>";
+		$selection .= "<option value=\"48\"".($selected == 48 ? " selected=\"selected\"" : "").">".$lang_functions['promotion_time_48h']."</option>";
+		$selection .= "<option value=\"72\"".($selected == 72 ? " selected=\"selected\"" : "").">".$lang_functions['promotion_time_72h']."</option>";
+	$selection .="<input type=\"hidden\" name = \"promotion_time_type\"  value=\"2\" /> ";
+	
+	
+	return $selection;
+}
+
+
+function promotion_time_type_selection($selected = 0, $hide = 0)
+{
+	global $lang_functions;
+	$selection = "";
+	if ($hide != 0)
+		$selection .= "<option value=\"6\"".($selected == 0 ? " selected=\"selected\"" : "").">".$lang_functions['select_use_global_setting']."</option>";
+	if ($hide != 1)
+		$selection .= "<option value=\"12\"".($selected == 1 ? " selected=\"selected\"" : "").">".$lang_functions['select_forever']."</option>";
+	if ($hide != 2)
+		$selection .= "<option value=\"24\"".($selected == 2 ? " selected=\"selected\"" : "").">".$lang_functions['select_until']."</option>";
+	
+	
+	
+	return $selection;
+}
+
+
+
 function get_post_row($postid)
 {
 	global $Cache;
@@ -4538,5 +4576,34 @@ function pm_user($subject, $msg, $receiver, $sender=0)
         sql_query("INSERT INTO messages (sender, receiver, subject, added, msg) VALUES($sender, $receiver, $subject, $dt, $msg)") or sqlerr(__FILE__, __LINE__);        
 }
 
+function set_torrent_promotion($id,$sp_state,$promotion_period)
+{
+	$id=0+$id;
+	
+	if($sp_state+0 >7 || $sp_state+0 < 1)
+	{
+		$sp_state=1;
+	}
+	
+	if($promotion_period+0<=0)
+	{
+		$promotion_period=0;
+	}
+	
+	$promotion_end_string=date("Y-m-d H:i:s",time()+$promotion_period*3600);
+	$updateset[] = "sp_state =".sqlesc($sp_state);
+	$updateset[] = "promotion_time_type = 2";
+	$updateset[] = "promotion_until = ".sqlesc($promotion_end_string);
+	
+	sql_query("UPDATE torrents SET " . join(",", $updateset) . " WHERE id = $id") or sqlerr(__FILE__, __LINE__);
+}
 
+function set_torrent_sticky($id,$sticky)
+{
+	$pos=array("sticky","normal");
+	if(in_array($sticky,$pos))
+	{
+		sql_query("UPDATE torrents set pos_state=".sqlesc($sticky)." where id=$id");
+	}
+}
 ?>

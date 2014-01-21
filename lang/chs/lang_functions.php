@@ -290,6 +290,14 @@ $lang_functions = array
 	'text_inactive_account_be_deleted' => "内做些下载。没有流量的用户会被删除账号。",
 	'text_check_in' => "签 到",
 	'text_checked_in' => "签到成功",
+	'text_update_salary' => "管理组工资",
+	'promotion_time_unchange'=>"保持当前",
+	'promotion_time_6h'=>"6小时",
+	'promotion_time_12h'=>"12小时",
+	'promotion_time_24h'=>"24小时",
+	'promotion_time_48h'=>"48小时",
+	'promotion_time_72h'=>"72小时",
+
 );
 
 ?>

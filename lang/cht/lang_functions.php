@@ -290,6 +290,14 @@ $lang_functions = array
 	'text_inactive_account_be_deleted' => "內做些下載。沒有流量的用戶會被移除賬號。",
 	'text_check_in' => "簽 到",
 	'text_checked_in' => "簽到成功",
+	'text_update_salary' => "管理組工資",
+	'promotion_time_unchange'=>"保持當前",
+	'promotion_time_6h'=>"6小時",
+	'promotion_time_12h'=>"12小時",
+	'promotion_time_24h'=>"24小時",
+	'promotion_time_48h'=>"48小時",
+	'promotion_time_72h'=>"72小時",
+
 );
 
 ?>

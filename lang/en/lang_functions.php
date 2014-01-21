@@ -290,6 +290,13 @@ $lang_functions = array
 	'text_inactive_account_be_deleted' => ". Inactive accounts (with no transfer amount) will be deleted.",
 	'text_check_in' => "check in",
 	'text_checked_in' => "checked in",
+	'text_update_salary' => "staff salary",
+	'promotion_time_unchange'=>"keep unchanged",
+	'promotion_time_6h'=>"6 hour",
+	'promotion_time_12h'=>"12 hour",
+	'promotion_time_24h'=>"24 hour",
+	'promotion_time_48h'=>"48 hour",
+	'promotion_time_72h'=>"72 hour",
 );
 
 ?>

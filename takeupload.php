@@ -339,6 +339,21 @@ if (!$ret) {
 }
 $id = mysql_insert_id();
 
+/*add some auto promotion ,code by nanjifeng@gmail.com*/
+$promotionset = array();
+//set free 72h if team equals beAst
+
+if($teamid==1)
+{
+	set_torrent_promotion($id, 2, 72);
+	set_torrent_sticky($id, 'sticky');
+}
+if($mediumid==1)
+{
+	set_torrent_promotion($id, 2, 72);
+}
+
+
 @sql_query("DELETE FROM files WHERE torrent = $id");
 foreach ($filelist as $file) {
 	@sql_query("INSERT INTO files (torrent, filename, size) VALUES ($id, ".sqlesc($file[0]).",".$file[1].")");

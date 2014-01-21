@@ -116,14 +116,48 @@ if(get_user_class()>=$torrentonpromotion_class)
 	} elseif ($_POST["promotion_time_type"] == 1) {
 		$updateset[] = "promotion_time_type = 1";
 		$updateset[] = "promotion_until = '0000-00-00 00:00:00'";
-	} elseif ($_POST["promotion_time_type"] == 2) {
-		if ($_POST["promotionuntil"] && strtotime($torrentAddedTimeString) <= strtotime($_POST["promotionuntil"])) {
-			$updateset[] = "promotion_time_type = 2";
-			$updateset[] = "promotion_until = ".sqlesc($_POST["promotionuntil"]);
-		} else {
-			$updateset[] = "promotion_time_type = 0";
-			$updateset[] = "promotion_until = '0000-00-00 00:00:00'";
-		}
+	} elseif ($_POST["promotion_time_type"] == 2)
+	 {
+		//if ($_POST["promotionuntil"] && strtotime($torrentAddedTimeString) <= strtotime($_POST["promotionuntil"])) 
+		
+			switch( $_POST['promotion_time_period'])
+			{
+				case 0:
+				
+				break;
+				case 6:
+				$promotion_end_string=date("Y-m-d H:i:s",time()+6*3600);
+				$updateset[] = "promotion_time_type = 2";
+				$updateset[] = "promotion_until = ".sqlesc($promotion_end_string);
+				break;
+				case 12:
+				$promotion_end_string=date("Y-m-d H:i:s",time()+12*3600);
+				$updateset[] = "promotion_time_type = 2";
+				$updateset[] = "promotion_until = ".sqlesc($promotion_end_string);
+				
+				break;
+				case 24:
+				$promotion_end_string=date("Y-m-d H:i:s",time()+24*3600);
+				$updateset[] = "promotion_time_type = 2";
+				$updateset[] = "promotion_until = ".sqlesc($promotion_end_string);
+				
+				break;
+				case 48:
+				$promotion_end_string=date("Y-m-d H:i:s",time()+48*3600);
+				$updateset[] = "promotion_time_type = 2";
+				$updateset[] = "promotion_until = ".sqlesc($promotion_end_string);
+				
+				break;
+				case 72:
+				$promotion_end_string=date("Y-m-d H:i:s",time()+72*3600);
+				$updateset[] = "promotion_time_type = 2";
+				$updateset[] = "promotion_until = ".sqlesc($promotion_end_string);
+				
+				break;
+				default: break;
+			}
+			
+		
 	}
 }
 if(get_user_class()>=$torrentsticky_class)
