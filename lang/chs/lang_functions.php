@@ -297,6 +297,7 @@ $lang_functions = array
 	'promotion_time_24h'=>"24小时",
 	'promotion_time_48h'=>"48小时",
 	'promotion_time_72h'=>"72小时",
+	'promotion_time_forever'=>"永久",
 
 );
 

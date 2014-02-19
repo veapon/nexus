@@ -4426,7 +4426,8 @@ function promotion_time_selection($selected = 0)
 		$selection .= "<option value=\"24\"".($selected == 24 ? " selected=\"selected\"" : "").">".$lang_functions['promotion_time_24h']."</option>";
 		$selection .= "<option value=\"48\"".($selected == 48 ? " selected=\"selected\"" : "").">".$lang_functions['promotion_time_48h']."</option>";
 		$selection .= "<option value=\"72\"".($selected == 72 ? " selected=\"selected\"" : "").">".$lang_functions['promotion_time_72h']."</option>";
-	$selection .="<input type=\"hidden\" name = \"promotion_time_type\"  value=\"2\" /> ";
+		$selection .= "<option value=\"-1\"".($selected == -1 ? " selected=\"selected\"" : "").">".$lang_functions['promotion_time_forever']."</option>";
+		$selection .="<input type=\"hidden\" name = \"promotion_time_type\"  value=\"2\" /> ";
 	
 	
 	return $selection;
