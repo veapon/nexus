@@ -123,8 +123,14 @@ if(get_user_class()>=$torrentonpromotion_class)
 			switch( $_POST['promotion_time_period'])
 			{
 				case 0:
-				
 				break;
+				
+				case -1:
+				$updateset[] = "promotion_time_type = 1";
+				$updateset[] = "promotion_until = '0000-00-00 00:00:00'";
+				break;
+				
+				
 				case 6:
 				$promotion_end_string=date("Y-m-d H:i:s",time()+6*3600);
 				$updateset[] = "promotion_time_type = 2";
