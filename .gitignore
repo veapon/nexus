@@ -1,0 +1,4 @@
+#ignore config and _db dir
+
+_db/*
+config/*
