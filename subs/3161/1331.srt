@@ -1,0 +1,7005 @@
+1
+00:00:16,000 --> 00:00:21,000
+-=圣城家园SCG字幕组 http://hd.cnscg.com/=-
+仅供翻译交流使用, 禁止用于商业用途
+
+2
+00:00:23,000 --> 00:00:33,000
+-=圣城家园SCG字幕组 http://hd.cnscg.com/=-
+协调: 影子
+翻译: 凤梨酥 Noldolante 发条橙 Morning 波特妹子 Evayao
+校对: 花痴影
+
+3
+00:00:53,716 --> 00:01:00,262
+霍比特人2
+
+4
+00:01:10,487 --> 00:01:15,210
+布理 - 夏尔边境
+
+5
+00:01:41,039 --> 00:01:44,664
+{\fn方正舒体\fs29}跃马旅店
+
+6
+00:01:52,668 --> 00:01:55,664
+我快要渴死了 快点倒酒!
+I'm dying of thirst over here. C'mon, come on!
+
+7
+00:01:56,564 --> 00:01:57,832
+给你
+Here you are.
+
+8
+00:02:02,664 --> 00:02:04,638
+- 看着点!  - 对不起 亲爱的
+- Watch it!  - Sorry, darling.
+
+9
+00:02:06,156 --> 00:02:07,941
+- 给你  - 啊 谢了
+- Here you are.  - Ah, thank you.
+
+10
+00:02:46,854 --> 00:02:48,447
+介意我坐这里吗?
+Mind if I join you?
+
+11
+00:02:48,747 --> 00:02:49,847
+我要一样的
+I'll have the same.
+
+12
+00:02:56,205 --> 00:03:01,805
+做个自我介绍吧 我叫甘道夫 灰袍甘道夫
+I should introduce myself. My name is Gandalf, Gandalf the Grey.
+
+13
+00:03:01,805 --> 00:03:03,605
+我知道你是谁
+I know who you are.
+
+14
+00:03:03,905 --> 00:03:08,005
+是啊! 真巧啊 在这里遇到你
+Well, now! This is a fine chance.
+
+15
+00:03:09,405 --> 00:03:13,605
+不知索林·橡木盾来布理有何贵干?
+What brings Thorin Oakenshield to Bree?
+
+16
+00:03:16,005 --> 00:03:21,705
+我听说 有人看见我父亲在登兰德附近的野外出现过
+I received word, that my father has been seen wandering the wilds near Dunland.
+
+17
+00:03:23,105 --> 00:03:26,805
+我去找过 没有他的踪迹
+I went looking, found no sign of him.
+
+18
+00:03:27,205 --> 00:03:32,605
+索林 很长一段时间以来 关于瑟莱因的消息全都是流言
+Thorin, It has been a long time since anything but rumour was heard of Thrain.
+
+19
+00:03:32,605 --> 00:03:36,605
+我很肯定 他还活着
+He still lives, I am sure of it.
+
+20
+00:03:40,405 --> 00:03:43,955
+我父亲失踪之前来找过你
+My father came to see you before he went missing.
+
+21
+00:03:43,955 --> 00:03:45,505
+你对他说了什么?
+What did you say to him?
+
+22
+00:03:45,505 --> 00:03:48,605
+我劝他出兵埃雷勃
+I urged him to march upon Erebor.
+
+23
+00:03:48,605 --> 00:03:51,305
+统领矮人的七支军队
+To run the seven armies of the dwarves.
+
+24
+00:03:51,305 --> 00:03:55,505
+打败巨龙 夺回孤山
+To destroy the dragon and take back the Lonely Mountain.
+
+25
+00:03:55,505 --> 00:03:57,552
+而现在我也要对你说同样的话
+And I would say the same to you,
+
+26
+00:03:57,752 --> 00:04:00,859
+去夺回你们的家园
+take back your homeland.
+
+27
+00:04:04,405 --> 00:04:07,605
+今天的相遇不是巧合 对吧 甘道夫?
+This is no chance meeting, is it, Gandalf?
+
+28
+00:04:08,805 --> 00:04:12,400
+不 不是
+No. It is not.
+
+29
+00:04:12,600 --> 00:04:17,953
+我很担心孤山的事 索林 那条巨龙盘踞在那的时间够长了
+The Lonely Mountain troubles me, Thorin. That dragon has sat there long enough.
+
+30
+00:04:17,953 --> 00:04:23,037
+黑暗势力迟早会盯上埃雷勃
+Sooner or later, darker minds will turn towards Erebor.
+
+31
+00:04:23,037 --> 00:04:27,944
+我在绿大道上碰见了几位不速之客
+I ran into some unsavory characters, whilst travelling along the Greenway.
+
+32
+00:04:28,244 --> 00:04:30,754
+他们把我当成了流浪汉
+They mistook me for a vagabond.
+
+33
+00:04:30,754 --> 00:04:32,520
+我猜他们现在很后悔
+I imagine they regretted that.
+
+34
+00:04:32,520 --> 00:04:35,604
+其中一人身上带着这个
+One of them was carrying a message.
+
+35
+00:04:37,505 --> 00:04:39,521
+这是黑语
+It is Black Speech.
+
+36
+00:04:42,287 --> 00:04:43,719
+一份悬赏布告
+A promise of payment.
+
+37
+00:04:44,319 --> 00:04:45,794
+悬赏什么?
+For what?
+
+38
+00:04:47,164 --> 00:04:48,798
+你的人头
+Your head.
+
+39
+00:04:50,605 --> 00:04:52,705
+有人想要你的命
+Someone wants you dead.
+
+40
+00:04:53,805 --> 00:04:59,505
+索林 你不能再等了 你是都灵王室的继承人
+Thorin, you could wait no longer. You are the heir to the throne of Durin.
+
+41
+00:04:59,505 --> 00:05:03,976
+召集矮人的军队 只要团结起来 你们就有...
+Unite the armies of the dwarves. Together, you have the might and power...
+
+42
+00:05:03,976 --> 00:05:05,736
+夺回埃雷勃的力量
+to retake Erebor.
+
+43
+00:05:06,505 --> 00:05:08,854
+召开七大矮人家族的会议
+Summon a meeting of the seven dwarf families. 
+
+44
+00:05:08,854 --> 00:05:10,754
+命令他们履行誓言
+Demand they stand by their oaths.
+
+45
+00:05:10,954 --> 00:05:14,827
+这七支军队誓言效忠拥有国王宝石...
+The seven armies swore that oath to the one who wields the King's jewel...
+
+46
+00:05:14,827 --> 00:05:16,027
+阿肯宝石的人
+the Arkenstone.
+
+47
+00:05:16,763 --> 00:05:18,525
+这是唯一能让他们团结起来的东西
+It is the only thing that would unite them.
+
+48
+00:05:18,525 --> 00:05:22,244
+而且我得提醒你一句 那颗宝石已经被史矛革偷走了
+And in case you've forgotten, that jewel was stolen by Smaug.
+
+49
+00:05:26,557 --> 00:05:29,705
+要是我能帮你拿回来呢?
+What if, I were to help you reclaim it?
+
+50
+00:05:30,905 --> 00:05:32,160
+怎么拿回来?
+How?
+
+51
+00:05:32,860 --> 00:05:35,547
+阿肯宝石远在千里之外
+The Arkenstone lies half a world away.
+
+52
+00:05:35,547 --> 00:05:38,005
+深埋在喷火的巨龙脚下
+Buried beneath the feet of a fire breathing dragon.
+
+53
+00:05:38,005 --> 00:05:43,805
+是啊 所以我们才需要一个飞贼
+Yes, it does. Which is why we are going to need a burglar.
+
+54
+00:05:46,291 --> 00:05:48,631
+12个月后
+
+55
+00:06:33,435 --> 00:06:39,005
+{\fn方正剑体简体}<b><font color=#9F9F5F><font size=37>史矛革之战</font></font></b>
+
+56
+00:06:44,005 --> 00:06:46,405
+- 敌人离我们多远?  - 很近
+- How close is the pack?  - Too close.
+
+57
+00:06:46,405 --> 00:06:49,424
+不超过几里格 但这不是最可怕的
+A couple of leagues, no more. But that's not the worst of it.
+
+58
+00:06:46,405 --> 00:06:49,424
+{\an8}"里格"为距离单位, 1里格约等于4.8公里
+
+59
+00:06:49,424 --> 00:06:51,902
+- 奥克斯闻到我们的气味了?  - 还没有 不过也快了
+- Have the Orcs picked up our scent?  - Not yet, but they will do.
+
+60
+00:06:51,902 --> 00:06:53,002
+我们还有个问题
+We have another problem.
+
+61
+00:06:53,002 --> 00:06:55,095
+他们看见你了吗? 他们看见你了?
+Did they see you? They saw you?
+
+62
+00:06:55,095 --> 00:06:56,295
+没有 没看见我
+No, that's not it.
+
+63
+00:06:56,495 --> 00:06:59,149
+那就好 瞧我怎么说的? 像老鼠一样安静
+Good, what did I tell you? Quite as a mouse.
+
+64
+00:06:59,605 --> 00:07:01,860
+- 出色的飞贼人选!  - 你们听我说
+- Excellent burglar material!  - Will you listen.
+
+65
+00:07:01,860 --> 00:07:04,013
+就不能听我说完吗?
+Will you just listen?
+
+66
+00:07:04,013 --> 00:07:07,085
+我要告诉你们的是 那边还有别的东西
+I'm trying to tell you, there is something else out there.
+
+67
+00:07:08,535 --> 00:07:12,415
+什么样的... 像熊一样的吗?
+What form did it take... Like a bear?
+
+68
+00:07:12,726 --> 00:07:16,799
+是 差不多 不过要大得多!
+Ye... yes, yes. But, bigger, much bigger!
+
+69
+00:07:17,655 --> 00:07:19,805
+你知道这个怪兽?
+You knew about this beast?
+
+70
+00:07:21,097 --> 00:07:24,205
+- 我觉得我们应该原路返回  - 然后被一队奥克斯追杀?
+- I say we double back.  - And be run down by a pack of Orcs?
+
+71
+00:07:24,805 --> 00:07:26,627
+有座房子
+There is a house.
+
+72
+00:07:28,224 --> 00:07:32,462
+离这不是太远 我们可以到那里避一避
+It's not far from here, where we might take refuge.
+
+73
+00:07:32,462 --> 00:07:35,487
+房子的主人是敌是友?
+Whose house, a friend or a foe?
+
+74
+00:07:35,687 --> 00:07:37,763
+都不是
+Neither 'en.
+
+75
+00:07:38,605 --> 00:07:42,805
+他要么会帮我们... 要么会杀死我们
+He will help us... or he will kill us.
+
+76
+00:07:43,505 --> 00:07:45,605
+我们有别的选择吗?
+What choice do we have?
+
+77
+00:07:47,755 --> 00:07:48,905
+没有
+None.
+
+78
+00:07:56,255 --> 00:07:57,905
+快跑!
+Run!
+
+79
+00:07:58,455 --> 00:07:59,905
+{\fn方正姚体}追上他们!
+<b><i>Abgurid!</i></b>
+
+80
+00:08:07,705 --> 00:08:09,805
+这边 快!
+This way, quickly!
+
+81
+00:08:09,956 --> 00:08:11,138
+快跑!
+Run!
+
+82
+00:08:19,605 --> 00:08:20,805
+进房子里
+In the house.
+
+83
+00:08:22,805 --> 00:08:24,705
+快跑!
+Run!
+
+84
+00:08:31,905 --> 00:08:33,605
+快点进来!
+Come on, get inside!
+
+85
+00:08:46,705 --> 00:08:48,212
+把门打开!
+Open the door!
+
+86
+00:08:48,412 --> 00:08:49,412
+快点!
+Quickly!
+
+87
+00:09:00,405 --> 00:09:01,805
+用力推!
+Push!
+
+88
+00:09:04,905 --> 00:09:06,805
+伙计们 加油!
+Come on, lads!
+
+89
+00:09:11,505 --> 00:09:13,205
+那是什么?
+What is that?
+
+90
+00:09:13,605 --> 00:09:15,805
+那是房子的主人
+That is our host.
+
+91
+00:09:19,905 --> 00:09:22,805
+他叫比翁
+His name is Beorn.
+
+92
+00:09:23,955 --> 00:09:26,705
+是个换皮人
+And he is a skin-changer.
+
+93
+00:09:27,905 --> 00:09:30,572
+有的时候 它是只大黑熊
+Sometimes, he is a huge black bear.
+
+94
+00:09:30,572 --> 00:09:32,837
+有的时候 他是个强壮的人
+Sometimes, he is a great strong man.
+
+95
+00:09:33,037 --> 00:09:37,022
+黑熊的行为无法预知 但那个人还是讲道理的
+The bear is unpredictable. But the man can be reasoned with.
+
+96
+00:09:37,022 --> 00:09:41,291
+但是 他也不是特别喜欢矮人
+However, he's not over fond of Dwarves.
+
+97
+00:09:44,105 --> 00:09:45,076
+他走了
+He is leaving.
+
+98
+00:09:45,376 --> 00:09:46,676
+离那里远点!
+Come away from there!
+
+99
+00:09:47,605 --> 00:09:49,988
+那东西不对劲 
+It's not natural. None of it.
+
+100
+00:09:50,464 --> 00:09:53,605
+他一定是被施了邪恶的咒语
+It's obvious, he's under some dark spell.
+
+101
+00:09:53,605 --> 00:09:55,005
+别犯傻了
+Don't be a fool.
+
+102
+00:09:55,205 --> 00:09:57,438
+除了他自己 没人能对他施法
+He is under no enchantment but his own.
+
+103
+00:09:57,638 --> 00:09:58,638
+好了!
+Alright, now!
+
+104
+00:09:58,838 --> 00:10:01,275
+大家睡会儿吧
+Get some sleep, all of you.
+
+105
+00:10:01,275 --> 00:10:03,744
+今晚这里很安全
+You will be safe here, tonight.
+
+106
+00:10:07,521 --> 00:10:09,605
+但愿如此
+I hope.
+
+107
+00:10:25,721 --> 00:10:27,455
+{\fn方正姚体}现在就发动攻击
+
+108
+00:10:28,421 --> 00:10:31,005
+{\fn方正姚体}趁那群矮人睡觉的时候杀死他们
+
+109
+00:10:32,121 --> 00:10:33,355
+{\fn方正姚体}不行
+
+110
+00:10:36,071 --> 00:10:38,205
+{\fn方正姚体}有怪兽在守护他们
+
+111
+00:10:44,721 --> 00:10:47,705
+{\fn方正姚体}我们要在路上截杀他们
+
+112
+00:10:59,421 --> 00:11:02,235
+{\fn方正姚体}他们在多尔古多集结
+
+113
+00:11:03,121 --> 00:11:06,655
+{\fn方正姚体}主人召你觐见!
+
+114
+00:11:59,561 --> 00:12:02,755
+{\fn方正姚体\fs26}统御余众 魔戒至尊
+<b><i>Ash nazg durbatuluk</i></b>
+
+115
+00:12:03,421 --> 00:12:06,655
+{\fn方正姚体\fs26}罗网余众 魔戒至尊
+<b><i>Ash nazg gimbatul</i></b>
+
+116
+00:12:07,391 --> 00:12:11,155
+{\fn方正姚体\fs26}禁锢余众 魔戒至尊
+<b><i>Ash nazg thrakatuluk</i></b>
+
+117
+00:12:12,121 --> 00:12:15,655
+{\fn方正姚体\fs26}魔多翳影 邪暗深深
+<b><i>Agh burzum-ishi krimpatul</i></b>
+
+118
+00:12:49,954 --> 00:12:52,953
+{\fn方正姚体}我们的人数与日俱增
+
+119
+00:12:53,315 --> 00:12:56,037
+{\fn方正姚体}力量也日渐强大
+
+120
+00:12:56,341 --> 00:12:58,664
+{\fn方正姚体}你将带领我的军队
+
+121
+00:12:59,307 --> 00:13:01,726
+{\fn方正姚体}那橡木盾怎么办?
+
+122
+00:13:04,489 --> 00:13:08,350
+{\fn方正姚体}战争即将爆发
+
+123
+00:13:08,578 --> 00:13:10,491
+{\fn方正姚体}你答应过我要取他项上人头的
+
+124
+00:13:11,657 --> 00:13:13,491
+{\fn方正姚体}死亡将笼罩一切
+
+125
+00:13:18,389 --> 00:13:20,569
+{\fn方正姚体}我们不追杀了吗?
+
+126
+00:13:25,060 --> 00:13:26,427
+{\fn方正姚体}博格!
+
+127
+00:13:40,284 --> 00:13:42,512
+{\fn方正姚体}我要交给你一个任务
+
+128
+00:13:43,936 --> 00:13:47,417
+{\fn方正姚体}你还想喝矮人的血吗?
+
+129
+00:14:50,805 --> 00:14:54,605
+所以 你就是橡木盾?
+So, you are the one they call Oakenshield?
+
+130
+00:14:55,205 --> 00:14:56,544
+告诉我
+Tell me,
+
+131
+00:14:56,744 --> 00:15:00,849
+亵渎者阿佐格为什么在追杀你?
+why is Azog the Defiler hunting you?
+
+132
+00:15:01,049 --> 00:15:04,228
+你怎么知道阿佐格的?
+You know of Azog, how?
+
+133
+00:15:04,228 --> 00:15:07,648
+我的族人是最早住在山里的
+My people were the first to live in the mountains,
+
+134
+00:15:08,705 --> 00:15:11,605
+直到奥克斯从北方袭来
+before the Orcs came down from the north.
+
+135
+00:15:11,605 --> 00:15:14,705
+亵渎者杀死了我大部分的家人
+The Defiler killed most of my family.
+
+136
+00:15:15,605 --> 00:15:17,912
+还有些沦为他的奴隶
+But some he enslaved.
+
+137
+00:15:18,112 --> 00:15:22,693
+不是为他工作 你明白吗? 是为了娱乐
+Not for work, you understand? But for sport.
+
+138
+00:15:23,705 --> 00:15:28,805
+把换皮人关起来折磨 对于他来说是件乐事
+Caging skin changers and torturing them seemed to amuse him.
+
+139
+00:15:29,905 --> 00:15:32,705
+还有像你一样的人吗?
+There are others like you?
+
+140
+00:15:33,605 --> 00:15:35,905
+之前有很多
+Once there were many.
+
+141
+00:15:36,405 --> 00:15:37,705
+现在呢?
+And now?
+
+142
+00:15:38,605 --> 00:15:41,805
+只剩我一个了
+Now, there's only one.
+
+143
+00:15:42,805 --> 00:15:47,605
+你们得在秋天结束之前到达孤山
+You need to reach the mountain before the last days of autumn.
+
+144
+00:15:47,705 --> 00:15:50,662
+是啊 要在都灵日之前
+Before Durin's Day falls, yes.
+
+145
+00:15:50,862 --> 00:15:52,852
+你们快没时间了
+You are running out of time.
+
+146
+00:15:52,852 --> 00:15:55,448
+所以我们才必须穿过幽暗密林
+Which is why we must go through Mirkwood.
+
+147
+00:15:55,448 --> 00:15:58,276
+黑暗笼罩着那片森林
+A darkness lies upon that forest.
+
+148
+00:15:58,405 --> 00:16:01,705
+腐朽之物在树下蔓延
+Foul things creep beneath those trees.
+
+149
+00:16:02,305 --> 00:16:07,705
+墨瑞亚的奥克斯和多尔古多的亡灵法师结成了联盟
+There is an alliance between the Orcs of Moria and the Necromancer in Dol Guldur.
+
+150
+00:16:08,705 --> 00:16:12,205
+除非不得已 我是不会冒这个险的
+I will not venture there, except in great need.
+
+151
+00:16:12,605 --> 00:16:16,316
+我们走精灵大道 那条路还是安全的
+We will take the Elven road. Their path is still safe.
+
+152
+00:16:16,316 --> 00:16:17,646
+安全?
+Safe?
+
+153
+00:16:17,846 --> 00:16:21,096
+幽暗密林的木精灵和其他同族可不一样
+The Wood Elves of Mirkwood are not like their kin.
+
+154
+00:16:21,096 --> 00:16:24,506
+他们没那么睿智 却更危险
+They are less wise and more dangerous.
+
+155
+00:16:25,705 --> 00:16:27,705
+但这不重要
+But it matters not.
+
+156
+00:16:29,605 --> 00:16:30,605
+这话什么意思?
+What do you mean?
+
+157
+00:16:30,705 --> 00:16:33,922
+这片区域遍布着奥克斯
+These lands are crawling with Orcs.
+
+158
+00:16:34,122 --> 00:16:37,070
+他们的数量在增长
+Their numbers are growing.
+
+159
+00:16:37,270 --> 00:16:42,605
+而你们只靠走路 永远不可能活着到达那片森林
+And you are on foot. You will never reach the forest alive.
+
+160
+00:16:46,905 --> 00:16:49,705
+我不喜欢矮人
+I don't like Dwarves.
+
+161
+00:16:50,705 --> 00:16:52,415
+他们贪婪...
+They are greedy...
+
+162
+00:16:52,615 --> 00:16:54,847
+盲目
+and blind.
+
+163
+00:16:55,047 --> 00:16:59,647
+总是无视那些他们认为比自己低等的生命
+Blind to the lives of those they deem less than their own.
+
+164
+00:17:06,705 --> 00:17:09,205
+不过我更恨奥克斯
+But Orcs, I hate more.
+
+165
+00:17:10,705 --> 00:17:12,805
+你们需要什么?
+What do you need?
+
+166
+00:17:17,705 --> 00:17:20,605
+快走吧 趁现在天亮
+Go now, while you have the light.
+
+167
+00:17:20,805 --> 00:17:24,605
+你们的敌人就在后面不远处
+Your hunters are not far behind.
+
+168
+00:17:47,705 --> 00:17:49,805
+精灵之门
+The Elven Gate.
+
+169
+00:17:50,705 --> 00:17:53,805
+这就是穿过幽暗密林的路
+Here lies our path through Mirkwood.
+
+170
+00:17:53,905 --> 00:17:55,929
+附近没有奥克斯
+No sign of the Orcs.
+
+171
+00:17:56,129 --> 00:17:58,185
+我们还算幸运
+We have luck on our side.
+
+172
+00:18:04,705 --> 00:18:09,605
+松开矮种马吧 让它们回主人那去
+Set the ponies loose, let them return to their master.
+
+173
+00:18:11,705 --> 00:18:16,189
+这片森林... 看起来不太好
+This forest... feels sick.
+
+174
+00:18:16,389 --> 00:18:19,218
+好像生了病一样
+As if a disease lies upon it.
+
+175
+00:18:20,805 --> 00:18:22,905
+没有其它路可走了吗?
+Is there no way around?
+
+176
+00:18:22,905 --> 00:18:27,605
+除非我们多走两百英里去北边 或者多走两倍距离...
+Not unless we go 200 miles north or twice that distance...
+
+177
+00:18:28,705 --> 00:18:31,805
+去南边
+south.
+
+178
+00:18:55,905 --> 00:18:59,705
+阴影中有东西蠢蠢欲动 无法看清
+Something moves in the shadows, unseen.
+
+179
+00:19:00,705 --> 00:19:03,505
+它隐藏在深处
+Hidden from outside.
+
+180
+00:19:04,105 --> 00:19:06,805
+积蓄的力量与日俱增
+Everyday it grows in strength.
+
+181
+00:19:08,605 --> 00:19:10,605
+要小心亡灵法师
+Beware the Necromancer.
+
+182
+00:19:11,605 --> 00:19:14,605
+他并非表面的样子
+He's not what he seems.
+
+183
+00:19:17,805 --> 00:19:21,605
+如果大敌归来 我们一定要知道
+If our enemy has returned, we must know.
+
+184
+00:19:22,705 --> 00:19:25,605
+去山上的那座坟墓
+Go to the tombs in the mountains.
+
+185
+00:19:26,605 --> 00:19:29,605
+鲁道尔高崚
+The High Fells.
+
+186
+00:19:32,605 --> 00:19:33,805
+那好吧
+So be it.
+
+187
+00:19:38,005 --> 00:19:40,605
+把我的马留下 我还有用
+Not my horse, I need it.
+
+188
+00:19:41,805 --> 00:19:43,620
+你不是要离开我们吧?
+You're not leaving us?
+
+189
+00:19:43,620 --> 00:19:45,320
+如果不是万不得已 我不会这么做的
+I would not do this unless I had to.
+
+190
+00:19:51,805 --> 00:19:54,805
+你已经变了 比尔博·巴金斯
+You've changed, Bilbo Baggins.
+
+191
+00:19:56,705 --> 00:20:00,205
+你不再是当初离开夏尔的那个霍比特人了
+You're not the same hobbit as the one left the Shire.
+
+192
+00:20:02,605 --> 00:20:03,805
+我得告诉你...
+I was going to tell you...
+
+193
+00:20:07,705 --> 00:20:13,855
+在哥布林的隧道里 我发现了一样东西
+I found something in the goblin tunnels.
+
+194
+00:20:13,855 --> 00:20:16,105
+什么?
+Found what?
+
+195
+00:20:20,405 --> 00:20:21,705
+你发现了什么?
+What did you find?
+
+196
+00:20:25,385 --> 00:20:27,805
+我的勇气
+My courage.
+
+197
+00:20:29,305 --> 00:20:32,805
+好啊 太好了
+Good. That's good.
+
+198
+00:20:33,905 --> 00:20:36,374
+你会需要它的
+You will need it.
+
+199
+00:20:36,574 --> 00:20:40,946
+我会在前面埃雷勃的望城之处等你们
+I will be waiting for you at the overlook, before the slopes of Erebor.
+
+200
+00:20:41,146 --> 00:20:43,703
+注意保管好地图!
+Heed the map and keep it safe!
+
+201
+00:20:43,903 --> 00:20:46,805
+没有我 你们先不要进入孤山
+Do not enter that mountain without me.
+
+202
+00:20:52,169 --> 00:20:55,739
+这不仅仅是绿林
+This is not the Greenwood alone.
+
+203
+00:20:56,083 --> 00:20:59,557
+林中的空气浑浊不堪 使人迷幻
+The very air of the forest is heavy, with illusion.
+
+204
+00:20:59,757 --> 00:21:01,308
+它会侵入你的意识...
+It will seek to enter your mind...
+
+205
+00:21:01,508 --> 00:21:04,068
+- 让你误入歧途  - 误入歧途?
+- and lead you astray.  - Lead us astray?
+
+206
+00:21:04,268 --> 00:21:06,004
+那是什么意思?
+What does that mean?
+
+207
+00:21:06,521 --> 00:21:08,233
+你们必须沿着路走!
+You must stay on the path!
+
+208
+00:21:08,233 --> 00:21:11,480
+不要走岔路 如果你们走错了...
+Do not leave it. If you do...
+
+209
+00:21:11,480 --> 00:21:13,688
+就永远都找不到路了
+you'll never find it again.
+
+210
+00:21:14,948 --> 00:21:17,849
+无论发生了什么 待在大路上!
+No matter what may come, stay on the path!
+
+211
+00:21:17,849 --> 00:21:21,931
+快走吧! 我们必须在都灵日日落之前到达孤山
+Come on! We must reach the mountain, before the sun sets on Durin's Day.
+
+212
+00:21:22,675 --> 00:21:25,177
+这是我们找到那扇门的唯一机会
+It's our one chance to find the hidden door.
+
+213
+00:21:35,872 --> 00:21:37,454
+这条路拐到了这边
+The path turns this way.
+
+214
+00:22:03,718 --> 00:22:04,949
+这边
+This way.
+
+215
+00:22:13,553 --> 00:22:15,110
+空气...
+Air...
+
+216
+00:22:15,110 --> 00:22:16,210
+我需要空气
+I need air.
+
+217
+00:22:16,710 --> 00:22:19,290
+我的头... 好晕!
+My head... It's spinning!
+
+218
+00:22:19,290 --> 00:22:21,490
+- 出什么事了?  - 继续走
+- What's happening?  - Keep moving.
+
+219
+00:22:21,990 --> 00:22:26,180
+诺里 为什么停下了?
+Nori, why have we stopped?
+
+220
+00:22:26,180 --> 00:22:28,590
+路不见了!
+The path, it's disappeared!
+
+221
+00:22:29,141 --> 00:22:32,843
+- 出什么事了?  - 我们迷路了!
+- What's going on?  - We've lost the path!
+
+222
+00:22:33,055 --> 00:22:34,477
+快找路!
+Find it!
+
+223
+00:22:34,677 --> 00:22:37,449
+所有人 快点 找找那条路在哪!
+All of you, look. Look for the path!
+
+224
+00:22:46,701 --> 00:22:49,338
+我不记得了 这个地方好混乱
+I don't remember, this place is a mess.
+
+225
+00:22:49,338 --> 00:22:51,052
+一点都不像是走过的
+None of it is familiar.
+
+226
+00:22:51,286 --> 00:22:53,186
+应该就在这里啊
+It's got to be here.
+
+227
+00:22:53,503 --> 00:22:55,497
+现在是什么时候了?
+What hour is it?
+
+228
+00:22:55,497 --> 00:22:58,612
+不知道 我连今天是哪天都不知道
+I don't know, I don't even know what day it is.
+
+229
+00:22:59,242 --> 00:23:03,283
+这该死的地方简直走不到头!
+Is there no end to this accursed place!
+
+230
+00:23:45,874 --> 00:23:48,553
+瞧 一个烟袋
+Look, a tobacco pouch.
+
+231
+00:23:48,753 --> 00:23:51,801
+这林子里还有别的矮人!
+There's dwarves in these woods!
+
+232
+00:23:52,001 --> 00:23:53,982
+而且是蓝山来的矮人
+Dwarves from the Blue Mountain, no less.
+
+233
+00:23:54,182 --> 00:23:57,473
+- 这和我的烟袋一模一样!  - 因为那就是你的
+- This is exactly the same as mine!  - Because it is yours.
+
+234
+00:23:57,651 --> 00:24:01,059
+明白吗? 我们在兜圈子 我们迷路了
+Do you understand? We're going around in circles, we are lost.
+
+235
+00:24:01,059 --> 00:24:03,052
+我们没迷路 我们一直在朝东走
+We are not lost. We keep heading east.
+
+236
+00:24:03,052 --> 00:24:05,987
+可哪里是东边? 我们看不到太阳!
+But which way is the east? We've lost the sun!
+
+237
+00:24:08,693 --> 00:24:10,413
+太阳
+The sun.
+
+238
+00:24:10,613 --> 00:24:14,433
+我们得找到... 太阳
+We have to find... the sun.
+
+239
+00:24:15,365 --> 00:24:16,568
+上面
+Up there.
+
+240
+00:24:16,965 --> 00:24:17,868
+我们得...
+We need to...
+
+241
+00:24:27,083 --> 00:24:29,888
+够了! 安静! 统统闭嘴
+Enough! Quiet! All of you.
+
+242
+00:24:31,532 --> 00:24:33,472
+我们被盯上了
+We are being watched.
+
+243
+00:25:21,005 --> 00:25:23,185
+我能看见... 一个湖!
+I can... see a lake!
+
+244
+00:25:24,483 --> 00:25:26,361
+还有... 河流
+And the... river.
+
+245
+00:25:28,094 --> 00:25:29,649
+还有孤山
+And the Lonely Mountain.
+
+246
+00:25:29,849 --> 00:25:32,145
+我们就快到了!
+We are almost there!
+
+247
+00:25:34,084 --> 00:25:35,524
+听见了吗?
+Can you hear me?
+
+248
+00:25:36,759 --> 00:25:38,764
+我知道该往哪走了!
+I know which way to go!
+
+249
+00:25:42,246 --> 00:25:43,212
+嘿?!
+Hello?!
+
+250
+00:25:52,727 --> 00:25:54,418
+听到吗
+Hello.
+
+251
+00:27:48,890 --> 00:27:52,493
+杀了他们! 杀了他们! 趁他们还活着 赶紧吃掉
+<i>Kill them. Kill them! Eat them now while all their blood is running.</i>
+
+252
+00:27:52,493 --> 00:27:54,193
+他们的皮可真硬
+<i>Their hide is tough.</i>
+
+253
+00:27:54,237 --> 00:27:57,041
+这只大概比较可口
+<i>This could be smushy inside.</i>
+
+254
+00:27:58,798 --> 00:28:00,310
+快点搞定
+<i>Finish it off.</i>
+
+255
+00:28:00,510 --> 00:28:03,923
+留活口有啥用... 杀了他 杀了他 杀了他 快!
+<i>Who needs it alive... Let us kill him. Kill him, kill him, now!</i>
+
+256
+00:28:03,923 --> 00:28:06,675
+我们要好好享用... 享用... 享用
+<i>Let us feast... feast... feast.</i>
+
+257
+00:28:06,948 --> 00:28:10,158
+美食... 美食!
+<i>Feast... feast!</i>
+
+258
+00:28:20,948 --> 00:28:21,858
+那是什么?
+<i>What is it?</i>
+
+259
+00:28:30,099 --> 00:28:32,886
+肥美多汁!
+<i>Fat and juicy!</i>
+
+260
+00:28:35,351 --> 00:28:38,385
+就尝一口!
+<i>Just a little taste!</i>
+
+261
+00:28:48,592 --> 00:28:50,964
+该死的! 在哪儿? 在哪儿!
+<i>Curse it! Where is it? Where is it?!</i>
+
+262
+00:28:52,539 --> 00:28:54,170
+这儿!
+Here!
+
+263
+00:28:54,370 --> 00:28:58,113
+好痛... 嘶! 叮了一口好痛!
+<i>It stings... Stings!</i>
+
+264
+00:29:03,406 --> 00:29:04,724
+刺叮
+Sting.
+
+265
+00:29:05,517 --> 00:29:06,817
+这名字不错
+That's a good name.
+
+266
+00:29:08,777 --> 00:29:09,940
+刺叮
+Sting.
+
+267
+00:29:31,456 --> 00:29:32,556
+比尔博在哪?
+Where is Bilbo?
+
+268
+00:29:33,125 --> 00:29:34,181
+我在这儿!
+I'm up here!
+
+269
+00:30:15,211 --> 00:30:16,903
+在哪里? 在哪里?
+Where is it? Where's it?
+
+270
+00:30:17,189 --> 00:30:19,542
+快点! 去哪儿了?
+Come on! Where is it?
+
+271
+00:30:44,223 --> 00:30:45,602
+索林!
+Thorin!
+
+272
+00:30:55,349 --> 00:30:56,467
+基利!
+Kili!
+
+273
+00:31:20,040 --> 00:31:21,452
+我的!
+Mine!
+
+274
+00:31:57,266 --> 00:31:58,753
+快点 跟上!
+Come on, keep up!
+
+275
+00:31:59,445 --> 00:32:00,535
+没有危险了!
+We are clear!
+
+276
+00:32:21,549 --> 00:32:23,687
+别以为我不会干掉你 矮人
+Do not think I won't kill you, Dwarf.
+
+277
+00:32:24,359 --> 00:32:26,013
+我乐意奉陪
+It would be my pleasure.
+
+278
+00:32:31,455 --> 00:32:32,661
+基利!
+Kili!
+
+279
+00:32:50,593 --> 00:32:51,863
+给我把匕首!
+Throw me a dagger!
+
+280
+00:32:52,487 --> 00:32:53,477
+快!
+Quick!
+
+281
+00:32:53,777 --> 00:32:57,878
+你要是以为我会给你武器 那就大错特错了 矮人
+If you think I'm giving you a weapon, Dwarf, you are mistaken.
+
+282
+00:33:03,251 --> 00:33:04,486
+搜身!
+Search them!
+
+283
+00:33:10,985 --> 00:33:12,558
+嘿 拿回来! 这是私人物品!
+Hey, give it back! That's private!
+
+284
+00:33:12,758 --> 00:33:14,138
+这是谁?
+Who's this?
+
+285
+00:33:14,338 --> 00:33:17,156
+- 你兄弟?  - 那是我老婆!
+- Your brother?  - That is my wife!
+
+286
+00:33:17,617 --> 00:33:21,174
+这可怕的东西又是什么? 变种哥布林?
+And, what is this horrid creature? A Goblin Mutant?
+
+287
+00:33:21,174 --> 00:33:23,519
+那是我儿子 吉姆利!
+That's my wee lad, Gimli!
+
+288
+00:33:30,477 --> 00:33:31,452
+{\fn方正苏新诗柳楷简体\fs23}蜘蛛都死了吗?
+
+289
+00:33:32,154 --> 00:33:34,350
+{\fn方正苏新诗柳楷简体\fs23}嗯 但还会来更多
+
+290
+00:33:35,685 --> 00:33:37,397
+{\fn方正苏新诗柳楷简体\fs23}它们越来越大胆了
+
+291
+00:33:44,838 --> 00:33:48,020
+{\fn方正苏新诗柳楷简体\fs23}这把剑来自冈多林
+
+292
+00:33:49,623 --> 00:33:52,993
+{\fn方正苏新诗柳楷简体\fs23}由诺多精灵铸造
+
+293
+00:33:54,960 --> 00:33:56,483
+你从哪里得到的?
+Where did you get this?
+
+294
+00:33:56,683 --> 00:33:58,853
+别人赠送给我的
+It was given to me.
+
+295
+00:34:01,313 --> 00:34:03,075
+不仅是个小偷...
+Not just a thief...
+
+296
+00:34:03,075 --> 00:34:04,835
+还是个骗子
+but a liar as well.
+
+297
+00:34:05,109 --> 00:34:06,601
+{\fn方正苏新诗柳楷简体\fs23}把他们带走!
+<i>Take them away!</i>
+
+298
+00:34:09,211 --> 00:34:10,923
+索林 比尔博呢?
+Thorin, Where is Bilbo?
+
+299
+00:34:24,876 --> 00:34:26,020
+{\fn方正苏新诗柳楷简体\fs23}关上大门
+
+300
+00:35:15,402 --> 00:35:16,981
+这事儿没完!
+This is not the end of it!
+
+301
+00:35:17,877 --> 00:35:18,873
+听到没有!
+Do you hear me?!
+
+302
+00:35:19,246 --> 00:35:20,674
+放我们出去!
+Let us out of here!
+
+303
+00:35:28,887 --> 00:35:31,690
+你不打算搜我的身吗?
+Aren't you going to search me?
+
+304
+00:35:31,728 --> 00:35:33,722
+我裤裆底下可能还有东西?
+I could have anything down my trousers?
+
+305
+00:35:35,038 --> 00:35:37,010
+也可能什么也没有
+Or, nothing.
+
+306
+00:35:45,263 --> 00:35:48,476
+{\fn方正苏新诗柳楷简体\fs23}那矮人为什么盯着你看 陶瑞尔?
+
+307
+00:35:48,476 --> 00:35:50,504
+{\fn方正苏新诗柳楷简体\fs23}谁知道?
+
+308
+00:35:50,904 --> 00:35:54,321
+{\fn方正苏新诗柳楷简体\fs23}在矮人里 他还挺高的
+
+309
+00:35:55,207 --> 00:35:56,137
+{\fn方正苏新诗柳楷简体\fs23}你觉得呢?
+
+310
+00:35:56,486 --> 00:35:58,104
+{\fn方正苏新诗柳楷简体\fs23}比一般的高...
+
+311
+00:35:59,375 --> 00:36:01,004
+{\fn方正苏新诗柳楷简体\fs23}但还是一样丑
+
+312
+00:36:12,020 --> 00:36:13,936
+- 啊... 再来!  - 别撞了!
+- Arhhg... again!  - Leave it!
+
+313
+00:36:14,136 --> 00:36:15,136
+出不去的!
+There is no way out!
+
+314
+00:36:15,665 --> 00:36:20,769
+这不是奥克斯的地牢 这是林地王国的宫殿
+This is no Orc dungeon. These are the Halls of the Woodland realm.
+
+315
+00:36:21,047 --> 00:36:25,220
+没有国王的同意 谁也别想出去
+No one leaves here, but, by the King's consent.
+
+316
+00:36:29,073 --> 00:36:33,179
+一些人以为 这将是一场神圣的征程
+Some may imagine that a noble quest is at hand.
+
+317
+00:36:33,419 --> 00:36:38,390
+屠杀恶龙 夺回家园
+A quest to reclaim a homeland and slay a dragon.
+
+318
+00:36:39,706 --> 00:36:44,152
+我却怀疑 真正的动机并不那么高尚
+I myself, suspect a more prosaic motive.
+
+319
+00:36:44,487 --> 00:36:47,327
+盗窃财宝...
+Attempted burglary...
+
+320
+00:36:47,363 --> 00:36:50,167
+或是什么别的企图
+or something of that ilk.
+
+321
+00:36:52,414 --> 00:36:54,662
+你找到了密道?
+You have found a way in?
+
+322
+00:36:54,862 --> 00:36:59,315
+你妄图找回那颗赋予你统治权的珠宝
+You seek that which would bestow upon you the right to rule.
+
+323
+00:36:59,768 --> 00:37:01,831
+国王宝石
+A King's Jewel.
+
+324
+00:37:01,875 --> 00:37:05,181
+阿肯宝石
+The Arkenstone.
+
+325
+00:37:05,887 --> 00:37:08,919
+对你而言 它的价值无可估量
+It is precious to you, beyond measure.
+
+326
+00:37:10,668 --> 00:37:13,370
+这我明白
+I understand that.
+
+327
+00:37:13,410 --> 00:37:16,784
+孤山里也有我想要的珠宝
+There are gems in the mountain that I too desire.
+
+328
+00:37:18,191 --> 00:37:22,696
+白宝石 如星光般纯粹
+White gems, a pure starlight.
+
+329
+00:37:22,740 --> 00:37:25,910
+我会向你提供帮助
+I offer you my help.
+
+330
+00:37:27,922 --> 00:37:29,341
+我听着呢
+I am listening.
+
+331
+00:37:29,541 --> 00:37:31,325
+我放你离开
+I will let you go.
+
+332
+00:37:31,525 --> 00:37:35,378
+条件是将我的东西归还于我
+If you but return what is mine.
+
+333
+00:37:38,113 --> 00:37:39,727
+礼尚往来
+A favour, for a favour.
+
+334
+00:37:39,728 --> 00:37:41,543
+我向你保证
+You have my word.
+
+335
+00:37:42,138 --> 00:37:44,640
+以国王的名义
+One King to another.
+
+336
+00:37:48,520 --> 00:37:52,244
+我不会相信你 瑟兰杜伊
+I would not trust, Thranduil.
+
+337
+00:37:52,244 --> 00:37:57,585
+伟大的王 信守自己的诺言 直到世界终结
+The great king, to only his word. Till the end of all days be upon us.
+
+338
+00:37:58,451 --> 00:38:00,047
+你!
+You!
+
+339
+00:38:00,089 --> 00:38:02,085
+不配得到任何尊敬!
+Lack all honour!
+
+340
+00:38:02,564 --> 00:38:07,284
+我亲眼目睹你背叛盟友 我们曾求助于你...
+I've seen how you treat your friends. We came to you once...
+
+341
+00:38:07,284 --> 00:38:11,460
+忍饥挨饿 流离失所
+Starving, homeless, seeking your help.
+
+342
+00:38:11,660 --> 00:38:14,185
+可你却转头离开!
+But you turned your back!
+
+343
+00:38:14,434 --> 00:38:17,499
+是你 弃我族人的苦痛于不顾
+You, turned away from the suffering of my people.
+
+344
+00:38:18,178 --> 00:38:20,156
+任他们被毁灭吞噬!
+The infernal that destroyed us!
+
+345
+00:38:20,634 --> 00:38:22,572
+{\fn方正大黑简体\fs21}<b>愿你死于烈焰!</b>
+<i>Die a death of flames!</i>
+
+346
+00:38:22,994 --> 00:38:25,505
+不要和我提及龙焰!
+Do not talk to me of dragonfire!
+
+347
+00:38:25,505 --> 00:38:28,233
+我知晓它毁灭的力量
+I know it's wrath and ruin.
+
+348
+00:38:32,423 --> 00:38:38,430
+我曾面对过... 北方的巨龙
+I have faced... the great serpents of the north.
+
+349
+00:38:39,176 --> 00:38:43,417
+我警告过你祖父 他的贪婪将会带来什么后果
+I warned your grandfather, of what his greed would summon.
+
+350
+00:38:44,775 --> 00:38:48,370
+但他不肯听从
+But he would not listen.
+
+351
+00:38:51,112 --> 00:38:53,348
+你和他一模一样
+You are just like him.
+
+352
+00:38:55,897 --> 00:38:59,449
+你若愿意 就待在这儿直到腐烂吧
+Stay here if you will and rot.
+
+353
+00:38:59,649 --> 00:39:03,562
+对于精灵来说 一百年也不过一瞬
+A hundred years is a mere blink in a life of an elf.
+
+354
+00:39:03,934 --> 00:39:05,675
+我很有耐心
+I am patient.
+
+355
+00:39:06,715 --> 00:39:09,232
+我可以等
+I can wait.
+
+356
+00:39:16,092 --> 00:39:18,392
+- 他和你提条件了吗?  - 他提了
+- Did he offer you a deal?  - He did.
+
+357
+00:39:20,206 --> 00:39:23,390
+我让他等着我{\fn方正大黑简体\fs22}<b> 唾弃他的坟墓!</b>
+I told him he could go <i>and I'll shit upon your grave!</i>
+
+358
+00:39:24,350 --> 00:39:27,047
+唾弃他和他的族人!
+Him and all his kin!
+
+359
+00:39:27,523 --> 00:39:29,367
+好吧 只能这样了
+Well, that's that then.
+
+360
+00:39:30,068 --> 00:39:33,638
+那交易... 是我们唯一的希望
+The deal... was our only hope.
+
+361
+00:39:36,589 --> 00:39:39,393
+不是唯一的
+It's not our only hope.
+
+362
+00:39:45,416 --> 00:39:47,319
+我知道你在那儿
+I know you are there.
+
+363
+00:39:48,693 --> 00:39:51,598
+为何徘徊在阴影中?
+Why do you linger in the shadows?
+
+364
+00:39:52,907 --> 00:39:55,437
+我正要来向你汇报
+I was coming to report to you.
+
+365
+00:39:56,217 --> 00:39:59,784
+我以为距离上次命令清除蜘蛛巢穴 不过两个月
+I thought I ordered that nest to be destroyed not two moons past.
+
+366
+00:39:59,827 --> 00:40:02,383
+我们已奉命清理了森林 陛下
+We cleared the forest as ordered, my Lord.
+
+367
+00:40:02,383 --> 00:40:04,651
+但蜘蛛源源不断从南方涌来
+But more spiders keep coming up from the south.
+
+368
+00:40:04,651 --> 00:40:08,146
+它们在多尔古多的遗迹内繁殖 如果我们能从源头消灭...
+They're spawning in the ruins of Dol Guldur. If we could kill them at their source...
+
+369
+00:40:08,188 --> 00:40:10,632
+那座堡垒在我们的边界以外
+That fortress lies beyond our borders.
+
+370
+00:40:10,646 --> 00:40:13,309
+守住国土 清除这些邪恶生物 这才是你的任务
+Keep our lands, clear of those foul creatures. That is your task.
+
+371
+00:40:13,503 --> 00:40:16,477
+即便将它们赶走 又怎么样呢?
+And when we drive them off, what then?
+
+372
+00:40:16,677 --> 00:40:18,494
+它们就不会侵入其它领地吗?
+Will they not spread to other lands?
+
+373
+00:40:18,494 --> 00:40:21,063
+其它领地不由我操心
+Other lands are not my concern.
+
+374
+00:40:21,996 --> 00:40:24,878
+中土世界的命运朝起夕落
+Fortunes of the world will rise and fall.
+
+375
+00:40:24,878 --> 00:40:28,498
+但这方国土内 我们能持久生存
+But here in this kingdom, we will endure.
+
+376
+00:40:32,229 --> 00:40:34,749
+莱格拉斯说你今天打得很棒
+Legolas said you fought well today.
+
+377
+00:40:39,083 --> 00:40:42,583
+他对你很有好感
+He's grown very fond of you.
+
+378
+00:40:43,698 --> 00:40:45,681
+陛下 我向您保证
+I assure you my Lord,
+
+379
+00:40:45,881 --> 00:40:48,907
+莱格拉斯只当我是卫队的队长
+Legolas thinks of me as no more than a captain of the guard.
+
+380
+00:40:49,303 --> 00:40:51,913
+或许曾经... 是的
+Perhaps he did... once.
+
+381
+00:40:51,990 --> 00:40:54,843
+现在 我不那么肯定了
+Now, I'm not so sure.
+
+382
+00:40:57,874 --> 00:41:00,666
+我想... 您不会允许自己儿子
+I... do not think that you would allow your son
+
+383
+00:41:00,666 --> 00:41:03,342
+向一个卑微的西尔凡精灵许下诺言吧
+to pledge himself to a lowly Silvan elf.
+
+384
+00:41:03,342 --> 00:41:06,987
+没错 我不会允许
+No, you are right. l would not.
+
+385
+00:41:06,987 --> 00:41:09,675
+但他依然很关心你
+Still, he cares about you.
+
+386
+00:41:09,711 --> 00:41:13,177
+如果没有希望 就不要对他纵容
+Do not give him hope, where there is none.
+
+387
+00:41:19,476 --> 00:41:21,527
+{\fn方正姚体}门口有精灵防守
+
+388
+00:41:21,972 --> 00:41:24,706
+{\fn方正姚体}不是所有门都有... 跟我来!
+
+389
+00:41:51,007 --> 00:41:54,779
+你手里的石头 那是什么?
+The stone in your hand, What is it?
+
+390
+00:41:56,390 --> 00:41:58,069
+是一块符文石
+It is a Talisman.
+
+391
+00:42:00,770 --> 00:42:02,774
+上面附有强大的咒语
+A powerful spell has upon it.
+
+392
+00:42:02,774 --> 00:42:05,772
+除了矮人 任何人只要读了上面的如尼文
+If any but a dwarf reads the runes on the stone,
+
+393
+00:42:06,488 --> 00:42:08,221
+就会被永远诅咒
+it will be forever cursed.
+
+394
+00:42:14,081 --> 00:42:16,380
+也可能不会
+Or not.
+
+395
+00:42:16,580 --> 00:42:19,417
+取决于你信不信这种东西 不过是块石头罢了
+Depending on whether you believe in that kind of thing. It's just a token.
+
+396
+00:42:22,422 --> 00:42:23,901
+如尼符石
+The Rune Stone.
+
+397
+00:42:23,999 --> 00:42:25,209
+{\pos(149,135)}{\fn超世纪中古印\fs23}回到我身边
+
+398
+00:42:25,949 --> 00:42:28,684
+是我妈妈给我的 让我记住自己的承诺
+My mother gave me it to me. So, I'd remember my promise.
+
+399
+00:42:30,528 --> 00:42:31,910
+什么承诺?
+What promise?
+
+400
+00:42:32,110 --> 00:42:33,427
+我会回到她身边
+That I would come back to her.
+
+401
+00:42:36,650 --> 00:42:38,206
+她很担心我
+She worries.
+
+402
+00:42:39,292 --> 00:42:41,253
+她觉得我冒冒失失的
+She thinks I'm reckless.
+
+403
+00:42:41,453 --> 00:42:42,453
+是吗?
+Are you?
+
+404
+00:42:44,539 --> 00:42:46,170
+才没有
+Nah.
+
+405
+00:42:56,762 --> 00:42:59,758
+上面听起来... 似乎是场挺大的聚会
+Sounds like quite... a party, you're having up there.
+
+406
+00:43:00,711 --> 00:43:02,831
+那是Mereth-en-Gilith
+It is Mereth-en-Gilith.
+
+407
+00:43:03,031 --> 00:43:05,154
+星光盛宴
+The Feast of Starlight.
+
+408
+00:43:06,272 --> 00:43:08,908
+对埃尔达精灵而言 任何光芒都奉为神圣
+All light is sacred to the Eldar.
+
+409
+00:43:09,317 --> 00:43:12,521
+但木精灵最喜爱的是璀璨星光
+But the Wood-elves loves best, the light of the stars.
+
+410
+00:43:13,373 --> 00:43:16,422
+我一直以为它是冰冷的
+I always thought it is a cold light.
+
+411
+00:43:16,740 --> 00:43:19,110
+遥不可及
+Remote and far away.
+
+412
+00:43:20,751 --> 00:43:22,526
+那是记忆
+It is memory.
+
+413
+00:43:23,627 --> 00:43:25,862
+珍贵 纯净
+Precious and pure.
+
+414
+00:43:29,880 --> 00:43:31,268
+如同你的承诺
+Like your promise.
+
+415
+00:43:40,614 --> 00:43:43,305
+我曾漫步于星光之下
+I have walked there sometimes.
+
+416
+00:43:43,505 --> 00:43:46,684
+越过森林 徜徉于夜空
+Beyond the forest and up into the night.
+
+417
+00:43:47,971 --> 00:43:51,469
+我看到世界逐渐远去
+I have seen the world full away.
+
+418
+00:43:52,149 --> 00:43:55,387
+而纯白的光芒 渗透每一丝气息
+And the white light, forever filled the air.
+
+419
+00:43:58,235 --> 00:44:01,233
+我曾见过一轮火月
+I saw a fire moon once.
+
+420
+00:44:02,002 --> 00:44:06,387
+巨大的月亮从登兰德的小道边升起 金红的月光洒满天空
+It rose off the path near Dunland. Huge, red and golden it was, filled the sky.
+
+421
+00:44:08,634 --> 00:44:12,510
+我们当时正护送一队路因山脉的商人 他们...
+We were in escort with some merchants in Ered Luin. They were...
+
+422
+00:44:12,546 --> 00:44:16,095
+用银器交易皮毛 我们由绿大道向南
+trading in silver work for furs. We took the Greenway south,
+
+423
+00:44:16,295 --> 00:44:18,210
+迷雾山脉在左侧绵延
+keeping the mountain to our left.
+
+424
+00:44:18,866 --> 00:44:20,398
+紧接着 它出现了
+But then, it appeared.
+
+425
+00:44:20,598 --> 00:44:24,613
+一轮巨大的火月照亮了道路
+This huge fire moon lights in our path.
+
+426
+00:44:24,613 --> 00:44:26,584
+我真希望能让你看看...
+I wish I could show you...
+
+427
+00:44:28,588 --> 00:44:30,683
+加立安 你这老混账! 我们酒快喝完了
+Galion, you old rogue! We're running out of drink.
+
+428
+00:44:31,901 --> 00:44:34,872
+那些空木桶几小时前就该送去埃斯加洛斯
+These empty barrels should have been sent to Esgaroth hours ago. 
+
+429
+00:44:34,872 --> 00:44:36,718
+巴德正等着呢
+Bard have been waiting for them,
+
+430
+00:44:37,344 --> 00:44:41,923
+随你怎么说我们那对酒品味极高的坏脾气国王
+Say what you like about our ill tempered King who has excellent taste in wine.
+
+431
+00:44:43,037 --> 00:44:44,890
+来 爱洛斯 尝尝
+Come, Elros, try it.
+
+432
+00:44:45,261 --> 00:44:47,054
+我还得监管矮人
+I have the dwarves in my charge.
+
+433
+00:44:47,794 --> 00:44:50,163
+他们被锁着 能上哪儿去?
+They're locked up, where can they go?
+
+434
+00:44:53,759 --> 00:44:58,237
+我敢打赌太阳升起来了 肯定快到黎明了
+I'll wager the sun is on the rise. Must be nearly dawn.
+
+435
+00:44:58,237 --> 00:45:00,655
+我们永远到不了孤山了 对吗?
+We never gonna reach the mountain, are we?
+
+436
+00:45:03,693 --> 00:45:05,594
+能逃出去就不会了
+Not stuck in here you're not.
+
+437
+00:45:11,966 --> 00:45:13,358
+比尔博!
+Bilbo!
+
+438
+00:45:16,110 --> 00:45:17,512
+附近有守卫!
+There are guards nearby!
+
+439
+00:45:38,026 --> 00:45:39,615
+- 那是什么?  - 你先走
+- What's that?  - You first.
+
+440
+00:45:39,719 --> 00:45:42,225
+- 欧里!  - 不是那条路 往下走... 跟着我!
+- Ori!  - Not that way. Down here... follow me!
+
+441
+00:45:42,225 --> 00:45:43,793
+- 往哪?  - 跟上 快!
+- Which way?  - Come on, go!
+
+442
+00:46:01,019 --> 00:46:02,164
+这边走
+This way.
+
+443
+00:46:04,998 --> 00:46:08,085
+- 快啊  - 简直不敢相信 我们在酒窖里!
+- Come on.  - I don't believe, we're in the cellars.
+
+444
+00:46:08,085 --> 00:46:10,073
+你应该带我们逃得远远的... 逃去别的地方
+You're supposed to be leading us unknown... further away.
+
+445
+00:46:10,073 --> 00:46:11,752
+- 我知道自己在干什么  - 嘘
+- I know what I'm doing.  - Shhh.
+
+446
+00:46:12,203 --> 00:46:13,648
+好吧 这边 这边
+Okay, this way. This way.
+
+447
+00:46:19,119 --> 00:46:21,743
+大家都爬进木桶里... 快!
+Everyone, climb into the barrels... quickly!
+
+448
+00:46:21,743 --> 00:46:23,577
+你疯了? 他们会找到我们的
+Are you mad? They will find us.
+
+449
+00:46:23,577 --> 00:46:25,137
+不 不会的! 我保证
+No, no. They won't! I promise you.
+
+450
+00:46:25,137 --> 00:46:28,610
+拜托 拜托了... 你们必须相信我
+Please, please... You must trust me.
+
+451
+00:46:33,157 --> 00:46:34,494
+照他说的做
+Do as he says.
+
+452
+00:46:52,798 --> 00:46:54,711
+现在怎么办?
+What do we do now?
+
+453
+00:46:55,583 --> 00:46:58,126
+- 别呼吸  - 别呼吸... 你什么意思?
+- Hold your breath.  - Hold my breath... What do you mean?
+
+454
+00:47:23,908 --> 00:47:26,475
+管地牢钥匙的人在哪儿?
+Where is the keeper of the keys?
+
+455
+00:47:31,850 --> 00:47:32,746
+{\fn方正苏新诗柳楷简体\fs23}跟我来!
+<i>Come now!</i>
+
+456
+00:47:52,911 --> 00:47:54,458
+干得好 巴金斯老爷
+Well done, Master Baggins.
+
+457
+00:47:55,807 --> 00:47:58,280
+我们走 快点!
+Go, come on let's go!
+
+458
+00:48:06,823 --> 00:48:09,472
+抓牢了!
+Hold on!
+
+459
+00:48:21,878 --> 00:48:23,248
+比尔博!
+Bilbo!
+
+460
+00:48:37,011 --> 00:48:38,388
+{\fn方正苏新诗柳楷简体\fs23}把门关上!
+
+461
+00:48:57,868 --> 00:48:59,189
+不!
+No!
+
+462
+00:49:12,027 --> 00:49:12,978
+小心!
+Watch out!
+
+463
+00:49:27,128 --> 00:49:29,584
+<i>Kill them! Quickly!</i>
+{\fn方正姚体}杀了他们! 快点!
+
+464
+00:49:30,101 --> 00:49:32,520
+{\fn方正姚体}全给我杀了!
+
+465
+00:49:33,711 --> 00:49:34,648
+快到桥上去!
+Get over the bridge!
+
+466
+00:49:47,688 --> 00:49:48,916
+去死!
+Die!
+
+467
+00:50:13,201 --> 00:50:14,579
+基利!
+Kili!
+
+468
+00:50:21,222 --> 00:50:22,045
+基利!
+Kili!
+
+469
+00:50:36,222 --> 00:50:39,245
+杀了她! 杀了那个女精灵!
+
+470
+00:51:04,970 --> 00:51:06,661
+<i>The dwarves are escaping!</i>
+{\fn方正姚体}矮人要逃了!
+
+471
+00:51:07,067 --> 00:51:08,583
+{\fn方正姚体}追!
+
+472
+00:51:15,853 --> 00:51:16,779
+基利!
+Kili!
+
+473
+00:52:40,617 --> 00:52:41,943
+诺里!
+Nori!
+
+474
+00:52:54,547 --> 00:52:55,832
+砍断树干!
+Cut the log!
+
+475
+00:53:03,723 --> 00:53:04,800
+邦博!
+Bombur!
+
+476
+00:54:40,317 --> 00:54:41,386
+<i>Tauriel!</i>
+{\fn方正苏新诗柳楷简体\fs23}陶瑞尔!
+
+477
+00:54:41,386 --> 00:54:42,863
+{\fn方正苏新诗柳楷简体\fs23}等等!
+
+478
+00:54:43,951 --> 00:54:47,639
+{\fn方正苏新诗柳楷简体\fs23}别杀他 留活口
+
+479
+00:54:48,667 --> 00:54:52,574
+{\fn方正姚体}追 宰了他们！
+
+480
+00:54:57,048 --> 00:54:59,492
+<i>Don't let them go away!</i>
+{\fn方正姚体}别让他们跑了!
+
+481
+00:56:39,074 --> 00:56:40,769
+哦 是你啊
+Oh, it's you.
+
+482
+00:56:40,769 --> 00:56:41,969
+干嘛叫我来这里 甘道夫?
+Why am I here, Gandalf?
+
+483
+00:56:42,209 --> 00:56:46,245
+相信我 拉达加斯特 我不会平白无故叫你到这里来
+Trust me, Radagast. I would not have call you here without good reason.
+
+484
+00:56:51,078 --> 00:56:54,570
+- 这可不是见面的好地方  - 没错
+- This is not a nice place to meet.  - No.
+
+485
+00:56:55,751 --> 00:56:58,247
+的确不好
+It is not.
+
+486
+00:56:58,326 --> 00:57:01,425
+这些是邪恶咒语 甘道夫
+These are dark spells, Gandalf.
+
+487
+00:57:01,425 --> 00:57:04,583
+很古老... 而且充满仇恨
+Old... And full of hate.
+
+488
+00:57:04,583 --> 00:57:05,783
+这里埋的是谁?
+Who's buried here?
+
+489
+00:57:05,983 --> 00:57:09,518
+如果他有名字 那也早被忘记了
+If he had a name, it's long since been lost.
+
+490
+00:57:09,718 --> 00:57:13,808
+人们只知道他是侍奉邪恶的
+He would've been known only as a servant of evil.
+
+491
+00:57:16,850 --> 00:57:19,221
+其中一人
+One of a number.
+
+492
+00:57:22,836 --> 00:57:25,502
+是九戒之一
+One of nine.
+
+493
+00:57:27,749 --> 00:57:29,518
+为什么是现在 甘道夫?
+Why now, Gandalf?
+
+494
+00:57:29,518 --> 00:57:33,102
+- 我不明白! - 戒灵已经被召唤去多尔古多
+- I don't understand!  - The Ringwraiths have been summoned to Dol Guldur.
+
+495
+00:57:33,102 --> 00:57:35,525
+但召唤他们的不可能是亡灵法师
+But, it cannot be the Necromancer.
+
+496
+00:57:35,725 --> 00:57:38,791
+人类法师无法召唤这种恶灵
+A human sorcerer could not summon such evil.
+
+497
+00:57:39,251 --> 00:57:41,479
+召唤者不是人类
+Who said it was human.
+
+498
+00:57:42,750 --> 00:57:46,234
+九戒只听从一人的差遣
+And, Nine only answers to One Master.
+
+499
+00:57:46,274 --> 00:57:49,484
+我们都被蒙蔽了 拉达加斯特
+We've been blind, Radagast.
+
+500
+00:57:49,484 --> 00:57:50,879
+在我们疏忽大意时...
+And in our blindness...
+
+501
+00:57:51,725 --> 00:57:54,461
+大敌已当前
+The Enemy has returned.
+
+502
+00:57:56,218 --> 00:57:58,667
+他在召唤自己的仆人
+He is summoning his servants.
+
+503
+00:57:59,140 --> 00:58:03,561
+"亵渎者"阿佐格不只是个普通猎人
+Azog the Defiler is no ordinary hunter.
+
+504
+00:58:03,561 --> 00:58:07,614
+他是整个军队的首领
+He is a commander, the commander of legions.
+
+505
+00:58:07,814 --> 00:58:11,543
+我们的大敌... 正为战争准备
+The Enemy... is preparing for war.
+
+506
+00:58:12,698 --> 00:58:16,997
+战争会从东边开始 他定会攻下那座山
+Which will begin in the east. His mind is set upon that mountain.
+
+507
+00:58:17,651 --> 00:58:19,101
+- 你要去哪儿?  - 和其他人会合
+- Where are you going?  - To rejoin the others.
+
+508
+00:58:19,377 --> 00:58:21,006
+甘道夫!?
+Gandalf?!
+
+509
+00:58:21,206 --> 00:58:24,876
+一切因我而起 我不能丢下他们
+I started this. I cannot forsake them.
+
+510
+00:58:24,876 --> 00:58:26,587
+他们现在命在旦夕
+They're in grave danger.
+
+511
+00:58:26,587 --> 00:58:27,965
+如果你所言不虚
+If what you say is true.
+
+512
+00:58:28,607 --> 00:58:32,000
+世界正面临巨大的危机
+The world is in grave danger.
+
+513
+00:58:32,000 --> 00:58:36,686
+森林里的那股力量只会变得越来越强
+The power in that fortress will only grow stronger.
+
+514
+00:58:36,731 --> 00:58:40,700
+你要我丢下自己的朋友
+You want me to cast my friends aside.
+
+515
+00:58:43,595 --> 00:58:44,751
+有东西跟着吗?
+Anything behind us?
+
+516
+00:58:44,951 --> 00:58:46,219
+我没有看到
+Not that I can see.
+
+517
+00:58:50,609 --> 00:58:54,016
+- 我想我们甩掉奥克斯了  - 他们很快会追上来 
+- I think we've outrun the Orcs.  - Not for long. We've lost the current.
+
+518
+00:58:54,486 --> 00:58:55,754
+我们都快淹死了!
+We are almost half drowned!
+
+519
+00:58:56,727 --> 00:58:58,201
+上岸去!
+Make for the shore!
+
+520
+00:58:58,866 --> 00:59:00,366
+快点! 我们走
+Come on! Let's go.
+
+521
+00:59:20,191 --> 00:59:21,678
+我没事 没关系
+I'm fine, it's nothing.
+
+522
+00:59:22,067 --> 00:59:25,887
+- 站起来  - 基利受伤了 得帮他包扎伤口
+- On your feet.  - Kili is wounded. His leg needs binding.
+
+523
+00:59:25,887 --> 00:59:28,647
+一群奥克斯在追我们呢 不能停
+There's an Orc pack at our tail. We keep moving.
+
+524
+00:59:28,647 --> 00:59:31,643
+- 去哪儿?  - 去孤山 我们都快到了
+- To where?  - To the mountain. We are so close.
+
+525
+00:59:31,843 --> 00:59:34,868
+中间还隔着一个湖
+A lake lies between us and that mountain.
+
+526
+00:59:34,912 --> 00:59:37,575
+- 我们没法过去  - 那我们就绕过去
+- We have no way to cross it.  - So then, we go arround.
+
+527
+00:59:37,575 --> 00:59:40,423
+奥克斯会很快就会追上来 时间也不够
+The Orcs will run us down, as sure as daylight.
+
+528
+00:59:40,798 --> 00:59:43,282
+我们没有武器 不能自保
+We have no weapons to defend ourselves.
+
+529
+00:59:43,282 --> 00:59:44,482
+快点帮他包扎好
+Bind his leg, quickly.
+
+530
+00:59:45,522 --> 00:59:48,035
+给你们两分钟
+We have two minutes.
+
+531
+01:00:07,206 --> 01:00:10,516
+敢再来一次 你们的小命就没了
+Do it again and you are dead.
+
+532
+01:00:12,397 --> 01:00:15,912
+不好意思... 你是长湖镇来的吗?
+Excuse me, but uh... You're from Lake-town?
+
+533
+01:00:15,912 --> 01:00:17,112
+如果我没搞错的话
+If I'm not mistaken.
+
+534
+01:00:18,248 --> 01:00:20,747
+那边那艘驳船
+That barge over there,
+
+535
+01:00:20,747 --> 01:00:24,481
+我们可不可以租下来?
+it wouldn't be available for hire by any chance?
+
+536
+01:00:25,838 --> 01:00:28,252
+你从哪里看出来我会帮你?
+What makes you think, I would help you?
+
+537
+01:00:28,452 --> 01:00:30,355
+你的靴子很旧了
+Those boots have seen better days.
+
+538
+01:00:30,555 --> 01:00:32,348
+大衣也很寒碜
+As has that coat.
+
+539
+01:00:32,548 --> 01:00:35,493
+你家里应该有好几张嘴要喂吧
+I've no doubts you have some hungry mouths to feed.
+
+540
+01:00:36,683 --> 01:00:38,208
+有几个人?
+How many bairns?
+
+541
+01:00:38,408 --> 01:00:40,545
+一个男孩 两个女孩
+A boy and two girls.
+
+542
+01:00:40,918 --> 01:00:44,588
+还有你夫人 我想她应该是个美人吧?
+And your wife, I imagine she's as a beauty?
+
+543
+01:00:45,031 --> 01:00:46,433
+没错
+Aye.
+
+544
+01:00:46,770 --> 01:00:48,239
+生前是
+She was.
+
+545
+01:00:51,016 --> 01:00:55,801
+- 对不起 我不是有意...  - 哦 得了! 别再装好人了
+- I'm sorry, I didn't mean to...  - Oh, come on! C'mon, enough with the niceties.
+
+546
+01:00:56,286 --> 01:00:59,310
+- 你们着急什么?  - 问这个干嘛?
+- What's your hurry?  - What's it to you?
+
+547
+01:00:59,510 --> 01:01:00,510
+我想知道你们是谁
+I would like to know who you are.
+
+548
+01:01:01,360 --> 01:01:04,091
+跑到这里来干什么
+And what you are doing in these lands.
+
+549
+01:01:04,291 --> 01:01:07,046
+我们不过是商人 来自蓝山
+We are simple merchants, from the Blue Mountains.
+
+550
+01:01:07,046 --> 01:01:10,417
+要去铁丘陵探望几个亲戚
+Journeying to see our kin in the Iron Hills.
+
+551
+01:01:11,177 --> 01:01:13,580
+你说你们只是商人?
+Simple merchants, you say?
+
+552
+01:01:13,780 --> 01:01:17,557
+我们需要食物 供给 还有武器
+We need food, supplies, weapons.
+
+553
+01:01:17,557 --> 01:01:19,194
+你能帮我们吗?
+Can you help us?
+
+554
+01:01:23,014 --> 01:01:25,805
+我知道这些酒桶的来历
+I know where these barrels came from.
+
+555
+01:01:26,005 --> 01:01:30,128
+- 怎么了?  - 我不知道你们和精灵做了什么生意
+- What of it?  - I don't know what business you had with the elves.
+
+556
+01:01:30,328 --> 01:01:32,951
+不过看起来 结果不太好
+But, I don't think it ended well.
+
+557
+01:01:34,001 --> 01:01:37,261
+只有镇长才能带人进镇子
+No one enters Lake-town but by lead of the master.
+
+558
+01:01:37,261 --> 01:01:40,647
+和林地王国做生意 是他唯一的财源
+All his wealth comes from trade with the Woodland realm.
+
+559
+01:01:40,647 --> 01:01:43,878
+为了不让瑟兰杜伊生气 他会把你们关进监狱 
+He would see you in irons before risking the wrath of King Thranduil.
+
+560
+01:01:45,406 --> 01:01:46,699
+多给他点好处
+Offer him more.
+
+561
+01:01:49,304 --> 01:01:52,251
+我打赌肯定有不为人知的路进镇子
+I'll wager there are ways to enter that town unseen.
+
+562
+01:01:52,451 --> 01:01:53,934
+是啊
+Aye.
+
+563
+01:01:54,981 --> 01:01:56,964
+但那样的话...
+But for that...
+
+564
+01:01:57,881 --> 01:02:00,319
+- 你得找个蛇头  - 我们会付钱的
+- you would need a smuggler.  - For which we would pay.
+
+565
+01:02:00,319 --> 01:02:01,414
+双倍价钱
+Double.
+
+566
+01:02:09,926 --> 01:02:12,955
+邪恶本就如此
+Such is the nature of evil.
+
+567
+01:02:13,155 --> 01:02:18,244
+在大地上 无知正愈演愈烈 跋扈横行
+Out there in the vast, ignorance of the world it festers and spreads.
+
+568
+01:02:18,244 --> 01:02:21,098
+在黑暗中孕育着不详
+A shadow that grows in the dark.
+
+569
+01:02:21,098 --> 01:02:26,668
+这股不眠不休的邪恶力量 比即将到来的夜晚更加黑暗
+A sleepless malice as black as the oncoming wall of night.
+
+570
+01:02:27,631 --> 01:02:32,334
+过去如此... 未来亦是如此
+So it ever was... So will it always be.
+
+571
+01:02:33,269 --> 01:02:37,043
+届时 所有的秽物都会出世
+In time, all foul things come forth.
+
+572
+01:02:37,376 --> 01:02:41,598
+为什么你要跟着那十三个矮人?
+You were tracking a company of thirteen dwarves, why?
+
+573
+01:02:41,598 --> 01:02:45,054
+现在没有十三个了
+Not thirteen, not anymore.
+
+574
+01:02:45,553 --> 01:02:49,244
+那个黑头发的年轻弓箭手
+The young one, the black head archer.
+
+575
+01:02:49,444 --> 01:02:52,473
+我们用魔窟箭射中了他
+We stuck him with a Morgul shaft.
+
+576
+01:02:53,229 --> 01:02:55,462
+毒素已进入他的血液
+The poison's in his blood.
+
+577
+01:02:55,662 --> 01:02:57,480
+很快 他就要小命不保了
+He'll be choking on it soon.
+
+578
+01:02:58,395 --> 01:03:00,022
+我问什么 你答什么 下贱东西! 
+Answer the question, filth!
+
+579
+01:03:00,399 --> 01:03:03,107
+{\fn方正姚体}我不跟狗讲话 女精灵!
+
+580
+01:03:05,552 --> 01:03:07,930
+千万别惹她
+I would not antagonize her.
+
+581
+01:03:07,930 --> 01:03:09,602
+你喜欢杀戮 奥克斯?
+You like killing things, Orc?
+
+582
+01:03:11,028 --> 01:03:12,736
+喜欢有人丧命?
+You like death?
+
+583
+01:03:13,978 --> 01:03:14,883
+那就让我先送你上路!
+Then, let me give it to you!
+
+584
+01:03:14,983 --> 01:03:16,058
+{\fn方正苏新诗柳楷简体\fs23}够了!
+
+585
+01:03:16,526 --> 01:03:18,342
+{\fn方正苏新诗柳楷简体\fs23}陶瑞尔 退下!
+
+586
+01:03:18,880 --> 01:03:20,161
+{\fn方正苏新诗柳楷简体\fs23}立刻退下
+
+587
+01:03:30,922 --> 01:03:35,347
+我不在乎那个矮人的死活 回答问题
+I do not care about one dead Dwarf. Answer the question.
+
+588
+01:03:35,547 --> 01:03:37,552
+你没什么好怕的
+You have nothing to fear.
+
+589
+01:03:38,453 --> 01:03:41,538
+把你知道的告诉我们 我就还你自由
+Tell us what you know and I will set you free.
+
+590
+01:03:42,095 --> 01:03:44,550
+有人命令你杀了他们 为什么?
+You had orders to kill them, why?
+
+591
+01:03:44,550 --> 01:03:46,861
+索林·橡木盾跟你什么关系?
+What is Thorin Oakenshield to you?
+
+592
+01:03:46,861 --> 01:03:51,170
+- 那个矮人畜生永远当不了国王  - 当国王?!
+- The dwarf runt will never be king.  - King?!
+
+593
+01:03:51,170 --> 01:03:54,128
+现在没有山下之王 以后也不会有
+There is no king under the mountain, nor will there ever be.
+
+594
+01:03:54,775 --> 01:03:57,126
+没人敢进埃雷勃
+None would dare enter Erebor.
+
+595
+01:03:57,126 --> 01:04:00,463
+- 只要那龙还活着 就没人敢进去  - 你什么都不知道
+- Whilst the dragon lives.  - You know nothing.
+
+596
+01:04:00,663 --> 01:04:03,348
+你的世界要完蛋了
+Your world will burn.
+
+597
+01:04:03,348 --> 01:04:06,531
+什么意思? 说!
+What are you talking about? Speak!
+
+598
+01:04:07,342 --> 01:04:09,959
+我们的时代又要到了
+Our time has come again.
+
+599
+01:04:10,511 --> 01:04:15,161
+我的主人 侍奉的是那位大人
+My master serves... The One.
+
+600
+01:04:15,361 --> 01:04:18,030
+这样说你明白了吗 精灵?
+Do you understand now, Elfling?
+
+601
+01:04:18,030 --> 01:04:19,900
+你的死期要到了
+Death is upon you.
+
+602
+01:04:19,900 --> 01:04:24,154
+战火... 就要降临!
+The flames... of war, are upon you!
+
+603
+01:04:27,214 --> 01:04:28,795
+为什么这样做?
+Why did you do that?
+
+604
+01:04:28,795 --> 01:04:30,792
+你保证过要还他自由
+You promised to set him free.
+
+605
+01:04:30,792 --> 01:04:32,365
+我没有食言
+And I did.
+
+606
+01:04:32,883 --> 01:04:37,743
+他可怜的脑袋自由了 离开了可憎的肩膀
+I freed his wretched head from his miserable shoulders.
+
+607
+01:04:38,206 --> 01:04:40,537
+他本来还能多告诉我们些事情
+There was more the orc could tell us.
+
+608
+01:04:40,737 --> 01:04:43,358
+他能招的都招了
+There was nothing more he could tell me.
+
+609
+01:04:44,023 --> 01:04:46,755
+战火是什么意思?
+What did he mean by the flames of war?
+
+610
+01:04:46,955 --> 01:04:52,076
+意思就是 他们会解放强力的武器 杀掉所有阻挡之人
+It means they intend to unleash a weapon so great, it will destroy all before it.
+
+611
+01:04:52,762 --> 01:04:56,186
+边境 所有道路 还有河道的守卫都要加倍
+I want the watch doubled at our borders, all roads, all rivers.
+
+612
+01:04:56,186 --> 01:04:58,258
+没有我的命令不准擅动
+Nothing moves but I hear of it.
+
+613
+01:04:58,258 --> 01:04:59,891
+这个王国 没人能进来...
+No one enters this kingdom...
+
+614
+01:05:01,067 --> 01:05:03,199
+也没人能出去
+And no one leaves it.
+
+615
+01:05:05,821 --> 01:05:07,234
+{\fn方正苏新诗柳楷简体\fs23}把门关上!
+
+616
+01:05:07,720 --> 01:05:10,719
+{\fn方正苏新诗柳楷简体\fs23}把门封上 这是国王的命令
+
+617
+01:05:11,596 --> 01:05:12,768
+{\fn方正苏新诗柳楷简体\fs23}陶瑞尔怎么办?
+
+618
+01:05:15,601 --> 01:05:16,762
+{\fn方正苏新诗柳楷简体\fs23}她怎么了?
+
+619
+01:05:17,141 --> 01:05:18,371
+{\fn方正苏新诗柳楷简体\fs23}她跑进森林里了...
+
+620
+01:05:19,345 --> 01:05:20,984
+{\fn方正苏新诗柳楷简体\fs23}穿着铠甲 带着弓箭
+
+621
+01:05:21,591 --> 01:05:23,178
+{\fn方正苏新诗柳楷简体\fs23}还没回来
+
+622
+01:05:46,838 --> 01:05:48,780
+{\fn方正姚体}矮人的血!
+
+623
+01:05:49,123 --> 01:05:50,203
+{\fn方正姚体}他们来过这儿!
+
+624
+01:05:50,822 --> 01:05:53,488
+{\fn方正姚体}还有另一种气味...
+
+625
+01:05:57,471 --> 01:05:59,108
+{\fn方正姚体}人的味道!
+
+626
+01:06:03,319 --> 01:06:06,296
+{\fn方正姚体}他们找到了去湖对岸的方法
+
+627
+01:06:27,893 --> 01:06:29,053
+小心!
+Watch out!
+
+628
+01:06:37,922 --> 01:06:40,361
+你打算干嘛 淹死我们?
+What are you trying to do, drown us?
+
+629
+01:06:40,361 --> 01:06:43,427
+我就是在这片水域长大的 矮人老爷
+I was born and bred on these waters, Master Dwarf.
+
+630
+01:06:43,427 --> 01:06:46,794
+就算我想把你们淹死 也不会在这儿动手
+If I wanted to drown you, I would not do it here.
+
+631
+01:06:48,771 --> 01:06:51,389
+我受够了这个嘴碎的船夫了
+Oh, I've had enough of this lippy lake-man.
+
+632
+01:06:51,389 --> 01:06:52,904
+要我说 我们把他从这里丢下去...
+I say, we throw him off the side...
+
+633
+01:06:52,904 --> 01:06:56,227
+- 这样就摆脱他了  - 别这样 人家有名字... 他叫巴德
+- and be done with him.  - No, Bard... His name is Bard.
+
+634
+01:06:56,227 --> 01:06:57,333
+你怎么知道?
+How do you know?
+
+635
+01:06:57,333 --> 01:07:01,839
+- 我问过他  - 我不管他叫什么 我不喜欢他
+- Ah, I asked him.  - I don't care what he calls himself, I don't like him.
+
+636
+01:07:01,839 --> 01:07:05,463
+我们不用喜欢他 付他钱就好了
+We do not have to like him. We simply have to pay him.
+
+637
+01:07:05,663 --> 01:07:08,593
+好了 兄弟们 把钱都交出来
+Come on now, lads. Turn out your pockets.
+
+638
+01:07:09,577 --> 01:07:12,748
+- 我们怎么知道他不会背叛我们?  - 我们不知道
+- How do we know he won't betray us?  - We don't.
+
+639
+01:07:14,019 --> 01:07:17,094
+嗯... 有点小麻烦
+There's um... just a wee problem.
+
+640
+01:07:17,094 --> 01:07:19,267
+我们还差十个金币
+We are ten coins short.
+
+641
+01:07:20,695 --> 01:07:22,021
+格洛因
+Gloin.
+
+642
+01:07:23,132 --> 01:07:24,880
+别藏了 都交出来
+Come on, give us what you have.
+
+643
+01:07:24,924 --> 01:07:27,024
+看我干嘛
+Don't look to me.
+
+644
+01:07:27,024 --> 01:07:30,996
+这趟冒险要把我榨干了
+I have been bled dry by this venture.
+
+645
+01:07:30,996 --> 01:07:34,163
+我投资的回报呢?
+What have I seen for my investment?
+
+646
+01:07:34,363 --> 01:07:38,008
+除了那些倒霉 糟糕玩意儿 还有...
+Nought but misery, grief, and...
+
+647
+01:07:45,713 --> 01:07:47,881
+老天啊
+Bless, my beard.
+
+648
+01:07:48,293 --> 01:07:49,830
+拿去
+Take it.
+
+649
+01:07:49,830 --> 01:07:52,192
+全拿去
+Take all of it.
+
+650
+01:07:56,111 --> 01:07:57,565
+钱呢 快拿来! 快给我
+The money, quick! Give it to me.
+
+651
+01:07:57,565 --> 01:08:00,169
+等到了地方 我们再付钱 之前免谈
+We will pay you when we get our provisions. But not before.
+
+652
+01:08:00,169 --> 01:08:02,924
+如果你还想要自由之身 就照我说的办
+If you value your freedom, you will do as I say.
+
+653
+01:08:02,924 --> 01:08:05,490
+前面有守卫
+There are guards ahead.
+
+654
+01:08:22,787 --> 01:08:24,288
+嘘 他在干嘛?
+Ssh. What is he doing?
+
+655
+01:08:24,925 --> 01:08:26,617
+他在跟人说话
+He is talking to someone.
+
+656
+01:08:28,568 --> 01:08:30,465
+他... 正指着我们
+He is... pointing right at us.
+
+657
+01:08:33,473 --> 01:08:35,724
+- 他们在握手了  - 什么?
+- Now they're shaking hands.  - What?
+
+658
+01:08:36,284 --> 01:08:38,160
+他把我们给卖了
+He's selling us out.
+
+659
+01:08:58,798 --> 01:09:00,685
+老天啊!
+Oh, good God!
+
+660
+01:09:00,885 --> 01:09:01,885
+安静!
+Quite!
+
+661
+01:09:04,483 --> 01:09:06,129
+我们要过收费站了
+We are approaching the toll gate.
+
+662
+01:09:17,504 --> 01:09:20,075
+停船! 货物检查
+Halt! Goods inspection.
+
+663
+01:09:20,778 --> 01:09:22,570
+请出示文件!
+Papers, please!
+
+664
+01:09:23,404 --> 01:09:26,038
+- 哦 是你啊 巴德!  - 早上好 珀西
+- Oh, it's you, Bard!  - Morning, Percy.
+
+665
+01:09:26,038 --> 01:09:28,731
+- 有什么要报关的吗?  - 没有
+- Anything to declare?  - Nothing,
+
+666
+01:09:28,731 --> 01:09:31,945
+但我又累又冷 很想回家
+but I am cold and tired. I'm ready for home.
+
+667
+01:09:31,945 --> 01:09:34,490
+同感
+You and me, both.
+
+668
+01:09:37,246 --> 01:09:40,097
+就这样 一切都好
+There we are, all in order.
+
+669
+01:09:40,097 --> 01:09:43,151
+先... 等等
+Not... so... fast.
+
+670
+01:09:43,598 --> 01:09:46,193
+受委托从林地王国
+Consignment of empty barrels,
+
+671
+01:09:46,393 --> 01:09:48,319
+运来木桶
+from the Woodland realm.
+
+672
+01:09:48,893 --> 01:09:51,322
+只不过...
+Only...
+
+673
+01:09:51,619 --> 01:09:55,528
+现在桶里有东西 对不对 巴德?
+they are not empty, are they, Bard?
+
+674
+01:09:55,528 --> 01:10:00,024
+如果我记得没错 根据登记 你是个船夫
+If I recall correctly, you're licensed as a bargeman.
+
+675
+01:10:00,252 --> 01:10:02,522
+不是...
+Not...
+
+676
+01:10:02,522 --> 01:10:04,102
+渔民
+a fisherman.
+
+677
+01:10:04,103 --> 01:10:05,886
+那跟你没关系
+That's none of your business.
+
+678
+01:10:06,086 --> 01:10:10,943
+你错了 跟镇长有关的事情 就跟我有关系
+Wrong. It's the Master's business, which makes it my business.
+
+679
+01:10:10,943 --> 01:10:13,887
+哦 得了... 阿尔弗雷德 发发善心 大家还得吃东西呢!
+Oh, come on... Alfrid. Have a heart. People need to eat!
+
+680
+01:10:13,887 --> 01:10:16,907
+这些鱼是非法的
+These fish are illegal.
+
+681
+01:10:17,151 --> 01:10:18,735
+把鱼倒进湖里
+Empty barrels over the side.
+
+682
+01:10:18,735 --> 01:10:20,720
+- 大家都听见了  - 倒进湖里
+- You heard him.  - In the canal.
+
+683
+01:10:21,935 --> 01:10:23,820
+快点... 动手
+Come on... Get a move on.
+
+684
+01:10:24,241 --> 01:10:26,516
+镇上的乡亲们正度日如年
+Folk in this town are struggling.
+
+685
+01:10:26,516 --> 01:10:28,951
+时世艰难 食物短缺
+Times are hard. Food is scarce.
+
+686
+01:10:28,994 --> 01:10:30,754
+那不关我的事
+That's not my problem.
+
+687
+01:10:30,754 --> 01:10:34,461
+要是人们听说镇长把鱼倒回湖里呢?
+And when people hear the Master is dumping fish back in the lake?
+
+688
+01:10:34,661 --> 01:10:36,733
+他们起义怎么办?
+When the rioting starts?
+
+689
+01:10:39,371 --> 01:10:42,137
+那就关你的事了吧?
+Will it be your problem, then?
+
+690
+01:10:45,721 --> 01:10:47,522
+住手!
+Stop!
+
+691
+01:10:50,102 --> 01:10:53,079
+想做英雄是吗 巴德?
+Ever the people's champion, eh, Bard?
+
+692
+01:10:53,079 --> 01:10:56,634
+保护老百姓 他们可能现在会拥护你 但是划船的
+Protector of the common folk. You might have their favor now, bargeman,
+
+693
+01:10:56,634 --> 01:10:58,329
+好景不会太长
+but it won't last.
+
+694
+01:11:01,920 --> 01:11:03,437
+升起闸门!
+Raise the gate!
+
+695
+01:11:06,259 --> 01:11:09,956
+镇长一直盯着你呢 你最好记清楚了
+The Master has his eyes on you. You'll do well to remember.
+
+696
+01:11:09,956 --> 01:11:11,707
+我们知道你的住处
+We know where you live.
+
+697
+01:11:11,707 --> 01:11:12,907
+这是个小镇 阿尔弗雷德
+It's a small town, Alfrid.
+
+698
+01:11:14,161 --> 01:11:17,158
+大家都知道彼此的住处
+Everyone knows where everyone lives.
+
+699
+01:11:32,580 --> 01:11:34,808
+镇上谣言满天飞
+All this talk of civil unrest,
+
+700
+01:11:34,808 --> 01:11:36,980
+有人唯恐天下不乱 大人
+someone's been stirring the pot, Sire.
+
+701
+01:11:40,202 --> 01:11:41,520
+痛风发作了吗 大人?
+Gout playing out, Sire?
+
+702
+01:11:41,554 --> 01:11:43,527
+湿气太重! 只可能是这个原因
+It's the damp! It's the only possible explanation.
+
+703
+01:11:43,727 --> 01:11:45,480
+给我一杯白兰地
+Now, get me a brandy.
+
+704
+01:11:46,639 --> 01:11:49,566
+大人 人们的情绪越来越糟
+The mood of the people, Sire. It's turning ugly.
+
+705
+01:11:49,566 --> 01:11:50,766
+他们不过是小老百姓 阿尔弗雷德
+They are commoners, Alfrid.
+
+706
+01:11:50,889 --> 01:11:52,887
+他们的情绪一直很糟
+They've always been ugly.
+
+707
+01:11:52,887 --> 01:11:57,215
+他们住在这个腥臊烂臭的地方又不是我的错
+It's not my fault they live in a place that stinks of fish, oil and tar.
+
+708
+01:11:57,644 --> 01:12:02,995
+工作 住房... 食物 总有他们抱怨的地方
+Jobs, shelter... food. It's all they ever bleat about.
+
+709
+01:12:02,995 --> 01:12:06,938
+大人 我认为他们是被闹事者鼓动了
+It's my believe, Sire, they're being lead on by troublemakers.
+
+710
+01:12:07,548 --> 01:12:11,894
+我们一定要找到那些闹事者 将他们绳之以法
+Then, we must find these troublemakers. And arrest them.
+
+711
+01:12:11,894 --> 01:12:13,643
+我也是这么想的 大人
+My thoughts exactly, Sire.
+
+712
+01:12:13,637 --> 01:12:17,216
+所有流言必须终结
+And all this talk of a change must be suppressed.
+
+713
+01:12:17,216 --> 01:12:21,037
+我们不能让那群乌合之众联合起来 引发麻烦
+We can't afford to let the rabble band together, start making noises.
+
+714
+01:12:21,037 --> 01:12:24,662
+否则他们下一步就会开始质问我们
+The next thing you know, they will start asking questions,
+
+715
+01:12:24,662 --> 01:12:26,049
+成立委员会
+forming committees.
+
+716
+01:12:27,247 --> 01:12:28,950
+调查我们
+Launching enquiries.
+
+717
+01:12:28,950 --> 01:12:31,843
+或是用新人取代老人
+Out with the old, in with the new.
+
+718
+01:12:32,043 --> 01:12:33,043
+什么?
+What?
+
+719
+01:12:33,441 --> 01:12:35,297
+这是我听说的 大人
+That's what I've been saying, Sire.
+
+720
+01:12:35,297 --> 01:12:38,956
+- 他们甚至在讨论... 改选  - 改选?
+- There is even talk... of an election.  - An election?
+
+721
+01:12:39,430 --> 01:12:42,566
+荒唐可笑! 我绝对不会支持
+That's absurd! I won't stand for it.
+
+722
+01:12:43,816 --> 01:12:45,884
+恐怕他们不会过问您的意见 大人
+I don't think they'd ask you to stand, Sire.
+
+723
+01:12:48,759 --> 01:12:51,071
+缩头乌龟 忘恩负义!
+Shirkers, ingrates!
+
+724
+01:12:51,071 --> 01:12:52,170
+蛊惑人心的家伙!
+Rabble rousers!
+
+725
+01:12:52,170 --> 01:12:55,715
+是谁胆敢质疑我的权威?
+Who would have the nerve to question my authority?
+
+726
+01:12:55,915 --> 01:12:58,903
+谁敢! 是谁?
+Who would dare! Who?
+
+727
+01:13:03,062 --> 01:13:05,049
+巴德!
+Bard!
+
+728
+01:13:05,049 --> 01:13:10,334
+你记着... 这个船夫一定是谣言背后的主谋
+You mark my words, that... trouble making bargeman is behind all this.
+
+729
+01:13:17,768 --> 01:13:19,779
+把手拿开!
+Get your hands off me!
+
+730
+01:13:26,465 --> 01:13:28,736
+你没见过他们 他们也从没来过
+You didn't see them. They were never here.
+
+731
+01:13:29,710 --> 01:13:31,741
+这些鱼白送给你了
+The fish, you can have for nothing.
+
+732
+01:13:34,445 --> 01:13:35,549
+跟我来!
+Follow me!
+
+733
+01:13:44,896 --> 01:13:46,054
+爸!
+Da!
+
+734
+01:13:46,578 --> 01:13:49,091
+我们家... 被人监视了!
+Our house... It's being watched!
+
+735
+01:14:24,742 --> 01:14:26,841
+你可以告诉镇长 我今天的工作都完成了
+You can tell the Master I am done for the day.
+
+736
+01:14:27,953 --> 01:14:29,549
+爸!
+Da!
+
+737
+01:14:29,592 --> 01:14:30,885
+你去哪里了?
+Where have you been?
+
+738
+01:14:31,085 --> 01:14:34,120
+父亲 你回来了! 我担心死了
+Father, there you are! I was worried.
+
+739
+01:14:34,120 --> 01:14:35,358
+给你 西格丽德
+Here, Sigrid.
+
+740
+01:14:36,146 --> 01:14:37,653
+巴恩 让他们进来
+Bain, get them in.
+
+741
+01:14:45,115 --> 01:14:49,529
+如果你跟任何人说起这事 我就把你的手拧下来!
+If you speak of this to anyone, I'll rip your hands off!
+
+742
+01:14:52,137 --> 01:14:53,672
+别碰我
+Get it off.
+
+743
+01:14:55,075 --> 01:14:56,589
+从那上去
+Up there.
+
+744
+01:15:04,786 --> 01:15:07,383
+爸 为什么这些矮人会从我们的马桶里爬出来?
+Da, why the dwarves climbing out of our toilet?
+
+745
+01:15:07,383 --> 01:15:09,461
+他们会给我们带来好运吗?
+Will they bring us luck?
+
+746
+01:15:12,927 --> 01:15:15,886
+衣服可能不怎么合身 但能让你们暖和起来
+They may not be the best fit, but they will keep you warm.
+
+747
+01:15:16,086 --> 01:15:18,534
+没有关系 谢谢
+Oh, it's fine. Thank you.
+
+748
+01:15:28,308 --> 01:15:30,971
+矮人的风弩!
+The dwarvish wind-lance!
+
+749
+01:15:30,971 --> 01:15:32,171
+你看上去像见到鬼了
+You look like you've seen a ghost.
+
+750
+01:15:33,355 --> 01:15:35,523
+确实是
+He has.
+
+751
+01:15:35,564 --> 01:15:38,456
+我们最后一次看到这种弓弩时
+The last time we saw such a weapon,
+
+752
+01:15:38,656 --> 01:15:41,729
+镇上烽火四起
+the city was on fire.
+
+753
+01:15:42,288 --> 01:15:44,351
+巨龙到来的那天
+It was the day the dragon came.
+
+754
+01:15:47,674 --> 01:15:50,391
+也是史矛革摧毁长湖镇的那天
+The day that Smaug destroyed Dale.
+
+755
+01:15:52,891 --> 01:15:57,843
+长湖镇长吉瑞安 召集他的弓箭手齐力进攻巨龙
+Girion, the lord of the city, rallied his bowmen to fire upon the beast.
+
+756
+01:15:58,346 --> 01:16:02,850
+但龙的鳞甲非常坚硬 比最结实的战甲还要坚硬
+But, a dragon's hide is tough. Tougher than the strongest armor.
+
+757
+01:16:03,529 --> 01:16:06,864
+只有用风弩发射的黑箭
+Only a black arrow fired from a wind-lance
+
+758
+01:16:06,864 --> 01:16:09,572
+才能穿透龙甲
+could have pierced the dragon's hide.
+
+759
+01:16:09,572 --> 01:16:12,913
+但这种箭却很稀少
+And few of those arrows were ever made.
+
+760
+01:16:17,952 --> 01:16:22,742
+当吉瑞安发起最后一击时 这种箭已经所剩无几
+The store was running low when Girion made his last attempt.
+
+761
+01:16:29,189 --> 01:16:32,224
+如果那天吉瑞安真的射中了龙
+The aim of men had been true that day,
+
+762
+01:16:33,136 --> 01:16:35,335
+一切都会不同了
+much would be different.
+
+763
+01:16:38,957 --> 01:16:41,221
+说得好像你当时在场似的
+You speak as if you were there.
+
+764
+01:16:42,437 --> 01:16:44,772
+所有矮人都知道这个传说
+All dwarves know the tale.
+
+765
+01:16:44,772 --> 01:16:47,278
+那你应该知道吉瑞安射中了巨龙
+And, you would know that Girion hit the dragon.
+
+766
+01:16:47,478 --> 01:16:49,441
+他在龙的左翼留下了一处伤疤
+He loosened a scale under the left wing.
+
+767
+01:16:49,441 --> 01:16:51,629
+再多一击 就可以杀死巨龙
+One more shot and he would have killed the beast.
+
+768
+01:16:52,575 --> 01:16:56,015
+这只是一个传说 仅此而已
+That's a fairy story, lad. Nothing more.
+
+769
+01:16:57,054 --> 01:16:59,462
+你收了我们的钱
+You took our money.
+
+770
+01:16:59,498 --> 01:17:01,996
+那我们的武器呢?
+Where are the weapons?
+
+771
+01:17:03,312 --> 01:17:04,897
+在这等着
+Wait here.
+
+772
+01:17:19,471 --> 01:17:21,305
+明天就是秋天的最后一天了
+Tomorrow begins the last days of Autumn.
+
+773
+01:17:21,305 --> 01:17:23,777
+都灵之日从后天早上开始
+Durin's day falls the morning after next.
+
+774
+01:17:23,977 --> 01:17:26,165
+我们必须在那之前赶到孤山
+We must reach the mountain before then.
+
+775
+01:17:26,165 --> 01:17:27,502
+要是我们没赶上呢?
+And, if we do not?
+
+776
+01:17:27,702 --> 01:17:30,703
+如果在时限之前 我们没能找到秘门
+If we fail to find the hidden door before that time,
+
+777
+01:17:30,703 --> 01:17:32,535
+那这次远征就毫无意义了
+then this quest has been for nothing.
+
+778
+01:17:44,056 --> 01:17:47,063
+- 这是什么?  - 长矛钩
+- What is this?  - Pike hook.
+
+779
+01:17:47,722 --> 01:17:49,170
+用旧鱼叉改造的
+Made from an old harpoon.
+
+780
+01:17:49,344 --> 01:17:51,146
+- 这个呢?  - 我们叫它"柄锤"
+- And this?  - A crowbill, we call it.
+
+781
+01:17:51,185 --> 01:17:53,058
+照着铁匠铺的锤子打造的
+Fashioned from a smithy's hammer.
+
+782
+01:17:53,258 --> 01:17:54,969
+它拿在手里有些沉 但是...
+It's heavy in hand, I grand. But...
+
+783
+01:17:54,969 --> 01:17:58,240
+自卫之时 聊胜于无
+In defense of your life, these will serve you better than none.
+
+784
+01:17:58,240 --> 01:18:01,070
+我们给你钱是买武器的
+We paid you for weapons.
+
+785
+01:18:01,270 --> 01:18:04,255
+我们要的是真刀实枪的铁家伙!
+Iron forged, swords and axes!
+
+786
+01:18:04,455 --> 01:18:06,134
+这简直是儿戏!
+It's a joke!
+
+787
+01:18:07,360 --> 01:18:10,134
+在镇上兵器库之外 你找不到更好的了
+You won't find better outside the city armory.
+
+788
+01:18:10,134 --> 01:18:12,965
+所有的真家伙都被锁在兵器库里了
+All iron forged weapons are held there under lock and key.
+
+789
+01:18:12,965 --> 01:18:16,784
+索林 我们何不带上这些家伙什儿去偷呢?
+Thorin, why not take what's on offer and go?
+
+790
+01:18:16,784 --> 01:18:19,143
+我赤手空拳都可以 你们也是
+I've made do with less, so have you.
+
+791
+01:18:21,385 --> 01:18:24,109
+- 要我说 我们现在就出发  - 你们哪也不能去!
+- I say, we leave now.  - You're not going anywhere!
+
+792
+01:18:24,109 --> 01:18:26,554
+- 你说什么?  - 有探子在监视这所房子
+- What did you say?  - There are spies watching this house,
+
+793
+01:18:26,554 --> 01:18:29,081
+甚至镇上所有码头都可能被监视了
+and probably every dock and wharf in the town.
+
+794
+01:18:30,057 --> 01:18:31,822
+你们必须要等到天黑
+You must wait till nightfall.
+
+795
+01:18:48,035 --> 01:18:49,789
+索林
+Thorin.
+
+796
+01:19:02,449 --> 01:19:04,129
+爸?
+Da?
+
+797
+01:19:06,519 --> 01:19:08,418
+别让他们离开
+Don't let them leave.
+
+798
+01:19:33,394 --> 01:19:35,128
+{\fn方正苏新诗柳楷简体\fs23}我以为你是奥克斯
+
+799
+01:19:35,596 --> 01:19:36,991
+{\fn方正苏新诗柳楷简体\fs23}如果我是奥克斯...
+
+800
+01:19:37,500 --> 01:19:38,654
+{\fn方正苏新诗柳楷简体\fs23}你早就死了
+
+801
+01:19:40,242 --> 01:19:41,844
+陶瑞尔...
+Tauriel...
+
+802
+01:19:42,044 --> 01:19:45,521
+你不可能凭一己之力猎杀三十个奥克斯
+You cannot hunt thirty orcs on your own.
+
+803
+01:19:45,521 --> 01:19:47,559
+但我不是一个人在战斗
+But I'm not on my own.
+
+804
+01:19:48,320 --> 01:19:50,297
+你知道我会跟来的
+You knew I would come.
+
+805
+01:19:52,019 --> 01:19:53,996
+国王很生气 陶瑞尔
+The King is angry, Tauriel.
+
+806
+01:19:54,444 --> 01:19:57,700
+六百年来 我父亲一直保护你 宠爱你...
+For 600 years my father has protected you, favoured you...
+
+807
+01:19:57,738 --> 01:20:01,079
+你却违抗了他的命令 背叛了他的信任
+you defied his orders. You betrayed his trust.
+
+808
+01:20:02,958 --> 01:20:04,293
+{\fn方正苏新诗柳楷简体\fs23}跟我回去吧...
+
+809
+01:20:04,293 --> 01:20:06,272
+{\fn方正苏新诗柳楷简体\fs23}他会原谅你的
+
+810
+01:20:06,292 --> 01:20:07,585
+{\fn方正苏新诗柳楷简体\fs23}如果我回去
+
+811
+01:20:07,894 --> 01:20:10,673
+{\fn方正苏新诗柳楷简体\fs23}我不会原谅自己
+
+812
+01:20:11,053 --> 01:20:14,165
+国王从未允许奥克斯进入我们的家园
+The King has never let orc filth roam our lands.
+
+813
+01:20:14,165 --> 01:20:17,551
+这次他却允许奥克斯越过我们的边境 追杀我们的囚徒
+But he would let these orc packs cross our borders and kill our prisoners.
+
+814
+01:20:17,751 --> 01:20:19,151
+这不是我们的战斗
+It is not our fight.
+
+815
+01:20:19,151 --> 01:20:20,291
+这就是我们的战斗
+It is our fight.
+
+816
+01:20:21,057 --> 01:20:23,106
+它不会就此结束
+It will not end here.
+
+817
+01:20:23,106 --> 01:20:26,083
+它们每胜利一次 邪恶就会增长一分
+With every victory, this evil will grow.
+
+818
+01:20:26,409 --> 01:20:29,313
+如果你父王固执已见 我们也束手无策
+If your father has his way, we will do nothing.
+
+819
+01:20:29,313 --> 01:20:31,469
+我们只能东躲西藏
+We will hide withing our walls.
+
+820
+01:20:31,469 --> 01:20:34,384
+过着暗无天日的生活...
+Live our lives away from the light...
+
+821
+01:20:34,384 --> 01:20:36,577
+放任邪恶胡作非为
+and let darkness descend.
+
+822
+01:20:37,315 --> 01:20:39,975
+我们不是这个世界的一份子吗?
+Are we not part of this world?
+
+823
+01:20:40,850 --> 01:20:42,295
+告诉我 {\fn方正苏新诗柳楷简体\fs22}朋友
+Tell me, <i>mellon</i>,
+
+824
+01:20:42,295 --> 01:20:45,368
+我们何曾允许邪恶凌驾于我们?
+When did we let evil become stronger than us?
+
+825
+01:20:50,394 --> 01:20:52,836
+你好 巴德 你在找什么?
+Hello Bard, who are you after?
+
+826
+01:20:54,457 --> 01:20:55,997
+这里曾经有一块挂毯
+There was a tapestry.
+
+827
+01:20:56,217 --> 01:20:57,447
+很古老的那种
+An old one.
+
+828
+01:20:57,721 --> 01:21:00,160
+- 哪去了?  - 你说的是什么挂毯?
+- Where is it gone?  - What tapestry are you talking about?
+
+829
+01:21:00,766 --> 01:21:01,687
+就是这个!
+This one!
+
+830
+01:21:01,887 --> 01:21:05,215
+我跟你们说 他们是凭空冒出来的一群矮人
+They were dwarves I tell you. Appeared out of nowhere.
+
+831
+01:21:05,215 --> 01:21:08,787
+满脸络腮胡子 个子很矮 我从没见过长那样的人
+Full beards, fierce eyes. I've never seen the like.
+
+832
+01:21:09,397 --> 01:21:13,034
+- 矮人到我们这里来干什么?  - 这是预言
+- What are dwarves doing in these parts?  - It's the prophecy.
+
+833
+01:21:13,034 --> 01:21:16,583
+- 什么预言?  - 关于都灵族矮人的预言
+- What prophecy?  - Prophecy of Durin's folk.
+
+834
+01:21:24,316 --> 01:21:26,553
+预言?
+Prophecy?
+
+835
+01:21:29,807 --> 01:21:30,875
+预言
+Prophecy.
+
+836
+01:21:30,875 --> 01:21:32,900
+那个古老的传说看来是真的了
+The old tales may come true.
+
+837
+01:21:32,900 --> 01:21:35,096
+巨额的金银财宝!
+Vast golds and treasure!
+
+838
+01:21:35,096 --> 01:21:38,859
+真的吗? 银泉之王要回归了吗?
+Can it really be true? Has the Lord of Silver Fountains returned?
+
+839
+01:21:39,773 --> 01:21:42,713
+银泉之王
+The Lord of Silver Fountains.
+
+840
+01:21:42,713 --> 01:21:44,968
+石雕之王
+The King of Carven Stone.
+
+841
+01:21:46,797 --> 01:21:49,615
+孤山之王...
+The king beneath the mountain...
+
+842
+01:21:49,615 --> 01:21:51,959
+将回归他的王国
+shall come into his own.
+
+843
+01:21:53,164 --> 01:21:57,507
+欢乐的钟声将会响起 庆祝孤山之王的回归
+And the bells shall ring in gladness at the Mountain King's return.
+
+844
+01:21:58,014 --> 01:22:00,787
+然而世间万物将化为乌有
+But all shall fade in sadness.
+
+845
+01:22:01,215 --> 01:22:05,061
+长湖镇终将生灵涂炭
+And the lake will shine and burn.
+
+846
+01:22:06,396 --> 01:22:09,639
+- 爸 我已经尽力阻止他们了  - 他们离开多久了?!
+- Da, I tried to stop them.  - How long have they been gone?!
+
+847
+01:22:14,138 --> 01:22:15,653
+嘘 小声点
+Shh. Keep it down.
+
+848
+01:22:15,653 --> 01:22:18,350
+我们一拿到武器就直接往孤山赶
+As soon as we have the weapons, we'll make straight for the mountain.
+
+849
+01:22:18,550 --> 01:22:19,550
+快... 快... 快!
+Go... go... go!
+
+850
+01:22:24,559 --> 01:22:25,690
+下一个!
+Next!
+
+851
+01:22:38,933 --> 01:22:42,524
+- 你行吗?  - 没问题
+- Are you alright?  - I can manage.
+
+852
+01:22:42,524 --> 01:22:43,724
+赶紧离开这里
+Let's just get out of here.
+
+853
+01:22:58,098 --> 01:22:59,210
+快跑!
+Run!
+
+854
+01:23:28,678 --> 01:23:30,503
+这是什么情况?
+What is the meaning of this?
+
+855
+01:23:30,703 --> 01:23:32,687
+我们当场抓住了偷兵器的 大人
+We caught them stealing weapons, Sire.
+
+856
+01:23:32,687 --> 01:23:35,826
+哦 我们的敌人... 嗯?
+Ah, enemies of the state... eh?
+
+857
+01:23:35,826 --> 01:23:39,088
+他们可能是一群雇佣兵 大人
+A desperate bunch of mercenaries, if ever there was, Sire.
+
+858
+01:23:39,088 --> 01:23:40,777
+闭嘴!
+Hold your tongue!
+
+859
+01:23:42,945 --> 01:23:45,745
+你知不知道你在跟谁说话!
+You do not know to whom you speak!
+
+860
+01:23:45,745 --> 01:23:47,750
+这可不是寻常的小偷
+This is no common criminal.
+
+861
+01:23:47,750 --> 01:23:51,243
+他是索林 是瑟莱因之子...
+This is Thorin. Son of Thrain...
+
+862
+01:23:51,243 --> 01:23:52,443
+瑟罗尔之孙
+Son of Thror.
+
+863
+01:23:55,705 --> 01:23:58,182
+我们是埃雷勃的矮人
+We are the dwarves of Erebor.
+
+864
+01:24:00,179 --> 01:24:03,163
+我们来重夺我们的家园
+We have come to reclaim our homeland.
+
+865
+01:24:08,517 --> 01:24:11,630
+我还记得长湖镇昔日繁华的盛景
+I remember this town in the great days of old.
+
+866
+01:24:12,666 --> 01:24:17,326
+港口停泊着满载丝绸和宝石的船队
+Fleets of boats lay at harbor, filled with silks and fine gems.
+
+867
+01:24:17,326 --> 01:24:20,201
+那时的长湖镇丝毫不显破败...
+This was no forsaken town on a lake...
+
+868
+01:24:20,401 --> 01:24:24,810
+这里曾是整个北方的贸易中心
+This was the center of all trade in the north.
+
+869
+01:24:25,831 --> 01:24:27,905
+我希望看到繁华再现
+I will see those days returned.
+
+870
+01:24:27,905 --> 01:24:30,438
+我希望重振矮人族的雄风
+I would relight the great forges of the dwarves
+
+871
+01:24:30,849 --> 01:24:34,884
+让财富再次从埃雷勃的大殿内流淌出来!
+and send wealth and riches flowing once more from the halls of Erebor!
+
+872
+01:24:37,562 --> 01:24:38,903
+死亡!
+Death!
+
+873
+01:24:38,903 --> 01:24:41,583
+这才是你将带给我们的
+That is what you will bring upon us.
+
+874
+01:24:42,027 --> 01:24:44,983
+毁灭一切的龙焰
+Dragon fire and ruin.
+
+875
+01:24:46,244 --> 01:24:48,718
+如果你惊醒了那头巨兽
+If you awaken that beast,
+
+876
+01:24:49,230 --> 01:24:50,783
+它会杀光我们所有人
+it will destroy us all.
+
+877
+01:24:50,982 --> 01:24:54,631
+你们也可以听这个唱反调的 但我向你们保证
+You can listen to this naysayer, but I promise you this:
+
+878
+01:24:57,150 --> 01:24:58,579
+如果我们成功了
+If we succeed,
+
+879
+01:24:59,895 --> 01:25:03,194
+我们将共享孤山的财富
+all will share in the wealth of the mountain.
+
+880
+01:25:06,970 --> 01:25:11,408
+你们将拥有黄金万两 足以重建埃斯加洛斯十次!
+You will have enough gold to rebuild Esgaroth ten times over!
+
+881
+01:25:13,269 --> 01:25:16,039
+各位 请听我说!
+All of you, listen to me!
+
+882
+01:25:16,039 --> 01:25:19,574
+请务必听我说 大家忘了曾经发生在长湖镇的事了吗?
+You must listen. Have you forgotten what happened to Dale?
+
+883
+01:25:21,221 --> 01:25:23,879
+难道忘了那些葬身火海的人了吗?
+Have you forgotten those who died in the firestorm?
+
+884
+01:25:24,037 --> 01:25:25,037
+没有!
+No!
+
+885
+01:25:26,438 --> 01:25:28,124
+这个人为什么要重返孤山?
+And for what purpose?
+
+886
+01:25:28,957 --> 01:25:31,680
+是因为他那想成为孤山之王的野心
+The blind ambition of a Mountain King,
+
+887
+01:25:31,680 --> 01:25:35,581
+他被贪婪驱使 被自身的渴望蒙蔽了双眼!
+so driven by greed, he could not see beyond his own desire!
+
+888
+01:25:37,259 --> 01:25:43,646
+安静 安静! 大伙儿谁都别急着推卸责任
+Now, now! We must not, any of us, be too quick to lay blame.
+
+889
+01:25:44,599 --> 01:25:49,157
+大家别忘了 是长湖镇长吉瑞安
+Let us not forget, that it was Girion, lord of Dale,
+
+890
+01:25:49,157 --> 01:25:53,609
+也就是你的祖先没能把龙杀死!
+your ancestor, who failed to kill the beast!
+
+891
+01:25:56,297 --> 01:25:59,536
+他是对的 大人 我们都知道这个故事
+He is true, Sire. We all know the story.
+
+892
+01:26:00,282 --> 01:26:05,924
+他射了一箭又一箭 但都没能命中
+Arrow after arrow, he shot. Each one missing it's mark.
+
+893
+01:26:12,326 --> 01:26:13,882
+你没有权力
+You have no right.
+
+894
+01:26:15,223 --> 01:26:17,266
+没有权力进山
+No right to enter that mountain.
+
+895
+01:26:19,006 --> 01:26:21,667
+我是唯一有权力进去的
+I have the only right.
+
+896
+01:26:27,293 --> 01:26:30,626
+敢问长湖镇镇长
+I speak to the Master of the men of the lake.
+
+897
+01:26:30,626 --> 01:26:32,619
+你愿意看到预言成真吗?
+Will you see the prophecy fulfilled?
+
+898
+01:26:34,136 --> 01:26:39,736
+你愿意分享我族的巨大财富吗?
+Will you share in the great wealth of our people?
+
+899
+01:26:44,089 --> 01:26:46,071
+你说呢?
+What say you?
+
+900
+01:26:49,253 --> 01:26:52,755
+我会对你说...
+I say unto you...
+
+901
+01:26:53,658 --> 01:26:55,628
+欢迎!
+welcome!
+
+902
+01:26:55,628 --> 01:27:01,063
+欢迎归来! 欢迎孤山之王!
+Welcome and rise! Welcome, King Under the Mountain!
+
+903
+01:27:12,815 --> 01:27:14,225
+你知道我们少了一个人吧?
+You do know we're one short?
+
+904
+01:27:14,225 --> 01:27:16,775
+- 波弗在哪?  - 他不在这 我们要把他留下
+- Where is Bofur?  - He is not here, we'll leave him behind.
+
+905
+01:27:16,775 --> 01:27:17,975
+我们必须如此
+We will have to,
+
+906
+01:27:18,021 --> 01:27:21,431
+才能在黄昏前找到大门 我们耽搁不起了
+if we are to find the door before nightfall. We can risk no more delays.
+
+907
+01:27:26,305 --> 01:27:27,458
+你不能上
+Not you.
+
+908
+01:27:27,658 --> 01:27:30,424
+我们必须快速前进 你会拖慢我们
+We must travel at speed. You will slow us down.
+
+909
+01:27:31,330 --> 01:27:33,273
+你说什么呢? 我要跟你们一起走
+What are you talking about? I'm coming with you.
+
+910
+01:27:33,273 --> 01:27:34,273
+不 不行
+No, no.
+
+911
+01:27:39,761 --> 01:27:42,047
+大门开启时我要在场
+I'm going to be there when that door's opened.
+
+912
+01:27:42,047 --> 01:27:44,405
+当看到父辈的大厅时我要在场 索林...
+When we first look upon the halls of our fathers, Thorin...
+
+913
+01:27:44,405 --> 01:27:48,965
+基利 留在这... 好好休息
+Kili, stay here... rest.
+
+914
+01:27:48,965 --> 01:27:51,168
+痊愈了之后再加入我们
+Join us when you're healed.
+
+915
+01:27:56,523 --> 01:27:59,750
+我要跟他一起 我的任务是照顾病人
+I'll stay with the lad. My duty lies with the wounded.
+
+916
+01:27:59,750 --> 01:28:00,950
+舅舅...
+Uncle...
+
+917
+01:28:01,697 --> 01:28:04,912
+我们听着孤山的故事长大 是你告诉我们的...
+we grew up on tales of the mountain. Tales you told us...
+
+918
+01:28:04,957 --> 01:28:06,779
+你不能剥夺他亲眼见证的机会
+You cannot take that away from him.
+
+919
+01:28:06,779 --> 01:28:08,602
+- 菲利  - 必要的话 我可以背着他
+- Fili.  - I will carry him, if I must.
+
+920
+01:28:08,602 --> 01:28:11,279
+等你有天成为了国王 你就明白了
+One day you will be King and you will understand.
+
+921
+01:28:11,849 --> 01:28:15,204
+我不能为了一个矮人而置远征的结果于不顾
+I cannot risk the fate of this quest for the sake of one dwarf.
+
+922
+01:28:16,130 --> 01:28:18,331
+是我的亲人也不行
+Not even my own kin.
+
+923
+01:28:21,864 --> 01:28:25,224
+菲利 别傻了 你应该跟大伙一起
+Fili, don't be a fool. You belong with the company.
+
+924
+01:28:25,224 --> 01:28:26,474
+我要跟弟弟在一起
+I belong with my brother.
+
+925
+01:28:38,414 --> 01:28:41,942
+天啊! 时间到了!
+By my beard! Is that the time!
+
+926
+01:28:43,227 --> 01:28:46,375
+带着我们的祝福上路吧
+Go now with our good will.
+
+927
+01:28:48,558 --> 01:28:54,236
+- 愿你们带着财富归来与众共享!  - 等等!
+- and may your return bring fortune to all! - Wait!
+
+928
+01:28:58,080 --> 01:28:59,634
+再见!
+Goodbye!
+
+929
+01:29:14,940 --> 01:29:16,823
+你们也错过上船时间了吗?
+Did you miss the boat as well?
+
+930
+01:29:16,823 --> 01:29:18,023
+基利? 基利!
+Kili? Kili!
+
+931
+01:29:21,533 --> 01:29:25,033
+不 我受够矮人了 走开!
+No. I am done with dwarves. Go away!
+
+932
+01:29:25,378 --> 01:29:26,850
+别 别 求你了!
+No, no. Please!
+
+933
+01:29:26,885 --> 01:29:28,938
+没人帮助我们 基利病了
+No one will help us. Kili is sick.
+
+934
+01:29:31,568 --> 01:29:33,474
+病得非常严重
+He is very sick.
+
+935
+01:30:13,399 --> 01:30:15,329
+这是什么地方?
+What is this place?
+
+936
+01:30:15,329 --> 01:30:17,604
+曾经是河谷城所在
+It was once the city of Dale.
+
+937
+01:30:18,591 --> 01:30:20,121
+现在只是一片废墟
+Now, it is a ruin.
+
+938
+01:30:21,020 --> 01:30:25,407
+- 史矛革荒漠  - 太阳快到中天了
+- The Desolation of Smaug.  - The sun will soon reached mid-day.
+
+939
+01:30:25,407 --> 01:30:28,326
+在太阳下山之前 我们必须找到进山的秘门
+We must find the hidden door into the mountain before it sets.
+
+940
+01:30:28,326 --> 01:30:31,234
+- 这边!  - 慢着 这是... 望城之处吗?
+- This way!  - Wait. Is this... the overlook?
+
+941
+01:30:31,434 --> 01:30:35,268
+- 甘道夫说在这里会和 千万别自己...  - 你看到他了吗?
+- Gandalf said to meet him here, on no account were we to...  - Do you see him?
+
+942
+01:30:35,268 --> 01:30:37,697
+我们没时间等巫师了
+We have no time to wait on our wizard.
+
+943
+01:30:37,897 --> 01:30:39,780
+我们得靠自己了 走吧!
+We are on our own. Come!
+
+944
+01:30:56,774 --> 01:30:58,945
+多尔古多
+Dol Guldur.
+
+945
+01:30:58,945 --> 01:31:01,248
+法师的巢穴
+The hill of sorcerer.
+
+946
+01:31:01,248 --> 01:31:03,607
+看起来完全荒废了
+It looks completely abandoned.
+
+947
+01:31:03,607 --> 01:31:05,651
+本该如此
+As it is meant to.
+
+948
+01:31:06,388 --> 01:31:09,958
+这个地方被施了封锁咒
+A spell of concealment lies over this place.
+
+949
+01:31:10,158 --> 01:31:13,967
+说明大敌尚未准备好显露真身
+Which means our Enemy is not yet ready to reveal himself.
+
+950
+01:31:16,179 --> 01:31:20,308
+他还没有完全恢复力量
+He has not regained his full strength.
+
+951
+01:31:20,308 --> 01:31:23,552
+拉达加斯特 我需要你带信给加拉德瑞尔女士
+Radagast, I need you to carry a message to Lady Galadriel.
+
+952
+01:31:23,552 --> 01:31:26,143
+告诉她 我们必须逼他出手
+Tell her, we must force his hand.
+
+953
+01:31:26,343 --> 01:31:28,716
+- 什么意思?  - 我要一个人进去
+- What do you mean?  - I am going in alone.
+
+954
+01:31:29,294 --> 01:31:31,835
+千万不要跟着我
+On no account come after me.
+
+955
+01:31:37,722 --> 01:31:41,532
+- 保证吗?  - 好 好... 我保证
+- Do I have your word?  - Yes, yes... yes.
+
+956
+01:31:53,362 --> 01:31:55,060
+甘道夫 等等!
+Wait Gandalf!
+
+957
+01:31:56,060 --> 01:31:57,955
+如果是陷阱怎么办?
+What if it's a trap?
+
+958
+01:31:58,845 --> 01:32:00,718
+转过身去...
+Turn around...
+
+959
+01:32:00,753 --> 01:32:03,393
+不要回头
+and do not come back.
+
+960
+01:32:07,540 --> 01:32:11,187
+这无疑是个陷阱
+It's undoubtedly a trap.
+
+961
+01:32:44,583 --> 01:32:47,942
+{\fn方正硬笔行书简体\fs23}藏匿于此的恶魔...
+
+962
+01:32:48,885 --> 01:32:51,385
+{\fn方正硬笔行书简体\fs23}我命你现身!
+
+963
+01:32:52,487 --> 01:32:55,123
+{\fn方正硬笔行书简体\fs23}我命你现出真身!
+
+964
+01:33:10,059 --> 01:33:13,721
+<i>Ce na ulco sis nurtaina...</i>
+{\fn方正硬笔行书简体\fs23}藏匿于此的恶魔...
+
+965
+01:33:13,721 --> 01:33:16,772
+<i>I ettuluvas caninye!</i>
+{\fn方正硬笔行书简体\fs23}我命你现身!
+
+966
+01:33:16,851 --> 01:33:19,303
+{\fn方正姚体}巫师来了
+
+967
+01:33:19,684 --> 01:33:21,555
+{\fn方正姚体}他在解除咒语...
+
+968
+01:33:21,925 --> 01:33:23,255
+{\fn方正姚体}他会找到我们的!
+
+969
+01:33:23,757 --> 01:33:26,519
+{\fn方正姚体}没错... 他会的
+
+970
+01:33:33,321 --> 01:33:35,728
+- 找到了吗?!  - 没有!
+- Anything?!  - Nothing!
+
+971
+01:33:39,689 --> 01:33:43,899
+如果地图是真的 秘门就在我们正上方
+If the map is true, the hidden door lies directly above us.
+
+972
+01:33:48,876 --> 01:33:50,503
+在上面!
+Up here!
+
+973
+01:33:58,683 --> 01:34:01,526
+眼睛很敏锐啊 巴金斯老爷
+You have keen eyes, Master Baggins.
+
+974
+01:34:33,039 --> 01:34:34,131
+肯定就是它了
+This must be it.
+
+975
+01:34:36,318 --> 01:34:37,774
+隐蔽之门
+The hidden door.
+
+976
+01:34:42,029 --> 01:34:46,710
+让那些怀疑我们的人 后悔去吧!
+Let all those who doubted us, rue this day!
+
+977
+01:34:52,019 --> 01:34:54,672
+嘿 我们有钥匙
+Hey, we have a key.
+
+978
+01:34:56,284 --> 01:35:00,253
+也就是说 某处有个锁眼
+Which means, there'is somewhere there is a key hole.
+
+979
+01:35:01,006 --> 01:35:04,389
+都灵之日的最后一束光...
+The last light of Durin's day...
+
+980
+01:35:05,771 --> 01:35:07,722
+将会照射在锁眼之上
+will shine upon the keyhole.
+
+981
+01:35:17,428 --> 01:35:18,490
+- 诺里  - 好
+- Nori.  - Yeah.
+
+982
+01:35:25,318 --> 01:35:27,176
+光线要消失了 快!
+We are losing the light, come on!
+
+983
+01:35:33,717 --> 01:35:36,334
+安静 你拳打脚踢的 我听不清!
+Be quiet. I can't hear when you're thumping!
+
+984
+01:35:36,334 --> 01:35:37,347
+我找不到!
+I can't find it!
+
+985
+01:35:38,964 --> 01:35:41,707
+不在这! 根本不在这!
+It's not here! It's not here!
+
+986
+01:35:43,049 --> 01:35:44,206
+把门砸开!
+Break it down!
+
+987
+01:35:46,407 --> 01:35:47,654
+加把劲!
+Come on!
+
+988
+01:35:50,537 --> 01:35:51,940
+日光消失了
+We lost the light.
+
+989
+01:35:52,473 --> 01:35:53,642
+没用的!
+It's no good!
+
+990
+01:35:53,642 --> 01:35:56,955
+门被封闭了 用蛮力是打不开的!
+The door is sealed. It can't be opened by force!
+
+991
+01:35:58,025 --> 01:35:59,705
+上面有强大的魔法
+Powerful magic on it.
+
+992
+01:36:08,950 --> 01:36:10,044
+不可能!
+No!
+
+993
+01:36:15,354 --> 01:36:17,755
+"都灵之日的最后一束光
+"The last light of Durin's day,
+
+994
+01:36:19,335 --> 01:36:20,858
+将会照射在锁眼之上"
+will shine upon the keyhole."
+
+995
+01:36:25,622 --> 01:36:27,995
+上面就是这么说的
+That is what it says.
+
+996
+01:36:31,474 --> 01:36:33,181
+我们遗漏了什么?
+What did we miss?
+
+997
+01:36:36,614 --> 01:36:39,003
+我们漏了什么?
+What did we miss?
+
+998
+01:36:39,203 --> 01:36:40,203
+巴林?
+Balin?
+
+999
+01:36:40,938 --> 01:36:42,690
+光已经消失了
+We have lost the light.
+
+1000
+01:36:44,889 --> 01:36:47,727
+我们无能为力
+There is no more to be done.
+
+1001
+01:36:48,401 --> 01:36:50,136
+我们只有一次机会
+We had but one chance.
+
+1002
+01:36:53,109 --> 01:36:56,116
+走吧 大伙 我们走
+Come away, lads. Let's move on.
+
+1003
+01:36:57,221 --> 01:36:58,631
+等等 干嘛...
+Wait a minute. What...
+
+1004
+01:37:01,967 --> 01:37:03,213
+他们去哪啊?
+Where are they going?
+
+1
+01:37:05,225 --> 01:37:07,386
+不能现在放弃!
+You can't give up now!
+
+2
+01:37:21,867 --> 01:37:23,357
+索林...
+Thorin...
+
+3
+01:37:25,195 --> 01:37:27,329
+现在不能放弃
+you can't give up now.
+
+4
+01:37:38,375 --> 01:37:44,696
+画眉鸟敲击之时 站在灰色石头旁
+Stand by the grey stone when the thrush knocks.
+
+5
+01:37:45,461 --> 01:37:47,332
+都灵之日的...
+The setting sun...
+
+6
+01:37:48,471 --> 01:37:50,786
+最后一束阳光将会照耀
+and the last light of Durin's day will shine.
+
+7
+01:37:52,511 --> 01:37:54,113
+最后一束阳光...
+The last light...
+
+8
+01:37:56,504 --> 01:37:58,121
+最后一束光
+Last light.
+
+9
+01:38:34,314 --> 01:38:35,740
+这就是最后一束光!
+And the last light!
+
+10
+01:38:45,964 --> 01:38:47,020
+锁眼!
+The keyhole!
+
+11
+01:38:47,675 --> 01:38:50,100
+回来! 回来!
+Come back! Come back!
+
+12
+01:38:50,100 --> 01:38:54,896
+是月亮的光 秋日里最后的月光!
+It is the light of the moon. The last moon of autumn!
+
+13
+01:38:58,131 --> 01:39:00,202
+钥匙呢? 钥匙...
+Where is the key? Where is the...
+
+14
+01:39:02,738 --> 01:39:04,334
+刚才... 刚才还在这
+It was... it was here.
+
+15
+01:39:04,780 --> 01:39:06,293
+它... 就在...
+It was... just...
+
+16
+01:40:03,831 --> 01:40:05,361
+埃雷勃!
+Erebor!
+
+17
+01:40:06,097 --> 01:40:07,969
+索林
+Thorin.
+
+18
+01:40:20,498 --> 01:40:22,813
+我认得这些墙壁
+I know these walls.
+
+19
+01:40:26,220 --> 01:40:28,610
+这墙壁...
+These walls...
+
+20
+01:40:30,591 --> 01:40:32,874
+这石块
+this stone.
+
+21
+01:40:36,232 --> 01:40:38,418
+你记得吗 巴林?
+You remember it, Balin?
+
+22
+01:40:41,655 --> 01:40:44,183
+房间里金光闪闪
+Chambers filled with golden light.
+
+23
+01:40:45,950 --> 01:40:48,058
+我记得
+I remember.
+
+24
+01:41:00,863 --> 01:41:05,935
+这里坐落着都灵一族的第七个王国
+Here in lies the seventh kingdom of Durin's folk.
+
+25
+01:41:07,626 --> 01:41:15,014
+愿山之心团结所有的矮人保卫家园
+May the heart of the mountain unite all dwarves in defense of this home.
+
+26
+01:41:16,231 --> 01:41:18,231
+国王的宝座
+The throne of King.
+
+27
+01:41:22,133 --> 01:41:25,009
+上面那个是什么?
+And what's that above it?
+
+28
+01:41:28,733 --> 01:41:31,016
+阿肯宝石
+The Arkenstone.
+
+29
+01:41:31,935 --> 01:41:33,473
+阿肯宝石
+Arkenstone.
+
+30
+01:41:37,104 --> 01:41:38,917
+那又是什么?
+And what's that?
+
+31
+01:41:38,917 --> 01:41:44,288
+这个 飞贼先生 就是你此行的目的
+That, Master Burglar, is why you are here.
+
+32
+01:42:03,612 --> 01:42:05,281
+你不能做点什么吗?
+Can you not do something?
+
+33
+01:42:05,281 --> 01:42:07,919
+我需要草药 能退烧的东西
+I need herbs. Something to bring down this fever.
+
+34
+01:42:08,194 --> 01:42:10,847
+我这里有龙葵 野甘菊...
+I have nightshade, feverfew...
+
+35
+01:42:10,847 --> 01:42:13,374
+这些都没用 你有王叶草吗?
+They are no use to me. Do you have any kingsfoil?
+
+36
+01:42:13,374 --> 01:42:16,219
+没有... 那是种杂草 我们都喂猪了
+No... It's a weed. We feed it to the pigs.
+
+37
+01:42:16,419 --> 01:42:20,486
+猪? 杂草... 有了
+Pigs? Weed... right.
+
+38
+01:42:21,454 --> 01:42:22,545
+别动
+Don't move.
+
+39
+01:42:25,283 --> 01:42:29,306
+你想让我... 去找宝石?
+You want me... to find the jewel?
+
+40
+01:42:30,768 --> 01:42:33,642
+一颗又大又白的宝石 没错!
+A large white jewel. Yes!
+
+41
+01:42:35,751 --> 01:42:38,356
+就这样? 只是... 我觉得下面肯定有不少宝石
+That's it? Only... I imagine there's quite a few down there.
+
+42
+01:42:38,356 --> 01:42:42,043
+只有一颗阿肯宝石
+There is only one Arkenstone.
+
+43
+01:42:42,243 --> 01:42:43,897
+你见到了自然认得出
+You will know it when you see it.
+
+44
+01:42:45,513 --> 01:42:46,490
+好吧
+Right.
+
+45
+01:42:50,355 --> 01:42:52,222
+说实话 伙计...
+In truth lad...
+
+46
+01:42:52,422 --> 01:42:57,116
+我... 不知道你到了下面会看到什么
+I... do not know what you will find down there.
+
+47
+01:42:59,299 --> 01:43:02,434
+你不想的话可以不去 回头没什么好丢人的
+You needn't go if you don't want to. There's no dishonor in turning back.
+
+48
+01:43:02,434 --> 01:43:04,312
+不... 巴林!
+No... Balin!
+
+49
+01:43:05,052 --> 01:43:07,067
+我答应了会做
+I promised I would do this.
+
+50
+01:43:07,633 --> 01:43:09,280
+我必须得试试
+And I think I must try.
+
+51
+01:43:14,150 --> 01:43:16,959
+- 这总是让我很欣赏  - 什么?
+- It never ceases to amaze me.  - What's that?
+
+52
+01:43:16,959 --> 01:43:18,886
+霍比特人的勇气
+The courage of hobbits.
+
+53
+01:43:21,058 --> 01:43:26,715
+去吧 带上你... 所有的好运气
+Go now, with as much luck... as you can muster.
+
+54
+01:43:34,830 --> 01:43:36,653
+比尔博...
+Bilbo...
+
+55
+01:43:37,563 --> 01:43:40,905
+如果下面...
+if there in fact...
+
+56
+01:43:41,629 --> 01:43:44,750
+真的有条活龙
+a live dragon down there,
+
+57
+01:43:46,548 --> 01:43:49,165
+别吵醒它
+don't waken it.
+
+58
+01:44:30,952 --> 01:44:34,980
+<i>Ce na ulco sis nurtaina...</i>
+{\fn方正硬笔行书简体\fs23}藏匿于此的恶魔...
+
+59
+01:44:35,946 --> 01:44:38,999
+<i>I ettuluvas caninye!</i>
+{\fn方正硬笔行书简体\fs23}我命你现身!
+
+60
+01:44:39,922 --> 01:44:44,524
+<i>Canin i sa tanuvaxe!</i>
+{\fn方正硬笔行书简体\fs23}我命你现出真身!
+
+61
+01:44:56,695 --> 01:45:00,946
+{\fn方正姚体}你来得太晚了 巫师!
+
+62
+01:45:01,718 --> 01:45:03,589
+{\fn方正姚体}已经完成了
+
+63
+01:45:05,821 --> 01:45:07,395
+你的主人在哪?
+Where is your master?
+
+64
+01:45:08,973 --> 01:45:10,041
+他在哪?
+Where is he?
+
+65
+01:45:10,886 --> 01:45:13,493
+{\fn方正姚体}他无处不在...
+
+66
+01:45:14,529 --> 01:45:17,227
+{\fn方正姚体}我们军团遍地!
+
+67
+01:45:30,686 --> 01:45:32,710
+{\fn方正姚体}结束了
+
+68
+01:45:38,600 --> 01:45:40,031
+{\fn方正姚体}给我追
+
+69
+01:45:57,883 --> 01:46:00,081
+{\fn方正姚体}巫师 没有什么光芒...
+
+70
+01:46:01,908 --> 01:46:05,509
+{\fn方正姚体}可以战胜黑暗
+
+71
+01:47:23,677 --> 01:47:26,422
+索隆
+Sauron.
+
+72
+01:47:49,060 --> 01:47:50,358
+有人吗
+Hello.
+
+73
+01:48:09,017 --> 01:48:10,232
+他不在家
+He's not at home.
+
+74
+01:48:11,727 --> 01:48:13,040
+不在家啊
+Not at home.
+
+75
+01:48:14,056 --> 01:48:15,237
+不错
+Good.
+
+76
+01:48:16,927 --> 01:48:19,097
+很好 很好
+Good, good, good.
+
+77
+01:49:13,086 --> 01:49:14,166
+这是什么?
+What's that?
+
+78
+01:49:20,769 --> 01:49:22,312
+阿肯宝石
+Arkenstone.
+
+79
+01:49:23,095 --> 01:49:24,612
+阿肯宝石
+Arkenstone.
+
+80
+01:49:25,267 --> 01:49:27,935
+一颗又大... 又白的宝石
+A large... white jewel.
+
+81
+01:49:29,481 --> 01:49:30,518
+这线索真明确
+Very helpful.
+
+82
+01:51:56,578 --> 01:51:58,991
+好吧...
+Well..
+
+83
+01:51:59,682 --> 01:52:01,343
+小偷!
+Thief!
+
+84
+01:52:02,911 --> 01:52:07,098
+我... 闻得到... 你
+I... smell... you.
+
+85
+01:52:07,098 --> 01:52:10,691
+我听得到你的呼吸
+I hear your breath.
+
+86
+01:52:11,423 --> 01:52:16,004
+我感觉到你的存在
+I feel your air.
+
+87
+01:52:18,259 --> 01:52:21,642
+你在... 哪里
+Where are... you.
+
+88
+01:52:21,842 --> 01:52:24,411
+你在哪里?
+Where are you?
+
+89
+01:52:43,339 --> 01:52:47,441
+出来吧... 别害羞
+Come now... Don't be shy.
+
+90
+01:52:47,441 --> 01:52:50,742
+现身吧
+Step into the light.
+
+91
+01:52:54,179 --> 01:52:55,830
+嗯...
+Hhmmm...
+
+92
+01:52:56,576 --> 01:53:01,158
+你... 有点奇怪
+There is... something about you.
+
+93
+01:53:03,242 --> 01:53:06,002
+是你带的某样东西
+Something you carry.
+
+94
+01:53:06,304 --> 01:53:09,075
+金子打造之物
+Something made of gold.
+
+95
+01:53:09,380 --> 01:53:14,855
+但却无比... 珍贵!
+But far more... precious!
+
+96
+01:53:20,200 --> 01:53:21,710
+你在这啊
+There you there,
+
+97
+01:53:21,710 --> 01:53:24,729
+阴影中的小偷
+thief in the shadows.
+
+98
+01:53:27,185 --> 01:53:29,658
+我不是来偷您东西的
+I did not come to steal from you.
+
+99
+01:53:29,858 --> 01:53:33,646
+史矛革 拥有无人能及的财富
+Oh Smaug, the unaccessibly wealthy.
+
+100
+01:53:33,646 --> 01:53:36,535
+我只是想瞻仰一下您的威严
+I merely wanted to gaze upon your magnificence,
+
+101
+01:53:36,535 --> 01:53:40,560
+看您是否像古老传说中那样伟大
+to see if you really were as great as the old tales say.
+
+102
+01:53:40,932 --> 01:53:42,637
+我不相信那些故事
+I did not believe them.
+
+103
+01:53:51,912 --> 01:53:56,423
+那么 现在呢?!
+And, Do you now?!
+
+104
+01:53:57,177 --> 01:53:58,684
+是真的
+Truly.
+
+105
+01:53:59,523 --> 01:54:02,787
+那些故事和歌谣
+The tales and songs,
+
+106
+01:54:02,787 --> 01:54:07,443
+还远未表出您的凶猛 史矛革啊...
+fall utterly short of your enormity, oh Smaug...
+
+107
+01:54:07,443 --> 01:54:08,889
+巨龙之躯
+the Stupendous.
+
+108
+01:54:08,889 --> 01:54:12,225
+你以为奉承可以让你活命吗?
+Do you think flattery will keep you alive?
+
+109
+01:54:12,754 --> 01:54:15,214
+- 不... 没有  - 确实不会
+- No... no.  - No, indeed.
+
+110
+01:54:17,915 --> 01:54:24,945
+你看来很熟悉我的名字 但我却不曾闻到过你这种气味
+You seem familiar with my name, but I don't remember smelling your kind before.
+
+111
+01:54:25,145 --> 01:54:29,402
+你是谁 从哪而来?
+Who are you and where do you come from?
+
+112
+01:54:29,402 --> 01:54:31,893
+恕我好奇
+May I ask?
+
+113
+01:54:41,266 --> 01:54:45,331
+- 我从山下而来  - 山下?
+- I come from under the hill.  - Under hill?
+
+114
+01:54:48,385 --> 01:54:52,230
+我翻越了千山万岭
+And under hills and over hills my path has led.
+
+115
+01:54:52,801 --> 01:54:54,237
+然后... 
+And... and
+
+116
+01:54:54,237 --> 01:54:56,574
+在空气中穿梭 我可以隐身行走
+through the air, I am he who walks unseen.
+
+117
+01:54:56,881 --> 01:54:58,478
+令人敬佩
+Impressive.
+
+118
+01:54:58,678 --> 01:55:01,832
+你还有什么名头?
+What else do you claim to be?
+
+119
+01:55:01,832 --> 01:55:02,549
+我是...
+I am...
+
+120
+01:55:05,822 --> 01:55:07,545
+幸运随身者...
+Luck wearer...
+
+121
+01:55:09,189 --> 01:55:13,482
+- 谜语 谜语编造家  - 可爱的名头 继续
+- Riddle, riddle maker.  - Lovely titles, go on.
+
+122
+01:55:14,085 --> 01:55:20,034
+- 骑桶者  - 木桶 越来越有趣了
+- Barrel rider.  - Barrels. Now that is interesting.
+
+123
+01:55:20,234 --> 01:55:25,076
+那你的小矮人朋友呢?
+Then what about your little dwarve friends?
+
+124
+01:55:25,076 --> 01:55:27,806
+他们藏在哪儿?
+Where are they hiding?
+
+125
+01:55:28,630 --> 01:55:31,437
+矮... 矮人?
+Da... dwarves?
+
+126
+01:55:31,867 --> 01:55:36,444
+不 不 不 这里没有矮人 你搞错了
+No. No, no. No dwarves here. You've got that all wrong.
+
+127
+01:55:36,444 --> 01:55:41,080
+我没搞错 骑桶者
+I don't think so, barrel rider.
+
+128
+01:55:41,080 --> 01:55:47,295
+他们打发你来做些坏事 自己却躲在外面
+They sent you in here to do their dirty work while they skulk about outside.
+
+129
+01:55:47,908 --> 01:55:54,674
+你真的搞错了 最令人敬畏的史矛革
+Truly, you are mistaken, oh Smaug, chiefest and greatest of calamities.
+
+130
+01:55:55,080 --> 01:56:01,200
+你很有做小偷和骗子的潜质
+You have nice manners for a thief and a liar.
+
+131
+01:56:02,556 --> 01:56:06,574
+没有人比我更清楚
+I know the smell and taste of Dwarf.
+
+132
+01:56:06,574 --> 01:56:08,586
+矮人的品行了
+No one better.
+
+133
+01:56:09,060 --> 01:56:10,677
+他们为金子而来
+It is the gold,
+
+134
+01:56:10,877 --> 01:56:16,272
+他们爱金子 就像苍蝇爱腐肉
+they are drawn to treasure like flies to dead flesh.
+
+135
+01:56:18,585 --> 01:56:22,016
+你以为我不知道会有这么一天吗?
+Did you think I did not know this day would come?
+
+136
+01:56:23,427 --> 01:56:31,068
+不知道总有一天那群伪善的矮人会爬上山来吗?
+That a pack of canting dwarves would come crawling back to the mountain?
+
+137
+01:56:35,001 --> 01:56:38,862
+- 是地震吗?  - 这动静 伙计...
+- Was that an earthquake?  - That, my lad...
+
+138
+01:56:41,993 --> 01:56:43,717
+是条龙
+was a dragon.
+
+139
+01:56:52,068 --> 01:56:54,486
+- 爸?  - 从山上传来的
+- Da?  - It's coming from the mountain.
+
+140
+01:56:58,593 --> 01:57:02,222
+你先走吧 带上你的孩子离开这里
+You should leave us. Take your children, get out of here.
+
+141
+01:57:02,422 --> 01:57:03,722
+去哪儿?
+And go where?
+
+142
+01:57:04,852 --> 01:57:06,817
+没有地方可以去
+There is no where to go.
+
+143
+01:57:08,276 --> 01:57:10,441
+我们会死吗 爸?
+Are we going to die, Da?
+
+144
+01:57:12,044 --> 01:57:13,133
+不会的 亲爱的
+No, darling.
+
+145
+01:57:13,133 --> 01:57:15,549
+那条龙会杀了我们的
+The dragon, it's going to kill us.
+
+146
+01:57:26,153 --> 01:57:28,722
+我先杀了它就不会了
+Not if I kill it first.
+
+147
+01:57:29,701 --> 01:57:33,388
+山下之王已经死了
+The king under the mountain is dead.
+
+148
+01:57:33,388 --> 01:57:39,834
+我登上了他的王座 吃了他的人民... 就像羊群中的狼
+I took his throne, I ate his people... like a wolf among sheep.
+
+149
+01:57:42,951 --> 01:57:48,188
+无论何时何地 我想杀就杀
+I kill where I wish, when I wish.
+
+150
+01:57:48,188 --> 01:57:51,773
+我的盔甲坚不可摧!
+My armour is iron!
+
+151
+01:57:59,884 --> 01:58:03,257
+刀枪不入!
+No blade can pierce me!
+
+152
+01:58:06,237 --> 01:58:07,089
+好 走吧
+Alright.
+
+153
+01:58:07,505 --> 01:58:10,373
+一支黑箭 为什么你没和我说过?
+A Black Arrow. Why did you never tell me?
+
+154
+01:58:10,373 --> 01:58:12,026
+因为你没必要知道
+Because you did not need to know.
+
+155
+01:58:19,597 --> 01:58:23,262
+好好听着 我需要你引开卫兵
+Listen to me carefully, I need you to distract the guards.
+
+156
+01:58:24,126 --> 01:58:27,455
+我一登上塔顶就会把箭装上
+Once I'm at the top of the tower, I'll slip the arrow to the bow.
+
+157
+01:58:27,455 --> 01:58:29,824
+他在那! 卫兵 追他!
+There he is! Guards, after him!
+
+158
+01:58:29,824 --> 01:58:32,766
+- 快点! 在下面! 快!  - 拦住他!
+- Quickly! Down there! Go!  - Stop him!
+
+159
+01:58:39,681 --> 01:58:40,415
+拦住他!
+Stop him!
+
+160
+01:58:48,587 --> 01:58:51,699
+- 把箭藏好 不要让人找到  - 不!
+- Keep it safe. Don't let anyone find  - No!
+
+161
+01:58:51,699 --> 01:58:54,680
+- 我来对付他们 现在快跑!  - 我不能离开你!
+- I'll deal with them. Now, go!  - I can't leave you!
+
+162
+01:58:58,086 --> 01:58:59,916
+- 布拉加?  - 你已被逮捕
+- Braga?  - You are under arrest.
+
+163
+01:58:59,916 --> 01:59:03,231
+- 什么罪?  - 镇长说是什么罪就什么罪
+- On what charge?  - Any charge the Master chooses.
+
+164
+01:59:45,210 --> 01:59:48,135
+- 比尔博怎么办?  - 给他点时间
+- What about Bilbo?  - Give him more time.
+
+165
+01:59:48,335 --> 01:59:51,008
+给他时间干嘛? 等着被杀吗?
+Time to do what? To be killed?
+
+166
+01:59:52,701 --> 01:59:53,950
+你怕了吗?
+You are afraid?
+
+167
+01:59:55,657 --> 01:59:58,291
+对... 我怕了
+Yes... I'm afraid.
+
+168
+01:59:59,161 --> 02:00:01,818
+我怕你现在的样子
+I fear for you.
+
+169
+02:00:01,818 --> 02:00:04,261
+那件宝藏会带来贪欲
+A sickness lies upon that treasure hoard.
+
+170
+02:00:04,261 --> 02:00:06,751
+你的祖父就是那么疯的!
+A sickness which drove your granfather mad!
+
+171
+02:00:06,751 --> 02:00:10,096
+- 我和我的祖父不一样  - 你连自己都迷失了!
+- I am not my grandfather.  - You're not yourself!
+
+172
+02:00:11,366 --> 02:00:15,228
+- 我认识的索林会毫不犹豫进去的  - 我不会... 
+- The Thorin I know would not hesitate to go in there.  - I will not risk this quest...
+
+173
+02:00:15,228 --> 02:00:18,435
+为救一个飞贼而冒险的
+for the life of one, burglar.
+
+174
+02:00:20,430 --> 02:00:24,080
+他有名字... 叫比尔博
+Bilbo... His name is Bilbo.
+
+175
+02:00:27,126 --> 02:00:33,027
+是橡木盾...  那个可恶的矮人篡位者...
+It's Oakenshield... That filthy dwarvish usurper...
+
+176
+02:00:35,075 --> 02:00:40,458
+是他派你来拿阿肯宝石... 对吧?
+He sent you in here for the Arkenstone... Didn't he?
+
+177
+02:00:40,458 --> 02:00:41,979
+不! 不... 不
+No! No... no.
+
+178
+02:00:41,979 --> 02:00:44,385
+我不知道你在说什么
+I don't know what you're talking about.
+
+179
+02:00:44,585 --> 02:00:46,521
+不用否认了
+Don't bother denying it.
+
+180
+02:00:46,521 --> 02:00:49,774
+我早就猜到了他的阴谋诡计
+I guessed his foul purpose some time ago.
+
+181
+02:00:51,259 --> 02:00:57,531
+但没关系 橡木盾的计划不会得逞
+But it matters not. Oakenshield's quest will fail.
+
+182
+02:00:58,567 --> 02:01:04,896
+黑暗即将来临 淹没世界的每一个角落!
+A darkness is coming. It will spread to every corner of the land!
+
+183
+02:01:35,862 --> 02:01:39,910
+{\fn方正姚体}可恶的小矮人就在附近
+<i>The filthy dwarf rats are somewhere here.</i>
+
+184
+02:01:40,478 --> 02:01:43,203
+{\fn方正姚体}我闻到了
+<i>I can smell them.</i>
+
+185
+02:01:47,818 --> 02:01:51,053
+躲在阴影里的小偷 你被利用了  
+You have been used, thief in the shadow.
+
+186
+02:01:51,053 --> 02:01:54,937
+你永远只是达到目的的手段而已
+You were only ever a means to an end.
+
+187
+02:01:55,733 --> 02:02:01,922
+胆小的橡木盾衡量过你的生命价值了...
+The coward Oakenshield has weighed the value of your life and found...
+
+188
+02:02:01,922 --> 02:02:03,957
+你一文不值!
+it worth nothing!
+
+189
+02:02:03,957 --> 02:02:06,610
+不 不 
+No. No.
+
+190
+02:02:07,960 --> 02:02:10,922
+- 不 你在说谎  - 他向你承诺什么了?
+- No, you're lying.  - What did he promise you?
+
+191
+02:02:10,922 --> 02:02:13,216
+分你一份宝藏吗?
+A share of his treasure?
+
+192
+02:02:13,967 --> 02:02:16,253
+说得好像宝藏是他的一样
+As if it were his to give.
+
+193
+02:02:17,123 --> 02:02:23,585
+我不会放弃一个子儿 一个都不会放弃!
+I would not part with a single coin. Not one piece of it!
+
+194
+02:02:27,242 --> 02:02:30,251
+我的牙齿尖如利剑!
+My teeths are swords!
+
+195
+02:02:30,451 --> 02:02:33,895
+我的爪子利如长矛!
+My claws are spears!
+
+196
+02:02:35,972 --> 02:02:41,064
+我的双翼... 强如暴风!
+My wings... are a hurricane!
+
+197
+02:02:45,960 --> 02:02:47,518
+传说是真的
+So, it is true.
+
+198
+02:02:48,106 --> 02:02:50,183
+黑箭确实命中了目标
+The black arrow found its mark.
+
+199
+02:02:50,183 --> 02:02:53,386
+- 你说什么?  - 我只是说...
+- What did you say?  - I was just saying...
+
+200
+02:02:53,386 --> 02:02:54,879
+我久闻您的大名
+your reputation preceeds you.
+
+201
+02:02:55,180 --> 02:02:57,648
+噢 君主史矛革...
+Oh Smaug, the tyrannical...
+
+202
+02:02:58,003 --> 02:03:02,787
+您确实是世上无人能及的
+truly, you have no equal on this earth.
+
+203
+02:03:05,993 --> 02:03:10,165
+为了看到橡木盾痛苦
+I am almost tempted to let you take it,
+
+204
+02:03:10,165 --> 02:03:14,237
+我差点让你拿到宝石了
+if only to see Oakenshield suffer.
+
+205
+02:03:14,905 --> 02:03:21,155
+这样就能看着宝石毁灭他 吞噬他的心灵...
+Watch it destroy him. Watch it corrupt his heart...
+
+206
+02:03:21,155 --> 02:03:24,228
+让他发狂!
+and drive him mad!
+
+207
+02:03:27,560 --> 02:03:31,919
+但我想还是不要了 小游戏到此结束吧
+But I think not, I think our little game ends here.
+
+208
+02:03:32,677 --> 02:03:38,773
+小偷 告诉我 你想怎样死? 
+So tell me, thief. How do you choose to die?
+
+209
+02:04:26,883 --> 02:04:28,243
+{\fn方正姚体}矮人在那里!
+<i>Dwarves!</i>
+
+210
+02:04:50,715 --> 02:04:52,798
+爸? 是你吗 爸?
+Da? Is that you, Da?
+
+211
+02:06:40,889 --> 02:06:43,088
+{\fn方正姚体}橡木盾不在这!
+
+212
+02:06:44,147 --> 02:06:45,127
+{\fn方正姚体}撤退!
+
+213
+02:06:45,525 --> 02:06:46,820
+{\fn方正姚体}桥上集合!
+
+214
+02:07:05,422 --> 02:07:07,577
+- 你把他们都杀了  - 还有其他的
+- You've killed them all.  - There are others.
+
+215
+02:07:08,276 --> 02:07:09,504
+陶瑞尔 走
+Tauriel, go.
+
+216
+02:07:14,915 --> 02:07:17,404
+他快死了!
+We are losing him!
+
+217
+02:07:19,884 --> 02:07:20,903
+陶瑞尔?
+Tauriel?
+
+218
+02:07:44,743 --> 02:07:45,877
+{\fn方正苏新诗柳楷简体\fs23}阿茜拉斯草(即王叶草)!
+<i>Athelas!</i>
+
+219
+02:07:48,826 --> 02:07:50,575
+{\fn方正苏新诗柳楷简体\fs23}阿茜拉斯草...
+<i>Athelas...</i>
+
+220
+02:07:51,104 --> 02:07:52,957
+你要做什么?
+What are you doing?
+
+221
+02:07:55,064 --> 02:07:57,405
+我要救他
+I'm going to save him.
+
+222
+02:08:17,939 --> 02:08:19,237
+- 你还活着!  - 活不了多久了!
+- You are alive!  - Not for much longer!
+
+223
+02:08:19,237 --> 02:08:21,115
+- 你找到阿肯宝石了吗?  - 龙追来了!
+- Did you find the Arkenstone?  - The dragon's coming!
+
+224
+02:08:21,115 --> 02:08:22,925
+阿肯宝石呢?
+The Arkenstone?
+
+225
+02:08:25,303 --> 02:08:26,930
+你找到了吗?
+Did you find it?
+
+226
+02:08:32,347 --> 02:08:33,727
+没有 我们要赶紧离开
+No. We have to get out.
+
+227
+02:08:37,021 --> 02:08:38,501
+索林?
+Thorin?
+
+228
+02:08:41,751 --> 02:08:43,310
+索林!
+Thorin!
+
+229
+02:09:13,408 --> 02:09:16,447
+我要烧死你们!
+You will burn!
+
+230
+02:09:24,573 --> 02:09:25,703
+快点 比尔博!
+Come on, Bilbo!
+
+231
+02:09:38,680 --> 02:09:39,711
+快走
+Come on.
+
+232
+02:09:56,744 --> 02:09:58,135
+压住他
+Hold him down.
+
+233
+02:10:06,774 --> 02:10:10,486
+{\fn方正苏新诗柳楷简体\fs23}愿将赐于我之福转给他
+<i>May the blessing that was given to me be sent from me to him,</i>
+
+234
+02:10:10,704 --> 02:10:13,150
+{\fn方正苏新诗柳楷简体\fs23}愿死神远离他
+<i>may he be released from death.</i>
+
+235
+02:10:15,057 --> 02:10:16,079
+蒂尔达!
+Tilda!
+
+236
+02:10:16,864 --> 02:10:20,752
+{\fn方正苏新诗柳楷简体\fs23}愿将赐于我之福转给他
+<i>May the blessing that was given to me be sent from me to him,</i>
+
+237
+02:10:20,752 --> 02:10:22,464
+{\fn方正苏新诗柳楷简体\fs23}愿死神远离他
+<i>may he be released from death.</i>
+
+238
+02:10:22,823 --> 02:10:26,995
+{\fn方正苏新诗柳楷简体\fs23}愿将赐于我之福转给他
+<i>May the blessing that was given to me be sent from me to him,</i>
+
+239
+02:10:26,995 --> 02:10:28,758
+{\fn方正苏新诗柳楷简体\fs23}愿死神远离他
+<i>may he be released from death.</i>
+
+240
+02:10:28,758 --> 02:10:33,161
+{\fn方正苏新诗柳楷简体\fs23}愿将赐于我之福转给他
+<i>May the blessing that was given to me be sent from me to him,</i>
+
+241
+02:10:33,161 --> 02:10:35,225
+{\fn方正苏新诗柳楷简体\fs23}愿死神远离他
+<i>may he be released from death.</i>
+
+242
+02:10:35,929 --> 02:10:42,034
+{\fn方正苏新诗柳楷简体\fs23}愿将赐于我之福转给他
+<i>May the blessing that was given to me be sent from me to him,</i>
+
+243
+02:10:43,519 --> 02:10:46,564
+{\fn方正苏新诗柳楷简体\fs23}愿死神远离他
+<i>may he be released from death.</i>
+
+244
+02:11:08,992 --> 02:11:10,191
+嘘 小声点
+Ssh. Ssh-ssh.
+
+245
+02:11:18,138 --> 02:11:23,177
+- 我们甩开它了  - 不 它可狡猾了
+- We've given him the slip.  - No. He is too cunning for that.
+
+246
+02:11:24,994 --> 02:11:28,212
+- 那现在去哪儿?  - 西边的警卫室
+- So, where to now?  - The western guard room.
+
+247
+02:11:28,865 --> 02:11:30,192
+可能有路可逃
+There may be a way out.
+
+248
+02:11:30,758 --> 02:11:34,812
+- 那里太高了 没可能逃出去  - 那是我们唯一的机会
+- It's too high, there's no chance that way.  - It's our only chance.
+
+249
+02:11:36,426 --> 02:11:37,898
+我们只能放手一搏
+We have to try.
+
+250
+02:11:54,486 --> 02:11:55,696
+来
+Come on.
+
+251
+02:12:43,235 --> 02:12:46,752
+我听过精灵神药的传说
+I've heard tales of the wonders of elvish medicine.
+
+252
+02:12:47,128 --> 02:12:49,782
+今天有幸亲眼看到了
+That was a privelege to witness.
+
+253
+02:12:52,263 --> 02:12:53,444
+陶瑞尔
+Tauriel.
+
+254
+02:12:57,596 --> 02:12:58,964
+躺着别动
+Lie still.
+
+255
+02:13:06,229 --> 02:13:08,250
+你不可能是她
+You cannot be her.
+
+256
+02:13:11,812 --> 02:13:13,887
+她在遥远的地方
+She is far away.
+
+257
+02:13:15,891 --> 02:13:22,140
+她... 离我很远很远
+She... she is far, far away from me.
+
+258
+02:13:23,022 --> 02:13:25,553
+她行走在...
+She walks...
+
+259
+02:13:25,553 --> 02:13:29,540
+另一个世界的星光之下
+under the stars in another world.
+
+260
+02:13:33,494 --> 02:13:35,505
+只是个梦而已
+It was just a dream.
+
+261
+02:13:47,261 --> 02:13:50,343
+你觉得她爱过我吗?
+Do you think she could've loved me?
+
+262
+02:13:56,769 --> 02:13:57,974
+跟紧一点
+Stay close.
+
+263
+02:14:07,999 --> 02:14:11,799
+到尽头了 无路可走
+That's it then. There's no way out.
+
+264
+02:14:18,290 --> 02:14:20,363
+我们同胞的尸骨
+The last of our kin.
+
+265
+02:14:24,301 --> 02:14:26,733
+他们肯定带着巨大的希望...
+They must have come here...
+
+266
+02:14:26,733 --> 02:14:30,136
+来到这里
+hoping beyond hope.
+
+267
+02:14:39,121 --> 02:14:41,397
+在我生命的最后几天
+We could try to reach the mines.
+
+268
+02:14:42,510 --> 02:14:44,278
+也许我们可以找到金矿
+My last few days.
+
+269
+02:14:46,536 --> 02:14:48,065
+不
+No.
+
+270
+02:14:50,913 --> 02:14:53,351
+我不会这样死去的
+I will not die like this.
+
+271
+02:14:54,468 --> 02:14:58,005
+蜷缩... 挣扎着 奄奄一息
+Cowering... clawing for breath.
+
+272
+02:15:03,003 --> 02:15:06,418
+- 我们引它去熔炉  - 它会看到我们的 必死无疑
+- We make for the forges.  - He'll see us, sure as death.
+
+273
+02:15:06,418 --> 02:15:08,057
+如果我们分头行事就不会
+Not if we split up.
+
+274
+02:15:08,057 --> 02:15:11,028
+索林 我们绝对逃不掉了
+Thorin, we will never make it.
+
+275
+02:15:11,228 --> 02:15:12,590
+也许有人能逃掉
+Some of us might.
+
+276
+02:15:13,124 --> 02:15:15,732
+引它去熔炉
+Lead him to the forges.
+
+277
+02:15:16,155 --> 02:15:19,427
+我们要杀掉恶龙
+We kill the dragon.
+
+278
+02:15:19,824 --> 02:15:24,452
+若一切注定焚尽 那我们也将同赴火海
+If this is to end in fire, then we will all burn together.
+
+279
+02:15:26,132 --> 02:15:27,314
+这边!
+This way!
+
+280
+02:15:32,173 --> 02:15:35,144
+逃吧! 逃吧!
+Flee! Flee!
+
+281
+02:15:35,344 --> 02:15:38,233
+逃命吧!
+Run for your lives!
+
+282
+02:15:38,233 --> 02:15:43,514
+- 你们无处可藏了  - 看你背后! 
+- There is nowhere to hide.  - Behind you!
+
+283
+02:15:53,039 --> 02:15:54,753
+这里!
+Here!
+
+284
+02:16:25,992 --> 02:16:28,539
+{\fn方正姚体}送口信去多尔古多...
+
+285
+02:16:28,903 --> 02:16:31,698
+{\fn方正姚体}橡木盾到达孤山了!
+
+286
+02:16:42,550 --> 02:16:43,518
+{\fn方正姚体}去吧!
+
+287
+02:16:44,292 --> 02:16:46,281
+{\fn方正姚体}你们! 跟我来
+
+288
+02:18:51,768 --> 02:18:53,851
+这边! 是这边!
+This way! It's this way!
+
+289
+02:18:53,851 --> 02:18:55,540
+来!
+Come on!
+
+290
+02:18:55,540 --> 02:18:57,031
+索林!
+Thorin!
+
+291
+02:19:01,626 --> 02:19:02,718
+跟着巴林!
+Follow Balin!
+
+292
+02:19:04,570 --> 02:19:05,604
+快!
+Come on!
+
+293
+02:19:21,075 --> 02:19:22,305
+索林!
+Thorin!
+
+294
+02:19:31,645 --> 02:19:33,331
+接着!
+Hold on!
+
+295
+02:20:10,456 --> 02:20:11,992
+走! 走!
+Go! Go!
+
+296
+02:20:15,934 --> 02:20:19,841
+这个计划行不通! 这些熔炉是冰冷的
+The plan's not gonna work! These furnaces are stone cold.
+
+297
+02:20:19,841 --> 02:20:23,678
+他说得对 我们没有火能点着熔炉
+He is right. We've no fire hot enough to set them ablaze.
+
+298
+02:20:26,249 --> 02:20:28,046
+我们没有吗
+Have we not.
+
+299
+02:20:29,175 --> 02:20:31,909
+我不觉得你会那么容易以智取胜!
+I did not look to see you so easily outwitted!
+
+300
+02:20:36,151 --> 02:20:39,161
+你年老糊涂...
+You are growing slow and fat...
+
+301
+02:20:40,116 --> 02:20:42,493
+越来越迟钝臃肿
+in your dotage.
+
+302
+02:20:42,493 --> 02:20:44,625
+懒鬼!
+Slug!
+
+303
+02:20:45,765 --> 02:20:47,810
+躲起来 快!
+Take cover. Go!
+
+304
+02:21:14,757 --> 02:21:17,829
+邦博! 让火烧得更猛些! 快!
+Bombur! Get those billows working! Go!
+
+305
+02:21:32,381 --> 02:21:34,364
+比尔博! 上去那儿
+Bilbo! Up there.
+
+306
+02:21:34,364 --> 02:21:36,490
+听我指令 拉那条杠
+On my mark, pull that lever.
+
+307
+02:21:46,957 --> 02:21:49,415
+巴林 你还能配制出闪火吗?
+Balin, can you still mix a flash flame?
+
+308
+02:21:49,415 --> 02:21:51,285
+可以 只需要一会儿!
+Aye, it will only take a jiffy!
+
+309
+02:21:51,285 --> 02:21:52,285
+来!
+Come on!
+
+310
+02:21:53,651 --> 02:21:55,032
+我们没有时间了
+We don't have a jiffy.
+
+311
+02:22:06,955 --> 02:22:08,462
+硫磺在哪儿?
+Where's the sulfur?
+
+312
+02:22:08,462 --> 02:22:10,187
+你确定自己在做什么吗?
+Are you sure you know what you're doing?
+
+313
+02:22:22,138 --> 02:22:23,534
+快点!
+Come on!
+
+314
+02:22:45,119 --> 02:22:46,314
+拉杠!
+Now!
+
+315
+02:24:42,666 --> 02:24:44,589
+引它去众王之廊
+Lead him to the Gallery of the Kings.
+
+316
+02:25:32,593 --> 02:25:34,896
+不要停下来 比尔博! 跑!
+Keep going, Bilbo! Run!
+
+317
+02:26:20,702 --> 02:26:25,962
+你以为骗得了我吗 骑桶者?
+You think you can deceive me, barrel rider?
+
+318
+02:26:27,510 --> 02:26:30,382
+你来自长湖镇
+You have come from Lake-town.
+
+319
+02:26:31,795 --> 02:26:37,387
+这是可恶的矮人和悲惨的长湖人...
+This is some sordid scheme hatched between these filthy dwarves...
+
+320
+02:26:37,387 --> 02:26:40,057
+策划的阴谋
+and those miserable tarp trading lakemen.
+
+321
+02:26:41,188 --> 02:26:47,519
+那些带着长弓和黑箭哭哭啼啼的胆小鬼
+Those sniveling cowards with their long bows and black arrows.
+
+322
+02:26:48,161 --> 02:26:53,275
+也许我该拜访一下他们
+Perhaps it is time I pay them a visit. 
+
+323
+02:26:53,316 --> 02:26:54,157
+不
+No.
+
+324
+02:26:56,160 --> 02:26:57,889
+这不是他们的错
+This isn't their fault.
+
+325
+02:26:57,889 --> 02:27:00,689
+等等! 你不能去长湖镇
+Wait! You cannot go to Lake-town.
+
+326
+02:27:02,505 --> 02:27:06,555
+你在乎他们 对吧?
+You care about them, do you?
+
+327
+02:27:07,037 --> 02:27:11,866
+那就好 让你眼睁睁看着他们死去!
+Good. Then you could watch them die!
+
+328
+02:27:16,365 --> 02:27:20,660
+这里! 你这个无知的废物!
+Here! You witless worm!
+
+329
+02:27:26,148 --> 02:27:28,313
+你!
+You!
+
+330
+02:27:28,313 --> 02:27:32,132
+我要拿回你偷的东西
+I am taking back what you stole.
+
+331
+02:27:34,792 --> 02:27:40,378
+你什么也拿不回去 矮人!
+You will take nothing from me, Dwarf!
+
+332
+02:27:41,196 --> 02:27:46,040
+我打败了你们老一辈的战士
+I laid low your warriors of old.
+
+333
+02:27:46,040 --> 02:27:50,577
+在人们心中植入恐惧
+I instill terror in the hearts of men.
+
+334
+02:27:51,799 --> 02:27:57,194
+我是... 孤山之王
+I am King... under the mountain.
+
+335
+02:27:57,646 --> 02:28:02,045
+这不是你的王国 这是矮人之地...
+This is not your kingdom. These are Dwarf lands...
+
+336
+02:28:02,817 --> 02:28:05,085
+这是矮人之金
+This is Dwarf gold.
+
+337
+02:28:06,243 --> 02:28:10,532
+我们要... 报仇
+And we will have... our revenge.
+
+338
+02:29:30,241 --> 02:29:35,124
+报仇! 报仇!
+Ah, revenge! Revenge!
+
+339
+02:29:35,932 --> 02:29:41,246
+我要让你知道什么叫报仇!
+I will show revenge!
+
+340
+02:30:17,421 --> 02:30:18,789
+听我说!
+Listen to me!
+
+341
+02:30:18,989 --> 02:30:21,197
+你难道不知道是怎么回事吗?
+Do you not know what is coming?
+
+342
+02:30:23,693 --> 02:30:27,766
+我满腔怒火
+I am fire.
+
+343
+02:30:28,647 --> 02:30:31,783
+我... 是...
+I... am...
+
+344
+02:30:33,365 --> 02:30:34,633
+死神!
+Death!
+
+345
+02:30:43,405 --> 02:30:45,538
+我们都做了什么!
+What have we done!
+
+346
+02:30:46,861 --> 02:30:50,443
+  片尾曲   I see fire
+词曲 演唱 Ed Sheeran
+
+347
+02:30:52,483 --> 02:30:59,343
+{\fad(500, 500)}# 哦 山峦下的迷雾之眼 #
+{\fad(500, 500)}# Oh, misty eye of the mountain below #
+
+348
+02:31:01,052 --> 02:31:06,800
+{\fad(500, 500)}# 愿小心看顾我兄弟之灵 #
+{\fad(500, 500)}# Keep careful watch of my brothers' souls #
+
+349
+02:31:08,363 --> 02:31:15,857
+{\fad(500, 500)}# 若天际遍布烈焰灰烟 #
+{\fad(500, 500)}# And should the sky be filled with fire and smoke #
+
+350
+02:31:17,259 --> 02:31:23,290
+{\fad(500, 500)}# 请长久守护都灵子民 #
+{\fad(500, 500)}# Keep watching over Durin's sons #
+
+351
+02:31:36,360 --> 02:31:39,672
+{\fad(500, 500)}# 若一切注定焚尽 #
+{\fad(500, 500)}# If this is to end in fire #
+
+352
+02:31:39,672 --> 02:31:42,899
+{\fad(500, 500)}# 那我们也将同赴火海 #
+{\fad(500, 500)}# Then we should all burn together #
+
+353
+02:31:42,899 --> 02:31:48,969
+{\fad(500, 500)}# 看烈焰升腾入空 点亮夜霭 #
+{\fad(500, 500)}# Watch the flames climb high into the night #
+
+354
+02:31:49,462 --> 02:31:52,750
+{\fad(500, 500)}# 呼唤父辈 #
+{\fad(500, 500)}# Calling out father, oh, #
+
+355
+02:31:52,750 --> 02:31:55,672
+{\fad(500, 500)}# 与我们并肩 #
+{\fad(500, 500)}# Stand by and we will #
+
+356
+02:31:55,672 --> 02:31:59,257
+{\fad(500, 500)}# 望猩红火光满眼 #
+{\fad(500, 500)}# Watch the flames burn auburn on #
+
+357
+02:31:59,257 --> 02:32:01,679
+{\fad(500, 500)}# 席卷群山 #
+{\fad(500, 500)}# The mountain side high #
+
+358
+02:32:07,751 --> 02:32:11,328
+{\fad(500, 500)}# 若今夜注定殒命 #
+{\fad(500, 500)}# And if we should die tonight #
+
+359
+02:32:11,328 --> 02:32:14,581
+{\fad(500, 500)}# 那我们必将共赴黄泉 #
+{\fad(500, 500)}# Then we should all die together #
+
+360
+02:32:14,581 --> 02:32:20,830
+{\fad(500, 500)}# 最后一场筵席 美酒满杯 #
+{\fad(500, 500)}# Raise a glass of wine for the last time #
+
+361
+02:32:20,972 --> 02:32:24,355
+{\fad(500, 500)}# 呼唤父辈 #
+{\fad(500, 500)}# Calling out father, oh, #
+
+362
+02:32:24,355 --> 02:32:27,274
+{\fad(500, 500)}# 我们将准备 #
+{\fad(500, 500)}# Prepare as we will #
+
+363
+02:32:27,274 --> 02:32:30,757
+{\fad(500, 500)}# 望猩红火光满眼 #
+{\fad(500, 500)}# Watch the flames burn auburn on #
+
+364
+02:32:30,757 --> 02:32:32,975
+{\fad(500, 500)}# 席卷群山 #
+{\fad(500, 500)}# The mountain side #
+
+365
+02:32:33,450 --> 02:32:39,248
+{\fad(500, 500)}# 荒芜之风呼啸而来 #
+{\fad(500, 500)}# Desolation comes upon the sky #
+
+366
+02:32:39,513 --> 02:32:41,578
+{\fad(500, 500)}# 我目睹烈焰 #
+{\fad(500, 500)}# Now I see fire #
+
+367
+02:32:43,384 --> 02:32:45,897
+{\fad(500, 500)}# 游走山腹 #
+{\fad(500, 500)}# Inside the mountain #
+
+368
+02:32:45,897 --> 02:32:48,005
+{\fad(500, 500)}# 我目睹烈焰 #
+{\fad(500, 500)}# I see fire #
+
+369
+02:32:49,748 --> 02:32:52,404
+{\fad(500, 500)}# 焚毁林木 #
+{\fad(500, 500)}# Burning the trees #
+
+370
+02:32:52,404 --> 02:32:55,736
+{\fad(500, 500)}# 我目睹烈焰 #
+{\fad(500, 500)}# And I see fire #
+
+371
+02:32:56,287 --> 02:32:58,707
+{\fad(500, 500)}# 吞噬生灵 #
+{\fad(500, 500)}# Hollowing souls #
+
+372
+02:32:58,707 --> 02:33:02,338
+{\fad(500, 500)}# 我目睹烈焰 #
+{\fad(500, 500)}# I see fire #
+
+373
+02:33:02,510 --> 02:33:04,951
+{\fad(500, 500)}# 如血色摇曳 #
+{\fad(500, 500)}# Blood in the breeze #
+
+374
+02:33:05,225 --> 02:33:10,086
+{\fad(500, 500)}# 多希望我能被铭记 #
+{\fad(500, 500)}# And I hope that you remember me #
+
+375
+02:33:20,420 --> 02:33:23,944
+{\fad(500, 500)}# 若同伴相继倒地 #
+{\fad(500, 500)}# Oh, should my people fall #
+
+376
+02:33:23,944 --> 02:33:26,590
+{\fad(500, 500)}# 我仍将原地屹立 #
+{\fad(500, 500)}# Then surely I'll do the same #
+
+377
+02:33:26,590 --> 02:33:30,391
+{\fad(500, 500)}# 孤山内幽深殿堂 #
+{\fad(500, 500)}# Confined in mountain halls #
+
+378
+02:33:30,391 --> 02:33:33,139
+{\fad(500, 500)}# 我们与龙焰一同吐息 #
+{\fad(500, 500)}# We got too close to the flame #
+
+379
+02:33:33,601 --> 02:33:36,907
+{\fad(500, 500)}# 呼唤父辈 #
+{\fad(500, 500)}# Calling out father, oh, #
+
+380
+02:33:36,907 --> 02:33:39,882
+{\fad(500, 500)}# 你我紧紧扶依 #
+{\fad(500, 500)}# Hold fast and we will #
+
+381
+02:33:39,882 --> 02:33:43,374
+{\fad(500, 500)}# 望猩红火光满眼 #
+{\fad(500, 500)}# Watch the flames burn auburn on #
+
+382
+02:33:43,374 --> 02:33:45,695
+{\fad(500, 500)}# 席卷群山 #
+{\fad(500, 500)}# The mountain side #
+
+383
+02:33:46,232 --> 02:33:51,916
+{\fad(500, 500)}# 荒芜之风呼啸而来 #
+{\fad(500, 500)}# Desolation comes upon the sky #
+
+384
+02:33:52,144 --> 02:33:54,084
+{\fad(500, 500)}# 我目睹烈焰 #
+{\fad(500, 500)}# Now I see fire #
+
+385
+02:33:56,274 --> 02:33:58,579
+{\fad(500, 500)}# 游走山腹 #
+{\fad(500, 500)}# Inside the mountain #
+
+386
+02:33:58,579 --> 02:34:00,514
+{\fad(500, 500)}# 我目睹烈焰 #
+{\fad(500, 500)}# I see fire #
+
+387
+02:34:02,523 --> 02:34:05,017
+{\fad(500, 500)}# 焚毁林木 #
+{\fad(500, 500)}# Burning the trees #
+
+388
+02:34:05,017 --> 02:34:08,350
+{\fad(500, 500)}# 我目睹烈焰 #
+{\fad(500, 500)}# I see fire #
+
+389
+02:34:08,862 --> 02:34:11,353
+{\fad(500, 500)}# 吞噬生灵 #
+{\fad(500, 500)}# Hollowing souls #
+
+390
+02:34:11,353 --> 02:34:14,842
+{\fad(500, 500)}# 我目睹烈焰 #
+{\fad(500, 500)}# I see fire #
+
+391
+02:34:15,129 --> 02:34:17,644
+{\fad(500, 500)}# 如血色摇曳 #
+{\fad(500, 500)}# Blood in the breeze #
+
+392
+02:34:17,896 --> 02:34:22,927
+{\fad(500, 500)}# 多希望我能被铭记 #
+{\fad(500, 500)}# And I hope that you remember me #
+
+393
+02:34:23,374 --> 02:34:27,016
+{\fad(500, 500)}# 若暗夜熊熊燃烧 #
+{\fad(500, 500)}# And if the night is burning #
+
+394
+02:34:27,100 --> 02:34:29,631
+{\fad(500, 500)}# 我只能闭上双眼 #
+{\fad(500, 500)}# I will cover my eyes #
+
+395
+02:34:29,631 --> 02:34:33,073
+{\fad(500, 500)}# 因黑暗重归之时 #
+{\fad(500, 500)}# For if the dark returns #
+
+396
+02:34:33,073 --> 02:34:36,128
+{\fad(500, 500)}# 我的兄弟方已不再 #
+{\fad(500, 500)}# Then my brothers will die #
+
+397
+02:34:36,331 --> 02:34:39,578
+{\fad(500, 500)}# 看天空破碎跌落 #
+{\fad(500, 500)}# And as the sky is falling down #
+
+398
+02:34:39,578 --> 02:34:42,798
+{\fad(500, 500)}# 坠入这孤寂之所 #
+{\fad(500, 500)}# It crashed into this lonely town #
+
+399
+02:34:43,060 --> 02:34:45,878
+{\fad(500, 500)}# 看邪影笼罩大地 #
+{\fad(500, 500)}# And with that shadow upon the ground #
+
+400
+02:34:45,878 --> 02:34:49,237
+{\fad(500, 500)}# 耳边有子民惊泣 #
+{\fad(500, 500)}# I hear my people screaming out #
+
+401
+02:34:49,237 --> 02:34:51,117
+{\fad(500, 500)}# 我目睹烈焰 #
+{\fad(500, 500)}# Now I see fire #
+
+402
+02:34:53,041 --> 02:34:55,407
+{\fad(500, 500)}# 游走山腹 #
+{\fad(500, 500)}# Inside the mountains #
+
+403
+02:34:55,407 --> 02:34:57,315
+{\fad(500, 500)}# 我目睹烈焰 #
+{\fad(500, 500)}# I see fire #
+
+404
+02:34:59,347 --> 02:35:01,833
+{\fad(500, 500)}# 焚毁林木 #
+{\fad(500, 500)}# Burning the trees #
+
+405
+02:35:01,833 --> 02:35:05,320
+{\fad(500, 500)}# 我目睹烈焰 #
+{\fad(500, 500)}# I see fire #
+
+406
+02:35:05,688 --> 02:35:08,023
+{\fad(500, 500)}# 吞噬生灵 #
+{\fad(500, 500)}# Hollowing souls #
+
+407
+02:35:08,023 --> 02:35:11,840
+{\fad(500, 500)}# 我目睹烈焰 #
+{\fad(500, 500)}# I see fire #
+
+408
+02:35:12,068 --> 02:35:14,311
+{\fad(500, 500)}# 如血色摇曳 #
+{\fad(500, 500)}# Blood in the breeze #
+
+409
+02:35:14,311 --> 02:35:16,060
+{\fad(500, 500)}# 我目睹烈焰 #
+{\fad(500, 500)}# I see fire #
+
+410
+02:35:16,060 --> 02:35:20,104
+{\fad(500, 500)}# 眼见城镇在火光下崩坍 #
+{\fad(500, 500)}# Oh you know I saw a city burning #
+
+411
+02:35:20,462 --> 02:35:22,494
+{\fad(500, 500)}# 我目睹烈焰 #
+{\fad(500, 500)}# And I see fire #
+
+412
+02:35:22,494 --> 02:35:26,490
+{\fad(500, 500)}# 蒸腾的热气环绕身边 #
+{\fad(500, 500)}# Feel the heat upon my skin, yeah #
+
+413
+02:35:26,840 --> 02:35:28,950
+{\fad(500, 500)}# 我目睹烈焰 #
+{\fad(500, 500)}# And I see fire #
+
+414
+02:35:33,317 --> 02:35:36,880
+{\fad(500, 500)}# 望猩红火光满眼 #
+{\fad(500, 500)}# And I see fire burn auburn on #
+
+415
+02:35:36,880 --> 02:35:39,835
+{\fad(500, 500)}# 席卷群山 #
+{\fad(500, 500)}# The mountain side #
