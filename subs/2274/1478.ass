@@ -1,0 +1,517 @@
+﻿[Script Info]
+; // 此字幕由Srt2Ass生成
+; // 欢迎访问人人影视 http://www.YYeTs.com
+Title:YYeTs
+Original Script:YYeTs
+Synch Point:1
+ScriptType:v4.00+
+Collisions:Normal
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,方正黑体_GBK,20,&H00FFFFFF,&HF0000000,&H00000000,&H32000000,0,0,0,0,100,100,0,0.00,1,2,1,2,5,5,2,134
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 2,0:03:45.32,0:04:07.32,*Default,NTP,0,0,0,,{\fad(500,500)\bord0\shad0\fscx11\fscy14\p1\c&H010403&\t(6000,6500,1,\fry1080)\pos(32.6,279)}m 20 0 l 209 0 b 218 0 229 11 229 20 l 229 209 b 229 218 218 228 209 228 l 20 228 b 11 228 0 218 0 209 l 0 20 b 0 11 11 0 20 0{\p0}
+Dialogue: 3,0:03:45.32,0:04:07.32,*Default,NTP,0,0,0,,{\fad(500,500)\bord0\shad0\fscx11\fscy14\p1\c&H9297A1&\t(6000,6500,1,\fry1080)\pos(32.6,279)}m 115 64 l 115 35 l 171 0 l 177 0 l 133 46 l 143 52 l 179 0 l 184 0 l 159 63 l 229 107 l 229 182 l 145 96 l 135 122 l 207 227 l 137 227 l 115 172 l 115 93 l 126 76 l 115 64 l 104 76 l 115 93 l 115 172 l 93 227 l 23 227 l 95 122 l 84 96 l 0 182 l 0 107 l 70 63 l 45 0 l 50 0 l 87 52 l 97 46 l 52 0 l 59 0 l 115 35{\p0}
+Dialogue: 5,0:03:45.32,0:04:07.32,*Default,NTP,0000,0000,0000,,{\fad(500,500)\bord0\shad0\fscx15\fscy18\p1\1a&H3D&\c&HFFFFFF&\blur10\pos(22.6,269.8)}m 71 60 b 71 0 161 0 161 60 b 161 120 71 120 71 60{\p0}
+Dialogue: 1,0:03:45.32,0:03:48.32,*Default,NTP,0000,0000,0000,,{\fad(500,500)\bord0\shad0\fscx11\fscy14\p1\c&HFFFFFF&\pos(51,279.8)\t(2500,3000,1,\blur10)}m 325 0 l 355 0 l 332 47 l 354 47 l 399 136 l 369 136 l 328 53 l 288 136 l 257 136 l 325 0 m 467 0 l 497 0 l 474 47 l 496 47 l 541 136 l 511 136 l 470 53 l 430 136 l 399 136 l 467 0 m 545 1 l 583 1 l 583 14 l 568 14 l 568 19 l 583 19 l 583 30 l 568 30 l 568 34 l 599 34 l 599 30 l 583 30 l 583 19 l 599 19 l 599 14 l 583 14 l 583 1 l 611 1 b 616 1 622 6 622 10 l 622 36 l 652 0 l 678 0 l 644 41 l 622 41 l 622 47 l 596 47 l 597 54 l 625 54 l 625 68 l 541 68 l 541 54 l 572 54 l 571 47 l 545 47 l 545 1 m 583 72 l 583 85 l 569 85 l 569 90 l 598 90 l 598 85 l 583 85 l 583 72 l 611 72 b 615 72 621 78 621 82 l 653 44 l 678 44 l 644 86 l 621 86 l 621 103 l 597 103 l 597 136 l 570 136 l 564 126 l 562 136 l 542 136 l 548 107 l 568 107 l 565 121 l 571 121 l 571 103 l 547 103 l 547 72 l 583 72 m 600 107 l 620 107 l 624 124 l 653 89 l 679 89 l 642 136 l 615 136 l 618 132 l 606 132 l 600 107 m 689 0 l 716 0 l 721 15 l 732 15 l 732 30 l 718 56 l 731 56 l 735 100 l 721 100 l 717 59 l 714 64 l 714 136 l 693 136 l 693 79 l 676 79 l 707 30 l 679 30 l 679 15 l 694 15 l 689 0 m 738 0 l 804 0 b 807 0 813 6 813 9 l 813 87 l 794 87 l 794 14 l 756 14 l 756 87 l 763 77 l 763 21 l 787 21 l 787 91 l 798 91 l 798 120 l 820 120 l 812 136 l 778 136 l 778 90 l 748 136 l 723 136 l 756 87 l 738 87 l 738 0 m 257 151 l 275 151 l 297 182 l 319 151 l 337 151 l 304 197 l 304 227 l 290 227 l 290 197 l 257 151 m 337 151 l 355 151 l 377 182 l 399 151 l 417 151 l 384 197 l 384 227 l 370 227 l 370 197 l 337 151 m 425 192 l 447 192 b 445 181 427 181 425 192 l 410 192 b 414 162 458 162 462 192 l 462 206 l 425 206 b 425 210 429 212 433 213 l 462 213 l 462 227 l 433 227 b 412 227 408 203 410 192 m 462 151 l 532 151 l 532 165 l 504 165 l 504 227 l 489 227 l 489 165 l 462 165 l 462 151 m 580 172 l 580 186 l 549 186 b 543 186 543 192 549 192 l 565 192 b 589 192 589 227 565 227 l 532 227 l 532 213 l 565 213 b 570 213 570 206 565 206 l 549 206 b 524 206 524 172 549 172 l 580 172 m 592 213 l 606 213 l 606 227 l 592 227 l 592 213 m 639 172 l 665 172 l 665 186 l 639 186 b 623 186 623 213 639 213 l 665 213 l 665 227 l 639 227 b 603 227 603 172 639 172 m 700 184 b 722 184 722 215 700 215 l 700 229 b 740 229 740 170 700 170 b 660 170 660 229 700 229 l 700 215 b 680 215 680 184 700 184 m 737 172 l 782 172 b 803 172 813 177 813 198 l 813 228 l 799 228 l 799 198 b 799 186 793 187 782 187 l 782 228 l 768 228 l 768 187 l 752 187 l 752 228 l 737 228 l 737 172{\p0}
+Dialogue: 0,0:03:48.32,0:03:51.32,*Default,NTP,0,0,0,,{\fad(500,500)\fs16\b1\bord0\shad0\c&HFFFFFF&\fn方正兰亭粗黑_GBK\t(2500,3000,1,\blur10)\pos(139,280.091)}仅供学习 禁止用于任何商业盈利行为\N{\fn方正兰亭纤黑_GBK}更多影视更新请登陆www.YYeTs.com
+Dialogue: 0,0:03:51.32,0:03:55.32,*Default,NTP,0,0,0,,{\fad(0,500)\an4\bord0\fn方正小标宋_GBK\fs22\move(-280,262,48,262,0,500)\b1\clip(32,246,358,281)}{\fs17\fn方正仿宋繁体}翻译: 冰蓝  33来了  重案组李Sir  Reginamoon
+Dialogue: 0,0:03:55.32,0:03:59.32,*Default,NTP,0,0,0,,{\fad(0,500)\an4\bord0\fn方正小标宋_GBK\fs22\move(-280,262,48,262,0,500)\b1\clip(32,246,358,281)}{\fs17\fn方正仿宋繁体}翻译: 卫老哥  Eowyn  小饭  爱卿遛小鸟  送小孩
+Dialogue: 0,0:03:59.32,0:04:03.32,*Default,NTP,0,0,0,,{\fad(0,500)\an4\bord0\fn方正小标宋_GBK\fs22\move(-280,262,48,262,0,500)\b1\clip(32,246,358,281)}{\fs17\fn方正仿宋繁体}时间轴: 涛涛  加森  雪贵人 {\fs17\fn方正仿宋繁体} 后期:  、青衣
+Dialogue: 0,0:04:03.32,0:04:07.32,*Default,NTP,0,0,0,,{\fad(0,500)\an4\bord0\fn方正小标宋_GBK\fs22\move(-280,262,48,262,0,500)\b1\clip(32,246,358,281)}{\fs17\fn方正仿宋繁体}校对: 爱卿遛小鸟  米小勒  冰蓝  送小孩  {\fs17\fn方正仿宋繁体}总监: Lemony  送小孩
+Dialogue: 0,0:00:00.00,0:00:04.06,*Default,NTP,0000,0000,0000,,AMC台《行尸走肉》前情提要\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}Previously on the AMC's The Walking Dead...
+Dialogue: 0,0:00:04.11,0:00:06.16,*Default,NTP,0000,0000,0000,,D区有行尸\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}Walkers in D!
+Dialogue: 0,0:00:06.22,0:00:07.88,*Default,NTP,0000,0000,0000,,我们失去了很多好人\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}We lost a lot of good people.
+Dialogue: 0,0:00:07.92,0:00:08.89,*Default,NTP,0000,0000,0000,,这是一种疾病\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}It's a sickness.
+Dialogue: 0,0:00:08.96,0:00:12.08,*Default,NTP,0000,0000,0000,,我们已接触了病菌\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}All of us in here, we've all been exposed.
+Dialogue: 0,0:00:12.13,0:00:14.41,*Default,NTP,0000,0000,0000,,你能照顾丽兹和米卡吗\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}Lizzie and Mica, can you look out for them?
+Dialogue: 0,0:00:14.47,0:00:15.72,*Default,NTP,0000,0000,0000,,视如己出\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}Like they're yours?
+Dialogue: 0,0:00:15.79,0:00:18.43,*Default,NTP,0000,0000,0000,,别离可能被感染的人太近\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}You shouldn't get too close to anyone that might have been exposed.
+Dialogue: 0,0:00:18.48,0:00:19.84,*Default,NTP,0000,0000,0000,,我们需要把你隔离\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}We should keep you separated.
+Dialogue: 0,0:00:19.91,0:00:22.13,*Default,NTP,0000,0000,0000,,我看看有没有什么药物治疗的方法\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}I'll see what we have in the way of medications.
+Dialogue: 0,0:00:22.19,0:00:24.47,*Default,NTP,0000,0000,0000,,大卫也在咳嗽\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}David, he's been coughing, too.
+Dialogue: 0,0:01:38.95,0:01:40.58,*Default,NTP,0000,0000,0000,,你发现时他们就这样了吗\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}You found them like this?
+Dialogue: 0,0:01:45.69,0:01:47.12,*Default,NTP,0000,0000,0000,,我来看凯伦...\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}I came to see Karen...
+Dialogue: 0,0:01:49.58,0:01:51.41,*Default,NTP,0000,0000,0000,,发现了地上的血迹\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}and I saw the blood on the floor.
+Dialogue: 0,0:01:54.99,0:01:56.37,*Default,NTP,0000,0000,0000,,然后闻到了气味\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}Then I smelled them.
+Dialogue: 0,0:01:59.24,0:02:01.12,*Default,NTP,0000,0000,0000,,有人把他们拖到这里\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}Somebody dragged them out here
+Dialogue: 0,0:02:01.87,0:02:03.42,*Default,NTP,0000,0000,0000,,然后放火焚烧\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}and set them on fire.
+Dialogue: 0,0:02:04.85,0:02:07.02,*Default,NTP,0000,0000,0000,,他们杀了他们  然后放火焚烧\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}They killed them and set them on fire!
+Dialogue: 0,0:02:12.16,0:02:13.11,*Default,NTP,0000,0000,0000,,你是个警察\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}You're a cop.
+Dialogue: 0,0:02:13.80,0:02:15.60,*Default,NTP,0000,0000,0000,,你查清楚是谁干的  然后把他们交给我\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}You find out who did this and you bring 'em to me.
+Dialogue: 0,0:02:15.61,0:02:17.59,*Default,NTP,0000,0000,0000,,听懂了吗  把他们交给我\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}You understand? You bring 'em to me.
+Dialogue: 0,0:02:18.32,0:02:19.69,*Default,NTP,0000,0000,0000,,我们会查出是谁...\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}We'll find out who--
+Dialogue: 0,0:02:20.91,0:02:22.97,*Default,NTP,0000,0000,0000,,-我需要重复吗  -不用\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}- I need to say it again? - No. No.
+Dialogue: 0,0:02:23.17,0:02:26.38,*Default,NTP,0000,0000,0000,,我知道你的感受  我也经历过\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}I know what you're feeling. I've been there.
+Dialogue: 0,0:02:26.65,0:02:28.75,*Default,NTP,0000,0000,0000,,你见过我的样子  那很危险\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}You saw me there. It's dangerous.
+Dialogue: 0,0:02:28.75,0:02:30.68,*Default,NTP,0000,0000,0000,,-凯伦不该被烧死  -对\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}- Karen didn't deserve this. - No.
+Dialogue: 0,0:02:30.70,0:02:32.16,*Default,NTP,0000,0000,0000,,大卫不该被烧死\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}David didn't deserve it.
+Dialogue: 0,0:02:32.16,0:02:34.41,*Default,NTP,0000,0000,0000,,-谁都不该  -好了  哥们  别...\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}- Nobody does. - All right, man, let's--
+Dialogue: 0,0:02:34.41,0:02:37.24,*Default,NTP,0000,0000,0000,,不查出是谁干的  我绝不离开\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}Man, I ain't going nowhere till I find out who did this!
+Dialogue: 0,0:02:42.56,0:02:44.55,*Default,NTP,0000,0000,0000,,我们是一边的  哥们\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}We're on the same side, man.
+Dialogue: 0,0:02:45.85,0:02:46.71,*Default,NTP,0000,0000,0000,,听着\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}Hey, look,
+Dialogue: 0,0:02:48.00,0:02:49.67,*Default,NTP,0000,0000,0000,,我知道你的感受\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}I know what you're going through.
+Dialogue: 0,0:02:51.42,0:02:53.13,*Default,NTP,0000,0000,0000,,我们都失去过爱人\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}We've all lost someone.
+Dialogue: 0,0:02:54.24,0:02:55.98,*Default,NTP,0000,0000,0000,,我们知道你现在的感受\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}We know what you're going through right now,
+Dialogue: 0,0:02:55.98,0:02:58.31,*Default,NTP,0000,0000,0000,,但你得冷静下来\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}but you've got to calm down.
+Dialogue: 0,0:02:58.31,0:03:00.46,*Default,NTP,0000,0000,0000,,-你给我退后  -别这样\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}- You need to step the hell back! - No.
+Dialogue: 0,0:03:02.67,0:03:04.39,*Default,NTP,0000,0000,0000,,她不会想要你这样的\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}She wouldn't want you being like this.
+Dialogue: 0,0:03:04.39,0:03:06.93,*Default,NTP,0000,0000,0000,,住手  住手\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}Stop! Stop!
+Dialogue: 0,0:03:08.35,0:03:09.25,*Default,NTP,0000,0000,0000,,住手\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}Stop!
+Dialogue: 0,0:03:13.10,0:03:14.39,*Default,NTP,0000,0000,0000,,够了\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}That's enough.
+Dialogue: 0,0:03:15.04,0:03:15.89,*Default,NTP,0000,0000,0000,,够了\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}That's enough.
+Dialogue: 0,0:03:22.88,0:03:23.66,*Default,NTP,0000,0000,0000,,瑞克\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}Rick.
+Dialogue: 0,0:03:26.32,0:03:27.86,*Default,NTP,0000,0000,0000,,-住手  -放开我\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}- Stop. - Let go of me!
+Dialogue: 0,0:03:27.86,0:03:29.89,*Default,NTP,0000,0000,0000,,-不  -放开我\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}- No. No. - Let go of me!
+Dialogue: 0,0:03:30.17,0:03:30.98,*Default,NTP,0000,0000,0000,,不\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}No.
+Dialogue: 0,0:04:22.41,0:04:24.89,*Default,NTP,0000,0000,0000,,你的伤至少得一个星期才能痊愈\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}This is gonna be sprained at least a week.
+Dialogue: 0,0:04:28.63,0:04:32.22,*Default,NTP,0000,0000,0000,,好消息是  这些伤口都无需缝针\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}Good news, none of these cuts need stitches.
+Dialogue: 0,0:04:34.11,0:04:37.02,*Default,NTP,0000,0000,0000,,接下来的几天不要打字\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}I wouldn't plan on much typing the next few days.
+Dialogue: 0,0:04:38.95,0:04:39.92,*Default,NTP,0000,0000,0000,,你没事吧\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}You okay?
+Dialogue: 0,0:04:42.60,0:04:43.46,*Default,NTP,0000,0000,0000,,很痛\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}It hurts.
+Dialogue: 0,0:04:44.83,0:04:47.13,*Default,NTP,0000,0000,0000,,我说的不是你的手\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}I wasn't talking about the hand.
+Dialogue: 0,0:04:49.08,0:04:51.39,*Default,NTP,0000,0000,0000,,我们刚经历了可怕的事\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}We just went through something terrible.
+Dialogue: 0,0:04:52.65,0:04:55.83,*Default,NTP,0000,0000,0000,,那些我们竭力阻止的事情\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}Everything we've been working so hard to keep out,
+Dialogue: 0,0:04:56.94,0:04:58.59,*Default,NTP,0000,0000,0000,,终究还是发生了\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}it found its way in.
+Dialogue: 0,0:05:00.85,0:05:01.92,*Default,NTP,0000,0000,0000,,不\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}No.
+Dialogue: 0,0:05:03.19,0:05:04.73,*Default,NTP,0000,0000,0000,,该发生的总会发生的\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}It's always there.
+Dialogue: 0,0:05:08.52,0:05:10.61,*Default,NTP,0000,0000,0000,,明早要开会  \N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}Council meeting tomorrow morning.
+Dialogue: 0,0:05:11.80,0:05:13.08,*Default,NTP,0000,0000,0000,,通知你一声\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}Thought you should know.
+Dialogue: 0,0:05:15.55,0:05:17.65,*Default,NTP,0000,0000,0000,,我们失去了12名同胞\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}We just lost 12 of our own.
+Dialogue: 0,0:05:18.39,0:05:20.68,*Default,NTP,0000,0000,0000,,还有2名被无情地残杀\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}Two more we killed in cold blood.
+Dialogue: 0,0:05:21.28,0:05:23.30,*Default,NTP,0000,0000,0000,,疫情恐怕难以控制\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}We could be facing an outbreak.
+Dialogue: 0,0:05:23.30,0:05:25.44,*Default,NTP,0000,0000,0000,,但我觉得我只会闯祸\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}I think I've done enough damage for one day.
+Dialogue: 0,0:05:28.04,0:05:30.13,*Default,NTP,0000,0000,0000,,我以前也失控过\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}I've fallen off the wagon before.
+Dialogue: 0,0:05:30.13,0:05:32.63,*Default,NTP,0000,0000,0000,,-是一回事吗  -差不多\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}- That's what this is? - Pretty close.
+Dialogue: 0,0:05:33.58,0:05:36.77,*Default,NTP,0000,0000,0000,,当遇到问题  我不会唉声叹气\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}When it happened, I didn't stand around feeling bad about it.
+Dialogue: 0,0:05:37.05,0:05:38.43,*Default,NTP,0000,0000,0000,,我会挺住\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}I got back up.
+Dialogue: 0,0:05:39.15,0:05:41.09,*Default,NTP,0000,0000,0000,,我会担起责任\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}I had responsibilities.
+Dialogue: 0,0:05:41.51,0:05:43.33,*Default,NTP,0000,0000,0000,,保护大家的安全\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}People to keep safe.
+Dialogue: 0,0:06:04.59,0:06:06.11,*Default,NTP,0000,0000,0000,,老兄  去清洗下伤口吧\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}Let's get you cleaned up, man.
+Dialogue: 0,0:06:07.17,0:06:09.06,*Default,NTP,0000,0000,0000,,说不定要缝上几针\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}You might even need a couple stitches.
+Dialogue: 0,0:06:09.39,0:06:10.88,*Default,NTP,0000,0000,0000,,先把他们安葬了再说\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}Not until they're in the ground.
+Dialogue: 0,0:06:12.68,0:06:15.37,*Default,NTP,0000,0000,0000,,那你至少得让赫谢尔或者斯蒂文斯医生看看\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}You should at least let Hershel or Dr. S. take a look at you,
+Dialogue: 0,0:06:15.43,0:06:16.81,*Default,NTP,0000,0000,0000,,确保没什么大碍\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}make sure nothing's broken.
+Dialogue: 0,0:06:19.37,0:06:21.02,*Default,NTP,0000,0000,0000,,先把他们安葬了再说\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}When they're in the ground.
+Dialogue: 0,0:06:38.84,0:06:40.44,*Default,NTP,0000,0000,0000,,我不会有事的  对吧\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}I'm gonna be okay, though, right?
+Dialogue: 0,0:06:42.62,0:06:45.02,*Default,NTP,0000,0000,0000,,你看凯伦和大卫都已经被感染了\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}I mean, Karen and David, they were already sick.
+Dialogue: 0,0:06:45.02,0:06:47.43,*Default,NTP,0000,0000,0000,,所以要感染的话  这会儿早就被感染了\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}So if we were gonna get it, we'd have had it by now.
+Dialogue: 0,0:06:47.68,0:06:50.03,*Default,NTP,0000,0000,0000,,又没有固定的发病时间\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}It doesn't happen on a timeline.
+Dialogue: 0,0:06:50.54,0:06:52.41,*Default,NTP,0000,0000,0000,,这是因人而异的\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}It's different with everyone.
+Dialogue: 0,0:06:54.53,0:06:55.78,*Default,NTP,0000,0000,0000,,但我们会没事的\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}But we could be okay.
+Dialogue: 0,0:06:56.31,0:06:57.61,*Default,NTP,0000,0000,0000,,对  会没事的\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}Yeah, we could be.
+Dialogue: 0,0:06:59.05,0:07:00.65,*Default,NTP,0000,0000,0000,,一切都会好起来的\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}Everything could be okay.
+Dialogue: 0,0:07:03.28,0:07:06.04,*Default,NTP,0000,0000,0000,,如果是跟行尸和人正面交锋\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}If it's walkers, if it's people,
+Dialogue: 0,0:07:06.04,0:07:08.07,*Default,NTP,0000,0000,0000,,我们还有法子  可以拼了\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}we can do something. We can fight.
+Dialogue: 0,0:07:09.02,0:07:11.96,*Default,NTP,0000,0000,0000,,但遇上这个  我只能掘坟墓\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}But with this, I'm just digging graves.
+Dialogue: 0,0:07:26.82,0:07:28.28,*Default,NTP,0000,0000,0000,,得去找斯蒂文斯医生\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}Got to see Dr. S.
+Dialogue: 0,0:07:30.98,0:07:32.14,*Default,NTP,0000,0000,0000,,我会没事的\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}I'm gonna be okay.
+Dialogue: 0,0:07:56.89,0:07:58.12,*Default,NTP,0000,0000,0000,,斯蒂文斯医生\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}Dr. S....?
+Dialogue: 0,0:08:23.50,0:08:24.98,*Default,NTP,0000,0000,0000,,医生你在吗\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}Dr. S.?
+Dialogue: 0,0:08:33.27,0:08:34.45,*Default,NTP,0000,0000,0000,,我们必须告诉他们\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}We have to tell them.
+Dialogue: 0,0:08:38.80,0:08:39.83,*Default,NTP,0000,0000,0000,,感染蔓延了\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}It's starting.
+Dialogue: 0,0:08:45.07,0:08:46.17,*Default,NTP,0000,0000,0000,,病毒传播很快\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}It's spread.
+Dialogue: 0,0:08:46.49,0:08:49.59,*Default,NTP,0000,0000,0000,,D区幸免遇难的人中  萨沙和迦勒已经感染\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}Everyone who survived the attack in cell block D.
+Dialogue: 0,0:08:49.88,0:08:53.43,*Default,NTP,0000,0000,0000,,现在其他人也出现了症状\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}Sasha, Caleb, and now others.
+Dialogue: 0,0:08:53.71,0:08:54.79,*Default,NTP,0000,0000,0000,,哦  天哪\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}Oh, Jesus.
+Dialogue: 0,0:08:55.24,0:08:56.40,*Default,NTP,0000,0000,0000,,那我们该怎么办\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}So what do we do?
+Dialogue: 0,0:08:56.73,0:09:00.10,*Default,NTP,0000,0000,0000,,当务之急  将A区设为隔离区\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}First things first. Cell block A is isolation.
+Dialogue: 0,0:09:00.10,0:09:03.68,*Default,NTP,0000,0000,0000,,像之前萨沙和迦勒那样  将所有被感染的人隔离  \N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}We keep the sick people there like we tried with Karen and David.
+Dialogue: 0,0:09:03.68,0:09:04.89,*Default,NTP,0000,0000,0000,,那接下来又怎样\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}What the hell we gonna do about that?
+Dialogue: 0,0:09:04.89,0:09:06.21,*Default,NTP,0000,0000,0000,,让瑞克去调查\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}Ask Rick to look into it.
+Dialogue: 0,0:09:06.21,0:09:08.43,*Default,NTP,0000,0000,0000,,做个时间表  记录每个人在何时何地做什么\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}Try to make a timeline-- who's where when.
+Dialogue: 0,0:09:08.43,0:09:10.48,*Default,NTP,0000,0000,0000,,但要怎样才能阻止事态恶化呢\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}But what are we gonna do to stop this?
+Dialogue: 0,0:09:10.48,0:09:12.19,*Default,NTP,0000,0000,0000,,没办法阻止\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}There is no stopping it.
+Dialogue: 0,0:09:12.37,0:09:15.16,*Default,NTP,0000,0000,0000,,被感染了  就会恶化\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}You get it, you have to go through it.
+Dialogue: 0,0:09:15.16,0:09:17.97,*Default,NTP,0000,0000,0000,,-那这不就是等死吗  -病毒本身不致命\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}- But it just kills you? - The illness doesn't.
+Dialogue: 0,0:09:17.97,0:09:21.19,*Default,NTP,0000,0000,0000,,是症状要人命  我们需要抗生素\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}The symptoms do. We need antibiotics.
+Dialogue: 0,0:09:21.34,0:09:23.54,*Default,NTP,0000,0000,0000,,附近的药店我们都去过了\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}We've been through every pharmacy nearby.
+Dialogue: 0,0:09:23.54,0:09:24.57,*Default,NTP,0000,0000,0000,,没找到多少\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}And then some.
+Dialogue: 0,0:09:25.18,0:09:28.23,*Default,NTP,0000,0000,0000,,西桃工学院的兽医院\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}That veterinary college at West Peachtree Tech,
+Dialogue: 0,0:09:28.23,0:09:29.50,*Default,NTP,0000,0000,0000,,应该没人想到\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}that's one place people
+Dialogue: 0,0:09:29.50,0:09:31.78,*Default,NTP,0000,0000,0000,,去那里找药\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}may not have thought to raid for medication.
+Dialogue: 0,0:09:31.78,0:09:34.84,*Default,NTP,0000,0000,0000,,动物的药  人也能用\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}The drugs for animals there are the same we need.
+Dialogue: 0,0:09:34.84,0:09:36.26,*Default,NTP,0000,0000,0000,,距这里有50英里\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}That's 50 miles.
+Dialogue: 0,0:09:36.73,0:09:38.17,*Default,NTP,0000,0000,0000,,之前觉得太冒险\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}Too big a risk before.
+Dialogue: 0,0:09:38.17,0:09:39.88,*Default,NTP,0000,0000,0000,,现在不管了  我带一组人出去\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}Ain't now. I'm gonna take a group out.
+Dialogue: 0,0:09:39.88,0:09:41.62,*Default,NTP,0000,0000,0000,,抓紧时间\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}Best not waste any more time.
+Dialogue: 0,0:09:41.94,0:09:42.83,*Default,NTP,0000,0000,0000,,我也去\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}I'm in.
+Dialogue: 0,0:09:43.49,0:09:44.96,*Default,NTP,0000,0000,0000,,你没有接触过病毒\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}You haven't been exposed.
+Dialogue: 0,0:09:44.96,0:09:47.14,*Default,NTP,0000,0000,0000,,达里尔接触了  你跟他在一辆车里的话\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}Daryl has. You get in a car with him...
+Dialogue: 0,0:09:47.26,0:09:48.95,*Default,NTP,0000,0000,0000,,他已经把虱子传染给我了\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}He's already given me fleas.
+Dialogue: 0,0:09:49.64,0:09:50.90,*Default,NTP,0000,0000,0000,,我可以带路\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}I can lead the way.
+Dialogue: 0,0:09:50.90,0:09:52.65,*Default,NTP,0000,0000,0000,,我知道东西都放在哪了\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}I know where everything's kept.
+Dialogue: 0,0:09:54.81,0:09:58.03,*Default,NTP,0000,0000,0000,,在外面的时候  每次都有危险\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}When we're out there, it's always the same.
+Dialogue: 0,0:09:58.61,0:10:00.39,*Default,NTP,0000,0000,0000,,早晚得跑步逃命\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}Sooner or later we run.
+Dialogue: 0,0:10:01.56,0:10:03.85,*Default,NTP,0000,0000,0000,,那我就给你们画张地图吧\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}I can draw you a map.
+Dialogue: 0,0:10:05.14,0:10:07.72,*Default,NTP,0000,0000,0000,,我们应该做一些其他的预防措施\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}There are other precautions I feel we should take.
+Dialogue: 0,0:10:07.92,0:10:08.90,*Default,NTP,0000,0000,0000,,比如\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}Like what?
+Dialogue: 0,0:10:09.09,0:10:10.54,*Default,NTP,0000,0000,0000,,达里尔这组人\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}There's no telling how long it'll be
+Dialogue: 0,0:10:10.54,0:10:12.59,*Default,NTP,0000,0000,0000,,什么时候回来说不准\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}before Daryl and his group return.
+Dialogue: 0,0:10:13.31,0:10:16.20,*Default,NTP,0000,0000,0000,,我们应该把最易被感染的人隔离开\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}Wouldn't it make sense for us to separate the most vulnerable?
+Dialogue: 0,0:10:16.21,0:10:18.09,*Default,NTP,0000,0000,0000,,我们可以用行政办公楼\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}We can use the administration building.
+Dialogue: 0,0:10:18.09,0:10:19.90,*Default,NTP,0000,0000,0000,,有独立的办公室和房间\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}Separate office, separate room.
+Dialogue: 0,0:10:19.90,0:10:22.77,*Default,NTP,0000,0000,0000,,谁是最易被感染的人\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}Who is the most vulnerable?
+Dialogue: 0,0:10:23.87,0:10:25.00,*Default,NTP,0000,0000,0000,,孩子们\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}The very young.
+Dialogue: 0,0:10:27.15,0:10:28.38,*Default,NTP,0000,0000,0000,,老人呢\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}What about the old?
+Dialogue: 0,0:10:36.68,0:10:38.01,*Default,NTP,0000,0000,0000,,我来试一下\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}Give me another go at it.
+Dialogue: 0,0:10:38.01,0:10:39.72,*Default,NTP,0000,0000,0000,,管子被泥土堵住了\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}The whole line's mudded up.
+Dialogue: 0,0:10:39.99,0:10:41.31,*Default,NTP,0000,0000,0000,,那头又掉到池底了\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}The end is dragging the bottom again.
+Dialogue: 0,0:10:41.31,0:10:43.13,*Default,NTP,0000,0000,0000,,我们得出去清理一下\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}We'll have to go out there and clear it.
+Dialogue: 0,0:10:44.38,0:10:46.65,*Default,NTP,0000,0000,0000,,设好诱饵  派个人从墓地穿过去\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}Set the bird, go out through the tombs,
+Dialogue: 0,0:10:46.66,0:10:48.27,*Default,NTP,0000,0000,0000,,再从森林小路绕到后面\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}swing around through the forest route.
+Dialogue: 0,0:10:48.27,0:10:50.81,*Default,NTP,0000,0000,0000,,我们现在的水还够用  明天再说\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}We got enough for now. That's tomorrow's problem.
+Dialogue: 0,0:10:51.64,0:10:53.63,*Default,NTP,0000,0000,0000,,瑞克  萨沙被隔离之后\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}Rick, five more people
+Dialogue: 0,0:10:53.63,0:10:55.69,*Default,NTP,0000,0000,0000,,又有五个人死了\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}have come down with it since Sasha went in.
+Dialogue: 0,0:10:55.82,0:10:57.51,*Default,NTP,0000,0000,0000,,我们的人没剩几个了\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}There's not a lot of us left.
+Dialogue: 0,0:10:57.82,0:10:59.67,*Default,NTP,0000,0000,0000,,你要是病了怎么办  我病了怎么办\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}What if you get sick? What if I do?
+Dialogue: 0,0:11:00.05,0:11:01.89,*Default,NTP,0000,0000,0000,,我们要是在外面遇到麻烦回不来怎么办\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}What if we get in trouble out there and don't come back?
+Dialogue: 0,0:11:01.89,0:11:04.33,*Default,NTP,0000,0000,0000,,先把这个弄好  大伙需要喝水\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}Let's get this up to the people who need it.
+Dialogue: 0,0:11:04.40,0:11:06.52,*Default,NTP,0000,0000,0000,,先把必要的事做好\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}Let's get what we have to get done first.
+Dialogue: 0,0:11:09.39,0:11:11.81,*Default,NTP,0000,0000,0000,,卡尔还在生气他被隔离的事吗\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}Is Carl pretty pissed about going into quarantine?
+Dialogue: 0,0:11:12.25,0:11:13.42,*Default,NTP,0000,0000,0000,,当然\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}Of course.
+Dialogue: 0,0:11:14.50,0:11:16.02,*Default,NTP,0000,0000,0000,,但是还是安全比较重要\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}But it's better to be safe.
+Dialogue: 0,0:11:19.11,0:11:20.68,*Default,NTP,0000,0000,0000,,安全总是更重要\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}Always better to be safe.
+Dialogue: 0,0:11:22.45,0:11:23.66,*Default,NTP,0000,0000,0000,,你应该跟他谈谈\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}You should talk to him.
+Dialogue: 0,0:11:24.74,0:11:26.54,*Default,NTP,0000,0000,0000,,我们应该去哀悼一下\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}We should both pay our respects.
+Dialogue: 0,0:11:27.93,0:11:30.21,*Default,NTP,0000,0000,0000,,我先解决这个问题  待会儿见\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}I'll take this up first. Meet you.
+Dialogue: 0,0:11:55.90,0:11:57.70,*Default,NTP,0000,0000,0000,,对于发生的事我很抱歉\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}I'm sorry about what happened.
+Dialogue: 0,0:12:00.47,0:12:01.84,*Default,NTP,0000,0000,0000,,我对你做的事情\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}What I did to you.
+Dialogue: 0,0:12:04.43,0:12:05.34,*Default,NTP,0000,0000,0000,,所有事\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}Everything.
+Dialogue: 0,0:12:06.14,0:12:07.58,*Default,NTP,0000,0000,0000,,我们都有责任\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}It's on both of us.
+Dialogue: 0,0:12:11.04,0:12:12.99,*Default,NTP,0000,0000,0000,,你要查出来是谁干的\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}You got to find who did this.
+Dialogue: 0,0:12:13.47,0:12:15.34,*Default,NTP,0000,0000,0000,,我不太了解大卫\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}I didn't know David much.
+Dialogue: 0,0:12:15.70,0:12:16.60,*Default,NTP,0000,0000,0000,,你呢\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}Did you?
+Dialogue: 0,0:12:19.24,0:12:22.45,*Default,NTP,0000,0000,0000,,有人和他或者和凯伦有仇吗\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}Did anyone have a problem with him or Karen?
+Dialogue: 0,0:12:22.81,0:12:24.83,*Default,NTP,0000,0000,0000,,不  不可能\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}No. No way.
+Dialogue: 0,0:12:25.47,0:12:27.10,*Default,NTP,0000,0000,0000,,我每天都跟她在一起\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}I was with her all the time, every day.
+Dialogue: 0,0:12:27.10,0:12:29.94,*Default,NTP,0000,0000,0000,,她跟所有人都相处得很好  大卫也是\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}She got along with everybody. Same with David.
+Dialogue: 0,0:12:31.69,0:12:34.17,*Default,NTP,0000,0000,0000,,当时只有他们两个病了\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}They were the only two who were sick.
+Dialogue: 0,0:12:36.64,0:12:37.70,*Default,NTP,0000,0000,0000,,做这件事的人\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}The person who did it might
+Dialogue: 0,0:12:37.70,0:12:39.96,*Default,NTP,0000,0000,0000,,可能是想阻止病毒的传播\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}have trying to stop this thing from spreading.
+Dialogue: 0,0:12:40.04,0:12:41.15,*Default,NTP,0000,0000,0000,,他们没成功\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}They didn't.
+Dialogue: 0,0:12:48.05,0:12:49.68,*Default,NTP,0000,0000,0000,,如今萨沙也病了\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}Now Sasha has it.
+Dialogue: 0,0:12:54.18,0:12:56.11,*Default,NTP,0000,0000,0000,,听着  不管是谁干的\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}Look, whoever it was who did this,
+Dialogue: 0,0:12:56.43,0:12:58.85,*Default,NTP,0000,0000,0000,,他们逃不了的  我们会找到他们的\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}they're not going anywhere. We'll find them.
+Dialogue: 0,0:12:58.85,0:13:00.50,*Default,NTP,0000,0000,0000,,今天找  现在就找吗\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}Today? Right now?
+Dialogue: 0,0:13:00.99,0:13:02.93,*Default,NTP,0000,0000,0000,,因为我没觉得你很紧张这事儿\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}Because I'm not feeling the urgency.
+Dialogue: 0,0:13:03.33,0:13:05.44,*Default,NTP,0000,0000,0000,,我只看见你在泵水\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}All I see you doing is pumping water.
+Dialogue: 0,0:13:06.78,0:13:09.50,*Default,NTP,0000,0000,0000,,实际上  我的感觉是\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}In fact, what I'm picking up is
+Dialogue: 0,0:13:09.59,0:13:11.65,*Default,NTP,0000,0000,0000,,在这里  即便是谋杀也是可以被接受的\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}murder is okay in this place now.
+Dialogue: 0,0:13:11.65,0:13:12.98,*Default,NTP,0000,0000,0000,,不  不是的\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}No, it is not.
+Dialogue: 0,0:13:13.42,0:13:15.44,*Default,NTP,0000,0000,0000,,但我们得先保命\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}But we have to save lives first.
+Dialogue: 0,0:13:15.44,0:13:17.24,*Default,NTP,0000,0000,0000,,我们得维持这个地方的运转\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}We have to keep this place going.
+Dialogue: 0,0:13:17.24,0:13:18.58,*Default,NTP,0000,0000,0000,,你去操那个心吧\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}You worry about that.
+Dialogue: 0,0:13:19.80,0:13:21.63,*Default,NTP,0000,0000,0000,,我来操心那些正确的事\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}I'll worry about what's right.
+Dialogue: 0,0:13:53.88,0:13:55.40,*Default,NTP,0000,0000,0000,,这可是为了你好\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}It's for your own good.
+Dialogue: 0,0:13:55.41,0:13:56.54,*Default,NTP,0000,0000,0000,,我很好\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}I'm fine.
+Dialogue: 0,0:13:57.09,0:13:59.08,*Default,NTP,0000,0000,0000,,我可不想和群孩子关在一起\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}I don't want to be locked away with a bunch of kids.
+Dialogue: 0,0:13:59.08,0:14:02.97,*Default,NTP,0000,0000,0000,,我需要你在这儿看着朱迪思和其他人\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}I need you in there keeping an eye on Judith and everybody else.
+Dialogue: 0,0:14:03.17,0:14:04.90,*Default,NTP,0000,0000,0000,,确保他们的安全\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}Making sure they're safe.
+Dialogue: 0,0:14:10.73,0:14:13.37,*Default,NTP,0000,0000,0000,,假如有人生病了  你得让我知道\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}If anybody gets sick, you let me know.
+Dialogue: 0,0:14:14.35,0:14:16.55,*Default,NTP,0000,0000,0000,,假如我发现他们的时候他们已经变异了怎么办\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}What if they've already turned when I find them?
+Dialogue: 0,0:14:21.62,0:14:25.37,*Default,NTP,0000,0000,0000,,除非必要  否则你不能开枪\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}You don't fire unless you absolutely need to.
+Dialogue: 0,0:14:25.54,0:14:28.66,*Default,NTP,0000,0000,0000,,但你知道我有可能得开枪的  是吧\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}But you know I might need to, right?
+Dialogue: 0,0:14:43.73,0:14:45.14,*Default,NTP,0000,0000,0000,,会没事的\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}It's gonna be okay.
+Dialogue: 0,0:14:46.55,0:14:48.00,*Default,NTP,0000,0000,0000,,会没事的\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}It's gonna be okay.
+Dialogue: 0,0:14:49.64,0:14:50.63,*Default,NTP,0000,0000,0000,,-格伦  -别\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}- Glenn? - Don't.
+Dialogue: 0,0:14:50.63,0:14:53.46,*Default,NTP,0000,0000,0000,,-别  别进来  -怎么了\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}- Don't-- don't come in. - What is it?
+Dialogue: 0,0:14:58.93,0:15:00.23,*Default,NTP,0000,0000,0000,,我病了\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}I have it.
+Dialogue: 0,0:15:21.24,0:15:23.04,*Default,NTP,0000,0000,0000,,他妈的机油不够了\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}Son of a bitch is about a quart low.
+Dialogue: 0,0:15:23.04,0:15:25.23,*Default,NTP,0000,0000,0000,,你还是把机油放在三号塔底了吧\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}You still keep it in the bottom of tower three?
+Dialogue: 0,0:15:25.23,0:15:26.39,*Default,NTP,0000,0000,0000,,是的\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}Yeah. 
+Dialogue: 0,0:15:26.52,0:15:27.88,*Default,NTP,0000,0000,0000,,我去拿一个\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}I'll go get one.
+Dialogue: 0,0:15:31.25,0:15:32.69,*Default,NTP,0000,0000,0000,,我很开心你在这儿\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}I'm glad you're here.
+Dialogue: 0,0:15:33.71,0:15:35.15,*Default,NTP,0000,0000,0000,,我还能在哪儿\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}Where else would I be?
+Dialogue: 0,0:15:36.35,0:15:37.77,*Default,NTP,0000,0000,0000,,四处漂泊\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}Running off.
+Dialogue: 0,0:15:41.36,0:15:43.43,*Default,NTP,0000,0000,0000,,你知道我不会再漂泊了\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}You know I'm not running off.
+Dialogue: 0,0:15:51.74,0:15:54.33,*Default,NTP,0000,0000,0000,,所以还是像以前那样  只剩我和你了吗\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}So it's just gonna be me and you like in the old days?
+Dialogue: 0,0:15:55.86,0:15:57.46,*Default,NTP,0000,0000,0000,,是啊  还有鲍勃\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}Yeah, and Bob.
+Dialogue: 0,0:15:58.45,0:16:00.84,*Default,NTP,0000,0000,0000,,还是觉得我们可以再找个人帮忙的\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}Still, feels like we could use another person.
+Dialogue: 0,0:16:00.84,0:16:02.07,*Default,NTP,0000,0000,0000,,剩下还有谁没病\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}Who else isn't sick?
+Dialogue: 0,0:16:02.07,0:16:03.44,*Default,NTP,0000,0000,0000,,我们没问瑞克\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}We don't ask Rick. 
+Dialogue: 0,0:16:03.44,0:16:06.42,*Default,NTP,0000,0000,0000,,他想留在这儿和卡尔还有小拽女一起\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}He wants to stay here with Carl and little ass-kicker.
+Dialogue: 0,0:16:06.42,0:16:07.93,*Default,NTP,0000,0000,0000,,确保他们安全\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}Keep them safe.
+Dialogue: 0,0:16:09.32,0:16:11.77,*Default,NTP,0000,0000,0000,,加上这儿有许多事他可以做\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}Plus there's plenty of stuff he could do here.
+Dialogue: 0,0:16:11.97,0:16:13.62,*Default,NTP,0000,0000,0000,,所以我们还能找谁呢\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}So who else we got?
+Dialogue: 0,0:16:22.60,0:16:24.05,*Default,NTP,0000,0000,0000,,你在这儿\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}Oh, there you are.
+Dialogue: 0,0:16:24.05,0:16:26.26,*Default,NTP,0000,0000,0000,,我他妈费了好大劲儿找你\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}Took me damn near forever to find you.
+Dialogue: 0,0:16:27.89,0:16:28.97,*Default,NTP,0000,0000,0000,,你在干嘛\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}Whatcha doing?
+Dialogue: 0,0:16:28.97,0:16:31.41,*Default,NTP,0000,0000,0000,,得有人看着  以防奸人图谋不轨\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}Somebody needs to stand watch.
+Dialogue: 0,0:16:33.13,0:16:34.93,*Default,NTP,0000,0000,0000,,伙计  我也想找到他们\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}Man, I want to find them, too.
+Dialogue: 0,0:16:35.57,0:16:37.74,*Default,NTP,0000,0000,0000,,为他们干的事射他们一箭\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}Put a bolt in them for what they did.
+Dialogue: 0,0:16:42.56,0:16:44.50,*Default,NTP,0000,0000,0000,,这些人的退路已被截断了\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}These people are cut off.
+Dialogue: 0,0:16:44.50,0:16:45.88,*Default,NTP,0000,0000,0000,,如果有人进出的话\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}Ain't no way anyone's getting in and out
+Dialogue: 0,0:16:45.88,0:16:47.72,*Default,NTP,0000,0000,0000,,那么多人不可能没人看见\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}without a whole bunch of people seeing 'em.
+Dialogue: 0,0:16:47.72,0:16:48.97,*Default,NTP,0000,0000,0000,,萨沙还在里面\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}Sasha's in there. 
+Dialogue: 0,0:16:48.97,0:16:50.75,*Default,NTP,0000,0000,0000,,我哪里都不会去\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}I ain't going nowhere.
+Dialogue: 0,0:16:52.49,0:16:54.16,*Default,NTP,0000,0000,0000,,如果我们不带药回来\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}Standing guard ain't gonna do no good
+Dialogue: 0,0:16:54.16,0:16:56.13,*Default,NTP,0000,0000,0000,,那在这里守着也没用\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}unless we come back with them meds.
+Dialogue: 0,0:17:01.65,0:17:02.80,*Default,NTP,0000,0000,0000,,好吧\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}All right.
+Dialogue: 0,0:17:03.29,0:17:05.29,*Default,NTP,0000,0000,0000,,我们在前门加油\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}We're gassing up by the front gate
+Dialogue: 0,0:17:05.51,0:17:07.20,*Default,NTP,0000,0000,0000,,你要是改变主意了就去那边找我们\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}in case you change your mind.
+Dialogue: 0,0:17:12.82,0:17:15.67,*Default,NTP,0000,0000,0000,,{\an8}平静的海面无法航行
+Dialogue: 0,0:17:48.65,0:17:50.00,*Default,NTP,0000,0000,0000,,你去哪儿\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}Where are you going?
+Dialogue: 0,0:17:52.20,0:17:54.47,*Default,NTP,0000,0000,0000,,我在这下面躲开你们\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}I'm down here away from y'all
+Dialogue: 0,0:17:54.59,0:17:57.95,*Default,NTP,0000,0000,0000,,因为你们这些孩子应该离我远点\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}'cause you kids are supposed to stay away from me.
+Dialogue: 0,0:17:58.73,0:17:59.75,*Default,NTP,0000,0000,0000,,我一直在走廊巡视\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}I've been walking the halls.
+Dialogue: 0,0:17:59.76,0:18:02.09,*Default,NTP,0000,0000,0000,,我爸让我照顾大家\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}My dad told me to look out for everyone.
+Dialogue: 0,0:18:02.09,0:18:03.49,*Default,NTP,0000,0000,0000,,好啦\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}Well, 
+Dialogue: 0,0:18:03.69,0:18:05.99,*Default,NTP,0000,0000,0000,,你应该保持距离\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}you should keep your distance.
+Dialogue: 0,0:18:06.55,0:18:08.19,*Default,NTP,0000,0000,0000,,你在往出口走\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}You're walking towards the exit.
+Dialogue: 0,0:18:08.19,0:18:09.78,*Default,NTP,0000,0000,0000,,我要出去\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}I need to go out there. 
+Dialogue: 0,0:18:09.78,0:18:11.41,*Default,NTP,0000,0000,0000,,去牢房吗\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}To the cell blocks?
+Dialogue: 0,0:18:11.41,0:18:13.06,*Default,NTP,0000,0000,0000,,去林子里\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}To the woods.
+Dialogue: 0,0:18:13.15,0:18:14.70,*Default,NTP,0000,0000,0000,,那你就是在偷偷溜走咯\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}So you're sneaking out.
+Dialogue: 0,0:18:15.10,0:18:17.41,*Default,NTP,0000,0000,0000,,我不需要任何人替我操心\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}Don't need anyone worrying about me
+Dialogue: 0,0:18:17.41,0:18:20.14,*Default,NTP,0000,0000,0000,,我也不想让别人告诉我能不能去\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}and I damn sure don't want someone telling me I can't go.
+Dialogue: 0,0:18:20.14,0:18:22.34,*Default,NTP,0000,0000,0000,,我不允许你独自去林子里\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}I can't just let you go out into the woods by yourself.
+Dialogue: 0,0:18:22.34,0:18:23.70,*Default,NTP,0000,0000,0000,,允许我\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}Let me?
+Dialogue: 0,0:18:24.31,0:18:25.99,*Default,NTP,0000,0000,0000,,我没法阻止你\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}I can't stop you.
+Dialogue: 0,0:18:26.87,0:18:28.41,*Default,NTP,0000,0000,0000,,但我必须告诉我爸\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}But I have to tell my dad.
+Dialogue: 0,0:18:28.41,0:18:30.33,*Default,NTP,0000,0000,0000,,那就去吧\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}Go ahead, then.
+Dialogue: 0,0:18:30.37,0:18:33.33,*Default,NTP,0000,0000,0000,,等你找到他时我已经在外面了\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}I'll be out there by the time you find him.
+Dialogue: 0,0:18:35.74,0:18:37.01,*Default,NTP,0000,0000,0000,,赫谢尔\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}Hershel.
+Dialogue: 0,0:18:40.96,0:18:42.78,*Default,NTP,0000,0000,0000,,如果你一定要去\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}If you have to go, 
+Dialogue: 0,0:18:42.78,0:18:44.55,*Default,NTP,0000,0000,0000,,那我就跟你一起去\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}then I have to come with you.
+Dialogue: 0,0:18:44.99,0:18:46.03,*Default,NTP,0000,0000,0000,,卡尔\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}Carl.
+Dialogue: 0,0:18:46.03,0:18:47.62,*Default,NTP,0000,0000,0000,,我必须这么做\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}I have to.
+Dialogue: 0,0:18:54.71,0:18:58.06,*Default,NTP,0000,0000,0000,,我发誓  这只是过敏\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}I swear, it's just allergies.
+Dialogue: 0,0:18:58.07,0:19:00.04,*Default,NTP,0000,0000,0000,,-珍妮特  -很快就会好的\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}- Jeanette. - They come and go.
+Dialogue: 0,0:19:00.04,0:19:01.70,*Default,NTP,0000,0000,0000,,-珍妮特  -伍德伯里来的人都知道\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}- Jeanette. - Ask anyone from Woodbury.
+Dialogue: 0,0:19:01.70,0:19:02.89,*Default,NTP,0000,0000,0000,,珍妮特\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}Jeanette.
+Dialogue: 0,0:19:23.87,0:19:25.25,*Default,NTP,0000,0000,0000,,卡萝尔\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}Carol...?
+Dialogue: 0,0:19:28.15,0:19:29.98,*Default,NTP,0000,0000,0000,,米卡说你在这里\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}Mica said you were here.
+Dialogue: 0,0:19:32.16,0:19:33.87,*Default,NTP,0000,0000,0000,,我觉得不舒服\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}I don't feel good.
+Dialogue: 0,0:19:37.28,0:19:38.59,*Default,NTP,0000,0000,0000,,没事\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}It's okay.
+Dialogue: 0,0:19:40.16,0:19:41.36,*Default,NTP,0000,0000,0000,,别担心\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}Don't worry.
+Dialogue: 0,0:19:42.53,0:19:43.68,*Default,NTP,0000,0000,0000,,别担心\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}Hey, don't worry.
+Dialogue: 0,0:19:44.46,0:19:46.21,*Default,NTP,0000,0000,0000,,我们会让你好起来的\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}We're gonna get you better.
+Dialogue: 0,0:19:46.22,0:19:48.15,*Default,NTP,0000,0000,0000,,去里面躺着吧\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}You just go in there and lie down.
+Dialogue: 0,0:19:48.92,0:19:50.61,*Default,NTP,0000,0000,0000,,你会帮我盖被子吗\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}Will you tuck me in?
+Dialogue: 0,0:19:54.73,0:19:56.52,*Default,NTP,0000,0000,0000,,你认识我的朋友格伦吗\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}You know my friend Glenn?
+Dialogue: 0,0:19:57.64,0:19:59.09,*Default,NTP,0000,0000,0000,,他是我知道的最会盖被子的人\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}He's the best tucker I know.
+Dialogue: 0,0:19:59.09,0:20:02.83,*Default,NTP,0000,0000,0000,,他一定会让你觉得温暖舒适  好吗\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}And he'll make sure that you feel toasty and warm, okay?
+Dialogue: 0,0:20:15.93,0:20:17.34,*Default,NTP,0000,0000,0000,,好了  没事的\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}Okay. It's okay.
+Dialogue: 0,0:20:17.34,0:20:18.59,*Default,NTP,0000,0000,0000,,没事的\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}It's okay.
+Dialogue: 0,0:20:20.31,0:20:22.34,*Default,NTP,0000,0000,0000,,会没事的  去吧\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}It's all right. Go on.
+Dialogue: 0,0:20:38.00,0:20:39.77,*Default,NTP,0000,0000,0000,,谢谢你肯留在这里\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}Thanks for being in there.
+Dialogue: 0,0:20:41.05,0:20:42.15,*Default,NTP,0000,0000,0000,,我知道你不是非得这么做\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}I know you don't have to be.
+Dialogue: 0,0:20:42.15,0:20:44.47,*Default,NTP,0000,0000,0000,,但这对朱迪思意义重大\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}It means a lot you being in there with Judith.
+Dialogue: 0,0:20:45.60,0:20:47.15,*Default,NTP,0000,0000,0000,,外面还好吗\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}Things okay out there?
+Dialogue: 0,0:20:50.61,0:20:52.09,*Default,NTP,0000,0000,0000,,格伦被感染了\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}Glenn has it.
+Dialogue: 0,0:20:55.51,0:20:56.71,*Default,NTP,0000,0000,0000,,玛姬\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}Maggie.
+Dialogue: 0,0:20:58.15,0:20:59.97,*Default,NTP,0000,0000,0000,,我们不能沮丧\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}We don't get to be upset.
+Dialogue: 0,0:21:02.70,0:21:05.61,*Default,NTP,0000,0000,0000,,大家各司其职  爸爸总是这么说\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}We all got jobs to do. That's what Daddy always says.
+Dialogue: 0,0:21:06.10,0:21:08.36,*Default,NTP,0000,0000,0000,,达里尔和米琼恩会找到药的\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}Daryl and Michonne will get the meds.
+Dialogue: 0,0:21:08.83,0:21:09.59,*Default,NTP,0000,0000,0000,,你和卡萝尔\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}You and Carol
+Dialogue: 0,0:21:09.59,0:21:12.20,*Default,NTP,0000,0000,0000,,还有瑞克要在他们回来前照顾大家\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}and Rick will help everyone till they get back.
+Dialogue: 0,0:21:14.48,0:21:16.33,*Default,NTP,0000,0000,0000,,我会照顾朱迪思\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}And I'll take care of Judith.
+Dialogue: 0,0:21:16.44,0:21:19.22,*Default,NTP,0000,0000,0000,,只需要关注我们该做的事\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}Just focus on what you have to do.
+Dialogue: 0,0:21:21.86,0:21:24.97,*Default,NTP,0000,0000,0000,,不论发生什么  我们都能解决\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}No matter what happens, we'll deal with it.
+Dialogue: 0,0:21:26.47,0:21:27.83,*Default,NTP,0000,0000,0000,,我们必须解决\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}We have to.
+Dialogue: 0,0:21:42.03,0:21:44.26,*Default,NTP,0000,0000,0000,,你爸什么时候把枪还给你的\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}When did your dad give it back?
+Dialogue: 0,0:21:45.54,0:21:46.88,*Default,NTP,0000,0000,0000,,昨天\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}Yesterday.
+Dialogue: 0,0:21:47.93,0:21:49.61,*Default,NTP,0000,0000,0000,,就在昨天那一切发生后\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}After everything happened.
+Dialogue: 0,0:21:51.53,0:21:54.51,*Default,NTP,0000,0000,0000,,你过去几个月成长了很多\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}You've grown a lot these last few months.
+Dialogue: 0,0:21:55.02,0:21:57.84,*Default,NTP,0000,0000,0000,,你知道要担起责任了\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}There's a responsibility about you.
+Dialogue: 0,0:21:59.43,0:22:03.81,*Default,NTP,0000,0000,0000,,让你冷静一段时间看来很有帮助\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}I think it's done you good to step back.
+Dialogue: 0,0:22:03.93,0:22:05.15,*Default,NTP,0000,0000,0000,,是啊\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}Yeah.
+Dialogue: 0,0:22:06.08,0:22:07.33,*Default,NTP,0000,0000,0000,,还可以\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}It was all right.
+Dialogue: 0,0:22:08.45,0:22:09.74,*Default,NTP,0000,0000,0000,,我不能总那样\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}Can't be like that all the time.
+Dialogue: 0,0:22:09.74,0:22:12.30,*Default,NTP,0000,0000,0000,,我自己在这里也没问题\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}I would have been fine on my own.
+Dialogue: 0,0:22:14.30,0:22:16.03,*Default,NTP,0000,0000,0000,,这里真平静\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}It's peaceful out here.
+Dialogue: 0,0:22:18.13,0:22:20.18,*Default,NTP,0000,0000,0000,,过去这几天\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}These last couple days,
+Dialogue: 0,0:22:20.18,0:22:23.85,*Default,NTP,0000,0000,0000,,在这墙外说不定比里面更安全\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}we might be safer outside those walls than in.
+Dialogue: 0,0:22:27.82,0:22:29.23,*Default,NTP,0000,0000,0000,,才不是呢\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}No, we're not.
+Dialogue: 0,0:23:13.69,0:23:15.51,*Default,NTP,0000,0000,0000,,我们走吧\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}Let's wrap this up.
+Dialogue: 0,0:23:30.83,0:23:32.07,*Default,NTP,0000,0000,0000,,别\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}Don't. 
+Dialogue: 0,0:23:32.47,0:23:34.07,*Default,NTP,0000,0000,0000,,你不必这么做的\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}You don't need to.
+Dialogue: 0,0:23:43.50,0:23:45.32,*Default,NTP,0000,0000,0000,,刚才这里真是平静\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}It was so peaceful.
+Dialogue: 0,0:23:45.67,0:23:47.03,*Default,NTP,0000,0000,0000,,的确\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}It was.
+Dialogue: 0,0:23:49.21,0:23:51.16,*Default,NTP,0000,0000,0000,,但也不会总那样\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}Can't be like that all the time.
+Dialogue: 0,0:24:02.84,0:24:05.34,*Default,NTP,0000,0000,0000,,没有看起来那么糟\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}It's not as bad as it looks.
+Dialogue: 0,0:24:09.36,0:24:10.69,*Default,NTP,0000,0000,0000,,别哭\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}Don't do that.
+Dialogue: 0,0:24:11.44,0:24:12.61,*Default,NTP,0000,0000,0000,,好的\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}Okay.
+Dialogue: 0,0:24:13.60,0:24:15.76,*Default,NTP,0000,0000,0000,,我的样子肯定很糟\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}I must be a sight to see.
+Dialogue: 0,0:24:17.95,0:24:19.68,*Default,NTP,0000,0000,0000,,我很遗憾\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}I'm so sorry.
+Dialogue: 0,0:24:20.98,0:24:22.78,*Default,NTP,0000,0000,0000,,-我听说了凯伦的事  -别说了\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}- I heard about Karen-- - Don't.
+Dialogue: 0,0:24:22.78,0:24:24.47,*Default,NTP,0000,0000,0000,,现在别想这个\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}Don't think about that now.
+Dialogue: 0,0:24:25.14,0:24:26.62,*Default,NTP,0000,0000,0000,,想想努力康复\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}Think about getting better. 
+Dialogue: 0,0:24:26.62,0:24:28.49,*Default,NTP,0000,0000,0000,,想想积极的事\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}Positive thoughts.
+Dialogue: 0,0:24:28.49,0:24:30.33,*Default,NTP,0000,0000,0000,,乐观一点\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}Positive vibes.
+Dialogue: 0,0:24:32.07,0:24:33.67,*Default,NTP,0000,0000,0000,,我不知道\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}I don't know.
+Dialogue: 0,0:24:37.09,0:24:38.87,*Default,NTP,0000,0000,0000,,达里尔带了一队人出去\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}Daryl's got a group going out.
+Dialogue: 0,0:24:38.87,0:24:40.77,*Default,NTP,0000,0000,0000,,他们去找药了\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}They're getting medicine.
+Dialogue: 0,0:24:40.80,0:24:43.06,*Default,NTP,0000,0000,0000,,赫谢尔知道个地方\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}Someplace Hershel knew about.
+Dialogue: 0,0:24:43.76,0:24:45.76,*Default,NTP,0000,0000,0000,,那个兽医学院吗\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}That veterinary college?
+Dialogue: 0,0:24:46.88,0:24:49.83,*Default,NTP,0000,0000,0000,,-那太远了  -但他们很有信心\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}- It's far. - But they feel sure about it.
+Dialogue: 0,0:24:51.64,0:24:55.06,*Default,NTP,0000,0000,0000,,说不定明天早晨就有药了\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}So we could have medicine as early as tomorrow.
+Dialogue: 0,0:24:55.32,0:24:57.04,*Default,NTP,0000,0000,0000,,我们还有机会\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}We've got a chance.
+Dialogue: 0,0:25:04.90,0:25:07.53,*Default,NTP,0000,0000,0000,,-泰  -休息一下\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}- Ty. - Get some rest.
+Dialogue: 0,0:25:07.76,0:25:09.07,*Default,NTP,0000,0000,0000,,我得走了\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}I got to go.
+Dialogue: 0,0:25:13.54,0:25:15.25,*Default,NTP,0000,0000,0000,,情况还好吗\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}Everything look all right?
+Dialogue: 0,0:25:15.64,0:25:16.68,*Default,NTP,0000,0000,0000,,还行\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}Yeah.
+Dialogue: 0,0:25:16.68,0:25:19.00,*Default,NTP,0000,0000,0000,,扎克把这车保养得很好\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}Zack kept this thing running pretty good.
+Dialogue: 0,0:25:21.71,0:25:23.10,*Default,NTP,0000,0000,0000,,这是扎克的车吗\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}This is Zack's car?
+Dialogue: 0,0:25:23.75,0:25:25.74,*Default,NTP,0000,0000,0000,,是啊  我们速度最快的车\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}Yeah, fastest one we got.
+Dialogue: 0,0:25:28.11,0:25:29.35,*Default,NTP,0000,0000,0000,,你还好吗\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}You all right?
+Dialogue: 0,0:25:31.45,0:25:33.25,*Default,NTP,0000,0000,0000,,你真的希望我陪你去吗\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}You really want me coming along?
+Dialogue: 0,0:25:39.00,0:25:39.98,*Default,NTP,0000,0000,0000,,这词怎么念\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}What's that word?
+Dialogue: 0,0:25:39.98,0:25:41.68,*Default,NTP,0000,0000,0000,,扎那米韦\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}"Zanamivir".
+Dialogue: 0,0:25:41.72,0:25:43.51,*Default,NTP,0000,0000,0000,,是啊  我们需要你\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}Yup, we need you.
+Dialogue: 0,0:25:46.96,0:25:49.31,*Default,NTP,0000,0000,0000,,-怎么了  -多一个人坐得下吗\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}- What's up? - Still got room for one more?
+Dialogue: 0,0:25:49.31,0:25:50.54,*Default,NTP,0000,0000,0000,,没问题\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}Hell, yeah. 
+Dialogue: 0,0:25:50.55,0:25:51.48,*Default,NTP,0000,0000,0000,,很好\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}Good.
+Dialogue: 0,0:25:51.48,0:25:53.15,*Default,NTP,0000,0000,0000,,我得去拿装备\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}Just got to get my gear.
+Dialogue: 0,0:25:57.42,0:25:58.60,*Default,NTP,0000,0000,0000,,好吧\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}All right.
+Dialogue: 0,0:26:26.01,0:26:28.21,*Default,NTP,0000,0000,0000,,天哪  我没看到你在那\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}Oh, God, I didn't see you there.
+Dialogue: 0,0:26:28.21,0:26:29.81,*Default,NTP,0000,0000,0000,,很抱歉打扰你\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}Sorry to interrupt.
+Dialogue: 0,0:26:29.86,0:26:31.16,*Default,NTP,0000,0000,0000,,没关系\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}It's okay.
+Dialogue: 0,0:26:31.71,0:26:33.05,*Default,NTP,0000,0000,0000,,你还好吗\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}You okay?
+Dialogue: 0,0:26:33.62,0:26:35.91,*Default,NTP,0000,0000,0000,,我要跟达里尔出去一趟\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}I'm going on the run with Daryl.
+Dialogue: 0,0:26:36.36,0:26:38.01,*Default,NTP,0000,0000,0000,,但我想知道\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}But I was wondering--
+Dialogue: 0,0:26:39.32,0:26:41.35,*Default,NTP,0000,0000,0000,,我知道有很多人都身处困境\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}I know there's a lot of people in trouble.
+Dialogue: 0,0:26:41.47,0:26:42.56,*Default,NTP,0000,0000,0000,,生病了\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}Sick.
+Dialogue: 0,0:26:44.00,0:26:47.31,*Default,NTP,0000,0000,0000,,我知道你是什么样的人\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}It's just I know how you are.
+Dialogue: 0,0:26:47.74,0:26:48.99,*Default,NTP,0000,0000,0000,,你在乎别人\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}You care.
+Dialogue: 0,0:26:49.42,0:26:50.75,*Default,NTP,0000,0000,0000,,谢谢\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}Thank you.
+Dialogue: 0,0:26:51.86,0:26:55.05,*Default,NTP,0000,0000,0000,,不知道你能不能帮我照顾萨沙\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}I was wondering if you could look in on Sasha for me.
+Dialogue: 0,0:26:55.91,0:26:59.00,*Default,NTP,0000,0000,0000,,有你照顾她  我就放心些\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}It would make me feel better knowing you were looking in on her.
+Dialogue: 0,0:26:59.91,0:27:01.01,*Default,NTP,0000,0000,0000,,如果不行的话...\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}If you can't-- 
+Dialogue: 0,0:27:01.01,0:27:02.19,*Default,NTP,0000,0000,0000,,不\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}No.
+Dialogue: 0,0:27:02.52,0:27:04.23,*Default,NTP,0000,0000,0000,,我乐意效劳\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}No, I'd be happy to.
+Dialogue: 0,0:27:05.00,0:27:06.15,*Default,NTP,0000,0000,0000,,谢谢\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}Thank you.
+Dialogue: 0,0:27:07.54,0:27:11.63,*Default,NTP,0000,0000,0000,,凯伦的事  我很遗憾\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}Oh, what happened to Karen, I'm so sorry.
+Dialogue: 0,0:28:02.30,0:28:04.23,*Default,NTP,0000,0000,0000,,你怎么不在隔离区\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}Why aren't you in quarantine?
+Dialogue: 0,0:28:11.34,0:28:13.40,*Default,NTP,0000,0000,0000,,我在那里对大家都没好处\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}I'm no good to anyone in there.
+Dialogue: 0,0:28:13.40,0:28:14.89,*Default,NTP,0000,0000,0000,,爸爸  求你了\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}Daddy, please.
+Dialogue: 0,0:28:14.90,0:28:18.45,*Default,NTP,0000,0000,0000,,玛姬  亲爱的  那里有很多人饱受煎熬\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}Maggie, dear, there are people in there suffering.
+Dialogue: 0,0:28:18.45,0:28:20.71,*Default,NTP,0000,0000,0000,,我能帮他们退烧  维持性命\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}I can bring their fever down and keep them stable.
+Dialogue: 0,0:28:20.71,0:28:22.36,*Default,NTP,0000,0000,0000,,达里尔去拿抗生素了\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}Daryl's getting the antibiotics.
+Dialogue: 0,0:28:22.36,0:28:24.73,*Default,NTP,0000,0000,0000,,那些人有的根本撑不过12小时\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}Some of these people won't last 12 hours.
+Dialogue: 0,0:28:24.73,0:28:26.94,*Default,NTP,0000,0000,0000,,我不能让你这样做\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}I can't let you do this.
+Dialogue: 0,0:28:26.94,0:28:29.82,*Default,NTP,0000,0000,0000,,玛姬  格伦就在里面\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}Maggie, Glenn's in there.
+Dialogue: 0,0:28:31.28,0:28:32.72,*Default,NTP,0000,0000,0000,,怎么回事\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}What's going on?
+Dialogue: 0,0:28:34.00,0:28:35.49,*Default,NTP,0000,0000,0000,,接骨木\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}Elderberries.
+Dialogue: 0,0:28:35.81,0:28:38.03,*Default,NTP,0000,0000,0000,,以前我老婆泡茶总会放这个\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}My wife used to make tea with them.
+Dialogue: 0,0:28:38.03,0:28:40.20,*Default,NTP,0000,0000,0000,,这是天然的抗流感药\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}They're a natural flu remedy.
+Dialogue: 0,0:28:40.40,0:28:43.21,*Default,NTP,0000,0000,0000,,迦勒病得厉害没法看病  但我可以\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}Caleb's too sick to help. I can.
+Dialogue: 0,0:28:43.91,0:28:46.30,*Default,NTP,0000,0000,0000,,我们有太多次\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}There's so many times
+Dialogue: 0,0:28:46.30,0:28:48.11,*Default,NTP,0000,0000,0000,,对我们身上\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}we haven't been able to do anything
+Dialogue: 0,0:28:48.11,0:28:49.59,*Default,NTP,0000,0000,0000,,所发生的不幸\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}to change what was happening--
+Dialogue: 0,0:28:49.60,0:28:51.03,*Default,NTP,0000,0000,0000,,毫无回天之力\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}what was happening to us.
+Dialogue: 0,0:28:51.03,0:28:54.55,*Default,NTP,0000,0000,0000,,我们希望可以  事实却不尽如人意\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}We wished we could, but we couldn't.
+Dialogue: 0,0:28:54.82,0:28:56.36,*Default,NTP,0000,0000,0000,,但这次  我可以\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}This time, I can.
+Dialogue: 0,0:28:56.36,0:28:58.19,*Default,NTP,0000,0000,0000,,我很清楚\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}I know I can. 
+Dialogue: 0,0:28:58.79,0:28:59.83,*Default,NTP,0000,0000,0000,,所以我必须这么做\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}So I have to.
+Dialogue: 0,0:28:59.83,0:29:01.90,*Default,NTP,0000,0000,0000,,赫谢尔  你进去会得病的\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}Hershel, if you go in there, you're gonna get sick.
+Dialogue: 0,0:29:01.90,0:29:04.18,*Default,NTP,0000,0000,0000,,等等  我们可不确定\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}Wait, we don't know that. 
+Dialogue: 0,0:29:04.19,0:29:08.33,*Default,NTP,0000,0000,0000,,我们只知道这些人的病症必须得到控制\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}What we do know is that these people's symptoms need to be controlled.
+Dialogue: 0,0:29:08.33,0:29:09.75,*Default,NTP,0000,0000,0000,,赫谢尔  拜托  我们可以等等\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}Hershel, please. We can wait.
+Dialogue: 0,0:29:09.76,0:29:11.43,*Default,NTP,0000,0000,0000,,听我说  该死\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}Listen, damn it!
+Dialogue: 0,0:29:11.90,0:29:14.92,*Default,NTP,0000,0000,0000,,走出去是在冒生命危险\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}You step outside, you risk your life.
+Dialogue: 0,0:29:14.92,0:29:17.83,*Default,NTP,0000,0000,0000,,喝口水是在冒生命危险\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}You take a drink of water, you risk your life.
+Dialogue: 0,0:29:17.83,0:29:20.20,*Default,NTP,0000,0000,0000,,如今连呼吸\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}And nowadays you breathe,
+Dialogue: 0,0:29:20.52,0:29:22.65,*Default,NTP,0000,0000,0000,,都是在冒生命危险\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}and you risk your life.
+Dialogue: 0,0:29:22.75,0:29:25.93,*Default,NTP,0000,0000,0000,,现在我们别无选择\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}Every moment now you don't have a choice.
+Dialogue: 0,0:29:25.94,0:29:30.25,*Default,NTP,0000,0000,0000,,能选的只有为什么而冒险\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}The only thing you can choose is what you're risking it for.
+Dialogue: 0,0:29:30.70,0:29:33.29,*Default,NTP,0000,0000,0000,,现在我能让这些人好转起来\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}Now I can make these people feel better
+Dialogue: 0,0:29:33.29,0:29:35.96,*Default,NTP,0000,0000,0000,,多撑一阵子\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}and hang on a little bit longer.
+Dialogue: 0,0:29:36.03,0:29:38.34,*Default,NTP,0000,0000,0000,,救人一命\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}I can save lives.
+Dialogue: 0,0:29:38.71,0:29:41.64,*Default,NTP,0000,0000,0000,,这理由足以我冒险了\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}That's reason enough to risk mine.
+Dialogue: 0,0:29:43.30,0:29:44.94,*Default,NTP,0000,0000,0000,,你们都明白\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}And you know that.
+Dialogue: 0,0:29:54.22,0:29:55.46,*Default,NTP,0000,0000,0000,,爸爸\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}Dad.
+Dialogue: 0,0:30:14.46,0:30:15.63,*Default,NTP,0000,0000,0000,,玛姬\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}Maggie?
+Dialogue: 0,0:30:18.47,0:30:19.98,*Default,NTP,0000,0000,0000,,爸爸走了\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}Daddy's gone. 
+Dialogue: 0,0:30:19.98,0:30:21.33,*Default,NTP,0000,0000,0000,,他走了\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}He left.
+Dialogue: 0,0:30:21.70,0:30:22.93,*Default,NTP,0000,0000,0000,,我知道\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}I know.
+Dialogue: 0,0:30:25.55,0:30:27.18,*Default,NTP,0000,0000,0000,,他给你说去哪了吗\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}Did he tell you where he went?
+Dialogue: 0,0:30:27.18,0:30:28.90,*Default,NTP,0000,0000,0000,,没有  但是...\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}No, but... 
+Dialogue: 0,0:30:29.26,0:30:30.45,*Default,NTP,0000,0000,0000,,我知道\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}I know.
+Dialogue: 0,0:30:31.46,0:30:32.61,*Default,NTP,0000,0000,0000,,怎么知道的\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}How?
+Dialogue: 0,0:30:33.88,0:30:36.17,*Default,NTP,0000,0000,0000,,S医生病了\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}Dr. S. is sick and...
+Dialogue: 0,0:30:41.95,0:30:43.90,*Default,NTP,0000,0000,0000,,我们要各司其职\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}We all got jobs to do.
+Dialogue: 0,0:30:46.46,0:30:48.33,*Default,NTP,0000,0000,0000,,我们能坚强面对的  对吧\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}We'll deal with it, right?
+Dialogue: 0,0:30:52.69,0:30:54.80,*Default,NTP,0000,0000,0000,,我们不能沮丧\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}We don't get to get upset.
+Dialogue: 0,0:32:53.73,0:32:55.09,*Default,NTP,0000,0000,0000,,该死\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}Damn it.
+Dialogue: 0,0:33:09.46,0:33:10.50,*Default,NTP,0000,0000,0000,,糟了\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}Shit.
+Dialogue: 0,0:33:10.53,0:33:12.32,*Default,NTP,0000,0000,0000,,卡萝尔  快跑\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}Carol! Run!
+Dialogue: 0,0:33:17.99,0:33:19.07,*Default,NTP,0000,0000,0000,,见鬼\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}Shit.
+Dialogue: 0,0:33:32.10,0:33:33.14,*Default,NTP,0000,0000,0000,,快跑\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}Run!
+Dialogue: 0,0:34:05.23,0:34:06.27,*Default,NTP,0000,0000,0000,,小菜一碟\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}Piece of cake.
+Dialogue: 0,0:34:07.20,0:34:09.31,*Default,NTP,0000,0000,0000,,我们说过明天再干\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}We decided to do that tomorrow.
+Dialogue: 0,0:34:09.82,0:34:11.81,*Default,NTP,0000,0000,0000,,都不知道有没有明天\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}We don't know if we get a tomorrow.
+Dialogue: 0,0:34:25.78,0:34:28.40,*Default,NTP,0000,0000,0000,,我知道你不会再漂泊\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}Hey, I know you weren't running off.
+Dialogue: 0,0:34:28.93,0:34:32.68,*Default,NTP,0000,0000,0000,,但问题是  我们找不到他了\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}The thing is, that trail went cold.
+Dialogue: 0,0:34:34.04,0:34:35.45,*Default,NTP,0000,0000,0000,,你知道的  对吧\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}You know that, right?
+Dialogue: 0,0:34:39.50,0:34:41.32,*Default,NTP,0000,0000,0000,,如果找到了\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}If it was any different,
+Dialogue: 0,0:34:41.56,0:34:43.87,*Default,NTP,0000,0000,0000,,我会陪你一起去的\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}I'd be right out there with you.
+Dialogue: 0,0:34:57.24,0:34:59.50,*Default,NTP,0000,0000,0000,,能给我拿张CD吗\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}Would you hand me one of them CDs right there?
+Dialogue: 0,0:35:01.91,0:35:03.95,*Default,NTP,0000,0000,0000,,找到避难所\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}Find sanctuary.
+Dialogue: 0,0:35:04.12,0:35:05.59,*Default,NTP,0000,0000,0000,,是人声吗\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}Was that a voice?
+Dialogue: 0,0:35:05.59,0:35:09.54,*Default,NTP,0000,0000,0000,,下定决心活下去...\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}Determined to survive...
+Dialogue: 0,0:35:11.13,0:35:12.43,*Default,NTP,0000,0000,0000,,好好活着\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}Keep alive.
+Dialogue: 0,0:35:55.37,0:35:56.44,*Default,NTP,0000,0000,0000,,抓稳了\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}Grab something!
+Dialogue: 0,0:36:06.22,0:36:07.19,*Default,NTP,0000,0000,0000,,左转\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}Go to the left.
+Dialogue: 0,0:36:11.01,0:36:12.07,*Default,NTP,0000,0000,0000,,卡住了\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}We're jammed up.
+Dialogue: 0,0:36:12.71,0:36:14.72,*Default,NTP,0000,0000,0000,,往那边的缺口跑\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}Make a run for the gaps right there.
+Dialogue: 0,0:36:14.75,0:36:15.88,*Default,NTP,0000,0000,0000,,你们俩朝树林跑\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}You two, you make a run for the
+Dialogue: 0,0:36:15.88,0:36:17.63,*Default,NTP,0000,0000,0000,,不要停下  听见了吗\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}woods and you don't stop for nothing, you hear me?
+Dialogue: 0,0:36:18.08,0:36:19.11,*Default,NTP,0000,0000,0000,,现在\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}Now!
+Dialogue: 0,0:36:23.75,0:36:24.75,*Default,NTP,0000,0000,0000,,跑\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}Move!
+Dialogue: 0,0:36:52.88,0:36:54.30,*Default,NTP,0000,0000,0000,,泰\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}Ty!
+Dialogue: 0,0:37:00.49,0:37:02.67,*Default,NTP,0000,0000,0000,,泰\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}Ty!
+Dialogue: 0,0:37:11.16,0:37:13.75,*Default,NTP,0000,0000,0000,,快跑\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}Go! Come on!
+Dialogue: 0,0:37:13.95,0:37:15.50,*Default,NTP,0000,0000,0000,,来咬我啊\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}Come on and get me!
+Dialogue: 0,0:37:25.90,0:37:27.99,*Default,NTP,0000,0000,0000,,你们走\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}Go! Go!
+Dialogue: 0,0:37:30.20,0:37:31.15,*Default,NTP,0000,0000,0000,,走吧\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}Come on.
+Dialogue: 0,0:37:31.43,0:37:32.61,*Default,NTP,0000,0000,0000,,来啊\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}Come on and get me!
+Dialogue: 0,0:37:49.19,0:37:50.67,*Default,NTP,0000,0000,0000,,快走\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}Go!
+Dialogue: 0,0:37:59.97,0:38:00.80,*Default,NTP,0000,0000,0000,,快\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}Come on.
+Dialogue: 0,0:38:04.48,0:38:05.47,*Default,NTP,0000,0000,0000,,等等\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}Hold up.
+Dialogue: 0,0:38:33.00,0:38:34.54,*Default,NTP,0000,0000,0000,,走\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}Come on.
+Dialogue: 0,0:38:49.56,0:38:50.52,*Default,NTP,0000,0000,0000,,喝下去\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}Drink it.
+Dialogue: 0,0:39:02.20,0:39:03.75,*Default,NTP,0000,0000,0000,,坚持住  医生\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}Hang in there, Doc.
+Dialogue: 0,0:39:06.17,0:39:07.53,*Default,NTP,0000,0000,0000,,你不该来这里\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}You shouldn't be here.
+Dialogue: 0,0:39:07.80,0:39:09.45,*Default,NTP,0000,0000,0000,,换你也会来\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}Tell me you wouldn't be.
+Dialogue: 0,0:39:46.90,0:39:48.71,*Default,NTP,0000,0000,0000,,如果你在外面\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}If you weren't in here already,
+Dialogue: 0,0:39:49.24,0:39:50.82,*Default,NTP,0000,0000,0000,,也会来的\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}you'd be in here.
+Dialogue: 0,0:40:05.54,0:40:07.61,*Default,NTP,0000,0000,0000,,我没事\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}I'm fine. I'm fine.
+Dialogue: 0,0:40:17.66,0:40:19.58,*Default,NTP,0000,0000,0000,,把这个敷头上\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}Keep this on your forehead.
+Dialogue: 0,0:40:19.85,0:40:21.69,*Default,NTP,0000,0000,0000,,兽医医嘱\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}Veterinarian's orders.
+Dialogue: 0,0:40:26.70,0:40:28.08,*Default,NTP,0000,0000,0000,,真可恶\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}This sucks.
+Dialogue: 0,0:40:30.59,0:40:31.95,*Default,NTP,0000,0000,0000,,经历了那么多\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}After everything,
+Dialogue: 0,0:40:32.72,0:40:35.44,*Default,NTP,0000,0000,0000,,我们却被小小的感冒打败了\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}we just get taken out by a glorified cold.
+Dialogue: 0,0:40:35.57,0:40:37.75,*Default,NTP,0000,0000,0000,,别那样说\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}Don't say things like that.
+Dialogue: 0,0:40:37.94,0:40:40.33,*Default,NTP,0000,0000,0000,,也别那样想\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}Don't even think things like that.
+Dialogue: 0,0:40:42.54,0:40:44.88,*Default,NTP,0000,0000,0000,,不说也只是口是心非\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}All I can do is stop saying them.
+Dialogue: 0,0:40:44.89,0:40:46.91,*Default,NTP,0000,0000,0000,,不  你可以做到更多\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}No, you can do more.
+Dialogue: 0,0:40:47.43,0:40:49.55,*Default,NTP,0000,0000,0000,,我们已经走了这么远\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}We got this far somehow,
+Dialogue: 0,0:40:49.70,0:40:51.73,*Default,NTP,0000,0000,0000,,你应该有信心\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}you can believe somehow.
+Dialogue: 0,0:40:52.88,0:40:54.68,*Default,NTP,0000,0000,0000,,我们都要各司其职\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}Now we all have jobs here.
+Dialogue: 0,0:40:55.28,0:40:56.76,*Default,NTP,0000,0000,0000,,这就是你要做的\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}That one's yours.
+Dialogue: 0,0:41:16.62,0:41:18.68,*Default,NTP,0000,0000,0000,,你那样做很蠢\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}That was a stupid thing you did.
+Dialogue: 0,0:41:22.09,0:41:23.85,*Default,NTP,0000,0000,0000,,在外面冒险\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}Going out there like that.
+Dialogue: 0,0:41:25.52,0:41:26.79,*Default,NTP,0000,0000,0000,,没错\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}Yes, it was.
+Dialogue: 0,0:41:37.03,0:41:38.84,*Default,NTP,0000,0000,0000,,你为我们和孩子们\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}You know, you do a lot for us,
+Dialogue: 0,0:41:40.85,0:41:41.93,*Default,NTP,0000,0000,0000,,付出很多\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}for the kids.
+Dialogue: 0,0:41:45.74,0:41:47.43,*Default,NTP,0000,0000,0000,,你牺牲很大\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}You sacrifice a lot.
+Dialogue: 0,0:41:53.53,0:41:56.14,*Default,NTP,0000,0000,0000,,为了我们  你什么都愿意做吗\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}Is there anything you wouldn't do for the people here?
+Dialogue: 0,0:41:59.84,0:42:00.91,*Default,NTP,0000,0000,0000,,愿意\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}No.
+Dialogue: 0,0:42:06.51,0:42:07.62,*Default,NTP,0000,0000,0000,,卡萝尔\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}Carol...?
+Dialogue: 0,0:42:16.16,0:42:18.83,*Default,NTP,0000,0000,0000,,凯伦和大卫是你杀的吗\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}Did you kill Karen and David?
+Dialogue: 0,0:42:22.71,0:42:23.78,*Default,NTP,0000,0000,0000,,是的\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}Yes.
+Dialogue: 0,0:42:37.74,0:42:42.18,*Default,NTP,0000,0000,0000,,现代汽车为您带来《行尸走肉》下集预告\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}Hyundai presents scenes from the next episode of The Walking Dead...
+Dialogue: 0,0:42:42.62,0:42:45.65,*Default,NTP,0000,0000,0000,,寻找任何能帮赫谢尔的东西  找到就走\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}Anything that could help Hershel, we get in and we get out.
+Dialogue: 0,0:42:46.27,0:42:48.83,*Default,NTP,0000,0000,0000,,搜索药柜和急救箱\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}Medicine cabinets, first aid kits
+Dialogue: 0,0:42:51.28,0:42:54.22,*Default,NTP,0000,0000,0000,,你不是一个人  不再是了\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}You ain't gonna be standing alone, not anymore.
+Dialogue: 0,0:42:54.45,0:42:56.15,*Default,NTP,0000,0000,0000,,你为什么还生气\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}Why are you still angry?
+Dialogue: 0,0:42:56.43,0:42:57.80,*Default,NTP,0000,0000,0000,,我不知道\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}I don't know.
+Dialogue: 0,0:42:58.02,0:43:00.63,*Default,NTP,0000,0000,0000,,很多人都会死  这是常事\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}A lot people are going to die, it always happens.
+Dialogue: 0,0:43:00.69,0:43:02.17,*Default,NTP,0000,0000,0000,,别轻言放弃\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}You don't give up.
+Dialogue: 0,0:43:05.02,0:43:09.28,*Default,NTP,0000,0000,0000,,更多视频请登录AMC官网查看\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H202020&}{\shad1}For more video go to amc.com.
+
