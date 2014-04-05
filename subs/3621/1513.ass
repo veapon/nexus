@@ -1,0 +1,711 @@
+﻿[Script Info]
+;SrtEdit 6.3.2012.1001
+;Copyright(C) 2005-2012 Yuan Weiguo
+
+Title: 
+Original Script: 
+Original Translation: 
+Original Timing: 
+Original Editing: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 384
+PlayResY: 288
+Timer: 100.0000
+Synch Point: 
+WrapStyle: 0
+ScaledBorderAndShadow: no
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,华文楷体,18,&H00E0E0E0,&HF0000000,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,1,2,0,0,1,1
+Style: chs&eng,华文楷体,20,&H00F5F5F5,&HF0000000,&H00000000,&H00000000,0,0,0,0,100,100,0,0,0,1,1,2,0,0,2,1
+Style: Pure Chinese,华文楷体,20,&H00F5F5F5,&HF0000000,&H00000000,&H00000000,0,0,0,0,100,100,0,0,0,1,1,8,0,0,8,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+
+Dialogue: 0,0:00:02.00,0:00:07.00,Default,,0000,0000,0001,,{\blur3\fn华文楷体\fs16\1c&H3CF1F3&\b0}--==本影片由 {\1c&HFF8000&\b1}CMCT 团队{\fn华文楷体\1c&H3CF1F3&\b0} 荣誉出品==--\N更多精彩影视 请访问 {\fnCronos Pro Subhead\1c&HFF00FF&\b1}http://cmct.cc{\r}
+Dialogue: 0,0:00:08.00,0:00:11.00,Default,,0000,0000,0008,,{\blur3\fn华文楷体\fs16\1c&H3CF1F3&\b0}影片压制:木子鱼  字幕调校:木子鱼  招募Q号:76846146{\r}
+Dialogue: 0,0:00:55.13,0:00:56.21,chs&eng,,0000,0000,0000,,救命呀\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Please.{\r}
+Dialogue: 0,0:02:54.00,0:02:56.12,chs&eng,,0000,0000,0000,,他跑到河边就算赢了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}If he makes it to the river, he's won.{\r}
+Dialogue: 0,0:02:56.21,0:02:58.88,chs&eng,,0000,0000,0000,,罗先生 不容许有漏网之鱼\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We cannot allow that to happen, Mr. lopaki.{\r}
+Dialogue: 0,0:03:30.71,0:03:32.12,chs&eng,,0000,0000,0000,,不要太靠近!\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}You're firing too close!{\r}
+Dialogue: 0,0:05:16.81,0:05:17.98,chs&eng,,0000,0000,0000,,喝点白兰地?\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Brandy?{\r}
+Dialogue: 0,0:05:24.82,0:05:26.74,chs&eng,,0000,0000,0000,,杀人会上瘾是吗?\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's like a drug, isn't it?{\r}
+Dialogue: 0,0:05:28.95,0:05:30.74,chs&eng,,0000,0000,0000,,就像吸毒一样\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}To bring a man down.{\r}
+Dialogue: 0,0:05:37.42,0:05:39.00,chs&eng,,0000,0000,0000,,花钱买刺激值得吗?\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Was it worth it?{\r}
+Dialogue: 0,0:05:40.71,0:05:42.51,chs&eng,,0000,0000,0000,,值回票价 那就好\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Every nickel. Good.{\r}
+Dialogue: 0,0:06:41.06,0:06:42.23,chs&eng,,0000,0000,0000,,什么事?\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Yes?{\r}
+Dialogue: 0,0:06:43.36,0:06:47.15,chs&eng,,0000,0000,0000,,嗨 我要找道格·班德\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Hi, I'm looking for Douglas Binder.{\r}
+Dialogue: 0,0:06:48.20,0:06:49.66,chs&eng,,0000,0000,0000,,你是他的朋友?\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}You a friend of Mr. Binder's?{\r}
+Dialogue: 0,0:06:49.74,0:06:50.82,chs&eng,,0000,0000,0000,,不是 我...\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}No, I...{\r}
+Dialogue: 0,0:06:51.41,0:06:53.08,chs&eng,,0000,0000,0000,,我是他的女儿\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}I'm his daughter.{\r}
+Dialogue: 0,0:06:54.70,0:06:58.50,chs&eng,,0000,0000,0000,,道格是好人 有礼貌\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Doug was a nice man. He had manners.{\r}
+Dialogue: 0,0:06:58.92,0:07:02.08,chs&eng,,0000,0000,0000,,他没说搬到那里去吗?\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}He didn't tell you where he was moving, did he?{\r}
+Dialogue: 0,0:07:03.54,0:07:05.67,chs&eng,,0000,0000,0000,,他欠了些房租\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}He owed some rent, honey.{\r}
+Dialogue: 0,0:07:07.01,0:07:11.18,chs&eng,,0000,0000,0000,,我叫他不要急 等他手头宽松再说\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}I told him he could wait to pay me till he got back on his feet.{\r}
+Dialogue: 0,0:07:11.84,0:07:13.93,chs&eng,,0000,0000,0000,,他是否出了意外?\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}He wasn't in an accident, was he?{\r}
+Dialogue: 0,0:07:14.01,0:07:17.10,chs&eng,,0000,0000,0000,,没有 他是被油具公司解雇\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Oh no, he lost his job with the oil tool company.{\r}
+Dialogue: 0,0:07:18.64,0:07:22.56,chs&eng,,0000,0000,0000,,他搬走的时候… 留下这个箱子\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}When Doug moved out, he left this box.{\r}
+Dialogue: 0,0:07:25.78,0:07:31.41,chs&eng,,0000,0000,0000,,他说抵押在此  直到他偿清房租\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}He told me I could hold it till he could make up his back rent.{\r}
+Dialogue: 0,0:07:36.12,0:07:38.96,chs&eng,,0000,0000,0000,,你知道他可能去哪吗?\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Do you have any idea where he might be now?{\r}
+Dialogue: 0,0:07:39.04,0:07:41.87,chs&eng,,0000,0000,0000,,你不妨到"女善人收容所"看看\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}You might try checking down in Our Lady of Charity.{\r}
+Dialogue: 0,0:07:43.04,0:07:44.25,chs&eng,,0000,0000,0000,,原来是陆战队员\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}ELIJAH Marine, huh?{\r}
+Dialogue: 0,0:07:44.88,0:07:46.09,chs&eng,,0000,0000,0000,,侦骑营的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Recon.{\r}
+Dialogue: 0,0:07:47.09,0:07:49.42,chs&eng,,0000,0000,0000,,我也曾在那个单位\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}I was in the service for a while myself.{\r}
+Dialogue: 0,0:07:49.51,0:07:50.93,chs&eng,,0000,0000,0000,,真的?\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Really? Yeah.{\r}
+Dialogue: 0,0:07:51.38,0:07:52.55,chs&eng,,0000,0000,0000,,你认识他吗?\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Do you know him?{\r}
+Dialogue: 0,0:07:52.64,0:07:54.43,chs&eng,,0000,0000,0000,,他偶而来这里\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}He comes here sometimes.{\r}
+Dialogue: 0,0:07:55.22,0:07:56.89,chs&eng,,0000,0000,0000,,他是个好人\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Nice guy, too.{\r}
+Dialogue: 0,0:07:57.39,0:08:00.27,chs&eng,,0000,0000,0000,,若是遇到他 我会转告你在找他\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}If I see him, I'll tell him you're looking.{\r}
+Dialogue: 0,0:08:01.39,0:08:03.94,chs&eng,,0000,0000,0000,,你知道他住在那里吗?\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Do you happen to know where he lives?{\r}
+Dialogue: 0,0:08:08.32,0:08:10.65,chs&eng,,0000,0000,0000,,恐怕你爸爸...\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}I'm afraid your daddy...{\r}
+Dialogue: 0,0:08:11.65,0:08:14.57,chs&eng,,0000,0000,0000,,他跟我们一样  无家可归\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Well, he was like the rest of us, out of doors.{\r}
+Dialogue: 0,0:08:14.74,0:08:15.91,chs&eng,,0000,0000,0000,,你明白吗?\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}You know?{\r}
+Dialogue: 0,0:08:21.33,0:08:23.66,Pure Chinese,,0000,0000,0000,,"半月餐厅"
+Dialogue: 0,0:08:47.19,0:08:49.32,chs&eng,,0000,0000,0000,,"意外" 炖甘宝好吃吗?\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}How is that gumbo, Chance?{\r}
+Dialogue: 0,0:08:51.24,0:08:52.61,chs&eng,,0000,0000,0000,,难以下咽\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}A tragedy.{\r}
+Dialogue: 0,0:08:53.45,0:08:55.20,chs&eng,,0000,0000,0000,,不过咖啡勉强可以入口\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The coffee was tolerable, though.{\r}
+Dialogue: 0,0:08:55.28,0:08:56.91,chs&eng,,0000,0000,0000,,那也是要钱的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It ain't free, neither.{\r}
+Dialogue: 0,0:08:57.49,0:08:59.04,chs&eng,,0000,0000,0000,,我知道\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Yeah, I know.{\r}
+Dialogue: 0,0:08:59.12,0:09:01.50,chs&eng,,0000,0000,0000,,又忘了带皮夹出来吗?\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Leave your wallet in your tuxedo?{\r}
+Dialogue: 0,0:09:03.46,0:09:05.46,chs&eng,,0000,0000,0000,,这一招我用过吗?\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}I play that one on you before?{\r}
+Dialogue: 0,0:09:05.54,0:09:07.96,chs&eng,,0000,0000,0000,,是呀 吃甘宝的时候\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Yeah. For the gumbo.{\r}
+Dialogue: 0,0:09:08.79,0:09:10.00,chs&eng,,0000,0000,0000,,不错\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That's right.{\r}
+Dialogue: 0,0:09:34.65,0:09:36.70,chs&eng,,0000,0000,0000,,嘿 有硬币吗?\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Hi. Do you have any change?{\r}
+Dialogue: 0,0:09:43.29,0:09:44.66,chs&eng,,0000,0000,0000,,谢谢你\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Thank you.{\r}
+Dialogue: 0,0:10:06.44,0:10:07.90,chs&eng,,0000,0000,0000,,嗨 玛丽\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Hi, Marie.{\r}
+Dialogue: 0,0:10:07.98,0:10:11.69,chs&eng,,0000,0000,0000,,我父亲有回来拿信件吗?\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Yes, I was wondering if my father came to pick up his mail yet.{\r}
+Dialogue: 0,0:10:12.19,0:10:15.53,chs&eng,,0000,0000,0000,,他没有吗? 不用 谢谢 再见!\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}He hasn't? No, that's fine. Thank you. Bye-bye.{\r}
+Dialogue: 0,0:10:30.38,0:10:31.75,chs&eng,,0000,0000,0000,,嘿 小美人\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Hello, pretty lady.{\r}
+Dialogue: 0,0:10:31.84,0:10:33.00,chs&eng,,0000,0000,0000,,别烦我\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Leave me the hell alone.{\r}
+Dialogue: 0,0:10:33.55,0:10:35.55,chs&eng,,0000,0000,0000,,这个给我们\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We'll take the wallet.{\r}
+Dialogue: 0,0:10:36.13,0:10:38.51,chs&eng,,0000,0000,0000,,再陪我玩玩如何?\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}How about a little extra, honey?{\r}
+Dialogue: 0,0:10:43.81,0:10:45.47,chs&eng,,0000,0000,0000,,你们玩得开心吗?\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}You having fun?{\r}
+Dialogue: 0,0:10:51.40,0:10:53.82,chs&eng,,0000,0000,0000,,小子 你自求多福吧!\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Why don't you do yourself a favor, boy?{\r}
+Dialogue: 0,0:10:55.23,0:10:57.19,chs&eng,,0000,0000,0000,,要求福的是你们\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}I think the favor is gonna be done for you.{\r}
+Dialogue: 0,0:11:00.82,0:11:02.24,chs&eng,,0000,0000,0000,,不要怕\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}it's okay.{\r}
+Dialogue: 0,0:11:03.37,0:11:05.08,chs&eng,,0000,0000,0000,,我叫你滚开!\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}I said, get lost!{\r}
+Dialogue: 0,0:11:08.41,0:11:11.58,chs&eng,,0000,0000,0000,,带着你的狗党给我滚\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Now, take your pig stick and your boyfriend{\r}
+Dialogue: 0,0:11:12.33,0:11:14.46,chs&eng,,0000,0000,0000,,去搭巴士滚远一点\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and find a bus to catch.{\r}
+Dialogue: 0,0:11:15.25,0:11:16.88,chs&eng,,0000,0000,0000,,这个家伙很滑稽\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Oh, this guy's funny.{\r}
+Dialogue: 0,0:11:52.83,0:11:54.92,chs&eng,,0000,0000,0000,,来呀  放马过来!\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Come on. Let's go!{\r}
+Dialogue: 0,0:12:22.11,0:12:23.91,chs&eng,,0000,0000,0000,,来吧!\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Let's go!{\r}
+Dialogue: 0,0:12:23.99,0:12:25.41,chs&eng,,0000,0000,0000,,出招!\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Come on!{\r}
+Dialogue: 0,0:12:40.34,0:12:43.84,chs&eng,,0000,0000,0000,,真可惜 这地区本来太平\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}You know, it's a shame. This used to be such a nice part of town.{\r}
+Dialogue: 0,0:12:48.81,0:12:51.73,chs&eng,,0000,0000,0000,,下次当心 钱财不要露白\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Next time be more careful when you show your wallet.{\r}
+Dialogue: 0,0:13:19.71,0:13:29.55,chs&eng,,0000,0000,0000,,没有警察 全市停摆!\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Without cops, the city stops!{\r}
+Dialogue: 0,0:13:21.51,0:13:31.81,chs&eng,,0000,0000,0000,,没有警察! 全市停摆!\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Without cops, the city stops! Without cops, the city stops!{\r}
+Dialogue: 0,0:13:35.69,0:13:38.06,chs&eng,,0000,0000,0000,,来 快点! 快来\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Come on, let's hurry now! Come on.{\r}
+Dialogue: 0,0:13:39.77,0:13:41.44,chs&eng,,0000,0000,0000,,警察罢工提早结束吗?\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Will the strike end soon? Here you go.{\r}
+Dialogue: 0,0:13:47.41,0:13:50.11,Pure Chinese,,0000,0000,0000,,"纽奥良市警察第三分局"
+Dialogue: 0,0:14:01.75,0:14:03.67,chs&eng,,0000,0000,0000,,祝我生日快乐\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Happy birthday to me.{\r}
+Dialogue: 0,0:14:05.51,0:14:06.93,chs&eng,,0000,0000,0000,,对不起\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Excuse me.{\r}
+Dialogue: 0,0:14:17.77,0:14:19.02,chs&eng,,0000,0000,0000,,有何贵干?\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Can I help you?{\r}
+Dialogue: 0,0:14:19.10,0:14:22.32,chs&eng,,0000,0000,0000,,是 我要报人口失踪\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Yeah, I need to fill out a missing person report.{\r}
+Dialogue: 0,0:14:23.23,0:14:24.69,chs&eng,,0000,0000,0000,,我已经上了两班\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Look, I just pulled a double shift.{\r}
+Dialogue: 0,0:14:24.78,0:14:26.82,chs&eng,,0000,0000,0000,,明天好吗?\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Why don't you catch me tomorrow.{\r}
+Dialogue: 0,0:14:28.28,0:14:30.91,chs&eng,,0000,0000,0000,,好吧 现在办理\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Okay. Why don't you catch me now.{\r}
+Dialogue: 0,0:14:32.41,0:14:34.50,chs&eng,,0000,0000,0000,,失踪人姓名?\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}What is the name of the missing individual?{\r}
+Dialogue: 0,0:14:34.58,0:14:36.46,chs&eng,,0000,0000,0000,,道格·班德\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Douglas Charles Binder.{\r}
+Dialogue: 0,0:14:37.83,0:14:39.96,chs&eng,,0000,0000,0000,,与报案人的关系?\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Relationship of reporting party?{\r}
+Dialogue: 0,0:14:40.04,0:14:41.29,chs&eng,,0000,0000,0000,,父女\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Daughter.{\r}
+Dialogue: 0,0:14:44.13,0:14:46.47,chs&eng,,0000,0000,0000,,有相片吗?\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Okay. You got a picture? Mmm-hmm.{\r}
+Dialogue: 0,0:14:53.35,0:14:54.93,chs&eng,,0000,0000,0000,,有最近的相片吗?\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Got something a little more recent?{\r}
+Dialogue: 0,0:14:55.02,0:14:56.60,chs&eng,,0000,0000,0000,,没有\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}No, I don't.{\r}
+Dialogue: 0,0:14:58.06,0:15:01.06,chs&eng,,0000,0000,0000,,我父母已离异廿年了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}See, my parents were divorced 20 years ago.{\r}
+Dialogue: 0,0:15:01.15,0:15:03.07,chs&eng,,0000,0000,0000,,他有住址吗?\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}You got an address?{\r}
+Dialogue: 0,0:15:03.15,0:15:04.86,chs&eng,,0000,0000,0000,,我猜想他是无家可归\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}I think my father was homeless.{\r}
+Dialogue: 0,0:15:06.24,0:15:09.70,chs&eng,,0000,0000,0000,,我是来这里以后才知道\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}I didn't even know myself until I just came down here.{\r}
+Dialogue: 0,0:15:10.49,0:15:14.79,chs&eng,,0000,0000,0000,,我搞不懂你要我做什么\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Look, I'm not sure what you want me to do here.{\r}
+Dialogue: 0,0:15:14.87,0:15:17.00,chs&eng,,0000,0000,0000,,我要你受理我报案\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}I want you to take my report.{\r}
+Dialogue: 0,0:15:17.08,0:15:19.96,chs&eng,,0000,0000,0000,,通常失踪人口的认定\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Well, generally, in order to be considered missing,{\r}
+Dialogue: 0,0:15:20.04,0:15:22.67,chs&eng,,0000,0000,0000,,必须是有家不归者\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}you need somewhere to be missing from.{\r}
+Dialogue: 0,0:15:23.67,0:15:25.00,chs&eng,,0000,0000,0000,,好吧\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Fine.{\r}
+Dialogue: 0,0:15:25.75,0:15:28.05,chs&eng,,0000,0000,0000,,捕快大人 既然你太忙了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Look, if you're too busy to do your job, Detective,{\r}
+Dialogue: 0,0:15:28.13,0:15:30.63,chs&eng,,0000,0000,0000,,我去找不忙的人\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}then I'll find somebody who isn't so busy.{\r}
+Dialogue: 0,0:15:31.89,0:15:33.18,chs&eng,,0000,0000,0000,,听我说...\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Look...{\r}
+Dialogue: 0,0:15:34.47,0:15:38.39,chs&eng,,0000,0000,0000,,你要找爸爸吗? 我劝你去教会打听\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}You want to find your father, take my advice, canvass the missions,{\r}
+Dialogue: 0,0:15:38.48,0:15:40.31,chs&eng,,0000,0000,0000,,去问收容所\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}ask at the shelters,{\r}
+Dialogue: 0,0:15:40.60,0:15:43.81,chs&eng,,0000,0000,0000,,不过要找个地头熟的人带路\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but get somebody who knows the city to show you around,{\r}
+Dialogue: 0,0:15:43.90,0:15:46.36,chs&eng,,0000,0000,0000,,否则我得受理你的失踪了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}or I'll be filling out one of these on you.{\r}
+Dialogue: 0,0:15:49.53,0:15:51.45,chs&eng,,0000,0000,0000,,喂 不用谢我\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Hey, you're welcome.{\r}
+Dialogue: 0,0:16:37.58,0:16:40.16,chs&eng,,0000,0000,0000,,注意 安静地听\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}All right, pipe down and listen up.{\r}
+Dialogue: 0,0:16:41.79,0:16:45.33,chs&eng,,0000,0000,0000,,今早有12个缺 AB级或以上的水手\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We got 12 positions this morning, Able Seaman or better.{\r}
+Dialogue: 0,0:16:45.42,0:16:48.67,chs&eng,,0000,0000,0000,,叫到名字的到办公室去\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}When I call your name, come into the office, show your papers,{\r}
+Dialogue: 0,0:16:48.75,0:16:50.92,chs&eng,,0000,0000,0000,,出示证件就可以上船\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and you'll get your ship.{\r}
+Dialogue: 0,0:16:51.26,0:16:54.51,chs&eng,,0000,0000,0000,,点名了 鲁易吉康巴斯 AB级水手\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Here we go. First man, Gombas, Luigi. Able Seaman.{\r}
+Dialogue: 0,0:16:54.59,0:16:55.89,chs&eng,,0000,0000,0000,,有\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Right here.{\r}
+Dialogue: 0,0:16:56.14,0:16:58.93,chs&eng,,0000,0000,0000,,史蒂文华德 二管轮\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Walker, Steven. Second Engineer.{\r}
+Dialogue: 0,0:17:03.06,0:17:05.94,chs&eng,,0000,0000,0000,,餐厅的人 说你可能会在这里\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}They told me at the cafe that you might be down here.{\r}
+Dialogue: 0,0:17:06.90,0:17:08.77,chs&eng,,0000,0000,0000,,我有事找你商量\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}I need to talk to you about something.{\r}
+Dialogue: 0,0:17:08.90,0:17:10.90,chs&eng,,0000,0000,0000,,我想时候不对\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}I don't think this is a good time now.{\r}
+Dialogue: 0,0:17:11.22,0:17:14.60,chs&eng,,0000,0000,0000,,- 沃尔特  尼古斯 AB级水手  - 到\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}- Walters, Nichols D. Able Seaman. - Yeah.{\r}
+Dialogue: 0,0:17:14.95,0:17:17.32,chs&eng,,0000,0000,0000,,要不要帮我做事?\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}How'd you like to work for me?{\r}
+Dialogue: 0,0:17:17.62,0:17:20.12,chs&eng,,0000,0000,0000,,每天付你一百元\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}I'll pay you $100 a day.{\r}
+Dialogue: 0,0:17:22.37,0:17:23.83,chs&eng,,0000,0000,0000,,做什么?\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}For doing what?{\r}
+Dialogue: 0,0:17:23.91,0:17:25.71,chs&eng,,0000,0000,0000,,日薪百元在乎做什么吗?\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}For$100, does it really matter?{\r}
+Dialogue: 0,0:17:27.88,0:17:30.00,chs&eng,,0000,0000,0000,,当然在乎\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Actually, it does. Yeah.{\r}
+Dialogue: 0,0:17:31.17,0:17:32.51,chs&eng,,0000,0000,0000,,做什么有关系\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It does.{\r}
+Dialogue: 0,0:17:33.76,0:17:36.13,chs&eng,,0000,0000,0000,,我要你帮我找一个人\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Look, I really need you to help me find someone.{\r}
+Dialogue: 0,0:17:36.26,0:17:38.55,chs&eng,,0000,0000,0000,,毕亚尔 伙夫\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Gill, Bill. Cook.{\r}
+Dialogue: 0,0:17:39.22,0:17:43.06,chs&eng,,0000,0000,0000,,你地头熟 显然也有本事自卫\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}You know this city, you obviously can take care of yourself.{\r}
+Dialogue: 0,0:17:43.14,0:17:46.44,chs&eng,,0000,0000,0000,,"包意外" AB级水手\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Boudreaux, C. Able Seaman.{\r}
+Dialogue: 0,0:17:47.77,0:17:50.36,chs&eng,,0000,0000,0000,,亲爱的 我愿意帮助你\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}I would like to help you, darling.{\r}
+Dialogue: 0,0:17:50.44,0:17:53.74,chs&eng,,0000,0000,0000,,可惜我要出差了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Looks like I'm gonna be out of town.{\r}
+Dialogue: 0,0:17:53.82,0:17:55.95,chs&eng,,0000,0000,0000,,要出远门\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Way out of town.{\r}
+Dialogue: 0,0:17:56.66,0:17:57.95,chs&eng,,0000,0000,0000,,抱歉\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Sorry.{\r}
+Dialogue: 0,0:18:05.33,0:18:09.46,chs&eng,,0000,0000,0000,,"意外"我以为 你因为殴打船长被炒了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Chance. Thought you got blackballed about that thing with Captain McDonald.{\r}
+Dialogue: 0,0:18:09.54,0:18:11.96,chs&eng,,0000,0000,0000,,那是天大的误会\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That was a big misunderstanding, you know.{\r}
+Dialogue: 0,0:18:12.05,0:18:13.09,chs&eng,,0000,0000,0000,,误会\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Right.{\r}
+Dialogue: 0,0:18:13.17,0:18:15.72,chs&eng,,0000,0000,0000,,听说打裂了下巴骨\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Broke his damn jaw is what I heard.{\r}
+Dialogue: 0,0:18:16.51,0:18:19.01,chs&eng,,0000,0000,0000,,你一定要代我问候船长\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}You make sure I said a big "hello."{\r}
+Dialogue: 0,0:18:19.97,0:18:21.64,chs&eng,,0000,0000,0000,,慢着\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Wait a minute.{\r}
+Dialogue: 0,0:18:22.60,0:18:25.02,chs&eng,,0000,0000,0000,,强生说我可以复职\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Johnson says I was reinstated.{\r}
+Dialogue: 0,0:18:25.10,0:18:27.81,chs&eng,,0000,0000,0000,,公司准了 工会还不准\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}With the company. Not with the union.{\r}
+Dialogue: 0,0:18:27.89,0:18:30.19,chs&eng,,0000,0000,0000,,你欠缴会费 老弟\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}You owe some dues here, boy.{\r}
+Dialogue: 0,0:18:30.69,0:18:32.77,chs&eng,,0000,0000,0000,,一共217元\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}217 bucks.{\r}
+Dialogue: 0,0:18:32.86,0:18:34.19,chs&eng,,0000,0000,0000,,这趟回来我会补缴\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}I'll pay that off on this cruise.{\r}
+Dialogue: 0,0:18:35.65,0:18:37.73,chs&eng,,0000,0000,0000,,你明知欠会费不能出海\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}No. Nobody ships out if they're in arrears, you know that.{\r}
+Dialogue: 0,0:18:37.95,0:18:40.95,chs&eng,,0000,0000,0000,,我没事做哪来的钱缴会费?\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}How am I gonna pay my dues if I can't get the job?{\r}
+Dialogue: 0,0:18:41.03,0:18:42.91,chs&eng,,0000,0000,0000,,伙计 规定不是我订的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}I don't make the rules, mate.{\r}
+Dialogue: 0,0:18:44.66,0:18:48.04,chs&eng,,0000,0000,0000,,你上的那条船周末才起航\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Look, your ride doesn't sail till the end of the week.{\r}
+Dialogue: 0,0:18:48.58,0:18:51.00,chs&eng,,0000,0000,0000,,我若是弄到钱呢?\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}If I can get the money, then what?{\r}
+Dialogue: 0,0:18:51.08,0:18:53.30,chs&eng,,0000,0000,0000,,我就让你出海\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Then I'll let you ship out.{\r}
+Dialogue: 0,0:18:55.34,0:18:57.01,chs&eng,,0000,0000,0000,,我会弄到钱\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}I'll get the money.{\r}
+Dialogue: 0,0:19:08.35,0:19:10.48,chs&eng,,0000,0000,0000,,继续前进 拿回去\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Keep going. Take it back.{\r}
+Dialogue: 0,0:19:37.92,0:19:41.34,chs&eng,,0000,0000,0000,,你要找的人是欠你钱吗?\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So, this guy you're looking for, he owes you money or something?{\r}
+Dialogue: 0,0:19:41.43,0:19:42.84,chs&eng,,0000,0000,0000,,是我爸爸\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}He's my father.{\r}
+Dialogue: 0,0:19:42.93,0:19:44.43,chs&eng,,0000,0000,0000,,好 我改变心意了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Okay, I changed my mind.{\r}
+Dialogue: 0,0:19:46.01,0:19:49.77,chs&eng,,0000,0000,0000,,我帮你找两天 给我217元\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}I'll help you for two days, you'll pay me $217.{\r}
+Dialogue: 0,0:19:51.77,0:19:53.31,chs&eng,,0000,0000,0000,,一言为定\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's a deal.{\r}
+Dialogue: 0,0:19:54.40,0:19:55.98,chs&eng,,0000,0000,0000,,你来开车\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}You can drive.{\r}
+Dialogue: 0,0:19:56.07,0:19:59.32,chs&eng,,0000,0000,0000,,我没有驾照 小姐\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}I don't have a driver's license, ma'am{\r}
+Dialogue: 0,0:20:02.45,0:20:04.66,chs&eng,,0000,0000,0000,,你叫什么名字?\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So, what's your name?{\r}
+Dialogue: 0,0:20:04.74,0:20:07.33,chs&eng,,0000,0000,0000,,包意外 你呢?\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Chance Boudreaux. What's your name?{\r}
+Dialogue: 0,0:20:07.66,0:20:09.16,chs&eng,,0000,0000,0000,,叫娜特\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's Nat.{\r}
+Dialogue: 0,0:20:10.54,0:20:11.62,chs&eng,,0000,0000,0000,,娜特?\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Nat?{\r}
+Dialogue: 0,0:20:12.46,0:20:15.42,chs&eng,,0000,0000,0000,,你父母给你起昆虫的名字\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Your parents name you for a bug?{\r}
+Dialogue: 0,0:20:16.55,0:20:19.30,chs&eng,,0000,0000,0000,,不是 是娜达莎的简称\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}No, actually, it's short for Natasha.{\r}
+Dialogue: 0,0:20:19.38,0:20:20.80,chs&eng,,0000,0000,0000,,娜达莎\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Natasha.{\r}
+Dialogue: 0,0:20:21.30,0:20:23.64,chs&eng,,0000,0000,0000,,"意外"这算什么名字?\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}What kind of a name is Chance?{\r}
+Dialogue: 0,0:20:24.68,0:20:26.85,chs&eng,,0000,0000,0000,,我妈是"意外"的怀了我\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Well, my mama took one.{\r}
+Dialogue: 0,0:20:31.02,0:20:32.94,chs&eng,,0000,0000,0000,,你怎么和父亲失散的?\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So, how did you lose your papa?{\r}
+Dialogue: 0,0:20:34.44,0:20:38.32,chs&eng,,0000,0000,0000,,我七岁时父母离婚...\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}My parents, they got divorced when I was seven and my father...{\r}
+Dialogue: 0,0:20:38.82,0:20:40.74,chs&eng,,0000,0000,0000,,我父亲搬了出去\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Well, he moved away.{\r}
+Dialogue: 0,0:20:44.41,0:20:48.20,chs&eng,,0000,0000,0000,,我们开始通信 他还打电话来\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We started to write and he even called me a couple of times.{\r}
+Dialogue: 0,0:20:48.29,0:20:51.20,chs&eng,,0000,0000,0000,,三周前书信中断了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Three weeks ago the letters just stopped.{\r}
+Dialogue: 0,0:20:55.17,0:20:58.09,chs&eng,,0000,0000,0000,,我有个朋友在此他能帮忙\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}I've got a friend here who can help us.{\r}
+Dialogue: 0,0:20:58.17,0:21:01.17,chs&eng,,0000,0000,0000,,你看看排队的人 我到里面看看\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}You check the line, I'll look around inside.{\r}
+Dialogue: 0,0:21:10.68,0:21:13.98,chs&eng,,0000,0000,0000,,有辣椒酱吗?\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Hey, you don't have a bottle of hot sauce on ya, do ya?{\r}
+Dialogue: 0,0:21:14.56,0:21:17.11,chs&eng,,0000,0000,0000,,艾利亚 你好吗?\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Elijah. What's happening?{\r}
+Dialogue: 0,0:21:17.19,0:21:18.86,chs&eng,,0000,0000,0000,,星期三供应碎肉烤饼\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Wednesday meat loaf.{\r}
+Dialogue: 0,0:21:18.94,0:21:21.57,chs&eng,,0000,0000,0000,,他们说是碎肉烤饼\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}I mean, they said it was meat loaf.{\r}
+Dialogue: 0,0:21:21.65,0:21:23.07,chs&eng,,0000,0000,0000,,我以为你上船了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}I thought you were gonna get a ship.{\r}
+Dialogue: 0,0:21:23.95,0:21:25.20,chs&eng,,0000,0000,0000,,我的许可证丢了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}I lost my boarding pass.{\r}
+Dialogue: 0,0:21:28.78,0:21:30.91,chs&eng,,0000,0000,0000,,我有东西给你看\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}I've got something to show you.{\r}
+Dialogue: 0,0:21:30.99,0:21:32.29,chs&eng,,0000,0000,0000,,原来你们认识\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}You two know each other?{\r}
+Dialogue: 0,0:21:32.37,0:21:33.46,chs&eng,,0000,0000,0000,,昨天见过\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We met yesterday.{\r}
+Dialogue: 0,0:21:33.54,0:21:34.96,chs&eng,,0000,0000,0000,,见到我父亲没有?\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Have you seen my father?{\r}
+Dialogue: 0,0:21:35.04,0:21:36.21,chs&eng,,0000,0000,0000,,我见到次要的东西\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}I saw the next best thing.{\r}
+Dialogue: 0,0:21:37.08,0:21:41.38,chs&eng,,0000,0000,0000,,昨天我在意大利广场  见到推车上有个睡袋\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}I was at Plaza D'ltalia yesterday, and I saw this sleeping bag in a cart.{\r}
+Dialogue: 0,0:21:42.38,0:21:46.64,chs&eng,,0000,0000,0000,,上面有虎纹迷彩 属陆战队专有\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It was a tiger stripe, like the kind they used to issue to recon guys.{\r}
+Dialogue: 0,0:21:46.89,0:21:49.22,chs&eng,,0000,0000,0000,,你爸爸正好有一个\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Your daddy had one just like it.{\r}
+Dialogue: 0,0:21:51.06,0:21:52.97,chs&eng,,0000,0000,0000,,谢了 查理\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Thanks, Charlie. You bet.{\r}
+Dialogue: 0,0:22:02.15,0:22:04.73,Pure Chinese,,0000,0000,0000,,"D.班德"
+Dialogue: 0,0:22:20.33,0:22:22.33,Pure Chinese,,0000,0000,0000,,"道格·班德"
+Dialogue: 0,0:22:47.74,0:22:49.98,Pure Chinese,,0000,0000,0000,,"最热情的性爱电话"
+Dialogue: 0,0:22:50.57,0:22:53.12,chs&eng,,0000,0000,0000,,别怪他 为了赚钱发传单\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Don't be offended. He passed them out for money.{\r}
+Dialogue: 0,0:22:53.99,0:22:56.20,chs&eng,,0000,0000,0000,,是呀 我也发传单\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Yeah, I've had to do it myself.{\r}
+Dialogue: 0,0:23:01.42,0:23:03.63,chs&eng,,0000,0000,0000,,到巴勒克街分发\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Here. Barracks Street.{\r}
+Dialogue: 0,0:23:03.71,0:23:06.67,chs&eng,,0000,0000,0000,,老爹 街两边都要发 下一个! 快!\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Both sides this time, Grandpa. Next! Get!{\r}
+Dialogue: 0,0:23:08.17,0:23:10.55,chs&eng,,0000,0000,0000,,"直接广告服务"\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Here. Decatur. Lower half.{\r}
+Dialogue: 0,0:23:13.47,0:23:16.39,chs&eng,,0000,0000,0000,,那不是我的好朋友"包意外"吗?\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Well, if it ain't my good friend Boudreaux.{\r}
+Dialogue: 0,0:23:16.47,0:23:18.69,chs&eng,,0000,0000,0000,,我以为你上船了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}I thought you was gonna catch a ship.{\r}
+Dialogue: 0,0:23:18.77,0:23:21.52,chs&eng,,0000,0000,0000,,也许我要留下来竞选市长\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Maybe I'll stick around to run for mayor.{\r}
+Dialogue: 0,0:23:21.61,0:23:23.27,chs&eng,,0000,0000,0000,,我们要找帮你做事的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We're looking for someone who worked for you.{\r}
+Dialogue: 0,0:23:23.36,0:23:25.15,chs&eng,,0000,0000,0000,,他叫道格·班德\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The man's name is Douglas Binder.{\r}
+Dialogue: 0,0:23:27.11,0:23:28.36,chs&eng,,0000,0000,0000,,我不认识他\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}I never heard of him.{\r}
+Dialogue: 0,0:23:28.45,0:23:29.82,chs&eng,,0000,0000,0000,,他却认识你\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}I think he knew you.{\r}
+Dialogue: 0,0:23:29.91,0:23:31.20,chs&eng,,0000,0000,0000,,他帮你做过事吗?\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Did he work for you, sir?{\r}
+Dialogue: 0,0:23:31.28,0:23:32.91,chs&eng,,0000,0000,0000,,也许有 也许没有\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Maybe he did, maybe he didn't.{\r}
+Dialogue: 0,0:23:33.49,0:23:35.66,chs&eng,,0000,0000,0000,,记名字我的脑袋不行\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}I'm not too good with names.{\r}
+Dialogue: 0,0:23:43.84,0:23:45.80,chs&eng,,0000,0000,0000,,我有相片\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}I have a photograph.{\r}
+Dialogue: 0,0:23:49.42,0:23:53.18,chs&eng,,0000,0000,0000,,卜先生是说记容貌他也不行\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}What Mr. Poe is trying to say is he's not too good with faces.{\r}
+Dialogue: 0,0:23:54.68,0:23:55.97,chs&eng,,0000,0000,0000,,是吗?\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Right?{\r}
+Dialogue: 0,0:23:58.68,0:24:02.31,chs&eng,,0000,0000,0000,,伦多 你好! 我不知道你有客人\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Hello, Randal. I didn't know you had company.{\r}
+Dialogue: 0,0:24:16.37,0:24:18.37,chs&eng,,0000,0000,0000,,我们正要走\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We were just leaving.{\r}
+Dialogue: 0,0:24:22.96,0:24:24.71,chs&eng,,0000,0000,0000,,应该回去找他\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}You know, we should go back up there.{\r}
+Dialogue: 0,0:24:24.79,0:24:27.00,chs&eng,,0000,0000,0000,,现在不要 不要一道去\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Not now. Not together.{\r}
+Dialogue: 0,0:24:27.09,0:24:29.92,chs&eng,,0000,0000,0000,,姓卜的显然知道 我父亲的事\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Poe knows something about my father, obviously.{\r}
+Dialogue: 0,0:24:30.01,0:24:32.26,chs&eng,,0000,0000,0000,,你不去找他 我去\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Look, if you don't want to go back up there, I'll just go back myself.{\r}
+Dialogue: 0,0:24:32.34,0:24:36.55,chs&eng,,0000,0000,0000,,你若想找到你爸 要用心机\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Hey. If you want to find your daddy, you're gonna have to work smarter,{\r}
+Dialogue: 0,0:24:36.64,0:24:38.18,chs&eng,,0000,0000,0000,,不是蛮干\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}not harder.{\r}
+Dialogue: 0,0:24:45.81,0:24:48.44,chs&eng,,0000,0000,0000,,娜达莎班德? 什么事?\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Natasha Binder? What's the problem?{\r}
+Dialogue: 0,0:24:48.53,0:24:50.99,chs&eng,,0000,0000,0000,,我有个噩耗\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Miss Binder, I'm afraid I have some bad news.{\r}
+Dialogue: 0,0:24:51.07,0:24:53.07,chs&eng,,0000,0000,0000,,我们找到你父亲的尸体\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}They found your father's body.{\r}
+Dialogue: 0,0:25:19.43,0:25:20.89,chs&eng,,0000,0000,0000,,我很抱歉\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}I'm sorry.{\r}
+Dialogue: 0,0:25:21.27,0:25:24.60,chs&eng,,0000,0000,0000,,法医验明正身了 怎么死的?\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}They made a positive I.D. How did it happen?{\r}
+Dialogue: 0,0:25:25.19,0:25:29.52,chs&eng,,0000,0000,0000,,昨夜有一起火灾 第九区一楝废屋失火\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}There was a fire last night in an abandoned building in the Ninth Ward.{\r}
+Dialogue: 0,0:25:30.44,0:25:34.53,chs&eng,,0000,0000,0000,,消防员在屋里找到尸体\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The fire department discovered your father's body in one of the rooms.{\r}
+Dialogue: 0,0:25:34.61,0:25:35.99,chs&eng,,0000,0000,0000,,我要去认他\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}I need to see him.{\r}
+Dialogue: 0,0:25:36.07,0:25:38.99,chs&eng,,0000,0000,0000,,你爸爸被烧焦了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Your daddy was burned pretty badly.{\r}
+Dialogue: 0,0:25:41.29,0:25:43.79,chs&eng,,0000,0000,0000,,辨认身份全靠\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The identification had to be made from{\r}
+Dialogue: 0,0:25:43.87,0:25:46.29,chs&eng,,0000,0000,0000,,比对他的军中牙科病历\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}dental charts in your father's service record.{\r}
+Dialogue: 0,0:25:56.13,0:25:58.47,chs&eng,,0000,0000,0000,,你来凑什么热闹?\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}What's your involvement here?{\r}
+Dialogue: 0,0:25:59.14,0:26:01.56,chs&eng,,0000,0000,0000,,我在帮她找爸爸\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}I was helping her find her daddy.{\r}
+Dialogue: 0,0:26:31.17,0:26:33.63,chs&eng,,0000,0000,0000,,醒醒  你这只肥猪!\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Wakey, wakey, you fat fuck!{\r}
+Dialogue: 0,0:26:46.52,0:26:49.35,chs&eng,,0000,0000,0000,,福寿先生 你来有何贵干?\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Oh, God! Mr. Fouchon, what are you doing here?{\r}
+Dialogue: 0,0:26:50.36,0:26:52.36,chs&eng,,0000,0000,0000,,伦多 少废话 听着\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Don't talk, Randal. Listen.{\r}
+Dialogue: 0,0:26:52.44,0:26:53.90,chs&eng,,0000,0000,0000,,你放心\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Don't worry about Randal.{\r}
+Dialogue: 0,0:26:55.36,0:26:57.15,chs&eng,,0000,0000,0000,,他的耳朵很尖\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}He's all ears.{\r}
+Dialogue: 0,0:26:58.03,0:27:00.66,chs&eng,,0000,0000,0000,,你没向万克立先生报告\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}When Mr. Van Cleaf came upon your visitors yesterday,{\r}
+Dialogue: 0,0:27:00.74,0:27:04.79,chs&eng,,0000,0000,0000,,昨天有人来打听自愿玩游戏者\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}you neglected to tell him that they were inquiring about one of our volunteers.{\r}
+Dialogue: 0,0:27:04.87,0:27:07.50,chs&eng,,0000,0000,0000,,福寿先生 那没什么\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That was nothing, Mr. Fouchon.{\r}
+Dialogue: 0,0:27:07.58,0:27:09.54,chs&eng,,0000,0000,0000,,这事非同小可 伦多\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Oh, it was something, Randal.{\r}
+Dialogue: 0,0:27:22.68,0:27:25.10,chs&eng,,0000,0000,0000,,上星期我们所猎杀的人\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}This man we hunted last night.{\r}
+Dialogue: 0,0:27:26.06,0:27:28.48,chs&eng,,0000,0000,0000,,说出他的真实姓名\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Why don't you tell us his real name?{\r}
+Dialogue: 0,0:27:28.89,0:27:29.98,chs&eng,,0000,0000,0000,,你浑蛋\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}You fuck.{\r}
+Dialogue: 0,0:27:30.06,0:27:32.06,chs&eng,,0000,0000,0000,,班德 道格·班德\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Binder. Binder. Douglas Binder.{\r}
+Dialogue: 0,0:27:32.94,0:27:35.69,chs&eng,,0000,0000,0000,,他不是我们挑选的人 是吗?\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That is not the one we selected, is it?{\r}
+Dialogue: 0,0:27:36.23,0:27:38.61,chs&eng,,0000,0000,0000,,我找不到你们要的人\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}I couldn't get the guy you asked for.{\r}
+Dialogue: 0,0:27:38.70,0:27:42.12,chs&eng,,0000,0000,0000,,你要退伍军人 我就叫班德去\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Look, you said you wanted a combat veteran, so I sent you Binder.{\r}
+Dialogue: 0,0:27:42.20,0:27:43.20,chs&eng,,0000,0000,0000,,他得过更多的勋章\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}He has more medals.{\r}
+Dialogue: 0,0:27:43.28,0:27:44.53,chs&eng,,0000,0000,0000,,他有家属\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}He had a family.{\r}
+Dialogue: 0,0:27:44.62,0:27:45.87,chs&eng,,0000,0000,0000,,他们在打听了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Now they're asking questions.{\r}
+Dialogue: 0,0:27:45.95,0:27:48.50,chs&eng,,0000,0000,0000,,饶了我吧 我赔不是了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Please. Please. I said I was sorry. I said...{\r}
+Dialogue: 0,0:27:49.16,0:27:50.17,chs&eng,,0000,0000,0000,,我已经赔不是了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}I said I was sorry.{\r}
+Dialogue: 0,0:27:50.25,0:27:52.33,chs&eng,,0000,0000,0000,,你就是大意\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Careless is what you are, Randal.{\r}
+Dialogue: 0,0:27:52.42,0:27:56.21,chs&eng,,0000,0000,0000,,大意加愚蠢 再加一项赔不是\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Careless and stupid, and now you're sorry, too.{\r}
+Dialogue: 0,0:27:56.75,0:27:59.17,chs&eng,,0000,0000,0000,,他说他是一个人\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}He said he was alone.{\r}
+Dialogue: 0,0:27:59.26,0:28:01.26,chs&eng,,0000,0000,0000,,我不知他有家属 真的!\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}I didn't know he had any relatives, honest.{\r}
+Dialogue: 0,0:28:01.34,0:28:02.59,chs&eng,,0000,0000,0000,,你犯了错\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}You made a mistake?{\r}
+Dialogue: 0,0:28:03.26,0:28:05.10,chs&eng,,0000,0000,0000,,是不是这个意思?\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Is that what you're saying? Yeah.{\r}
+Dialogue: 0,0:28:05.43,0:28:08.14,chs&eng,,0000,0000,0000,,你要弥补过失\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And I see you're anxious to make up for it, aren't you?{\r}
+Dialogue: 0,0:28:08.22,0:28:09.85,chs&eng,,0000,0000,0000,,是的 是 先生\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Right. Yes, sir.{\r}
+Dialogue: 0,0:28:10.44,0:28:14.44,chs&eng,,0000,0000,0000,,我们有新客户 他要挑选一个新"玩伴"\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We've got another client and he's about to select a new playmate.{\r}
+Dialogue: 0,0:28:18.86,0:28:21.65,chs&eng,,0000,0000,0000,,下一次派我们所要的人来\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Next time, send us the one we ask for.{\r}
+Dialogue: 0,0:28:22.53,0:28:25.28,chs&eng,,0000,0000,0000,,一定会 福寿先生 我发誓\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}I will, Mr. Fouchon, I swear.{\r}
+Dialogue: 0,0:28:28.04,0:28:30.75,chs&eng,,0000,0000,0000,,我们彼此都了解了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}I think we understand each other.{\r}
+Dialogue: 0,0:28:31.33,0:28:33.54,chs&eng,,0000,0000,0000,,是吗? 不是?\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Yes? No? Yes.{\r}
+Dialogue: 0,0:28:33.63,0:28:35.04,chs&eng,,0000,0000,0000,,是\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Yeah.{\r}
+Dialogue: 0,0:28:35.13,0:28:36.13,chs&eng,,0000,0000,0000,,伦多\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Randal.{\r}
+Dialogue: 0,0:28:36.96,0:28:38.71,chs&eng,,0000,0000,0000,,如果我再来\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}I come back here,{\r}
+Dialogue: 0,0:28:39.67,0:28:41.63,chs&eng,,0000,0000,0000,,就要切"猪排"了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}I cut me a steak.{\r}
+Dialogue: 0,0:28:47.14,0:28:48.85,chs&eng,,0000,0000,0000,,你已尽人事了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}You did your best.{\r}
+Dialogue: 0,0:28:48.93,0:28:50.93,chs&eng,,0000,0000,0000,,没有 我来晚了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}No, I came too late.{\r}
+Dialogue: 0,0:28:51.68,0:28:55.27,chs&eng,,0000,0000,0000,,天啊 他全部家当是一车两推车\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}I mean, Jesus, he was living out of a shopping cart.{\r}
+Dialogue: 0,0:28:57.19,0:29:00.44,chs&eng,,0000,0000,0000,,可恶 他怎么不告诉我呢?\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}God damn it. Why didn't he just tell me?{\r}
+Dialogue: 0,0:29:01.40,0:29:03.74,chs&eng,,0000,0000,0000,,怎么不向我求助呢?\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Why didn't he ask for my help?{\r}
+Dialogue: 0,0:29:04.99,0:29:07.91,chs&eng,,0000,0000,0000,,我也曾流落街头\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}I've been there myself on the street.{\r}
+Dialogue: 0,0:29:07.99,0:29:09.49,chs&eng,,0000,0000,0000,,很难开口\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's hard.{\r}
+Dialogue: 0,0:29:10.66,0:29:13.29,chs&eng,,0000,0000,0000,,很难伸手乞讨\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's hard to put your hand out.{\r}
+Dialogue: 0,0:29:15.29,0:29:17.96,chs&eng,,0000,0000,0000,,我在想 如果我能\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}I just kept thinking if I could{\r}
+Dialogue: 0,0:29:20.38,0:29:22.84,chs&eng,,0000,0000,0000,,对他说我爱他该多好\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}just tell him that I loved him.{\r}
+Dialogue: 0,0:29:25.13,0:29:27.72,chs&eng,,0000,0000,0000,,因为他太爱你了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And because he loved you so much,{\r}
+Dialogue: 0,0:29:28.68,0:29:31.27,chs&eng,,0000,0000,0000,,所以不想拖累你\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}he didn't want to pull you into it.{\r}
+Dialogue: 0,0:29:37.52,0:29:39.77,chs&eng,,0000,0000,0000,,我们的"朋友"包意外\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Our friend, Mr. Boudreaux.{\r}
+Dialogue: 0,0:29:41.53,0:29:43.03,chs&eng,,0000,0000,0000,,得过银星勋章\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Silver Star.{\r}
+Dialogue: 0,0:29:43.86,0:29:45.45,chs&eng,,0000,0000,0000,,陆战队侦骑营\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Marine Force Recon.{\r}
+Dialogue: 0,0:29:45.53,0:29:48.24,chs&eng,,0000,0000,0000,,退伍以后到商船上做事\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}He joined the Merchant Service after he got out.{\r}
+Dialogue: 0,0:29:48.32,0:29:50.45,chs&eng,,0000,0000,0000,,他的船长走私鸦片烟\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}His captain was smuggling opium.{\r}
+Dialogue: 0,0:29:50.54,0:29:54.37,chs&eng,,0000,0000,0000,,包意外发觉之后 把他丢下海\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}When Boudreaux found out, he threw the man overboard.{\r}
+Dialogue: 0,0:29:54.46,0:29:56.75,chs&eng,,0000,0000,0000,,从此以后他就失业了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}He's been looking for work ever since.{\r}
+Dialogue: 0,0:29:57.54,0:30:00.63,chs&eng,,0000,0000,0000,,他显然不好惹 别小看了他\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}He's obviously not someone we should underestimate.{\r}
+Dialogue: 0,0:30:00.71,0:30:04.17,chs&eng,,0000,0000,0000,,他在海湾沼泽被伯父养大\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}He was raised in the bayous by his uncle.{\r}
+Dialogue: 0,0:30:04.26,0:30:08.55,chs&eng,,0000,0000,0000,,我认为他会是个来劲的猎物\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}I think Mr. Boudreaux would make a very interesting quarry.{\r}
+Dialogue: 0,0:30:07.84,0:30:08.83,Pure Chinese,,0000,0000,0000,,"法医验尸报告"
+Dialogue: 0,0:30:10.56,0:30:13.06,chs&eng,,0000,0000,0000,,也许我应该拜访他好吗?\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Maybe I should pay him a visit.{\r}
+Dialogue: 0,0:30:13.77,0:30:15.23,chs&eng,,0000,0000,0000,,不要! 不要!\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}No, no, no, no.{\r}
+Dialogue: 0,0:30:15.60,0:30:19.27,chs&eng,,0000,0000,0000,,派两个弟兄去找他"聊聊"\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Send a couple of lads down there to have a chat with him, would you?{\r}
+Dialogue: 0,0:30:19.90,0:30:20.90,chs&eng,,0000,0000,0000,,好\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Yeah.{\r}
+Dialogue: 0,0:31:16.54,0:31:19.57,Pure Chinese,,0000,0000,0000,,"警方查封 不可越线"
+Dialogue: 0,0:31:59.66,0:32:01.33,chs&eng,,0000,0000,0000,,中奖了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Bingo.{\r}
+Dialogue: 0,0:32:34.12,0:32:37.79,chs&eng,,0000,0000,0000,,包意外 好言相劝  滚出道奇市!\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Some friendly advice, Boudreaux. Get the fuck outta Dodge!{\r}
+Dialogue: 0,0:32:37.87,0:32:40.91,chs&eng,,0000,0000,0000,,今天滚! 转告你的贱女人\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Do it today! And tell that bitch girlfriend of yours{\r}
+Dialogue: 0,0:32:41.00,0:32:44.04,chs&eng,,0000,0000,0000,,叫她朝北方踩油门跑路!\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to point her titties north and step on the gas!{\r}
+Dialogue: 0,0:32:51.80,0:32:53.89,chs&eng,,0000,0000,0000,,见到你总教人开心\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's always nice to see you.{\r}
+Dialogue: 0,0:32:54.14,0:32:58.51,chs&eng,,0000,0000,0000,,在吸引暴力这方面 你真有天分\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}You seem to have a real talent, Mr. Boudreaux, for attracting violence.{\r}
+Dialogue: 0,0:32:58.72,0:33:01.18,chs&eng,,0000,0000,0000,,这表示我是坏人吗?\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Does that make me a bad person?{\r}
+Dialogue: 0,0:33:02.77,0:33:05.94,chs&eng,,0000,0000,0000,,我因何被捕? 因为没有挨打的执照吗?\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}What did you arrest me for? Getting beat up without a license?{\r}
+Dialogue: 0,0:33:06.56,0:33:08.52,chs&eng,,0000,0000,0000,,谢谢你通知我\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Thank you for calling me.{\r}
+Dialogue: 0,0:33:08.98,0:33:10.99,chs&eng,,0000,0000,0000,,天啊 你好狼狈\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Oh, my God, you look awful.{\r}
+Dialogue: 0,0:33:11.36,0:33:13.74,chs&eng,,0000,0000,0000,,你的话伤我的心\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Darling, you hurt my feelings.{\r}
+Dialogue: 0,0:33:13.82,0:33:16.24,chs&eng,,0000,0000,0000,,这就是罪名\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}What we have here is a charge sheet.{\r}
+Dialogue: 0,0:33:16.32,0:33:19.83,chs&eng,,0000,0000,0000,,越过查封线 擅闯禁区\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Willfully crossing a police barrier, that's considered criminal trespass.{\r}
+Dialogue: 0,0:33:19.91,0:33:22.75,chs&eng,,0000,0000,0000,,这位警官好心提醒 我的罪状\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Yes, that officer was nice enough to mention that to me.{\r}
+Dialogue: 0,0:33:22.83,0:33:24.29,chs&eng,,0000,0000,0000,,你来干什么?\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}What were you doing at the house?{\r}
+Dialogue: 0,0:33:24.37,0:33:26.25,chs&eng,,0000,0000,0000,,你在火场找到的名牌\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The dog tag you find in that fire?{\r}
+Dialogue: 0,0:33:27.59,0:33:29.46,chs&eng,,0000,0000,0000,,那都是两块一组\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}They always come in twos.{\r}
+Dialogue: 0,0:33:30.05,0:33:33.47,chs&eng,,0000,0000,0000,,所以我到火场去找另一块\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So I went back to that place to look for the other one.{\r}
+Dialogue: 0,0:33:35.13,0:33:37.93,chs&eng,,0000,0000,0000,,你爸爸不是死于火灾\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Your daddy, he didn't die in the fire.{\r}
+Dialogue: 0,0:33:39.76,0:33:41.02,chs&eng,,0000,0000,0000,,他是被谋杀\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}He was murdered.{\r}
+Dialogue: 0,0:33:41.10,0:33:42.48,chs&eng,,0000,0000,0000,,没有他杀的证据\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}There's no evidence of that.{\r}
+Dialogue: 0,0:33:42.56,0:33:44.31,chs&eng,,0000,0000,0000,,现在有了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}There is now.{\r}
+Dialogue: 0,0:33:47.19,0:33:51.03,chs&eng,,0000,0000,0000,,名牌是被尖锐的硬物穿透的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That hole in that tag was made by something sharp and hard.{\r}
+Dialogue: 0,0:33:51.36,0:33:56.45,chs&eng,,0000,0000,0000,,我愿意拿房租打赌 是戴在他身上被穿透的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And I'll bet my rent money it was made when Binder was still wearing it.{\r}
+Dialogue: 0,0:33:56.74,0:34:00.49,chs&eng,,0000,0000,0000,,何必大费手脚杀一个流浪汉\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Now, why would somebody go through all this trouble to kill a homeless man?{\r}
+Dialogue: 0,0:34:00.58,0:34:01.95,chs&eng,,0000,0000,0000,,你相信了吗?\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Do you believe us now?{\r}
+Dialogue: 0,0:34:02.04,0:34:04.50,chs&eng,,0000,0000,0000,,这里办案的速度慢\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Look, honey, the wheels turn slow around here.{\r}
+Dialogue: 0,0:34:04.58,0:34:07.12,chs&eng,,0000,0000,0000,,非常慢 虽慢还是要办\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Real slow. But they do turn.{\r}
+Dialogue: 0,0:34:10.96,0:34:13.80,chs&eng,,0000,0000,0000,,我要下令重新验尸 有助于查案\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}I'll order a new autopsy. This'll help.{\r}
+Dialogue: 0,0:34:23.27,0:34:25.23,chs&eng,,0000,0000,0000,,你应该看医生\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}You should see a doctor.{\r}
+Dialogue: 0,0:34:25.31,0:34:26.69,chs&eng,,0000,0000,0000,,我憎恨医生\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}I hate them doctors.{\r}
+Dialogue: 0,0:35:00.80,0:35:02.05,chs&eng,,0000,0000,0000,,可恶!\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Shit!{\r}
+Dialogue: 0,0:35:05.02,0:35:06.18,chs&eng,,0000,0000,0000,,什么事?\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}What?{\r}
+Dialogue: 0,0:35:07.23,0:35:08.56,chs&eng,,0000,0000,0000,,现在没空\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}No time now.{\r}
+Dialogue: 0,0:35:18.03,0:35:20.07,chs&eng,,0000,0000,0000,,你打过越战?\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So, you in Nam?{\r}
+Dialogue: 0,0:35:20.95,0:35:22.83,chs&eng,,0000,0000,0000,,是呀 很久的事了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Yeah, a long time ago.{\r}
+Dialogue: 0,0:35:22.91,0:35:25.29,chs&eng,,0000,0000,0000,,凭你的经历\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It seems to me a man with your obvious experience{\r}
+Dialogue: 0,0:35:25.37,0:35:27.12,chs&eng,,0000,0000,0000,,应该赚到很多钱\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}should be pulling down a lot more money.{\r}
+Dialogue: 0,0:35:30.42,0:35:33.67,chs&eng,,0000,0000,0000,,只填一张表 就付我一百元吗?\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}You're gonna pay me 100 bucks to fill out a form?{\r}
+Dialogue: 0,0:35:33.75,0:35:36.71,chs&eng,,0000,0000,0000,,如果你有经验我付得更多\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}I'll pay you a lot more than that if you got the experience.{\r}
+Dialogue: 0,0:35:41.05,0:35:43.60,chs&eng,,0000,0000,0000,,什么样的经验\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}What kind of experience?{\r}
+Dialogue: 0,0:35:44.01,0:35:45.81,chs&eng,,0000,0000,0000,,不感兴趣吗?\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Well, maybe you ain't interested.{\r}
+Dialogue: 0,0:35:49.23,0:35:50.98,chs&eng,,0000,0000,0000,,我来填表\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}I'll fill out the application.{\r}
+Dialogue: 0,0:35:51.06,0:35:53.81,chs&eng,,0000,0000,0000,,你有家属吗?\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}You got any family? Anybody to worry about you?{\r}
+Dialogue: 0,0:35:53.90,0:35:55.82,chs&eng,,0000,0000,0000,,有人记挂着你吗? 亲友?\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Fiends? Anything like that?{\r}
+Dialogue: 0,0:35:56.19,0:35:57.90,chs&eng,,0000,0000,0000,,我举目无亲\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}No, I got nobody.{\r}
+Dialogue: 0,0:36:16.50,0:36:21.43,chs&eng,,0000,0000,0000,,你存五十万元到 我们在开曼群岛的银行户头\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}You'll deposit $500,000 in our account in a bank in the Cayman Islands.{\r}
+Dialogue: 0,0:36:21.76,0:36:27.18,chs&eng,,0000,0000,0000,,不可在传真或电话中提到 我们的约定\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Do not refer to our agreement by telex or in conversations on the phone.{\r}
+Dialogue: 0,0:36:28.93,0:36:31.77,chs&eng,,0000,0000,0000,,有向导和追踪高手供你差遣\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}You'll be provided with a guide, trackers{\r}
+Dialogue: 0,0:36:31.85,0:36:34.19,chs&eng,,0000,0000,0000,,任你选用称手的武器\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and the weapon of your choice.{\r}
+Dialogue: 0,0:36:34.52,0:36:36.90,chs&eng,,0000,0000,0000,,我们负责处理尸首\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Naturally, we'll dispose of the body{\r}
+Dialogue: 0,0:36:36.98,0:36:40.82,chs&eng,,0000,0000,0000,,包你安然离开 并提供你不在场的铁证\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and provide you with an out-of-town, air-tight alibi.{\r}
+Dialogue: 0,0:36:41.53,0:36:45.41,chs&eng,,0000,0000,0000,,席南先生 你只消做瞄准射击\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Don't worry, Mr. Zenan, all you have to do is point and shoot.{\r}
+Dialogue: 0,0:36:53.92,0:36:56.79,chs&eng,,0000,0000,0000,,席南先生己经选好目标\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Mr. Zenan has made his selection.{\r}
+Dialogue: 0,0:36:57.21,0:37:00.80,chs&eng,,0000,0000,0000,,姓罗培的黑人 由特种部队下来的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}A black man named Roper. Used to be in Special Forces.{\r}
+Dialogue: 0,0:37:01.26,0:37:02.80,chs&eng,,0000,0000,0000,,好极了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Excellent.{\r}
+Dialogue: 0,0:37:03.34,0:37:05.80,chs&eng,,0000,0000,0000,,我看你的选择没问题\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}I don't see any problem with your choice.{\r}
+Dialogue: 0,0:37:06.51,0:37:09.81,chs&eng,,0000,0000,0000,,少数猎杀多数 这本来就是特权\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It has always been the privilege of the few to hunt the many.{\r}
+Dialogue: 0,0:37:10.73,0:37:14.15,chs&eng,,0000,0000,0000,,军人  警察  飞行员\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Soldiers, policemen, fighter pilots.{\r}
+Dialogue: 0,0:37:15.02,0:37:17.94,chs&eng,,0000,0000,0000,,帮政府杀人不犯法\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Men who kill for the government do so with impunity.{\r}
+Dialogue: 0,0:37:18.02,0:37:19.90,chs&eng,,0000,0000,0000,,我们给你这小老百姓\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Now all we do is offer the same opportunity{\r}
+Dialogue: 0,0:37:19.98,0:37:22.45,chs&eng,,0000,0000,0000,,同样的生杀大权\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}for private citizens such as yourself.{\r}
+Dialogue: 0,0:37:22.53,0:37:25.41,chs&eng,,0000,0000,0000,,这些游戏对手都是自愿的吗?\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}These opponents, they're volunteers?{\r}
+Dialogue: 0,0:37:25.49,0:37:26.49,chs&eng,,0000,0000,0000,,差不多\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}More or less.{\r}
+Dialogue: 0,0:37:26.74,0:37:29.91,chs&eng,,0000,0000,0000,,政府的杀人专利\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The same government that's made murder their sole preserve,{\r}
+Dialogue: 0,0:37:29.99,0:37:31.29,chs&eng,,0000,0000,0000,,训练出我们要的目标\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}they train our targets.{\r}
+Dialogue: 0,0:37:31.37,0:37:34.62,chs&eng,,0000,0000,0000,,我们只猎杀退伍军人\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We pride ourselves on only hunting combat veterans,{\r}
+Dialogue: 0,0:37:35.12,0:37:37.13,chs&eng,,0000,0000,0000,,受过训练的战士\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}men who have the necessary skills{\r}
+Dialogue: 0,0:37:37.21,0:37:40.92,chs&eng,,0000,0000,0000,,猎杀起来更刺激 万一被警方查获怎么办?\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to make our hunts more interesting. What about the police?{\r}
+Dialogue: 0,0:37:41.01,0:37:43.80,chs&eng,,0000,0000,0000,,我确信如果找到了 一定很刺激\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}I'm sure that they would be interested if they were to find out.{\r}
+Dialogue: 0,0:37:43.88,0:37:48.76,chs&eng,,0000,0000,0000,,这位莫顿医师 在验尸报告上为我们护航\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Dr. Morton here assists us with the formality of police autopsies.{\r}
+Dialogue: 0,0:37:48.93,0:37:51.60,chs&eng,,0000,0000,0000,,我们来纽奥良并非碰巧\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's no accident that we're in New Orleans.{\r}
+Dialogue: 0,0:37:52.10,0:37:55.60,chs&eng,,0000,0000,0000,,去年我们在巴西里约猎杀\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Last year we conducted hunts in Rio de Janeiro at Carnival,{\r}
+Dialogue: 0,0:37:55.69,0:37:58.98,chs&eng,,0000,0000,0000,,最近在南斯拉夫也办过 是呀\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Yugoslavia during the late unpleasantness. Oh, yeah.{\r}
+Dialogue: 0,0:38:00.23,0:38:03.53,chs&eng,,0000,0000,0000,,地球上总是有动乱的角落\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}You see, there's always some unhappy little corner of the planet{\r}
+Dialogue: 0,0:38:04.36,0:38:06.82,chs&eng,,0000,0000,0000,,让我们做这种生意\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}where we can ply our trade.{\r}
+Dialogue: 0,0:38:07.20,0:38:09.16,chs&eng,,0000,0000,0000,,好 福寿先生\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}All right, Mr. Fouchon.{\r}
+Dialogue: 0,0:38:11.04,0:38:12.33,chs&eng,,0000,0000,0000,,我光顾你的生意\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}You have a client.{\r}
+Dialogue: 0,0:38:14.62,0:38:16.83,chs&eng,,0000,0000,0000,,席南先生 谢谢光临\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Well, thank you for visiting, Mr. Zenan.{\r}
+Dialogue: 0,0:38:17.54,0:38:19.96,chs&eng,,0000,0000,0000,,莫医师会送你出去\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Dr. Morton will show you to the oar.{\r}
+Dialogue: 0,0:38:20.04,0:38:22.84,chs&eng,,0000,0000,0000,,我的银行会拨款\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}My bank will arrange the transfer of funds within the hour.{\r}
+Dialogue: 0,0:38:22.92,0:38:23.92,chs&eng,,0000,0000,0000,,好极了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Excellent.{\r}
+Dialogue: 0,0:38:24.01,0:38:24.97,chs&eng,,0000,0000,0000,,几时行动?\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}When do we go out?{\r}
+Dialogue: 0,0:38:25.05,0:38:29.05,chs&eng,,0000,0000,0000,,安排好了我们会通知你\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We'll contact you when the necessary arrangements have been made.{\r}
+Dialogue: 0,0:38:30.89,0:38:33.72,Pure Chinese,,0000,0000,0000,,"全身按摩服务"
+Dialogue: 0,0:38:33.89,0:38:36.88,Pure Chinese,,0000,0000,0000,,"阿拉伯脚踩式妙爽按摩"
+Dialogue: 0,0:38:37.90,0:38:40.27,chs&eng,,0000,0000,0000,,意外 你来干什么?\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Chance. What you doing here?{\r}
+Dialogue: 0,0:38:40.90,0:38:42.23,chs&eng,,0000,0000,0000,,有秘密任务\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Secret mission.{\r}
+Dialogue: 0,0:38:44.03,0:38:46.07,chs&eng,,0000,0000,0000,,宝贝 揉我\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Rub me, baby. Come on.{\r}
+Dialogue: 0,0:39:05.38,0:39:07.13,chs&eng,,0000,0000,0000,,好呀 宝贝\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Oh, yeah, baby.{\r}
+Dialogue: 0,0:39:08.76,0:39:10.01,chs&eng,,0000,0000,0000,,老卜 你好\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Hello, Poe.{\r}
+Dialogue: 0,0:39:10.09,0:39:11.18,chs&eng,,0000,0000,0000,,搞什么鬼?\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}What the fuck?{\r}
+Dialogue: 0,0:39:13.39,0:39:16.35,chs&eng,,0000,0000,0000,,想念我吗? 天啊 不要再整我了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}You miss me? Christ, not again.{\r}
+Dialogue: 0,0:39:16.43,0:39:21.11,chs&eng,,0000,0000,0000,,你少了一只耳朵 所以最好是听仔细\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Looks like you're short an ear, so you better listen very carefully.{\r}
+Dialogue: 0,0:39:21.56,0:39:24.15,chs&eng,,0000,0000,0000,,你有没有专心听?\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Now, are you paying attention?{\r}
+Dialogue: 0,0:39:25.94,0:39:28.20,chs&eng,,0000,0000,0000,,是谁派爪牙偷袭我?\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Who sent those apes after me?{\r}
+Dialogue: 0,0:39:28.28,0:39:30.20,chs&eng,,0000,0000,0000,,我不懂你的话\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}I don't know what you're talking about.{\r}
+Dialogue: 0,0:39:31.78,0:39:34.12,chs&eng,,0000,0000,0000,,本市有两百万人\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Two million people in this city.{\r}
+Dialogue: 0,0:39:34.58,0:39:38.37,chs&eng,,0000,0000,0000,,少了个卜胖子谁会在乎? 万克立!\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Who's gonna miss a fat slob like you, Poe? Van Cleef!{\r}
+Dialogue: 0,0:39:38.46,0:39:40.17,chs&eng,,0000,0000,0000,,他叫万克立\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}His name was Van Cleef.{\r}
+Dialogue: 0,0:39:40.25,0:39:42.21,chs&eng,,0000,0000,0000,,乖孩子 他在哪里?\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Good boy. Where is he?{\r}
+Dialogue: 0,0:39:42.29,0:39:45.80,chs&eng,,0000,0000,0000,,我不知他住在哪! 他不是美国人!\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}I don't know where he lives! He ain't even American!{\r}
+Dialogue: 0,0:39:45.96,0:39:48.30,chs&eng,,0000,0000,0000,,我若不听话他会杀我 真的!\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Look, he'll kill me if I don't do what he says!{\r}
+Dialogue: 0,0:39:51.26,0:39:53.72,chs&eng,,0000,0000,0000,,去告诉你的男朋友万克立\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Tell your boyfriend, Van Cleaf,{\r}
+Dialogue: 0,0:39:53.80,0:39:56.81,chs&eng,,0000,0000,0000,,我会找到杀班德的人\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}I'm gonna find out who killed Douglas Binder.{\r}
+Dialogue: 0,0:39:58.06,0:40:00.81,chs&eng,,0000,0000,0000,,你要是听懂了就哼一声\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}If you understand me, just grunt.{\r}
+Dialogue: 0,0:40:02.86,0:40:04.19,chs&eng,,0000,0000,0000,,再哼一声\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Again.{\r}
+Dialogue: 0,0:40:18.00,0:40:20.08,chs&eng,,0000,0000,0000,,你收到我的便条没有?\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Did you get my memo?{\r}
+Dialogue: 0,0:40:21.87,0:40:24.08,chs&eng,,0000,0000,0000,,道格·班德\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Binder, Douglas C.{\r}
+Dialogue: 0,0:40:24.75,0:40:27.76,chs&eng,,0000,0000,0000,,我要你重新验尸\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}I want you to take another look at the post-mortem.{\r}
+Dialogue: 0,0:40:30.13,0:40:35.39,chs&eng,,0000,0000,0000,,这张便条所列的罪证 会使班德成为他杀\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That memo contains evidence that might make Binder's death a homicide.{\r}
+Dialogue: 0,0:40:36.47,0:40:39.85,chs&eng,,0000,0000,0000,,你可以重验也可以不理\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Now, you can act on it, Doctor, or you can file it,{\r}
+Dialogue: 0,0:40:40.52,0:40:44.02,chs&eng,,0000,0000,0000,,若有必要由法院下传票提验\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but if I have to get a court order for a formal inquest,{\r}
+Dialogue: 0,0:40:44.10,0:40:45.61,chs&eng,,0000,0000,0000,,我会申请\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}I will.{\r}
+Dialogue: 0,0:41:00.79,0:41:03.54,chs&eng,,0000,0000,0000,,你应该看看咳嗽的毛病\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}You should do something about that cough.{\r}
+Dialogue: 0,0:41:04.88,0:41:06.92,chs&eng,,0000,0000,0000,,你从来不敲门吗?\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Don't you ever knock?{\r}
+Dialogue: 0,0:41:16.22,0:41:19.10,chs&eng,,0000,0000,0000,,我们有麻烦了 大麻烦\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We have a problem. A big problem.{\r}
+Dialogue: 0,0:41:19.93,0:41:22.89,chs&eng,,0000,0000,0000,,他们要我为班德重新验尸\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}They want me to redo the autopsy on Binder.{\r}
+Dialogue: 0,0:41:26.86,0:41:28.52,chs&eng,,0000,0000,0000,,是谁要求的?\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Who is it that's asking?{\r}
+Dialogue: 0,0:41:28.61,0:41:30.53,chs&eng,,0000,0000,0000,,姓米契的警探\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}A detective named Mitchell.{\r}
+Dialogue: 0,0:41:30.90,0:41:34.03,chs&eng,,0000,0000,0000,,班德的家属逼她重验\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Binder's family's breathing down her neck.{\r}
+Dialogue: 0,0:41:34.41,0:41:36.70,chs&eng,,0000,0000,0000,,可以收买她吗? 不能\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Can we buy her? No.{\r}
+Dialogue: 0,0:41:44.08,0:41:46.96,chs&eng,,0000,0000,0000,,我想我们已经不受欢迎了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}I guess we've overstayed our welcome.{\r}
+Dialogue: 0,0:41:50.84,0:41:53.51,chs&eng,,0000,0000,0000,,今夜是在纽奥良的最后猎杀\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Tonight is our last hunt in New Orleans.{\r}
+Dialogue: 0,0:42:00.85,0:42:02.22,chs&eng,,0000,0000,0000,,开门\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Open it.{\r}
+Dialogue: 0,0:42:34.42,0:42:36.51,chs&eng,,0000,0000,0000,,好滑稽的小人\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}What a funny little man.{\r}
+Dialogue: 0,0:42:36.88,0:42:40.30,chs&eng,,0000,0000,0000,,我们得换风景了 去温带地方\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}A change of scenery's what we need. Something less tropical.{\r}
+Dialogue: 0,0:42:41.60,0:42:43.60,chs&eng,,0000,0000,0000,,有丘陆重叠 有城堡\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Rolling hills, castles.{\r}
+Dialogue: 0,0:42:45.48,0:42:48.15,chs&eng,,0000,0000,0000,,东欧 可以"玩"好几年\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Eastern Europe. We can work there for years.{\r}
+Dialogue: 0,0:43:25.97,0:43:27.10,chs&eng,,0000,0000,0000,,老卜呢?\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Where's Poe?{\r}
+Dialogue: 0,0:43:27.18,0:43:28.85,chs&eng,,0000,0000,0000,,卜先生不能来\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Mr. Poe couldn't make it.{\r}
+Dialogue: 0,0:43:29.35,0:43:31.02,chs&eng,,0000,0000,0000,,他耳朵发炎了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}He's got an ear infection.{\r}
+Dialogue: 0,0:43:34.53,0:43:37.36,chs&eng,,0000,0000,0000,,他说有事要我做\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Look, he said he'd have some work for me.{\r}
+Dialogue: 0,0:43:38.07,0:43:41.12,chs&eng,,0000,0000,0000,,这个仍有可能\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That may still be a possibility.{\r}
+Dialogue: 0,0:43:41.20,0:43:44.45,chs&eng,,0000,0000,0000,,我们想请你玩一场游戏\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We got a little game we'd like you to play with us.{\r}
+Dialogue: 0,0:43:47.79,0:43:51.83,chs&eng,,0000,0000,0000,,这条藏钱腰带里面有一万元\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}This money belt has $10,000 in it.{\r}
+Dialogue: 0,0:43:52.54,0:43:55.59,chs&eng,,0000,0000,0000,,你想要就给你 一文不少\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's all yours if you want it, every penny.{\r}
+Dialogue: 0,0:43:57.88,0:43:59.30,chs&eng,,0000,0000,0000,,要我做什么?\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}What do I have to do?{\r}
+Dialogue: 0,0:43:59.38,0:44:01.47,chs&eng,,0000,0000,0000,,规则很简单\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The rules of the game are very simple.{\r}
+Dialogue: 0,0:44:02.14,0:44:05.81,chs&eng,,0000,0000,0000,,只要你跑到河边 穿过市区十里路\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}All you have to do is get to the river. Ten miles through the city.{\r}
+Dialogue: 0,0:44:06.18,0:44:10.73,chs&eng,,0000,0000,0000,,你能到河边 你就有一万元了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}You and the money belt make it to the river, you're $10,000 richer.{\r}
+Dialogue: 0,0:44:11.40,0:44:13.06,chs&eng,,0000,0000,0000,,放狗屁\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Bullshit.{\r}
+Dialogue: 0,0:44:13.77,0:44:16.15,chs&eng,,0000,0000,0000,,你想做受施舍的可怜虫吗\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Maybe you like being the object of pity,{\r}
+Dialogue: 0,0:44:16.23,0:44:19.15,chs&eng,,0000,0000,0000,,沿街乞讨 睡在雨中\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}begging for quarters, sleeping in the rain,{\r}
+Dialogue: 0,0:44:19.32,0:44:23.66,chs&eng,,0000,0000,0000,,为了一碗汤听一小时的传道\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}listening to half an hour of fire and brimstone for a bowl of soup.{\r}
+Dialogue: 0,0:44:23.74,0:44:25.33,chs&eng,,0000,0000,0000,,去你的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Man, fuck you.{\r}
+Dialogue: 0,0:44:25.41,0:44:27.49,chs&eng,,0000,0000,0000,,今夜你就能改变一切\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}You could change everything tonight.{\r}
+Dialogue: 0,0:44:27.58,0:44:30.37,chs&eng,,0000,0000,0000,,试想一万元能买多少东西\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Think of what $10,000 could buy you.{\r}
+Dialogue: 0,0:44:31.46,0:44:34.59,chs&eng,,0000,0000,0000,,可以买新衣 整理仪容\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}You could get new clothes, clean yourself up,{\r}
+Dialogue: 0,0:44:34.67,0:44:37.67,chs&eng,,0000,0000,0000,,也敢正眼看人了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}look men in the eyes when you pass them on the street.{\r}
+Dialogue: 0,0:44:38.21,0:44:43.97,chs&eng,,0000,0000,0000,,这笔钱能使你再当大丈夫 而不是只能回忆当年之勇\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}This money could make you a man again, instead of the shadow of your former self.{\r}
+Dialogue: 0,0:44:50.27,0:44:52.23,chs&eng,,0000,0000,0000,,我跑到河边就得到这笔钱\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}I get to the river, I get the cash.{\r}
+Dialogue: 0,0:44:52.31,0:44:53.52,chs&eng,,0000,0000,0000,,一文不少\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Every nickel.{\r}
+Dialogue: 0,0:44:56.27,0:44:57.40,chs&eng,,0000,0000,0000,,假如到不了呢?\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And if I don't make it?{\r}
+Dialogue: 0,0:44:57.48,0:44:59.78,chs&eng,,0000,0000,0000,,罗培 你懂体育规则\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}You're a sports fan, Roper.{\r}
+Dialogue: 0,0:45:01.11,0:45:02.74,chs&eng,,0000,0000,0000,,自己推想吧\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Figure it out.{\r}
+Dialogue: 0,0:45:14.04,0:45:17.34,chs&eng,,0000,0000,0000,,让你先跑五分钟 不要耽误\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}You've got a five minute head start. Don't waste it.{\r}
+Dialogue: 0,0:45:41.53,0:45:45.03,chs&eng,,0000,0000,0000,,这是纽奥良 席南先生 不是贝鲁特\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}This is New Orleans, Mr. Zenan, not Beirut.{\r}
+Dialogue: 0,0:46:24.65,0:46:26.24,chs&eng,,0000,0000,0000,,先生 你先\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}After you, sir.{\r}
+Dialogue: 0,0:46:29.53,0:46:31.87,chs&eng,,0000,0000,0000,,席南先生 开枪机保险\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Mr. Zenan, take it off "safe."{\r}
+Dialogue: 0,0:47:34.22,0:47:35.68,chs&eng,,0000,0000,0000,,把他了结\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Finish him.{\r}
+Dialogue: 0,0:47:35.85,0:47:38.23,chs&eng,,0000,0000,0000,,我不要动手  他受伤了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}I don't want him. He's wounded.{\r}
+Dialogue: 0,0:47:39.81,0:47:42.19,chs&eng,,0000,0000,0000,,干掉他  不要 打中就好了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Finish him. I can't do that. I hit him.{\r}
+Dialogue: 0,0:47:42.27,0:47:43.65,chs&eng,,0000,0000,0000,,我打中他了 走!\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}I shot him. Let go. Hey!{\r}
+Dialogue: 0,0:47:43.73,0:47:46.57,chs&eng,,0000,0000,0000,,不要让我在猎犬面前丢脸\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Listen, don't make me look bad in front of my dogs.{\r}
+Dialogue: 0,0:47:47.19,0:47:48.90,chs&eng,,0000,0000,0000,,你自知为何而来\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}You know why you're here?{\r}
+Dialogue: 0,0:47:48.99,0:47:52.91,chs&eng,,0000,0000,0000,,你付五十万元给我们 是想知道自己有没有活力\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}You paid us half a million dollars to find out if you're alive or dead.{\r}
+Dialogue: 0,0:47:53.74,0:47:55.29,chs&eng,,0000,0000,0000,,现在了结他\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Now finish him.{\r}
+Dialogue: 0,0:47:56.83,0:47:58.37,chs&eng,,0000,0000,0000,,干掉他!\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Finish him!{\r}
+Dialogue: 0,0:47:59.12,0:48:01.42,chs&eng,,0000,0000,0000,,天啊 他为何不下手?\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}God, why didn't he go fishing?{\r}
+Dialogue: 0,0:48:40.08,0:48:43.17,chs&eng,,0000,0000,0000,,现在你明白 为何要先付钱了吧\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Now you understand why we insist on payment up front.{\r}
+Dialogue: 0,0:48:50.17,0:48:52.09,chs&eng,,0000,0000,0000,,放狗去追杀他好吗?\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Set the dogs on him, won't you, Pik?{\r}
+Dialogue: 0,0:48:52.68,0:48:54.34,chs&eng,,0000,0000,0000,,我不要整夜追赶\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}I don't wanna be out here all night.{\r}
+Dialogue: 0,0:49:00.60,0:49:02.85,chs&eng,,0000,0000,0000,,救我! 求求你!\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Help me! Please!{\r}
+Dialogue: 0,0:49:11.36,0:49:12.65,chs&eng,,0000,0000,0000,,救我!\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Help me!{\r}
+Dialogue: 0,0:49:14.24,0:49:16.74,chs&eng,,0000,0000,0000,,拜托! 救我!\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Please! Help me!{\r}
+Dialogue: 0,0:49:16.87,0:49:18.79,chs&eng,,0000,0000,0000,,走开 去找事做! 求求你!\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Go on, get a job! Please!{\r}
+Dialogue: 0,0:49:18.87,0:49:21.79,chs&eng,,0000,0000,0000,,求求你! 注意点! 该死! 你给我小心点\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Please! Watch it! Damn! Watch yourself.{\r}
+Dialogue: 0,0:49:21.87,0:49:24.21,chs&eng,,0000,0000,0000,,救我  救我!\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Help me. Help me!{\r}
+Dialogue: 0,0:49:27.04,0:49:29.62,chs&eng,,0000,0000,0000,,求求你 救命\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Help me. Please.{\r}
+Dialogue: 0,0:49:35.59,0:49:37.39,chs&eng,,0000,0000,0000,,救我呀 兄弟! 救我!\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Hey, look! Come on, man!{\r}
+Dialogue: 0,0:49:38.05,0:49:41.43,chs&eng,,0000,0000,0000,,报警呀 兄弟!\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Hey, just call the police here or something!{\r}
+Dialogue: 0,0:49:41.52,0:49:42.89,chs&eng,,0000,0000,0000,,想办法救我!\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Help me!{\r}
+Dialogue: 0,0:49:45.44,0:49:47.36,chs&eng,,0000,0000,0000,,鲁法 让我进去! 打烊了!\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Come on. Let me in! No, we're closed!{\r}
+Dialogue: 0,0:49:47.44,0:49:49.11,chs&eng,,0000,0000,0000,,让我进去!\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Let me in!{\r}
+Dialogue: 0,0:49:49.40,0:49:51.69,chs&eng,,0000,0000,0000,,伙计! 救我!\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Hey, buddy! Come on!{\r}
+Dialogue: 0,0:49:51.82,0:49:54.49,chs&eng,,0000,0000,0000,,走开  快走开!\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Brother, get out of here. Come on, get out. Help me, man!{\r}
+Dialogue: 0,0:49:54.57,0:49:57.78,chs&eng,,0000,0000,0000,,兄弟! 我没有零钱找!\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Help me! I ain't got no change, man!{\r}
+Dialogue: 0,0:51:39.97,0:51:42.64,chs&eng,,0000,0000,0000,,他曾经帮老卜发传单\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}He was passing out flyers for Randal Poe.{\r}
+Dialogue: 0,0:51:42.72,0:51:44.89,chs&eng,,0000,0000,0000,,我们去拜访他\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Let's pay him a visit.{\r}
+Dialogue: 0,0:52:46.41,0:52:48.66,chs&eng,,0000,0000,0000,,伦多  伦多  伦多\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Randal, Randal, Randal.{\r}
+Dialogue: 0,0:52:50.58,0:52:53.63,chs&eng,,0000,0000,0000,,你要不辞而别吗?\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}You were gonna leave without saying goodbye?{\r}
+Dialogue: 0,0:52:56.09,0:52:58.30,chs&eng,,0000,0000,0000,,我的老母生病了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}My mama got sick in Biloxi.{\r}
+Dialogue: 0,0:53:01.01,0:53:03.09,chs&eng,,0000,0000,0000,,我正要打电话给你\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}I was gonna call you, Mr. Van Cleaf.{\r}
+Dialogue: 0,0:53:03.18,0:53:05.51,chs&eng,,0000,0000,0000,,你当然要 伦多\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Of course you were, Randal.{\r}
+Dialogue: 0,0:53:05.60,0:53:07.56,chs&eng,,0000,0000,0000,,你当然要\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Of course you were.{\r}
+Dialogue: 0,0:53:07.64,0:53:12.69,chs&eng,,0000,0000,0000,,我知道你不是有意伤我的心\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}I know you didn't mean to hurt my feelings.{\r}
+Dialogue: 0,0:54:00.61,0:54:02.90,chs&eng,,0000,0000,0000,,看来我们错过好戏了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Looks like we missed the party.{\r}
+Dialogue: 0,0:54:12.37,0:54:13.79,chs&eng,,0000,0000,0000,,伏身!\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Get down!{\r}
+Dialogue: 0,0:54:40.36,0:54:41.78,chs&eng,,0000,0000,0000,,趴着!\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Stay down!{\r}
+Dialogue: 0,0:55:03.55,0:55:05.30,chs&eng,,0000,0000,0000,,上  上  上!\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Go, go, go!{\r}
+Dialogue: 0,0:56:20.67,0:56:23.17,chs&eng,,0000,0000,0000,,我们走  我们不能丢下她!\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Let's go. We can't just leave her here!{\r}
+Dialogue: 0,0:56:25.21,0:56:27.67,chs&eng,,0000,0000,0000,,把他困住 缠住他\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Keep him in the Quarter. Stay on his ass.{\r}
+Dialogue: 0,0:56:27.84,0:56:29.88,chs&eng,,0000,0000,0000,,她死了 快走\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}She's dead. Come on.{\r}
+Dialogue: 0,0:57:06.54,0:57:08.00,chs&eng,,0000,0000,0000,,掌龙头!\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Grab the bar!{\r}
+Dialogue: 0,0:59:59.18,1:00:00.72,chs&eng,,0000,0000,0000,,女士优先\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Ladies first.{\r}
+Dialogue: 0,1:00:01.18,1:00:02.43,chs&eng,,0000,0000,0000,,什么?\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}What?{\r}
+Dialogue: 0,1:00:31.54,1:00:34.71,chs&eng,,0000,0000,0000,,毕竟是有最后一场猎杀\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It appears we'll have one last hunt after all, Pik.{\r}
+Dialogue: 0,1:01:08.16,1:01:11.58,chs&eng,,0000,0000,0000,,火车过去也许两小时半左右\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The train went by maybe two, two and a half hours ago.{\r}
+Dialogue: 0,1:01:13.08,1:01:16.29,chs&eng,,0000,0000,0000,,到了他的地盘上可能有危险\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}This could be dangerous. We're on his turf now.{\r}
+Dialogue: 0,1:01:16.42,1:01:20.01,chs&eng,,0000,0000,0000,,谢谢你们能临时加入猎杀\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Thank you, gentlemen, for making yourselves available on such snort notice.{\r}
+Dialogue: 0,1:01:20.09,1:01:22.93,chs&eng,,0000,0000,0000,,我们在追一个厉害的猎物\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We are stalking an exceptional opponent.{\r}
+Dialogue: 0,1:01:24.68,1:01:27.14,chs&eng,,0000,0000,0000,,是世界级的高手\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Truly a world-class trophy.{\r}
+Dialogue: 0,1:01:27.39,1:01:30.02,chs&eng,,0000,0000,0000,,这一趟猎杀的价码\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The price for participating in this little excursion{\r}
+Dialogue: 0,1:01:30.10,1:01:32.44,chs&eng,,0000,0000,0000,,是每人七十五万元\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is $750,000 each.{\r}
+Dialogue: 0,1:01:33.02,1:01:34.98,chs&eng,,0000,0000,0000,,你们之中谁摇倒他\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Should one of you be lucky enough to bring him down,{\r}
+Dialogue: 0,1:01:35.06,1:01:37.61,chs&eng,,0000,0000,0000,,谁就享受免费\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}I'll consider that hunter's account paid in full.{\r}
+Dialogue: 0,1:01:41.90,1:01:45.28,chs&eng,,0000,0000,0000,,要提防有鳄鱼吗?\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Shouldn't we be worried about alligators or something?{\r}
+Dialogue: 0,1:01:45.95,1:01:48.83,chs&eng,,0000,0000,0000,,为了使你放心 有鳄鱼\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}If it makes you feel better, yeah.{\r}
+Dialogue: 0,1:01:56.42,1:01:58.04,chs&eng,,0000,0000,0000,,走 不要停\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Come on, keep going.{\r}
+Dialogue: 0,1:01:58.13,1:02:01.13,chs&eng,,0000,0000,0000,,到我大伯家还有很远的路\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's still a long way to Uncle Douvee's place.{\r}
+Dialogue: 0,1:02:01.59,1:02:03.72,chs&eng,,0000,0000,0000,,至少他们找不到我们了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}At least they won't be able to find us out here.{\r}
+Dialogue: 0,1:02:03.80,1:02:07.72,chs&eng,,0000,0000,0000,,如果有大伯那样的追踪好手 就会追上来\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Yes, they will, if they have a tracker as good as Uncle Douvee.{\r}
+Dialogue: 0,1:02:08.05,1:02:11.35,chs&eng,,0000,0000,0000,,只要沿铁路就会追到\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}All they have to do is to check along the rail road.{\r}
+Dialogue: 0,1:02:12.64,1:02:14.56,chs&eng,,0000,0000,0000,,我只有两三个小时\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}I'm just guessing we have a couple of hours.{\r}
+Dialogue: 0,1:02:16.06,1:02:18.15,chs&eng,,0000,0000,0000,,也许更少 走  我们走\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Maybe less. Come on. Let's go.{\r}
+Dialogue: 0,1:02:28.74,1:02:31.45,chs&eng,,0000,0000,0000,,有没有小径什么的?\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Isn't there a trail or something?{\r}
+Dialogue: 0,1:02:31.70,1:02:33.41,chs&eng,,0000,0000,0000,,这就是小径\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}This is the trail.{\r}
+Dialogue: 0,1:02:35.50,1:02:38.17,chs&eng,,0000,0000,0000,,你玩得很起劲是吗?\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}You're really enjoying yourself, aren't you, Chance?{\r}
+Dialogue: 0,1:02:38.25,1:02:41.25,chs&eng,,0000,0000,0000,,我们若是累 他们也会累\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}If it's tough for us, it's tough for them.{\r}
+Dialogue: 0,1:02:46.97,1:02:48.68,chs&eng,,0000,0000,0000,,你信得过我吗?\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}You trust me?{\r}
+Dialogue: 0,1:02:50.47,1:02:52.35,chs&eng,,0000,0000,0000,,当然信得过\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Of course I trust you.{\r}
+Dialogue: 0,1:02:53.68,1:02:55.35,chs&eng,,0000,0000,0000,,闭上眼睛\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Close your eyes.{\r}
+Dialogue: 0,1:02:57.48,1:03:00.82,chs&eng,,0000,0000,0000,,相信你到闭眼睛的程度吗?\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Why do you want me to trust you with my eyes closed?{\r}
+Dialogue: 0,1:03:02.02,1:03:03.57,chs&eng,,0000,0000,0000,,闭上眼睛\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Close your eyes.{\r}
+Dialogue: 0,1:03:37.81,1:03:40.06,chs&eng,,0000,0000,0000,,它死了吗? 没有死\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Is it dead? Not hardly.{\r}
+Dialogue: 0,1:03:45.86,1:03:47.36,chs&eng,,0000,0000,0000,,你在干什么?\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}What are you doing?{\r}
+Dialogue: 0,1:03:47.45,1:03:49.99,chs&eng,,0000,0000,0000,,给我的朋友们一个意外\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}I'm leaving a surprise for my friends.{\r}
+Dialogue: 0,1:04:10.93,1:04:12.80,chs&eng,,0000,0000,0000,,龟儿子!\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Son of a bitch!{\r}
+Dialogue: 0,1:04:38.45,1:04:40.96,chs&eng,,0000,0000,0000,,我要折磨你然后吃掉你!\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}I'll fuck you, then I'll eat you!{\r}
+Dialogue: 0,1:04:43.96,1:04:47.30,chs&eng,,0000,0000,0000,,如果你们安静点动作快点\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}If you would die quieter and pick up the pace,{\r}
+Dialogue: 0,1:04:48.13,1:04:51.05,chs&eng,,0000,0000,0000,,包意外就没时闲安排意外\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Boudreaux would have less time for these little surprises.{\r}
+Dialogue: 0,1:04:51.13,1:04:52.55,chs&eng,,0000,0000,0000,,杰隆!\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Jerome!{\r}
+Dialogue: 0,1:04:53.05,1:04:54.97,chs&eng,,0000,0000,0000,,请你带路\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Would you be so kind?{\r}
+Dialogue: 0,1:04:55.30,1:04:58.68,chs&eng,,0000,0000,0000,,走路当心好吗? 我们走\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And do watch your step, won't you? Let's go.{\r}
+Dialogue: 0,1:05:30.63,1:05:32.84,chs&eng,,0000,0000,0000,,有时候我真佩服自己!\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Sometime I amaze myself, me!{\r}
+Dialogue: 0,1:05:34.68,1:05:37.68,chs&eng,,0000,0000,0000,,好酒能替猴子壮胆打老虎!\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Good whiskey make jack rabbit slap the bear!{\r}
+Dialogue: 0,1:05:57.20,1:05:58.87,chs&eng,,0000,0000,0000,,意外? 是啊!\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Chance? Yeah!{\r}
+Dialogue: 0,1:05:58.95,1:06:00.20,chs&eng,,0000,0000,0000,,意外!\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Chance!{\r}
+Dialogue: 0,1:06:08.04,1:06:10.59,chs&eng,,0000,0000,0000,,你是来看大伯吗?\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}You come to see your Uncle Douvee.{\r}
+Dialogue: 0,1:06:14.47,1:06:16.76,chs&eng,,0000,0000,0000,,娜达莎 我大伯\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Natasha, my Uncle Douvee.{\r}
+Dialogue: 0,1:06:22.77,1:06:26.23,chs&eng,,0000,0000,0000,,我们来洗伤口包扎 不会痛\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We'll fix him up good. Put bandage on it, no hurt.{\r}
+Dialogue: 0,1:06:27.15,1:06:28.73,chs&eng,,0000,0000,0000,,孩子 要坚强!\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Be strong, my boy.{\r}
+Dialogue: 0,1:06:29.86,1:06:31.72,chs&eng,,0000,0000,0000,,有一伙人追杀我\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Douvee, I've got some people after me.{\r}
+Dialogue: 0,1:06:32.07,1:06:33.28,chs&eng,,0000,0000,0000,,我知道\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}I know.{\r}
+Dialogue: 0,1:06:34.74,1:06:36.11,chs&eng,,0000,0000,0000,,我闻到味道了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}I can smell them.{\r}
+Dialogue: 0,1:06:36.20,1:06:39.45,chs&eng,,0000,0000,0000,,我给你的生日礼物 30-06口径在吗?\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}You've still got a . 30-06, the one I gave you for your birthday?{\r}
+Dialogue: 0,1:06:39.62,1:06:41.87,chs&eng,,0000,0000,0000,,不在 被鳄鱼吞掉了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}No. A gator ate it.{\r}
+Dialogue: 0,1:06:43.87,1:06:45.08,chs&eng,,0000,0000,0000,,不过\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But, uh,{\r}
+Dialogue: 0,1:06:47.08,1:06:49.21,chs&eng,,0000,0000,0000,,你的散弹枪还在\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}I've still got your shotgun.{\r}
+Dialogue: 0,1:07:38.72,1:07:41.89,chs&eng,,0000,0000,0000,,告诉我 这些人追杀你\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So tell me, this man what chase after you,{\r}
+Dialogue: 0,1:07:41.97,1:07:44.43,chs&eng,,0000,0000,0000,,是跟你有仇 还是为了好玩?\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}he mad at you for business or pleasure?{\r}
+Dialogue: 0,1:07:44.52,1:07:45.77,chs&eng,,0000,0000,0000,,两者都有\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Both.{\r}
+Dialogue: 0,1:07:48.73,1:07:52.02,chs&eng,,0000,0000,0000,,我骑"爱维娜"到富奇湾\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}I'm going to take Elvira south, then to Bayou La Fouche,{\r}
+Dialogue: 0,1:07:52.11,1:07:54.02,chs&eng,,0000,0000,0000,,储藏花车道具的地方\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Mardi Gras graveyard.{\r}
+Dialogue: 0,1:07:55.23,1:07:57.82,chs&eng,,0000,0000,0000,,你能叫它去就请便\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}If you can talk her into it, go ahead.{\r}
+Dialogue: 0,1:07:58.99,1:08:00.61,chs&eng,,0000,0000,0000,,你要当心\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}You be careful.{\r}
+Dialogue: 0,1:08:07.16,1:08:09.00,chs&eng,,0000,0000,0000,,别为我操心\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Don't worry about me.{\r}
+Dialogue: 0,1:08:10.00,1:08:11.83,chs&eng,,0000,0000,0000,,我喜欢热闹\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}I love the company.{\r}
+Dialogue: 0,1:08:17.38,1:08:20.34,chs&eng,,0000,0000,0000,,当心 少了你变成我在猎杀他们\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Be careful. Without you, I'm hunting them.{\r}
+Dialogue: 0,1:08:48.91,1:08:50.91,chs&eng,,0000,0000,0000,,他不会有事的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}He's gonna be all right.{\r}
+Dialogue: 0,1:08:52.92,1:08:55.20,chs&eng,,0000,0000,0000,,来 我们走\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Oui. Come. We go.{\r}
+Dialogue: 0,1:09:39.34,1:09:41.67,chs&eng,,0000,0000,0000,,来 暍一口 不要弄洒了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Here, drink. But do not spill.{\r}
+Dialogue: 0,1:09:43.38,1:09:45.14,chs&eng,,0000,0000,0000,,会把草烧焦\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It kills the grass.{\r}
+Dialogue: 0,1:09:47.05,1:09:49.47,chs&eng,,0000,0000,0000,,这里很干净 他们刚走!\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The place is clean. He just left.{\r}
+Dialogue: 0,1:10:34.69,1:10:36.35,chs&eng,,0000,0000,0000,,快卧倒!\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Get the fuck down!{\r}
+Dialogue: 0,1:10:54.83,1:10:55.99,Pure Chinese,,0000,0000,0000,,你们休想捉到我
+Dialogue: 0,1:11:13.18,1:11:14.39,chs&eng,,0000,0000,0000,,等一下!\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Hold it!{\r}
+Dialogue: 0,1:11:17.85,1:11:20.44,chs&eng,,0000,0000,0000,,包意外才是我们的目标\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Boudreaux is the target we're after.{\r}
+Dialogue: 0,1:11:22.11,1:11:24.19,chs&eng,,0000,0000,0000,,你笨得像牛!\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}You are a fucking buffalo!{\r}
+Dialogue: 0,1:11:25.40,1:11:26.57,chs&eng,,0000,0000,0000,,走!\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Move!{\r}
+Dialogue: 0,1:11:40.46,1:11:44.67,chs&eng,,0000,0000,0000,,包意外十五分钟前 往这边骑马走了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Boudreaux went this way, maybe 10, 15 minutes ago. He's on a horse.{\r}
+Dialogue: 0,1:11:46.34,1:11:49.34,chs&eng,,0000,0000,0000,,他在引我们远离他的朋友\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}He's trying to lead us away from his friends.{\r}
+Dialogue: 0,1:11:51.26,1:11:53.26,chs&eng,,0000,0000,0000,,快上车\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Get in the fucking trucks.{\r}
+Dialogue: 0,1:11:54.10,1:11:57.98,chs&eng,,0000,0000,0000,,走! 快走! 你快点好吗?\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Move! Fucking move! Will you move? Move!{\r}
+Dialogue: 0,1:11:59.73,1:12:01.86,chs&eng,,0000,0000,0000,,他们都是白痴\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}They're fucking brain-dead.{\r}
+Dialogue: 0,1:12:04.19,1:12:06.78,chs&eng,,0000,0000,0000,,召直升机来 找包意外\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Get the helicopter. Find Boudreaux.{\r}
+Dialogue: 0,1:12:06.86,1:12:09.49,chs&eng,,0000,0000,0000,,我们在这边设埋伏\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We'll set up an ambush this side of Bayou La Fouche.{\r}
+Dialogue: 0,1:12:09.57,1:12:11.07,chs&eng,,0000,0000,0000,,我能从空中干掉他\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}I can take him from the air.{\r}
+Dialogue: 0,1:12:11.16,1:12:12.83,chs&eng,,0000,0000,0000,,白痴也能\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Any pinhead can take him from the air.{\r}
+Dialogue: 0,1:12:12.91,1:12:14.37,chs&eng,,0000,0000,0000,,我要从地上了结他!\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}I wanna take him from the ground!{\r}
+Dialogue: 0,1:12:14.45,1:12:16.33,chs&eng,,0000,0000,0000,,我能从空中干掉他\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}I can take him from the air.{\r}
+Dialogue: 0,1:12:16.41,1:12:18.21,chs&eng,,0000,0000,0000,,要用行家手法\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Be a professional, Pik.{\r}
+Dialogue: 0,1:12:18.29,1:12:19.75,chs&eng,,0000,0000,0000,,你错了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}You're making a mistake.{\r}
+Dialogue: 0,1:12:21.58,1:12:23.88,chs&eng,,0000,0000,0000,,一定要把他逼到海湾地\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Make sure he gets there, Pik.{\r}
+Dialogue: 0,1:12:55.87,1:12:57.33,chs&eng,,0000,0000,0000,,是他\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That's him.{\r}
+Dialogue: 0,1:16:16.53,1:16:18.11,chs&eng,,0000,0000,0000,,喂 呆瓜!\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Hey, pigeon.{\r}
+Dialogue: 0,1:16:44.93,1:16:47.06,chs&eng,,0000,0000,0000,,阿福雷的杂货店在三公里外\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Avril Pybus has a store two miles this way.{\r}
+Dialogue: 0,1:16:47.14,1:16:49.98,chs&eng,,0000,0000,0000,,你去打电话报警\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}You go to a telephone, call the sheriff.{\r}
+Dialogue: 0,1:16:51.65,1:16:56.02,chs&eng,,0000,0000,0000,,你知道… 你应该去报告警长\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}You know, chere, I think you should call the sheriff.{\r}
+Dialogue: 0,1:17:00.86,1:17:04.66,chs&eng,,0000,0000,0000,,看来你的猎物愈来愈扎手\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It appears your trophy is ripping us a new orifice.{\r}
+Dialogue: 0,1:17:04.74,1:17:07.54,chs&eng,,0000,0000,0000,,我来给你们复习战略形势\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Let me review the tactical situation for you, gentlemen.{\r}
+Dialogue: 0,1:17:07.62,1:17:09.25,chs&eng,,0000,0000,0000,,包意外受了伤\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Boudreaux is wounded.{\r}
+Dialogue: 0,1:17:09.33,1:17:12.87,chs&eng,,0000,0000,0000,,他被赶到了无人烟之地\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}He's been pursued and harried across miles of open country.{\r}
+Dialogue: 0,1:17:13.33,1:17:16.25,chs&eng,,0000,0000,0000,,他被困住了 以一敌廿\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Now he's cornered and outnumbered 20 to 1.{\r}
+Dialogue: 0,1:17:17.09,1:17:19.30,chs&eng,,0000,0000,0000,,他是一只讨人嫌的小虫\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}He's an annoying little fucking insect,{\r}
+Dialogue: 0,1:17:19.38,1:17:21.38,chs&eng,,0000,0000,0000,,我要他被踩得扁扁地\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and I want him stepped on, hard.{\r}
+Dialogue: 0,1:17:23.80,1:17:26.56,chs&eng,,0000,0000,0000,,你没生我的气吧?\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}You're not angry with me, are you, Pik?{\r}
+Dialogue: 0,1:17:28.18,1:17:30.27,chs&eng,,0000,0000,0000,,我不会生气\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}I don't get angry.{\r}
+Dialogue: 0,1:17:30.35,1:17:32.10,chs&eng,,0000,0000,0000,,我只会杀人\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}I'm a professional.{\r}
+Dialogue: 0,1:18:01.42,1:18:02.80,chs&eng,,0000,0000,0000,,我们上!\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Let's move!{\r}
+Dialogue: 0,1:19:03.40,1:19:05.15,chs&eng,,0000,0000,0000,,这情形不妙\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}This is not good.{\r}
+Dialogue: 0,1:19:07.07,1:19:10.58,chs&eng,,0000,0000,0000,,如果现在走五小时可到墨西哥\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}If we walk away now, we can be in Mexico in five hours.{\r}
+Dialogue: 0,1:19:10.66,1:19:13.12,chs&eng,,0000,0000,0000,,你怎么了?\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}What the fuck is the matter with you, Pik?{\r}
+Dialogue: 0,1:19:13.20,1:19:15.16,chs&eng,,0000,0000,0000,,猎杀酒鬼把你软化了?\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Hunting drunks in alleys made you soft?{\r}
+Dialogue: 0,1:20:01.58,1:20:04.46,chs&eng,,0000,0000,0000,,这个龟儿子很厉害!\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}God, that son of a bitch is good!{\r}
+Dialogue: 0,1:20:05.63,1:20:09.93,chs&eng,,0000,0000,0000,,可恶 我要轰掉他的脑袋\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Goddamn it, I'm gonna blow his goddamn head off!{\r}
+Dialogue: 0,1:20:10.01,1:20:12.14,chs&eng,,0000,0000,0000,,你们瞪什么眼?\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}What are you looking at, you sons of bitches?{\r}
+Dialogue: 0,1:20:12.22,1:20:15.43,chs&eng,,0000,0000,0000,,你们为此花钱! 去杀他!\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}This is what you paid for! Get him!{\r}
+Dialogue: 0,1:20:30.91,1:20:32.66,chs&eng,,0000,0000,0000,,封锁这地方\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Seal off this place.{\r}
+Dialogue: 0,1:20:34.95,1:20:36.87,chs&eng,,0000,0000,0000,,这龟儿子是我的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The son of a bitch is dying.{\r}
+Dialogue: 0,1:21:30.63,1:21:32.68,chs&eng,,0000,0000,0000,,打烂了衬衫 抱歉\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Sorry about the shirt.{\r}
+Dialogue: 0,1:21:35.64,1:21:37.10,chs&eng,,0000,0000,0000,,稍安勿燥\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Ah, give it a rest, pal.{\r}
+Dialogue: 0,1:21:45.90,1:21:47.94,chs&eng,,0000,0000,0000,,现在怎么办?\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Now what do you want to do?{\r}
+Dialogue: 0,1:21:48.02,1:21:49.32,chs&eng,,0000,0000,0000,,现在\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Now,{\r}
+Dialogue: 0,1:21:49.61,1:21:52.95,chs&eng,,0000,0000,0000,,除了"意外"每人给他一箭\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}now we put arrow into everyone what's not Chance, huh?{\r}
+Dialogue: 0,1:21:53.28,1:21:54.32,chs&eng,,0000,0000,0000,,来\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Come.{\r}
+Dialogue: 0,1:22:38.28,1:22:40.74,chs&eng,,0000,0000,0000,,你这臭贱人!\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}You fucking bitch!{\r}
+Dialogue: 0,1:22:46.75,1:22:48.59,chs&eng,,0000,0000,0000,,你看你干的事\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Now, now look what you do.{\r}
+Dialogue: 0,1:22:49.25,1:22:52.01,chs&eng,,0000,0000,0000,,枪给我 我来解决这些坏人\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Give me this gun. I take care of all these bad guys.{\r}
+Dialogue: 0,1:22:52.46,1:22:54.30,chs&eng,,0000,0000,0000,,枪给我!\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Give me this gun!{\r}
+Dialogue: 0,1:23:59.11,1:24:00.70,chs&eng,,0000,0000,0000,,我叫你去求援\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}I told you to go for help.{\r}
+Dialogue: 0,1:24:00.78,1:24:02.87,chs&eng,,0000,0000,0000,,我们支援你\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But we help. We're here to help.{\r}
+Dialogue: 0,1:24:02.95,1:24:05.29,chs&eng,,0000,0000,0000,,这么多人要杀你 我们来助阵\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}All these men try to kill you. We're here to help.{\r}
+Dialogue: 0,1:25:05.05,1:25:08.18,chs&eng,,0000,0000,0000,,包意外 包意外 包意外\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Boudreaux, Boudreaux, Boudreaux.{\r}
+Dialogue: 0,1:25:11.64,1:25:14.06,chs&eng,,0000,0000,0000,,我到处找你\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}I've been looking all over for you.{\r}
+Dialogue: 0,1:25:14.69,1:25:16.57,chs&eng,,0000,0000,0000,,你找错地方了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}You've been looking in the wrong places.{\r}
+Dialogue: 0,1:25:17.53,1:25:18.90,chs&eng,,0000,0000,0000,,那好呀\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That's good,{\r}
+Dialogue: 0,1:25:19.57,1:25:22.86,chs&eng,,0000,0000,0000,,因为我知道你不愿伤我的感情\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}'cause I know you wouldn't want to hurt my feelings.{\r}
+Dialogue: 0,1:27:18.15,1:27:19.77,chs&eng,,0000,0000,0000,,你起得来吗?\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Can you get up?{\r}
+Dialogue: 0,1:27:19.98,1:27:22.32,chs&eng,,0000,0000,0000,,我不能跳舞但是起得来\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}I cannot dance, but I can get up.{\r}
+Dialogue: 0,1:28:58.08,1:29:00.37,chs&eng,,0000,0000,0000,,你龟儿子走运!\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}You lucky son of a bitch!{\r}
+Dialogue: 0,1:29:01.04,1:29:02.33,chs&eng,,0000,0000,0000,,你还想吃几枪?\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}You want some more of that?{\r}
+Dialogue: 0,1:29:07.38,1:29:09.59,chs&eng,,0000,0000,0000,,被猎杀的滋味如何?\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}How does it feel to be hunted?{\r}
+Dialogue: 0,1:29:12.68,1:29:13.68,chs&eng,,0000,0000,0000,,你告诉我呀!\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}You tell me!{\r}
+Dialogue: 0,1:29:13.76,1:29:15.43,chs&eng,,0000,0000,0000,,你应该更了解\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}You should know better.{\r}
+Dialogue: 0,1:29:15.93,1:29:18.93,chs&eng,,0000,0000,0000,,我在世界的每个地方 都从事交易\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}There isn't a country in the world I haven't fired a bullet in.{\r}
+Dialogue: 0,1:29:22.85,1:29:24.23,chs&eng,,0000,0000,0000,,你杀不了我!\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}You can't kill me!{\r}
+Dialogue: 0,1:29:26.23,1:29:27.65,chs&eng,,0000,0000,0000,,你杀不了我\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}You can't kill me.{\r}
+Dialogue: 0,1:29:32.70,1:29:34.20,chs&eng,,0000,0000,0000,,我历经过各个战场\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}I'm on every battlefield.{\r}
+Dialogue: 0,1:29:38.12,1:29:39.12,chs&eng,,0000,0000,0000,,是个神勇的战士!\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}There's no winner here!{\r}
+Dialogue: 0,1:29:40.29,1:29:41.50,chs&eng,,0000,0000,0000,,我未见过\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}I don't see one.{\r}
+Dialogue: 0,1:29:41.87,1:29:43.08,chs&eng,,0000,0000,0000,,你正在看着他!\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}You're looking at him!{\r}
+Dialogue: 0,1:29:45.54,1:29:48.42,chs&eng,,0000,0000,0000,,来呀 龟儿子! 拿出你的绝招!\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Come on, you son of a bitch! Take your best shot!{\r}
+Dialogue: 0,1:30:04.77,1:30:05.81,chs&eng,,0000,0000,0000,,包意外!\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Chance!{\r}
+Dialogue: 0,1:30:08.19,1:30:09.48,chs&eng,,0000,0000,0000,,包意外\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Chance.{\r}
+Dialogue: 0,1:30:11.49,1:30:12.49,chs&eng,,0000,0000,0000,,包意外\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Chance.{\r}
+Dialogue: 0,1:30:14.16,1:30:15.28,chs&eng,,0000,0000,0000,,孩子!\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}My boy!{\r}
+Dialogue: 0,1:30:30.67,1:30:31.67,chs&eng,,0000,0000,0000,,只管射杀他!\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Just shoot him!{\r}
+Dialogue: 0,1:30:35.51,1:30:37.01,chs&eng,,0000,0000,0000,,你不会做的 你会吗?\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}You won't do that, will you Mr. Boudreaux?{\r}
+Dialogue: 0,1:30:37.68,1:30:38.68,chs&eng,,0000,0000,0000,,包意外!\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Chance!{\r}
+Dialogue: 0,1:30:39.22,1:30:40.26,chs&eng,,0000,0000,0000,,拜托!\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Please!{\r}
+Dialogue: 0,1:30:40.51,1:30:42.27,chs&eng,,0000,0000,0000,,他若开枪会打死你\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}If he shoots me, he'll kill you.{\r}
+Dialogue: 0,1:30:42.35,1:30:44.52,chs&eng,,0000,0000,0000,,你错不该用散弹枪\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}He's picked the wrong tool for the job.{\r}
+Dialogue: 0,1:30:50.23,1:30:52.15,chs&eng,,0000,0000,0000,,把枪放下\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Put the weapon down{\r}
+Dialogue: 0,1:30:54.53,1:30:56.53,chs&eng,,0000,0000,0000,,否则我刺穿她!\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}or I'll run her through!{\r}
+Dialogue: 0,1:31:26.56,1:31:29.23,chs&eng,,0000,0000,0000,,你看 班德小姐\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}You see, Miss Binder,{\r}
+Dialogue: 0,1:31:29.65,1:31:32.82,chs&eng,,0000,0000,0000,,你要报父仇我能了解\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}you I can understand, it was a matter of family.{\r}
+Dialogue: 0,1:31:33.40,1:31:36.40,chs&eng,,0000,0000,0000,,你跟那些流浪汉毫无瓜葛\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}You had nothing in common with those people.{\r}
+Dialogue: 0,1:31:37.45,1:31:40.83,chs&eng,,0000,0000,0000,,为什么要插手跟我作对?\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}What made you want to complicate my life like this?{\r}
+Dialogue: 0,1:31:42.95,1:31:45.04,chs&eng,,0000,0000,0000,,穷人也有无聊的时候\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Poor people get bored, too.{\r}
+Dialogue: 0,1:31:47.08,1:31:48.75,chs&eng,,0000,0000,0000,,- 来这里 - 不要!\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}- Come here. - No, please!{\r}
+Dialogue: 0,1:31:56.67,1:31:57.93,chs&eng,,0000,0000,0000,,帮我装子弹\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Load me.{\r}
+Dialogue: 0,1:33:52.71,1:33:55.25,chs&eng,,0000,0000,0000,,狩猎季节结束了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Hunting season is over.{\r}
+Dialogue: 0,1:34:32.41,1:34:34.25,chs&eng,,0000,0000,0000,,什么声音?\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}What is this noise?{\r}
+Dialogue: 0,1:34:35.25,1:34:36.25,chs&eng,,0000,0000,0000,,我正梦到关于你的事\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}I was dreaming.{\r}
+Dialogue: 0,1:34:36.58,1:34:38.25,chs&eng,,0000,0000,0000,,亲爱的 我想你\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Chere, I think about you.{\r}
+Dialogue: 0,1:34:39.09,1:34:42.13,chs&eng,,0000,0000,0000,,我跟火鸡说 你没把老鹰杀死\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}I tell this turkey, he no kill this eagle.{\r}
+Dialogue: 0,1:34:44.05,1:34:45.43,chs&eng,,0000,0000,0000,,我的头好痛\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Some headache I got here.{\r}
+Dialogue: 0,1:34:50.60,1:34:52.10,chs&eng,,0000,0000,0000,,我的天\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Oh, my God.{\r}
+Dialogue: 0,1:34:54.94,1:34:56.02,chs&eng,,0000,0000,0000,,什么?\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}What?{\r}
+Dialogue: 0,1:34:56.81,1:34:58.85,chs&eng,,0000,0000,0000,,我大概伤得很重\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}I think I hurt pretty bad.{\r}
+Dialogue: 0,1:35:02.94,1:35:05.57,chs&eng,,0000,0000,0000,,这个祸可闯大了!\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Now this, this real catastrophe!{\r}
+Dialogue: 0,1:35:06.53,1:35:07.82,chs&eng,,0000,0000,0000,,糟糕透了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}This real bad.{\r}
+Dialogue: 0,1:35:07.91,1:35:08.99,chs&eng,,0000,0000,0000,,是糟糕透了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Yeah, real bad.{\r}
