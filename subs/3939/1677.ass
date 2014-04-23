@@ -1,0 +1,1156 @@
+[Script Info]
+;本字幕文件用 SrtEdit MPC播放版 Version 5.2 编辑制作
+;Unicode SrtEdit Copyright(C) 2005-2009 袁卫国
+
+Title: 
+Original Script: 
+Original Translation: 
+Original Timing: 
+Original Editing: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 0
+PlayResY: 0
+Timer: 100.0000
+Synch Point: 
+WrapStyle: 0
+ScaledBorderAndShadow: no
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial Narrow,16,&H00FFFFFF,&H0000FFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,1,2,20,20,3,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:33.78,0:00:37.22,Default,,0000,0000,0000,,{\fn黑体\fs24}暂告安全 （三区台版官方字幕）{\r}
+Dialogue: 0,0:00:37.68,0:00:41.95,Default,,0000,0000,0000,,{\fn黑体\fs24}（纽约布鲁克林市 一小时前）{\r}\NBROOKLYN, NY One hour earlier
+Dialogue: 0,0:01:09.48,0:01:11.41,Default,,0000,0000,0000,,{\fn黑体\fs24}妳在说谎{\r}\NYou're lying to me.
+Dialogue: 0,0:01:11.41,0:01:13.48,Default,,0000,0000,0000,,{\fn黑体\fs24}我没有 我不知道你在说什么{\r}\Nl'm not. l don't know what you're talking about.
+Dialogue: 0,0:01:13.48,0:01:14.62,Default,,0000,0000,0000,,{\fn黑体\fs24}也不知道你要什么{\r}\Nl don't know what you want from me.
+Dialogue: 0,0:01:14.62,0:01:15.98,Default,,0000,0000,0000,,{\fn黑体\fs24}我真的不知道{\r}\Nl swear l don't .
+Dialogue: 0,0:01:16.45,0:01:18.32,Default,,0000,0000,0000,,{\fn黑体\fs24}我有三个小孩{\r}\Nl have three children.
+Dialogue: 0,0:01:18.59,0:01:20.79,Default,,0000,0000,0000,,{\fn黑体\fs24}当父亲得先学会一件事{\r}\NThe first thing you have to learn as a father,
+Dialogue: 0,0:01:20.79,0:01:24.16,Default,,0000,0000,0000,,{\fn黑体\fs24}就是分辨孩子是否在骗人{\r}\Nis to know when your children are lying to you.
+Dialogue: 0,0:01:25.76,0:01:27.56,Default,,0000,0000,0000,,{\fn黑体\fs24}妳在骗我{\r}\NYou're lying to me.
+Dialogue: 0,0:01:27.56,0:01:29.20,Default,,0000,0000,0000,,{\fn黑体\fs24}妳要是敢再骗我{\r}\NAnd if you don't stop,
+Dialogue: 0,0:01:29.20,0:01:33.10,Default,,0000,0000,0000,,{\fn黑体\fs24}我会用你们中国人的酷刑{\r}\Nl'm going to use one of those tortures your people are so famous for...
+Dialogue: 0,0:01:33.10,0:01:36.73,Default,,0000,0000,0000,,{\fn黑体\fs24}折磨到妳说实话为止!{\r}\N...on your little body, until you tell me what l want to know!
+Dialogue: 0,0:01:43.88,0:01:45.57,Default,,0000,0000,0000,,{\fn黑体\fs24}我再说一次{\r}\NFor the last time...
+Dialogue: 0,0:01:46.88,0:01:48.25,Default,,0000,0000,0000,,{\fn黑体\fs24}把号码说出来!{\r}\NGive me the numbers!
+Dialogue: 0,0:01:48.55,0:01:49.15,Default,,0000,0000,0000,,{\fn黑体\fs24}（中国南京市 一年前）{\r}\NNANJlNG, CHlNA One year earlier
+Dialogue: 0,0:01:49.15,0:01:54.24,Default,,0000,0000,0000,,{\fn黑体\fs24}204的35倍是另外一种算法 加起来是350{\r}
+Dialogue: 0,0:01:55.06,0:01:56.96,Default,,0000,0000,0000,,{\fn黑体\fs24}如果用另外一种算法{\r}\NTry it the other way,
+Dialogue: 0,0:01:56.96,0:01:58.79,Default,,0000,0000,0000,,{\fn黑体\fs24}加起来是365{\r}\Nit adds up to three hundred and sixty five...
+Dialogue: 0,0:01:58.79,0:02:00.45,Default,,0000,0000,0000,,{\fn黑体\fs24}只有一个算法是对的{\r}\NOnly one answer is correct.
+Dialogue: 0,0:02:03.36,0:02:05.37,Default,,0000,0000,0000,,{\fn黑体\fs24}苏先生，我没有不尊重你的意思{\r}\Nl mean no disrespect, Mr. Sook,
+Dialogue: 0,0:02:05.37,0:02:07.10,Default,,0000,0000,0000,,{\fn黑体\fs24}但是你的算法是错的{\r}\N...but your calculations are wrong.
+Dialogue: 0,0:02:14.81,0:02:16.04,Default,,0000,0000,0000,,{\fn黑体\fs24}梅…{\r}\NMei...
+Dialogue: 0,0:02:16.04,0:02:18.38,Default,,0000,0000,0000,,{\fn黑体\fs24}我们帮妳转去另一个学校{\r}\Nwe're going to move you to a different school.
+Dialogue: 0,0:02:18.38,0:02:19.95,Default,,0000,0000,0000,,{\fn黑体\fs24}但是我的朋友都在这儿{\r}\NBut all my friends are here, and my mother...
+Dialogue: 0,0:02:19.95,0:02:24.19,Default,,0000,0000,0000,,{\fn黑体\fs24}而且我的妈妈… 梅，妳太聪明 妳是个天才{\r}\NMei. you are so smart, a genius.
+Dialogue: 0,0:02:24.19,0:02:26.32,Default,,0000,0000,0000,,{\fn黑体\fs24}妳该上一个特殊的学校{\r}\NYou have to go to an appropriate school...
+Dialogue: 0,0:02:26.32,0:02:28.52,Default,,0000,0000,0000,,{\fn黑体\fs24}妳可以找新朋友的{\r}\NYou'll make new friends.
+Dialogue: 0,0:02:28.66,0:02:31.23,Default,,0000,0000,0000,,{\fn黑体\fs24}别难过，梅 我们永远都是妳的朋友{\r}\NDon't ‘ be sad Mei, we'll always be your friends.
+Dialogue: 0,0:02:31.23,0:02:33.46,Default,,0000,0000,0000,,{\fn黑体\fs24}听说北京的小孩人都很好的{\r}\Nl hear the kids in Beijing are cool,
+Dialogue: 0,0:02:33.46,0:02:35.76,Default,,0000,0000,0000,,{\fn黑体\fs24}妳在那会过得很开心的{\r}\Nyou'll have a good time there.
+Dialogue: 0,0:02:35.76,0:02:37.80,Default,,0000,0000,0000,,{\fn黑体\fs24}我根本就不喜欢数字{\r}\NBut l don't even like numbers.
+Dialogue: 0,0:02:37.80,0:02:39.47,Default,,0000,0000,0000,,{\fn黑体\fs24}我喜欢我现在的朋友{\r}\Nl like my friends here.
+Dialogue: 0,0:02:39.47,0:02:41.10,Default,,0000,0000,0000,,{\fn黑体\fs24}我不想要交新的朋友{\r}\Nl don't want new friends.
+Dialogue: 0,0:02:41.10,0:02:42.37,Default,,0000,0000,0000,,{\fn黑体\fs24}我不喜欢数学{\r}\Nl don't like math.
+Dialogue: 0,0:02:42.37,0:02:43.34,Default,,0000,0000,0000,,{\fn黑体\fs24}妳来做数学{\r}\NOf course you do...
+Dialogue: 0,0:02:43.34,0:02:45.44,Default,,0000,0000,0000,,{\fn黑体\fs24}我们给妳写信 我们每个星期{\r}
+Dialogue: 0,0:02:45.44,0:02:47.31,Default,,0000,0000,0000,,{\fn黑体\fs24}都给妳往北京写封信{\r}\Ndon't worry, we'll send you a letter every week.
+Dialogue: 0,0:02:47.31,0:02:48.88,Default,,0000,0000,0000,,{\fn黑体\fs24}- 你发誓？ - 当然{\r}\NYou promise? Of course.
+Dialogue: 0,0:02:48.88,0:02:51.48,Default,,0000,0000,0000,,{\fn黑体\fs24}妳想让我们失去… 一个有名的朋友吗？{\r}\NThink we want to miss out on having a famous friend
+Dialogue: 0,0:02:51.48,0:02:52.25,Default,,0000,0000,0000,,{\fn黑体\fs24}对了，梅{\r}
+Dialogue: 0,0:02:52.25,0:02:55.18,Default,,0000,0000,0000,,{\fn黑体\fs24}我们永远都是妳的… 梅…{\r}\Nlt's gonna be great, Mei...
+Dialogue: 0,0:02:57.42,0:03:01.82,Default,,0000,0000,0000,,{\fn黑体\fs24}（纽泽西梅多兰市）{\r}\NTHE MEADOWLANDS, NJ
+Dialogue: 0,0:03:09.46,0:03:11.27,Default,,0000,0000,0000,,{\fn黑体\fs24}你还敢来？不准你来!{\r}\NHow dare you come here?
+Dialogue: 0,0:03:11.27,0:03:12.73,Default,,0000,0000,0000,,{\fn黑体\fs24}妈!够了!住手!{\r}\NYou have no right! Mom, mom! Enough! Stop!
+Dialogue: 0,0:03:12.73,0:03:14.60,Default,,0000,0000,0000,,{\fn黑体\fs24}你没权利来这里{\r}\NYou have no right to be here.
+Dialogue: 0,0:03:14.60,0:03:18.63,Default,,0000,0000,0000,,{\fn黑体\fs24}你应该去坐牢! 你应该去坐牢!{\r}\NYou should be in jail.
+Dialogue: 0,0:03:20.61,0:03:23.11,Default,,0000,0000,0000,,{\fn黑体\fs24}给我滚! 你给我滚!{\r}\NYou get out of here!
+Dialogue: 0,0:03:23.11,0:03:25.94,Default,,0000,0000,0000,,{\fn黑体\fs24}- 对不起 - 我要杀了你…{\r}\N- l'm sorry. - l'll kill you.
+Dialogue: 0,0:03:38.76,0:03:39.89,Default,,0000,0000,0000,,{\fn黑体\fs24}人渣!{\r}\NPiece of garbage!
+Dialogue: 0,0:03:39.89,0:03:41.69,Default,,0000,0000,0000,,{\fn黑体\fs24}你不该让他上场打的!{\r}\NHe should never have been in there with me!
+Dialogue: 0,0:03:42.83,0:03:45.50,Default,,0000,0000,0000,,{\fn黑体\fs24}别这样!你疯了吗？{\r}\NCome on! What, are you crazy man?
+Dialogue: 0,0:03:45.50,0:03:46.66,Default,,0000,0000,0000,,{\fn黑体\fs24}别碰我!{\r}\NGet off!
+Dialogue: 0,0:03:48.04,0:03:49.54,Default,,0000,0000,0000,,{\fn黑体\fs24}我很讨厌你，路克{\r}\Nl never liked you, Luke.
+Dialogue: 0,0:03:49.54,0:03:52.67,Default,,0000,0000,0000,,{\fn黑体\fs24}你比九成的对手都强{\r}\NYou're a better fighter than ninety percent of the guys you go into the cage with.
+Dialogue: 0,0:03:52.67,0:03:55.74,Default,,0000,0000,0000,,{\fn黑体\fs24}但你老让人当沙包打{\r}\NBut you just let 'em pound on you like you're a side of beef.
+Dialogue: 0,0:03:55.74,0:03:58.15,Default,,0000,0000,0000,,{\fn黑体\fs24}所有人都赢过你{\r}\NYou already lost to every chump in the circuit.
+Dialogue: 0,0:03:58.15,0:04:00.35,Default,,0000,0000,0000,,{\fn黑体\fs24}但你偏偏要在昨晚找麻烦{\r}\NBut last night, of all nights!
+Dialogue: 0,0:04:00.35,0:04:02.28,Default,,0000,0000,0000,,{\fn黑体\fs24}你早该在第二局被击倒的{\r}\NYou're supposed to go down in the second, you son of a bitch!
+Dialogue: 0,0:04:02.28,0:04:05.45,Default,,0000,0000,0000,,{\fn黑体\fs24}你他妈的混蛋! 一拳，我只打了他一拳!{\r}\NOnce. l hit him once!
+Dialogue: 0,0:04:05.45,0:04:06.92,Default,,0000,0000,0000,,{\fn黑体\fs24}你是从育幼院找来的人吗？{\r}\NWhere'd you find him, in the fucking playground?
+Dialogue: 0,0:04:06.92,0:04:09.26,Default,,0000,0000,0000,,{\fn黑体\fs24}YouTube上找来的，混球!{\r}\NYouTube, you asshole!
+Dialogue: 0,0:04:09.26,0:04:12.36,Default,,0000,0000,0000,,{\fn黑体\fs24}这家伙人气超高 结果被你打成昏迷{\r}\NThe kid is an lnternet sensation, until you put him in a coma.
+Dialogue: 0,0:04:12.36,0:04:15.16,Default,,0000,0000,0000,,{\fn黑体\fs24}不过我才懒得鸟他!{\r}\NWhich frankly, l do not give a shit about!
+Dialogue: 0,0:04:15.16,0:04:17.47,Default,,0000,0000,0000,,{\fn黑体\fs24}但你害我赔了一百万!{\r}\NBut you cost me a million dollars!
+Dialogue: 0,0:04:17.47,0:04:20.59,Default,,0000,0000,0000,,{\fn黑体\fs24}多切斯基赔的更惨{\r}\NWhich is nothing compared to what you cost Docheski.
+Dialogue: 0,0:04:20.80,0:04:23.34,Default,,0000,0000,0000,,{\fn黑体\fs24}想起他了吗？{\r}\NYeah, you recognize the name?
+Dialogue: 0,0:04:23.34,0:04:25.87,Default,,0000,0000,0000,,{\fn黑体\fs24}他砸大钱赌你输!{\r}\NHe was betting on you, big time to take the dive!
+Dialogue: 0,0:04:25.87,0:04:27.71,Default,,0000,0000,0000,,{\fn黑体\fs24}现在连我都遭殃了{\r}\NAnd he's going to take it out on me, too.
+Dialogue: 0,0:04:27.71,0:04:30.58,Default,,0000,0000,0000,,{\fn黑体\fs24}因为比赛是我安排的{\r}\NBecause he knows l'm the schmuck who set this whole thing up.
+Dialogue: 0,0:04:31.81,0:04:36.04,Default,,0000,0000,0000,,{\fn黑体\fs24}除非我拿你的人头做人情{\r}\NUnless, l deliver your head with a down payment.
+Dialogue: 0,0:04:37.65,0:04:39.55,Default,,0000,0000,0000,,{\fn黑体\fs24}俄罗斯人可不好惹{\r}\NYou know how the Russians are.
+Dialogue: 0,0:04:55.20,0:04:59.31,Default,,0000,0000,0000,,{\fn黑体\fs24}阿梅…{\r}
+Dialogue: 0,0:04:59.31,0:05:03.78,Default,,0000,0000,0000,,{\fn黑体\fs24}这个是我侄女，白羽{\r}\NThis is my niece, Bai Yu.
+Dialogue: 0,0:05:03.78,0:05:04.94,Default,,0000,0000,0000,,{\fn黑体\fs24}认识吧？{\r}\NRecognize her?
+Dialogue: 0,0:05:06.51,0:05:08.65,Default,,0000,0000,0000,,{\fn黑体\fs24}她在我同样的一班里{\r}\NShe's in my class at school.
+Dialogue: 0,0:05:08.65,0:05:12.88,Default,,0000,0000,0000,,{\fn黑体\fs24}她说妳的脑筋… 很像计算机{\r}\NShe says you mind is like a computer.
+Dialogue: 0,0:05:13.19,0:05:17.16,Default,,0000,0000,0000,,{\fn黑体\fs24}我跟妳的老师讲过了 他也这样说{\r}\NWe spoke to your teacher and he said the same thing.
+Dialogue: 0,0:05:18.56,0:05:19.82,Default,,0000,0000,0000,,{\fn黑体\fs24}妳知道了吧{\r}\NThat's why you're here.
+Dialogue: 0,0:05:22.70,0:05:24.32,Default,,0000,0000,0000,,{\fn黑体\fs24}很可爱啊{\r}\NLovely girl.
+Dialogue: 0,0:05:24.53,0:05:29.76,Default,,0000,0000,0000,,{\fn黑体\fs24}计算机很讨厌 太容易留下痕迹{\r}\NComputers are so annoying, they leave trails that are easy to follow.
+Dialogue: 0,0:05:30.94,0:05:32.70,Default,,0000,0000,0000,,{\fn黑体\fs24}他们还说…{\r}
+Dialogue: 0,0:05:33.54,0:05:35.51,Default,,0000,0000,0000,,{\fn黑体\fs24}走开…{\r}
+Dialogue: 0,0:05:38.31,0:05:43.31,Default,,0000,0000,0000,,{\fn黑体\fs24}妳学过的东西是不会忘的 是不是啊？{\r}\NThey say what you learn you never forget. ls that so?
+Dialogue: 0,0:05:49.92,0:05:52.03,Default,,0000,0000,0000,,{\fn黑体\fs24}那我到妳的家{\r}\NThen we will go to your home and kill your mother
+Dialogue: 0,0:05:52.03,0:05:57.09,Default,,0000,0000,0000,,{\fn黑体\fs24}把妳妈妈杀掉好不好啊？{\r}\Nfor making such a stupid girl.
+Dialogue: 0,0:06:09.14,0:06:13.45,Default,,0000,0000,0000,,{\fn黑体\fs24}很好… 看来他们说对了{\r}\NSo they are telling the truth.
+Dialogue: 0,0:06:13.45,0:06:14.88,Default,,0000,0000,0000,,{\fn黑体\fs24}苏先生告诉我{\r}\NMr. Sook also said your father ran away when you were very little,
+Dialogue: 0,0:06:14.88,0:06:18.28,Default,,0000,0000,0000,,{\fn黑体\fs24}妳小的时候爸爸已经走掉了{\r}\Nleft your mother,
+Dialogue: 0,0:06:19.32,0:06:22.92,Default,,0000,0000,0000,,{\fn黑体\fs24}妳的妈妈正在生病{\r}\NAnd you mother is very ill.
+Dialogue: 0,0:06:23.56,0:06:27.62,Default,,0000,0000,0000,,{\fn黑体\fs24}妳很快就变成一个人 妳喜欢孤独吗？{\r}\NSoon you will be all alone. So you want to be all alone?
+Dialogue: 0,0:06:29.86,0:06:35.19,Default,,0000,0000,0000,,{\fn黑体\fs24}放心 我们会好好照顾妳的妈妈{\r}\NThen we will take good care of your mother.
+Dialogue: 0,0:06:36.34,0:06:38.94,Default,,0000,0000,0000,,{\fn黑体\fs24}他姓张，是妳的新爸爸{\r}\NThis is Chang, your new father.
+Dialogue: 0,0:06:38.94,0:06:41.78,Default,,0000,0000,0000,,{\fn黑体\fs24}他会带妳飘洋过海{\r}\NHe will take you far over the ocean,
+Dialogue: 0,0:06:41.78,0:06:45.85,Default,,0000,0000,0000,,{\fn黑体\fs24}那边的人很喜欢找我们麻烦{\r}\Nwhere our enemies like to make trouble for us.
+Dialogue: 0,0:06:45.85,0:06:49.85,Default,,0000,0000,0000,,{\fn黑体\fs24}所以我要妳帮我们算一算{\r}\NOnce you are there... You will count for us.
+Dialogue: 0,0:06:51.15,0:06:53.88,Default,,0000,0000,0000,,{\fn黑体\fs24}这是莱特家，请留言{\r}\NYou've got the Wright number, to leave the right message.
+Dialogue: 0,0:06:54.36,0:06:56.16,Default,,0000,0000,0000,,{\fn黑体\fs24}收到马上打给我，安妮{\r}\NCall me when you get this Annie.
+Dialogue: 0,0:06:56.16,0:06:57.46,Default,,0000,0000,0000,,{\fn黑体\fs24}马上出门{\r}\NLeave right away.
+Dialogue: 0,0:06:57.46,0:06:59.03,Default,,0000,0000,0000,,{\fn黑体\fs24}如果妳在外面就别回家{\r}\Nlf you're out, don't go home.
+Dialogue: 0,0:06:59.03,0:07:01.39,Default,,0000,0000,0000,,{\fn黑体\fs24}妳的处境很危险 快回电{\r}\Nlf l'm scaring you, that's good. Call me.
+Dialogue: 0,0:07:04.90,0:07:06.26,Default,,0000,0000,0000,,{\fn黑体\fs24}安妮？{\r}\NAnnie?
+Dialogue: 0,0:07:25.75,0:07:29.62,Default,,0000,0000,0000,,{\fn黑体\fs24}他租的片还不错{\r}\NHe has some nice videos.
+Dialogue: 0,0:07:33.29,0:07:34.66,Default,,0000,0000,0000,,{\fn黑体\fs24}投降了吗？{\r}\NThat's it?
+Dialogue: 0,0:07:36.06,0:07:38.36,Default,,0000,0000,0000,,{\fn黑体\fs24}听说你很能打{\r}\Nl heard you were some kind of tough guy.
+Dialogue: 0,0:07:39.60,0:07:41.36,Default,,0000,0000,0000,,{\fn黑体\fs24}不露两招吗？{\r}\NNo fighting?
+Dialogue: 0,0:07:42.20,0:07:45.34,Default,,0000,0000,0000,,{\fn黑体\fs24}别像条死狗一样赖在地上{\r}\NYou're just going to sit on the floor like a dog who wants to die.
+Dialogue: 0,0:07:45.34,0:07:46.90,Default,,0000,0000,0000,,{\fn黑体\fs24}抱歉，我们动粗了{\r}\NSorry it had to be so messy.
+Dialogue: 0,0:07:48.91,0:07:50.60,Default,,0000,0000,0000,,{\fn黑体\fs24}小孩子还不懂事{\r}\NThe boy is still learning.
+Dialogue: 0,0:07:51.71,0:07:54.98,Default,,0000,0000,0000,,{\fn黑体\fs24}我不是医生 但看得出来她怀孕了{\r}\NAnd l'm not a doctor, but l think she was eating for two.
+Dialogue: 0,0:07:54.98,0:07:57.32,Default,,0000,0000,0000,,{\fn黑体\fs24}我们很像曼森家族吧？{\r}\NWe're like the Charlie Manson family. No?
+Dialogue: 0,0:07:57.32,0:08:01.32,Default,,0000,0000,0000,,{\fn黑体\fs24}我爸原本想派别人来 不过我想打响名号{\r}\NMy father was going to send someone else, but l'm making my bones.
+Dialogue: 0,0:08:03.42,0:08:06.69,Default,,0000,0000,0000,,{\fn黑体\fs24}你惹毛了会让你残废的人{\r}\NYou make your bones by killing someone who could hurt you back.
+Dialogue: 0,0:08:06.69,0:08:08.18,Default,,0000,0000,0000,,{\fn黑体\fs24}你在说谁？{\r}\NAnd who would that be?
+Dialogue: 0,0:08:09.16,0:08:13.97,Default,,0000,0000,0000,,{\fn黑体\fs24}你吗？ 我无所谓 你刚杀了你老婆{\r}\NYou? Well, why not? You just killed you wife.
+Dialogue: 0,0:08:14.54,0:08:16.97,Default,,0000,0000,0000,,{\fn黑体\fs24}我没有杀他，是你杀的{\r}\Nl didn't kill her. You did.
+Dialogue: 0,0:08:18.11,0:08:19.97,Default,,0000,0000,0000,,{\fn黑体\fs24}你想让我残废吗？{\r}\NBut, you want to hurt me?
+Dialogue: 0,0:08:20.57,0:08:23.17,Default,,0000,0000,0000,,{\fn黑体\fs24}很好，我倒想见识一下{\r}\NGood. l'd like to see you try.
+Dialogue: 0,0:08:24.61,0:08:26.01,Default,,0000,0000,0000,,{\fn黑体\fs24}快把帐算一算{\r}\NGet it over with.
+Dialogue: 0,0:08:26.38,0:08:31.52,Default,,0000,0000,0000,,{\fn黑体\fs24}你害我爸赔钱 让我的家族没面子{\r}\NOver? You cost my father money. Made my family look bad.
+Dialogue: 0,0:08:31.52,0:08:34.62,Default,,0000,0000,0000,,{\fn黑体\fs24}所以我们要杀鸡儆猴{\r}\NNow, we're going to make an extra special example out of you.
+Dialogue: 0,0:08:34.62,0:08:38.19,Default,,0000,0000,0000,,{\fn黑体\fs24}我们看过你的档案 没什么特别的{\r}\NSo, we looked into your records. Not much to find.
+Dialogue: 0,0:08:38.19,0:08:39.79,Default,,0000,0000,0000,,{\fn黑体\fs24}当过公务员、收垃圾的{\r}\NWorked for City, Garbage collections, Sanitation.
+Dialogue: 0,0:08:39.79,0:08:43.26,Default,,0000,0000,0000,,{\fn黑体\fs24}还有清洁工 福利不错，但没啥出息{\r}\NGood benefits, but no glamor.
+Dialogue: 0,0:08:44.00,0:08:45.63,Default,,0000,0000,0000,,{\fn黑体\fs24}父母双殁{\r}\NFather and mother, dead.
+Dialogue: 0,0:08:46.33,0:08:48.17,Default,,0000,0000,0000,,{\fn黑体\fs24}没有兄弟姊妹{\r}\NNo brothers or sisters.
+Dialogue: 0,0:08:48.17,0:08:49.57,Default,,0000,0000,0000,,{\fn黑体\fs24}真是遗憾啊{\r}\NWhich is too bad,
+Dialogue: 0,0:08:50.17,0:08:52.83,Default,,0000,0000,0000,,{\fn黑体\fs24}因为我很想杀光他们{\r}\N because l would like to take them from you too.
+Dialogue: 0,0:08:54.44,0:08:58.17,Default,,0000,0000,0000,,{\fn黑体\fs24}不过我们知道你很爱你老婆{\r}\NBut you loved your wife. We know that.
+Dialogue: 0,0:08:59.05,0:09:02.18,Default,,0000,0000,0000,,{\fn黑体\fs24}这样好了 我们放你一马{\r}\NSo, here's the deal. You are free to go.
+Dialogue: 0,0:09:02.18,0:09:03.85,Default,,0000,0000,0000,,{\fn黑体\fs24}不过我们偶尔会来找你{\r}\NBut we will have eyes on you.
+Dialogue: 0,0:09:03.85,0:09:07.72,Default,,0000,0000,0000,,{\fn黑体\fs24}只要你一不注意我们就会出现{\r}\NNot always. But when you least expect it, we'll be there.
+Dialogue: 0,0:09:07.72,0:09:09.26,Default,,0000,0000,0000,,{\fn黑体\fs24}你结交的任何人{\r}\NAnyone you try to make friends with, or even talk to...
+Dialogue: 0,0:09:09.26,0:09:12.93,Default,,0000,0000,0000,,{\fn黑体\fs24}包括说过话的人 除了卖东西的店家{\r}\N...other than ordering a hot dog or something,
+Dialogue: 0,0:09:12.93,0:09:14.03,Default,,0000,0000,0000,,{\fn黑体\fs24}全部都会死{\r}\N will die.
+Dialogue: 0,0:09:14.03,0:09:17.20,Default,,0000,0000,0000,,{\fn黑体\fs24}就像你老婆一样 这都是你害的{\r}\NLike your wife. Because of you.
+Dialogue: 0,0:09:17.20,0:09:18.60,Default,,0000,0000,0000,,{\fn黑体\fs24}你也可以结束这一切{\r}\NOf course you can always end it.
+Dialogue: 0,0:09:18.60,0:09:21.50,Default,,0000,0000,0000,,{\fn黑体\fs24}找个桥往下跳 跳轨自杀也不错{\r}\NJump off a bridge, throw yourself in front of a train.
+Dialogue: 0,0:09:21.50,0:09:23.37,Default,,0000,0000,0000,,{\fn黑体\fs24}如果你信上帝那一套{\r}\NDamn your eternal soul to Hell.
+Dialogue: 0,0:09:23.37,0:09:25.21,Default,,0000,0000,0000,,{\fn黑体\fs24}自杀是会下地狱的{\r}\Nlf you believe in that kind of bull shit.
+Dialogue: 0,0:09:25.21,0:09:30.04,Default,,0000,0000,0000,,{\fn黑体\fs24}但我可不信的 所以换作我就会去自杀{\r}\NPersonally l don't , so l'd go for it if l were you.
+Dialogue: 0,0:09:32.35,0:09:36.01,Default,,0000,0000,0000,,{\fn黑体\fs24}还好我不是你，感谢上帝{\r}\NBut, l am not you. Thank God.
+Dialogue: 0,0:09:37.65,0:09:38.98,Default,,0000,0000,0000,,{\fn黑体\fs24}你自己选吧{\r}\NSo do what you want.
+Dialogue: 0,0:09:40.45,0:09:43.06,Default,,0000,0000,0000,,{\fn黑体\fs24}你要是明天还赖在这里 我们就干掉包租婆{\r}\Nlf you're still here tomorrow, we're going to kill the land lady.
+Dialogue: 0,0:09:43.06,0:09:45.66,Default,,0000,0000,0000,,{\fn黑体\fs24}她叫啥来着？ 托柏洛斯基之类的{\r}\NWhat was her name? Tobolovski, or something.
+Dialogue: 0,0:09:45.66,0:09:47.42,Default,,0000,0000,0000,,{\fn黑体\fs24}托柏洛斯基太太{\r}\NMrs. Tobolovski. 
+Dialogue: 0,0:09:48.00,0:09:49.02,Default,,0000,0000,0000,,{\fn黑体\fs24}人还不错{\r}\NNice lady.
+Dialogue: 0,0:09:51.00,0:09:52.83,Default,,0000,0000,0000,,{\fn黑体\fs24}快打扫吧，收垃圾的{\r}\NClean up the mess, Garbage man.
+Dialogue: 0,0:09:58.74,0:10:02.38,Default,,0000,0000,0000,,{\fn黑体\fs24}好了，她是你女儿 所以是美国公民{\r}\NAlright, she's your daughter, and she's an American citizen.
+Dialogue: 0,0:10:02.38,0:10:04.51,Default,,0000,0000,0000,,{\fn黑体\fs24}我不会过问她的事{\r}\Nl ain't going to ask what the deal is with her.
+Dialogue: 0,0:10:04.51,0:10:06.04,Default,,0000,0000,0000,,{\fn黑体\fs24}那是你的私事{\r}\NThat is your business.
+Dialogue: 0,0:10:06.65,0:10:10.15,Default,,0000,0000,0000,,{\fn黑体\fs24}但我得跟你说 动用关系很辛苦{\r}\NBut l'm going to tell you, pulling strings is hard work.
+Dialogue: 0,0:10:10.15,0:10:11.67,Default,,0000,0000,0000,,{\fn黑体\fs24}而辛苦就要有代价{\r}\NAnd hard work don't come free.
+Dialogue: 0,0:10:14.29,0:10:16.85,Default,,0000,0000,0000,,{\fn黑体\fs24}开个价吧，沃夫队长{\r}\NYour price, Captain Wolf?
+Dialogue: 0,0:10:17.09,0:10:19.79,Default,,0000,0000,0000,,{\fn黑体\fs24}中国城管区涨了二十趴{\r}\NChinatown Precinct take goes up twenty percent.
+Dialogue: 0,0:10:19.79,0:10:21.03,Default,,0000,0000,0000,,{\fn黑体\fs24}布隆克斯管区要先缴一万二{\r}\NBronx, hundred twenty first,
+Dialogue: 0,0:10:21.03,0:10:23.20,Default,,0000,0000,0000,,{\fn黑体\fs24}布鲁克林管区全面涨十趴{\r}\NBrooklyn Divisions each go up by ten percent.
+Dialogue: 0,0:10:23.20,0:10:24.36,Default,,0000,0000,0000,,{\fn黑体\fs24}是每个月来算{\r}\NMonthly.
+Dialogue: 0,0:10:24.36,0:10:28.13,Default,,0000,0000,0000,,{\fn黑体\fs24}帮小孩办个护照也太贵了吧{\r}\NThat's a steep price for a passport and some papers for a little girl.
+Dialogue: 0,0:10:29.14,0:10:30.80,Default,,0000,0000,0000,,{\fn黑体\fs24}现在越来越难混了{\r}\NThings are tough all over.
+Dialogue: 0,0:10:35.98,0:10:37.64,Default,,0000,0000,0000,,{\fn黑体\fs24}中国城可以涨十趴{\r}\NChinatown gets up ten percent.
+Dialogue: 0,0:10:37.64,0:10:40.38,Default,,0000,0000,0000,,{\fn黑体\fs24}其它两区不能涨{\r}\NBronx and Brooklyn will settle for the current rate.
+Dialogue: 0,0:10:40.38,0:10:44.02,Default,,0000,0000,0000,,{\fn黑体\fs24}我们答应不会像疯狗咬人一样{\r}\NAnd the fact that we won't start shooting cops and their families in the streets...
+Dialogue: 0,0:10:44.02,0:10:46.14,Default,,0000,0000,0000,,{\fn黑体\fs24}见条子就杀{\r}\N...like dogs at the first sign of pressure.
+Dialogue: 0,0:10:48.32,0:10:50.12,Default,,0000,0000,0000,,{\fn黑体\fs24}现在越来越难混了{\r}\NThings are tough all over.
+Dialogue: 0,0:11:09.14,0:11:10.64,Default,,0000,0000,0000,,{\fn黑体\fs24}老兄，我见过你{\r}\NHey man, l know you.
+Dialogue: 0,0:11:10.64,0:11:11.88,Default,,0000,0000,0000,,{\fn黑体\fs24}我在纽泽西看过你比赛{\r}\Nl saw your fight in Jersey, it was really good.
+Dialogue: 0,0:11:11.88,0:11:14.58,Default,,0000,0000,0000,,{\fn黑体\fs24}你很厉害，把对手打昏了{\r}\NYou knocked that guy out.
+Dialogue: 0,0:11:14.88,0:11:17.58,Default,,0000,0000,0000,,{\fn黑体\fs24}不是我 真的超屌的{\r}\NNo. That was some good shit, man.
+Dialogue: 0,0:11:18.52,0:11:19.78,Default,,0000,0000,0000,,{\fn黑体\fs24}打得很精彩{\r}\NGreat fight.
+Dialogue: 0,0:11:34.87,0:11:37.17,Default,,0000,0000,0000,,{\fn黑体\fs24}刘伟的店 这个礼拜是两万六千{\r}\NWei Lu's store, twenty six thousand this week.
+Dialogue: 0,0:11:37.17,0:11:39.17,Default,,0000,0000,0000,,{\fn黑体\fs24}上个礼拜是26{\r}\NTwenty six last week.
+Dialogue: 0,0:11:39.17,0:11:42.07,Default,,0000,0000,0000,,{\fn黑体\fs24}何金每个礼拜是正好一万五千{\r}\NHojin is even at fifteen thousand a week.
+Dialogue: 0,0:11:42.71,0:11:44.78,Default,,0000,0000,0000,,{\fn黑体\fs24}他在75柏瑞斯的店{\r}\NHis store on Bowery St showed a profit for May.
+Dialogue: 0,0:11:44.78,0:11:45.31,Default,,0000,0000,0000,,{\fn黑体\fs24}（纽约中国城 一年后）{\r}
+Dialogue: 0,0:11:45.31,0:11:46.58,Default,,0000,0000,0000,,{\fn黑体\fs24}五月在赔钱{\r}
+Dialogue: 0,0:11:46.58,0:11:48.08,Default,,0000,0000,0000,,{\fn黑体\fs24}但七八月就赚回来了{\r}
+Dialogue: 0,0:11:48.08,0:11:49.05,Default,,0000,0000,0000,,{\fn黑体\fs24}但七八月就赚回来了{\r}\NCHlNATOWN, NY One year later His store on Bowery St showed a profit for May. CHlNATOWN, NY One year later
+Dialogue: 0,0:11:49.62,0:11:52.09,Default,,0000,0000,0000,,{\fn黑体\fs24}劭成上个礼拜是42{\r}\NCHlNATOWN, NY One year later Cheng Sao, forty two last week, forty two point five this week...
+Dialogue: 0,0:11:52.09,0:11:54.11,Default,,0000,0000,0000,,{\fn黑体\fs24}这个礼拜42.5{\r}\NCheng Sao, forty two last week, forty two point five this week...
+Dialogue: 0,0:11:54.29,0:11:57.09,Default,,0000,0000,0000,,{\fn黑体\fs24}每个月盈利成长百分之7{\r}\NHis shop is showing a seven percent increase in earnings every month.
+Dialogue: 0,0:11:57.09,0:11:58.56,Default,,0000,0000,0000,,{\fn黑体\fs24}马街的总共盈利…{\r}\Nln total Mott Street's earnings are up seventy two thousand,
+Dialogue: 0,0:11:58.56,0:12:02.50,Default,,0000,0000,0000,,{\fn黑体\fs24}是上升了7万2535{\r}\Nfive hundred and thirty five dollars.
+Dialogue: 0,0:12:02.60,0:12:05.70,Default,,0000,0000,0000,,{\fn黑体\fs24}我们从梁先生那里… 拿了百分之5{\r}\NOur other stores are all up five percent...
+Dialogue: 0,0:12:05.70,0:12:09.00,Default,,0000,0000,0000,,{\fn黑体\fs24}他们每个礼拜盈利六千到八千{\r}\Nweekly profits should be between six thousand and eight thousand each.
+Dialogue: 0,0:12:10.07,0:12:11.40,Default,,0000,0000,0000,,{\fn黑体\fs24}那赌场呢？{\r}\NAnd the Casino?
+Dialogue: 0,0:12:12.24,0:12:14.11,Default,,0000,0000,0000,,{\fn黑体\fs24}上个礼拜是八十万{\r}\NEight hundred thousand last week.
+Dialogue: 0,0:12:14.11,0:12:16.20,Default,,0000,0000,0000,,{\fn黑体\fs24}这个礼拜也是八十万{\r}\NThis week also eight hundred thousand.
+Dialogue: 0,0:12:18.15,0:12:20.68,Default,,0000,0000,0000,,{\fn黑体\fs24}刚好八十万整？{\r}\NExactly eight hundred thousand.
+Dialogue: 0,0:12:20.68,0:12:22.51,Default,,0000,0000,0000,,{\fn黑体\fs24}差不多八十万{\r}\Nlt's almost eight hundred.
+Dialogue: 0,0:12:26.69,0:12:29.06,Default,,0000,0000,0000,,{\fn黑体\fs24}我不是要大概的数字{\r}\Nl'm not asking you if it's almost eight hundred.
+Dialogue: 0,0:12:29.06,0:12:30.75,Default,,0000,0000,0000,,{\fn黑体\fs24}我要实际数字{\r}\Nl want the exact number.
+Dialogue: 0,0:12:31.49,0:12:35.12,Default,,0000,0000,0000,,{\fn黑体\fs24}78万5370元{\r}\NSeven hundred eighty five thousand three hundred and seventy dollars.
+Dialogue: 0,0:12:38.23,0:12:39.82,Default,,0000,0000,0000,,{\fn黑体\fs24}上个礼拜呢？{\r}\NAnd the week before?
+Dialogue: 0,0:12:40.83,0:12:42.10,Default,,0000,0000,0000,,{\fn黑体\fs24}钱少了{\r}\Nlt's losing money.
+Dialogue: 0,0:12:45.47,0:12:46.63,Default,,0000,0000,0000,,{\fn黑体\fs24}找死{\r}
+Dialogue: 0,0:12:58.79,0:12:59.88,Default,,0000,0000,0000,,{\fn黑体\fs24}停!{\r}
+Dialogue: 0,0:13:00.95,0:13:04.12,Default,,0000,0000,0000,,{\fn黑体\fs24}拜托不要打了{\r}
+Dialogue: 0,0:13:15.97,0:13:21.54,Default,,0000,0000,0000,,{\fn黑体\fs24}今晚你们会有个新的厂商工头{\r}\NYou'll have a new floor boss tonight.
+Dialogue: 0,0:13:21.54,0:13:25.45,Default,,0000,0000,0000,,{\fn黑体\fs24}如果钱又少了 那就不知道谁会倒霉{\r}\Nlf the tally comes up short again, he won't be the only one who suffers.
+Dialogue: 0,0:13:40.29,0:13:41.60,Default,,0000,0000,0000,,{\fn黑体\fs24}怎么了？{\r}\NWhat?
+Dialogue: 0,0:13:41.60,0:13:42.62,Default,,0000,0000,0000,,{\fn黑体\fs24}为什么？{\r}\NWhy?
+Dialogue: 0,0:13:43.46,0:13:46.87,Default,,0000,0000,0000,,{\fn黑体\fs24}因为他危害到生意 而生意是很重要的{\r}\NBecause he was hurting business, and business is a serious matter.
+Dialogue: 0,0:13:46.87,0:13:48.77,Default,,0000,0000,0000,,{\fn黑体\fs24}我懂生意{\r}\Nl understand business.
+Dialogue: 0,0:13:48.77,0:13:51.53,Default,,0000,0000,0000,,{\fn黑体\fs24}既然你要杀他，干嘛还要打他？{\r}\NBut why beat him if you're going to kill him anyway.
+Dialogue: 0,0:13:53.97,0:13:58.31,Default,,0000,0000,0000,,{\fn黑体\fs24}看来妳还是不懂这个生意{\r}\Nlf you're asking me that, it means you still don't understand business.
+Dialogue: 0,0:13:58.31,0:14:02.15,Default,,0000,0000,0000,,{\fn黑体\fs24}不说了，吃妳的饭{\r}\NNow be quiet and eat.
+Dialogue: 0,0:14:05.92,0:14:10.22,Default,,0000,0000,0000,,The chicken's gone, l killed them. My grandmother used to sing.
+Dialogue: 0,0:14:10.29,0:14:11.81,Default,,0000,0000,0000,,{\fn黑体\fs24}去你的!我操!{\r}\NOh fuck you! Fuck you!
+Dialogue: 0,0:14:13.06,0:14:15.29,Default,,0000,0000,0000,,No, no. Okay, you're wet. Pink.
+Dialogue: 0,0:14:16.60,0:14:17.86,Default,,0000,0000,0000,,Oh nothing, nothing.
+Dialogue: 0,0:14:17.86,0:14:18.70,Default,,0000,0000,0000,,{\fn黑体\fs24}你不能进来{\r}\NYou can't come in the shelter.
+Dialogue: 0,0:14:18.70,0:14:19.87,Default,,0000,0000,0000,,{\fn黑体\fs24}我只想吃点东西{\r}\Nl'm just trying to get something to eat, man!
+Dialogue: 0,0:14:19.87,0:14:22.77,Default,,0000,0000,0000,,{\fn黑体\fs24}你不准进来 先穿的象样点才说{\r}\NYou ain't going to eat in here. You got to get a shirt first. Just go back, man.
+Dialogue: 0,0:14:23.30,0:14:26.24,Default,,0000,0000,0000,,{\fn黑体\fs24}动作快，五分钟后熄灯{\r}\NWrap it up. Lights out in five.
+Dialogue: 0,0:14:28.14,0:14:29.44,Default,,0000,0000,0000,,{\fn黑体\fs24}动作快{\r}\NWrap it up.
+Dialogue: 0,0:14:31.24,0:14:32.47,Default,,0000,0000,0000,,{\fn黑体\fs24}配合一下{\r}\N Come on guys.
+Dialogue: 0,0:14:42.39,0:14:43.62,Default,,0000,0000,0000,,{\fn黑体\fs24}鞋子不赖{\r}\NNice kicks.
+Dialogue: 0,0:14:47.49,0:14:49.02,Default,,0000,0000,0000,,{\fn黑体\fs24}你最好别偷走它{\r}\NThey better be here in the morning...
+Dialogue: 0,0:14:50.43,0:14:52.13,Default,,0000,0000,0000,,{\fn黑体\fs24}否则我让你用耳朵穿鞋{\r}\N...or you'll be wearing them on your ears.
+Dialogue: 0,0:14:52.13,0:14:54.46,Default,,0000,0000,0000,,{\fn黑体\fs24}因为我会啃了你的脚{\r}\NBecause l'll chew your feet off at the God damn ankles.
+Dialogue: 0,0:15:08.05,0:15:10.04,Default,,0000,0000,0000,,{\fn黑体\fs24}我真的需要双新鞋{\r}\Nl could really use some new shoes, man.
+Dialogue: 0,0:15:11.28,0:15:12.98,Default,,0000,0000,0000,,{\fn黑体\fs24}我什么都愿意做{\r}\Nl'll do what ever you want, you know?
+Dialogue: 0,0:15:14.42,0:15:15.91,Default,,0000,0000,0000,,{\fn黑体\fs24}我可以让你舒服一下{\r}\NWhatever gets you through the night.
+Dialogue: 0,0:15:17.19,0:15:18.69,Default,,0000,0000,0000,,{\fn黑体\fs24}我很难受…{\r}\Nl just l can't take...
+Dialogue: 0,0:15:18.69,0:15:19.95,Default,,0000,0000,0000,,{\fn黑体\fs24}闭嘴…{\r}\NShut up, shut up.
+Dialogue: 0,0:15:22.30,0:15:25.32,Default,,0000,0000,0000,,{\fn黑体\fs24}你拿去吧 我还有别双鞋{\r}\NShut up and take 'em. l've still got my old ones.
+Dialogue: 0,0:15:27.07,0:15:28.90,Default,,0000,0000,0000,,{\fn黑体\fs24}去找医生看一下{\r}\NGo get those feet looked at.
+Dialogue: 0,0:15:30.64,0:15:32.30,Default,,0000,0000,0000,,{\fn黑体\fs24}都长坏疽了{\r}\NGangrene is setting in.
+Dialogue: 0,0:15:32.47,0:15:33.44,Default,,0000,0000,0000,,{\fn黑体\fs24}我会的{\r}\Nl will. 
+Dialogue: 0,0:15:34.74,0:15:35.83,Default,,0000,0000,0000,,{\fn黑体\fs24}谢谢你{\r}\NThank you, man.
+Dialogue: 0,0:15:36.94,0:15:38.41,Default,,0000,0000,0000,,{\fn黑体\fs24}上帝爱你，兄弟{\r}\NJesus loves you, brother.
+Dialogue: 0,0:15:38.78,0:15:40.21,Default,,0000,0000,0000,,{\fn黑体\fs24}上帝爱你{\r}\NJesus loves you.
+Dialogue: 0,0:15:47.32,0:15:50.46,Default,,0000,0000,0000,,{\fn黑体\fs24}熄灯了 早上七点准时起床{\r}\NLights out. Wake up call is seven AM. Lights out.
+Dialogue: 0,0:15:50.46,0:15:51.58,Default,,0000,0000,0000,,{\fn黑体\fs24}熄灯了{\r}\NLights out.
+Dialogue: 0,0:15:53.16,0:15:54.32,Default,,0000,0000,0000,,{\fn黑体\fs24}熄灯了{\r}\NLights out.
+Dialogue: 0,0:16:14.08,0:16:17.48,Default,,0000,0000,0000,,{\fn黑体\fs24}梅，我有个坏消息要告诉妳{\r}\NMei, l have sad news.
+Dialogue: 0,0:16:18.22,0:16:20.88,Default,,0000,0000,0000,,{\fn黑体\fs24}我听他们说…{\r}\Nl heard them talking.
+Dialogue: 0,0:16:21.52,0:16:22.99,Default,,0000,0000,0000,,{\fn黑体\fs24}妳妈死了{\r}\NYour mother is gone.
+Dialogue: 0,0:16:25.13,0:16:27.25,Default,,0000,0000,0000,,{\fn黑体\fs24}她两周前在医院走的{\r}\NShe died two weeks ago in the hospital.
+Dialogue: 0,0:16:27.99,0:16:30.09,Default,,0000,0000,0000,,{\fn黑体\fs24}他们想瞒着妳{\r}\NThey weren't going to tell you.
+Dialogue: 0,0:16:30.26,0:16:35.00,Default,,0000,0000,0000,,{\fn黑体\fs24}我想通知妳 让妳祷告让她上天堂{\r}\NBut l'm telling you, so that you can pray for her soul to find its way to heaven.
+Dialogue: 0,0:16:36.14,0:16:39.14,Default,,0000,0000,0000,,{\fn黑体\fs24}别跟他们提起 如果知道是我讲的…{\r}\NPlease don't say anything. lf they found out l told you.
+Dialogue: 0,0:16:39.14,0:16:42.04,Default,,0000,0000,0000,,{\fn黑体\fs24}我不会讲的，谢谢{\r}\Nl won't say anything. Thank you.
+Dialogue: 0,0:16:45.61,0:16:49.88,Default,,0000,0000,0000,,{\fn黑体\fs24}全部起床 收容所九点要净空{\r}\NEverybody up. Shelter needs to be cleared by nine AM.
+Dialogue: 0,0:16:49.88,0:16:56.52,Default,,0000,0000,0000,,{\fn黑体\fs24}记得三点半前先登记 请把随身物品带走{\r}\NRemember, reservations for tonight must be made before by three thirty.
+Dialogue: 0,0:17:28.99,0:17:30.75,Default,,0000,0000,0000,,{\fn黑体\fs24}能告诉我们发生什么事吗？{\r}\NSo you want to tell us what happened?
+Dialogue: 0,0:17:31.99,0:17:34.03,Default,,0000,0000,0000,,{\fn黑体\fs24}有人欣赏他的鞋{\r}\NSomeone liked his shoes.
+Dialogue: 0,0:17:34.03,0:17:36.43,Default,,0000,0000,0000,,{\fn黑体\fs24}真幽默，你觉得好笑吗？{\r}\NFunny guy. You think this is a joke?
+Dialogue: 0,0:17:36.90,0:17:39.63,Default,,0000,0000,0000,,{\fn黑体\fs24}你们这些警卫真无能{\r}\NYou know, you guys are a Hell of a crack Security Squad.
+Dialogue: 0,0:17:39.63,0:17:42.44,Default,,0000,0000,0000,,{\fn黑体\fs24}你昨晚睡他旁边 你应该救他才对{\r}\NYou were right here. You could have said something.
+Dialogue: 0,0:17:42.44,0:17:44.90,Default,,0000,0000,0000,,{\fn黑体\fs24}我看你是喝挂了吧？{\r}\NBut you were too busy sleeping off this contraband. Right?
+Dialogue: 0,0:17:45.94,0:17:48.01,Default,,0000,0000,0000,,{\fn黑体\fs24}你再有胆来这里{\r}\NCome into this shelter again,
+Dialogue: 0,0:17:48.01,0:17:50.84,Default,,0000,0000,0000,,{\fn黑体\fs24}我就把你这垃圾扔出去{\r}\Nand l will run your raggedy ass back out into the street.
+Dialogue: 0,0:18:17.40,0:18:22.61,Default,,0000,0000,0000,,{\fn黑体\fs24}阿梅啊 到妳房间去 记住这些数字好不好？{\r}\Nl want you to take this to your room and l want you to memorize it. Then...
+Dialogue: 0,0:18:22.61,0:18:23.94,Default,,0000,0000,0000,,{\fn黑体\fs24}我已经记住了{\r}\Nl've memorized it.
+Dialogue: 0,0:18:25.85,0:18:28.41,Default,,0000,0000,0000,,{\fn黑体\fs24}这些数字很重要{\r}\NThis is an extremely important number.
+Dialogue: 0,0:18:29.08,0:18:32.58,Default,,0000,0000,0000,,{\fn黑体\fs24}为了妳妈，妳要小心一点 知道吗？{\r}\NFor your mother's sake, answer me carefully.
+Dialogue: 0,0:18:33.32,0:18:35.15,Default,,0000,0000,0000,,{\fn黑体\fs24}妳真的记住了？{\r}\NAre you sure you have memorized it?
+Dialogue: 0,0:18:35.96,0:18:39.65,Default,,0000,0000,0000,,{\fn黑体\fs24}我可以给你重复一遍 但是又长又无聊{\r}\Nl can repeat it for you, but it would be long and boring.
+Dialogue: 0,0:18:44.93,0:18:49.46,Default,,0000,0000,0000,,{\fn黑体\fs24}你看 还不到一年 她已经像老美了{\r}\NLook at that. here hardly for a year, and already she has American attitude.
+Dialogue: 0,0:18:50.90,0:18:54.14,Default,,0000,0000,0000,,{\fn黑体\fs24}如果她说她可以背住密码{\r}\Nlf she says she remembers it,
+Dialogue: 0,0:18:54.14,0:18:56.01,Default,,0000,0000,0000,,{\fn黑体\fs24}她就能背住密码{\r}\Nshe remembers it.
+Dialogue: 0,0:18:56.01,0:18:57.14,Default,,0000,0000,0000,,{\fn黑体\fs24}我保证{\r}\Nl can vouch for that.
+Dialogue: 0,0:18:58.98,0:19:00.45,Default,,0000,0000,0000,,{\fn黑体\fs24}好啦…{\r}
+Dialogue: 0,0:19:01.11,0:19:04.95,Default,,0000,0000,0000,,{\fn黑体\fs24}我们要交给妳一个很重要的工作{\r}\NThen l have a very important job for you.
+Dialogue: 0,0:19:16.43,0:19:17.76,Default,,0000,0000,0000,,{\fn黑体\fs24}走路小心一点!{\r}\NHey! Watch where you're going, man!
+Dialogue: 0,0:19:18.16,0:19:20.29,Default,,0000,0000,0000,,{\fn黑体\fs24}当心我揍你!{\r}\NYou could get your ass kicked for that. Okay? Huh?
+Dialogue: 0,0:19:30.51,0:19:31.74,Default,,0000,0000,0000,,{\fn黑体\fs24}四块五毛五{\r}\NFour fifty five.
+Dialogue: 0,0:19:36.18,0:19:38.08,Default,,0000,0000,0000,,{\fn黑体\fs24}如果没钱就请离开{\r}\Nlf you got no money, you got to get out of line.
+Dialogue: 0,0:19:38.08,0:19:39.31,Default,,0000,0000,0000,,{\fn黑体\fs24}我有钱{\r}\Nl got money.
+Dialogue: 0,0:19:40.75,0:19:42.46,Default,,0000,0000,0000,,{\fn黑体\fs24}他根本没钱{\r}\NHe doesn't have any money. Look at him.
+Dialogue: 0,0:19:42.46,0:19:45.91,Default,,0000,0000,0000,,{\fn黑体\fs24}你看他的样子 先生，我说过了 如果没钱就请离开{\r}\NMister, l told you, if you don't have money you have to leave. Okay?
+Dialogue: 0,0:19:46.66,0:19:48.65,Default,,0000,0000,0000,,{\fn黑体\fs24}不要挡路，大家都在等{\r}\NYou have to get out of line. People are waiting.
+Dialogue: 0,0:19:49.73,0:19:51.29,Default,,0000,0000,0000,,{\fn黑体\fs24}帮个忙，请你离开{\r}\NCome on buddy, you have to go.
+Dialogue: 0,0:20:09.52,0:20:10.68,Default,,0000,0000,0000,,{\fn黑体\fs24}他在捣乱吗？{\r}\Nls this guy giving you trouble?
+Dialogue: 0,0:20:10.68,0:20:12.79,Default,,0000,0000,0000,,{\fn黑体\fs24}他疯了，长官 请把他赶出去{\r}\NHe's crazy officer, get him out of here.
+Dialogue: 0,0:20:12.79,0:20:13.98,Default,,0000,0000,0000,,{\fn黑体\fs24}来，咱们离开吧{\r}\NAlright come on, let us go.
+Dialogue: 0,0:20:14.32,0:20:17.88,Default,,0000,0000,0000,,{\fn黑体\fs24}就是你，走吧 快离开这家店!{\r}\NHey you! Come on, lets go! Out, on the street!
+Dialogue: 0,0:20:18.06,0:20:20.79,Default,,0000,0000,0000,,{\fn黑体\fs24}走吧，风趣男 想当小丑就去马戏团{\r}\NLet us go funny boy. You want to be a clown, go join the circus, not in my Precinct.
+Dialogue: 0,0:20:20.79,0:20:24.76,Default,,0000,0000,0000,,{\fn黑体\fs24}别在这闹事，听到没有？ 我不想再看到你{\r}\NYou hear me? l don't want to see you around here. Hey.
+Dialogue: 0,0:20:27.37,0:20:29.13,Default,,0000,0000,0000,,{\fn黑体\fs24}我的天啊{\r}\NJesus Christ.
+Dialogue: 0,0:20:29.64,0:20:31.23,Default,,0000,0000,0000,,{\fn黑体\fs24}猜我抓到谁了？{\r}\NLook at what the cat dragged in.
+Dialogue: 0,0:20:37.34,0:20:39.00,Default,,0000,0000,0000,,{\fn黑体\fs24}真不敢相信{\r}\NUnbelievable.
+Dialogue: 0,0:20:39.71,0:20:40.94,Default,,0000,0000,0000,,{\fn黑体\fs24}你看看他{\r}\N Look at him.
+Dialogue: 0,0:20:41.58,0:20:42.71,Default,,0000,0000,0000,,{\fn黑体\fs24}看看他？{\r}\NLook at him?
+Dialogue: 0,0:20:42.95,0:20:44.71,Default,,0000,0000,0000,,{\fn黑体\fs24}不如闻闻吧{\r}\NHow about the smell?
+Dialogue: 0,0:20:45.79,0:20:47.22,Default,,0000,0000,0000,,{\fn黑体\fs24}我联络其它人{\r}\Nl'll call the boys.
+Dialogue: 0,0:20:48.89,0:20:51.93,Default,,0000,0000,0000,,{\fn黑体\fs24}阿梅，这是妳的指令{\r}\NMei, these are your instructions:
+Dialogue: 0,0:20:51.93,0:20:57.73,Default,,0000,0000,0000,,{\fn黑体\fs24}张会带妳去见一个人 那个人会给妳一组新的数字{\r}\NChang will take you to meet a man who has a second number...
+Dialogue: 0,0:20:57.73,0:20:59.90,Default,,0000,0000,0000,,{\fn黑体\fs24}记住那组数字{\r}\NYou will memorize it.
+Dialogue: 0,0:20:59.90,0:21:03.84,Default,,0000,0000,0000,,{\fn黑体\fs24}然后呢… 张会带妳去一个地方{\r}\NThen you'll be taken to another location,
+Dialogue: 0,0:21:03.84,0:21:06.47,Default,,0000,0000,0000,,{\fn黑体\fs24}妳会得到最后的指令{\r}\Nwhere your final instructions will be given to you.
+Dialogue: 0,0:21:12.25,0:21:13.68,Default,,0000,0000,0000,,{\fn黑体\fs24}想念我们吗？{\r}\NYou miss us partner?
+Dialogue: 0,0:21:15.25,0:21:17.01,Default,,0000,0000,0000,,{\fn黑体\fs24}欢迎你归队{\r}\NWelcome back to the force.
+Dialogue: 0,0:21:19.29,0:21:22.56,Default,,0000,0000,0000,,{\fn黑体\fs24}梅，妳学得很快{\r}\NYou're learning fast.
+Dialogue: 0,0:21:22.56,0:21:23.76,Default,,0000,0000,0000,,{\fn黑体\fs24}如果干得好{\r}\Nlf you do this job well,
+Dialogue: 0,0:21:23.76,0:21:26.95,Default,,0000,0000,0000,,{\fn黑体\fs24}妳会跟着韩叔前途无量{\r}\Nyou have a bright future in business with Uncle Han.
+Dialogue: 0,0:21:38.81,0:21:40.97,Default,,0000,0000,0000,,{\fn黑体\fs24}对不起，不能让妳落入他们手中{\r}\Nl'm sorry. l can't let them have you.
+Dialogue: 0,0:21:59.23,0:22:00.76,Default,,0000,0000,0000,,{\fn黑体\fs24}今天过得好吗，路克？{\r}\NHow's your day been, Luke?
+Dialogue: 0,0:22:00.76,0:22:04.03,Default,,0000,0000,0000,,{\fn黑体\fs24}早上不太顺 不过渐入佳境啦{\r}\NStarted lousy. But it's looking up.
+Dialogue: 0,0:22:07.20,0:22:08.27,Default,,0000,0000,0000,,{\fn黑体\fs24}路克莱特{\r}\NLuke Wright, the Big Apple's hardest cop.
+Dialogue: 0,0:22:08.27,0:22:13.31,Default,,0000,0000,0000,,{\fn黑体\fs24}曾是纽约最难缠的条子 你很能打{\r}\NOnce upon a time. Always could take a shot.
+Dialogue: 0,0:22:13.31,0:22:15.04,Default,,0000,0000,0000,,{\fn黑体\fs24}但你知道你的专长是啥吗？{\r}\NBut you know what your real talent is? You're a uniter.
+Dialogue: 0,0:22:15.04,0:22:17.11,Default,,0000,0000,0000,,{\fn黑体\fs24}当招集人 有谁想得到…{\r}\Nl mean, who'd have thought that us and the Ruskies
+Dialogue: 0,0:22:17.11,0:22:19.85,Default,,0000,0000,0000,,{\fn黑体\fs24}我们和老俄这么有默契{\r}\Nwould ever be on the same page about anything?
+Dialogue: 0,0:22:19.85,0:22:21.01,Default,,0000,0000,0000,,{\fn黑体\fs24}不是我{\r}\NNot me.
+Dialogue: 0,0:22:21.28,0:22:23.18,Default,,0000,0000,0000,,{\fn黑体\fs24}很高兴见到你{\r}\NNice to see you, rat.
+Dialogue: 0,0:22:23.18,0:22:26.52,Default,,0000,0000,0000,,{\fn黑体\fs24}我老早就看你不顺眼了!{\r}\Nl've been wanting to do this ever since the day you opened your big fucking mouth!
+Dialogue: 0,0:22:30.49,0:22:34.39,Default,,0000,0000,0000,,{\fn黑体\fs24}多切斯基的事我们听说了 真是大快人心{\r}\NWe heard what Docheski did to you. l mean, l had to laugh.
+Dialogue: 0,0:22:34.63,0:22:38.00,Default,,0000,0000,0000,,{\fn黑体\fs24}我们真替安妮惋惜 只能算她倒霉{\r}\Nl mean, we felt bad for Annie and all but them's the breaks.
+Dialogue: 0,0:22:38.00,0:22:39.53,Default,,0000,0000,0000,,{\fn黑体\fs24}嫁到这种烂老公{\r}\NShe knew who she was with.
+Dialogue: 0,0:22:39.53,0:22:41.40,Default,,0000,0000,0000,,{\fn黑体\fs24}听到你出现的消息{\r}\NWhen word come up you were on the street you were back.
+Dialogue: 0,0:22:41.40,0:22:43.17,Default,,0000,0000,0000,,{\fn黑体\fs24}我们真是不敢相信{\r}\NWe couldn't believe our fucking ears.
+Dialogue: 0,0:22:43.17,0:22:44.64,Default,,0000,0000,0000,,{\fn黑体\fs24}你回来干嘛？{\r}\NNow, why would you come back?
+Dialogue: 0,0:22:44.64,0:22:47.24,Default,,0000,0000,0000,,{\fn黑体\fs24}为何就不能滚远一点？{\r}\NWhy wouldn't you disappear somewhere far away?
+Dialogue: 0,0:22:47.24,0:22:48.57,Default,,0000,0000,0000,,{\fn黑体\fs24}例如去月球之类的{\r}\NLike the Moon.
+Dialogue: 0,0:22:49.18,0:22:50.67,Default,,0000,0000,0000,,{\fn黑体\fs24}我想家{\r}\Nl missed home.
+Dialogue: 0,0:22:54.61,0:22:57.68,Default,,0000,0000,0000,,{\fn黑体\fs24}你曾是我们的一员 我们曾是伙伴{\r}\NYou were one of us, Luke. We were a team.
+Dialogue: 0,0:22:57.68,0:23:00.62,Default,,0000,0000,0000,,{\fn黑体\fs24}就像家人一样 结果你背叛我们{\r}\NWe were family. Then you threw us under the bus.
+Dialogue: 0,0:23:00.62,0:23:02.45,Default,,0000,0000,0000,,{\fn黑体\fs24}我们以前是皇帝!{\r}\NWe were Kings, you son of a bitch!
+Dialogue: 0,0:23:03.02,0:23:05.62,Default,,0000,0000,0000,,{\fn黑体\fs24}现在沦为一群奴隶!{\r}\NNow, we are a bunch of god damned serfrs!
+Dialogue: 0,0:23:09.60,0:23:11.22,Default,,0000,0000,0000,,{\fn黑体\fs24}冷静点，班诺{\r}\NWhoa, whoa. Hey, hey, hey, easy Benoit.
+Dialogue: 0,0:23:15.40,0:23:18.17,Default,,0000,0000,0000,,{\fn黑体\fs24}你既然敢回来 应该就是活腻了{\r}\NWhen you come back, We figured you wanted to die.
+Dialogue: 0,0:23:18.17,0:23:20.54,Default,,0000,0000,0000,,{\fn黑体\fs24}有很多方法可以死{\r}\NYou know, we got a pool going on when you're going to end it, and how.
+Dialogue: 0,0:23:20.54,0:23:24.17,Default,,0000,0000,0000,,{\fn黑体\fs24}撞公交车、跳火车…{\r}\NYou know. Bus, train...
+Dialogue: 0,0:23:24.61,0:23:26.88,Default,,0000,0000,0000,,{\fn黑体\fs24}我赌你被警枪打死{\r}\Nl got my money on suicide by cop.
+Dialogue: 0,0:23:28.78,0:23:29.94,Default,,0000,0000,0000,,{\fn黑体\fs24}拿去吧{\r}\NCome on, take it.
+Dialogue: 0,0:23:31.42,0:23:33.54,Default,,0000,0000,0000,,{\fn黑体\fs24}一枪就解脱了{\r}\NTake a shot. Come on.
+Dialogue: 0,0:23:34.15,0:23:36.36,Default,,0000,0000,0000,,{\fn黑体\fs24}安妮正等着你呢{\r}\NAnnie's waiting for you.
+Dialogue: 0,0:23:36.36,0:23:39.72,Default,,0000,0000,0000,,{\fn黑体\fs24}问题是…她会想见你吗？{\r}\NQuestion is, do you really think she wants to see you again?
+Dialogue: 0,0:23:41.63,0:23:43.22,Default,,0000,0000,0000,,{\fn黑体\fs24}其实我真正的专长…{\r}\NActually, my real talent
+Dialogue: 0,0:23:43.86,0:23:45.39,Default,,0000,0000,0000,,{\fn黑体\fs24}是害人赔钱{\r}\Nis costing other people money.
+Dialogue: 0,0:23:47.70,0:23:51.73,Default,,0000,0000,0000,,{\fn黑体\fs24}先提醒你，莱斯基 你会赌输的{\r}\NYou ought to know that, Lasky. You're going to lose that bet.
+Dialogue: 0,0:23:52.84,0:23:54.33,Default,,0000,0000,0000,,{\fn黑体\fs24}除非你从背后开抢{\r}\NUnless you want to shoot me in the back.
+Dialogue: 0,0:23:54.91,0:23:56.34,Default,,0000,0000,0000,,{\fn黑体\fs24}反正你也习惯了{\r}\Nlt wouldn't be your first time.
+Dialogue: 0,0:23:58.31,0:23:59.84,Default,,0000,0000,0000,,{\fn黑体\fs24}你为何不自我了结？{\r}\NWhy don't you just end it?
+Dialogue: 0,0:24:01.08,0:24:02.38,Default,,0000,0000,0000,,{\fn黑体\fs24}你还在等什么？{\r}\NWhat are you waiting for,
+Dialogue: 0,0:24:03.12,0:24:04.85,Default,,0000,0000,0000,,{\fn黑体\fs24}想害死更多人吗？{\r}\Nmore people around you to die?
+Dialogue: 0,0:24:08.15,0:24:09.78,Default,,0000,0000,0000,,{\fn黑体\fs24}你到底在等什么？{\r}\NWhat are you waiting for?
+Dialogue: 0,0:24:10.89,0:24:14.59,Default,,0000,0000,0000,,{\fn黑体\fs24}我再说一次 把号码说出来{\r}\NFor the last time. Give me the numbers.
+Dialogue: 0,0:24:31.64,0:24:35.27,Default,,0000,0000,0000,,{\fn黑体\fs24}妳既勇敢又聪明{\r}\NYou're a very brave girl, and clever.
+Dialogue: 0,0:24:36.65,0:24:40.05,Default,,0000,0000,0000,,{\fn黑体\fs24}但妳知道自己的天分吗？{\r}\NBut do you know how exactly what you can do?
+Dialogue: 0,0:24:40.05,0:24:44.06,Default,,0000,0000,0000,,{\fn黑体\fs24}知道该用在什么地方吗？{\r}\NWhere you're going to be and when?
+Dialogue: 0,0:24:44.06,0:24:45.29,Default,,0000,0000,0000,,{\fn黑体\fs24}有人告诉你了{\r}\NSomeone told you.
+Dialogue: 0,0:24:45.29,0:24:48.86,Default,,0000,0000,0000,,{\fn黑体\fs24}没错 妳知道是谁吗？{\r}\NThat's right. Can you guess who?
+Dialogue: 0,0:24:52.00,0:24:53.47,Default,,0000,0000,0000,,{\fn黑体\fs24}让她进来{\r}\NLet her in.
+Dialogue: 0,0:24:57.07,0:25:01.11,Default,,0000,0000,0000,,{\fn黑体\fs24}妳的朋友 她告诉妳母亲的事{\r}\NA friend. The one who told you who told you about your poor mother.
+Dialogue: 0,0:25:01.11,0:25:03.51,Default,,0000,0000,0000,,{\fn黑体\fs24}而诱拐妳的人却想隐瞒{\r}\NWhen the scum who took you from home would not.
+Dialogue: 0,0:25:03.51,0:25:07.67,Default,,0000,0000,0000,,{\fn黑体\fs24}她和我们合作愉快{\r}\NShe's working for us with a smile.
+Dialogue: 0,0:25:10.02,0:25:14.25,Default,,0000,0000,0000,,{\fn黑体\fs24}梅，我跟他们讲他们想知道的事情{\r}\NMei, l tell these men what they want to know,
+Dialogue: 0,0:25:14.25,0:25:17.96,Default,,0000,0000,0000,,{\fn黑体\fs24}他们就给我一把一把的钱{\r}\Nand they pay me lots and lots of money.
+Dialogue: 0,0:25:17.96,0:25:20.72,Default,,0000,0000,0000,,{\fn黑体\fs24}妳要是这么做 他们也会帮助妳的{\r}\NDo the same and they will help you too.
+Dialogue: 0,0:25:22.36,0:25:23.83,Default,,0000,0000,0000,,{\fn黑体\fs24}妳真是个笨女人{\r}\NYou are a stupid woman.
+Dialogue: 0,0:25:23.83,0:25:25.40,Default,,0000,0000,0000,,{\fn黑体\fs24}讲英文{\r}\Nln English.
+Dialogue: 0,0:25:25.40,0:25:29.74,Default,,0000,0000,0000,,{\fn黑体\fs24}妳不知道生意 妳给他们要的东西 现在他们要杀了妳{\r}\NYou gave them what they want, now they're going to kill you.
+Dialogue: 0,0:25:29.74,0:25:32.40,Default,,0000,0000,0000,,{\fn黑体\fs24}我叫妳说英文{\r}\Nl said, speak in English. 
+Dialogue: 0,0:25:33.21,0:25:34.76,Default,,0000,0000,0000,,{\fn黑体\fs24}听到没？{\r}\NWell?
+Dialogue: 0,0:25:36.91,0:25:39.78,Default,,0000,0000,0000,,{\fn黑体\fs24}她不肯说{\r}\NShe won't tell me anything.
+Dialogue: 0,0:25:41.98,0:25:44.18,Default,,0000,0000,0000,,{\fn黑体\fs24}我父亲很有耐性{\r}\NMy father is a patient man.
+Dialogue: 0,0:25:44.92,0:25:46.11,Default,,0000,0000,0000,,{\fn黑体\fs24}我没有{\r}\Nl am not.
+Dialogue: 0,0:25:47.39,0:25:49.95,Default,,0000,0000,0000,,{\fn黑体\fs24}快说出来，不然杀了妳{\r}\NTell him what he wants to know, or l will kill you.
+Dialogue: 0,0:25:50.69,0:25:52.86,Default,,0000,0000,0000,,{\fn黑体\fs24}警察，快开门{\r}\NNYPD, open the door!
+Dialogue: 0,0:25:52.86,0:25:57.19,Default,,0000,0000,0000,,{\fn黑体\fs24}搞什么鬼？ 我们是警察 邻居检举你们太吵{\r}\NWhat the Hell? This is the Police. We got a report of a disturbance.
+Dialogue: 0,0:26:00.70,0:26:03.76,Default,,0000,0000,0000,,{\fn黑体\fs24}你们可以乖乖听话 我们也能来硬的{\r}\NLook, you can make this easy, or you can it hard.
+Dialogue: 0,0:26:03.87,0:26:06.87,Default,,0000,0000,0000,,{\fn黑体\fs24}快开门，否则我们就冲进去{\r}\NOpen the door, or we come in by force!
+Dialogue: 0,0:26:06.87,0:26:08.11,Default,,0000,0000,0000,,{\fn黑体\fs24}听你在放屁!{\r}\NBull shit Blue!
+Dialogue: 0,0:26:08.11,0:26:11.37,Default,,0000,0000,0000,,{\fn黑体\fs24}你们敢进来老子保证干掉你们!{\r}\NYou come in here, you go out feet first. l swear on my mother!
+Dialogue: 0,0:26:15.31,0:26:16.98,Default,,0000,0000,0000,,{\fn黑体\fs24}人都在里面，队长{\r}\NYeah, they're in there Captain.
+Dialogue: 0,0:26:16.98,0:26:18.25,Default,,0000,0000,0000,,{\fn黑体\fs24}我不知道你的目的{\r}\Nl don't know what the Hell you're looking for
+Dialogue: 0,0:26:18.25,0:26:19.78,Default,,0000,0000,0000,,{\fn黑体\fs24}但他们不肯配合{\r}\Nbut they are not cooperating.
+Dialogue: 0,0:26:20.02,0:26:22.12,Default,,0000,0000,0000,,{\fn黑体\fs24}我们得在场面失控前冲进去{\r}\NYou'd better get down here before things go to Hell.
+Dialogue: 0,0:26:22.12,0:26:24.12,Default,,0000,0000,0000,,{\fn黑体\fs24}不行…这是大事件{\r}\NNegative, negative, this is big.
+Dialogue: 0,0:26:24.12,0:26:25.96,Default,,0000,0000,0000,,{\fn黑体\fs24}我要回警局掌控情势{\r}\Nl'm going back to the station to monitor the city.
+Dialogue: 0,0:26:25.96,0:26:27.02,Default,,0000,0000,0000,,{\fn黑体\fs24}待会打给你{\r}\Nl'll get back to you.
+Dialogue: 0,0:26:28.16,0:26:29.36,Default,,0000,0000,0000,,{\fn黑体\fs24}我们包围他们了{\r}\NAlright, we've got them pinned down, you know what l want.
+Dialogue: 0,0:26:29.36,0:26:31.80,Default,,0000,0000,0000,,{\fn黑体\fs24}你知道我要什么 我们有过协议{\r}\NWe have a deal.
+Dialogue: 0,0:26:31.80,0:26:36.47,Default,,0000,0000,0000,,{\fn黑体\fs24}能抢回女孩就留活口 不能的话就杀了她{\r}\NGet the girl. Alive if you can, dead if you can't .
+Dialogue: 0,0:26:36.47,0:26:38.54,Default,,0000,0000,0000,,{\fn黑体\fs24}派人进去，布鲁克林要涨十趴{\r}\NWe go in, Brooklyn stake goes up by ten percent.
+Dialogue: 0,0:26:38.54,0:26:39.87,Default,,0000,0000,0000,,{\fn黑体\fs24}这是新价码{\r}\NThat's the new deal.
+Dialogue: 0,0:26:40.47,0:26:41.87,Default,,0000,0000,0000,,{\fn黑体\fs24}等等，我接个插播{\r}\NHold on, l got an incoming call.
+Dialogue: 0,0:26:43.94,0:26:45.41,Default,,0000,0000,0000,,{\fn黑体\fs24}艾米尔，有何贵干？{\r}\NHey, Emile. What's up?
+Dialogue: 0,0:26:45.41,0:26:47.41,Default,,0000,0000,0000,,{\fn黑体\fs24}叫你的人走，沃夫{\r}\NBack your men off, Wolf.
+Dialogue: 0,0:26:47.41,0:26:52.48,Default,,0000,0000,0000,,{\fn黑体\fs24}不管老中给你多少 我多出五趴{\r}\NWhatever the Chinese offer to you, l'll up it by five percent.
+Dialogue: 0,0:26:56.32,0:26:57.52,Default,,0000,0000,0000,,{\fn黑体\fs24}把她抓回来!{\r}\NGet here back here!
+Dialogue: 0,0:27:09.04,0:27:12.84,Default,,0000,0000,0000,,{\fn黑体\fs24}阿宽，老俄愿意加七趴{\r}\NAlright Quan, l have the Russians offering up Brooklyn's stake by seven percent, Bronx is the same.
+Dialogue: 0,0:27:12.84,0:27:15.17,Default,,0000,0000,0000,,{\fn黑体\fs24}布隆克斯维持现状 我不知该如何启齿{\r}\Nl don't know what to tell you.
+Dialogue: 0,0:27:15.17,0:27:17.68,Default,,0000,0000,0000,,{\fn黑体\fs24}下面的人不介意开战{\r}\Nl talked to my guys, they're willing to go to war over this.
+Dialogue: 0,0:27:17.68,0:27:21.78,Default,,0000,0000,0000,,{\fn黑体\fs24}你将与我们为敌 像希特勒一样被围攻{\r}\NYou know, you're going to be stuck between us and the Russians and us like Hitler; fighting on two fronts.
+Dialogue: 0,0:27:21.78,0:27:23.72,Default,,0000,0000,0000,,{\fn黑体\fs24}建议你好好考虑一下{\r}\NSo you had better think hard about this one.
+Dialogue: 0,0:27:24.22,0:27:27.28,Default,,0000,0000,0000,,{\fn黑体\fs24}两个管区各加十趴 不要拉倒{\r}\NTen percent, both precincts; final offer.
+Dialogue: 0,0:27:37.83,0:27:39.33,Default,,0000,0000,0000,,{\fn黑体\fs24}嘿，麦克{\r}\NHey Mack, both these bastards are willing to pay a stiff price
+Dialogue: 0,0:27:39.33,0:27:42.67,Default,,0000,0000,0000,,{\fn黑体\fs24}两帮人都开高价抢那个女孩{\r}\Nfor this little Chink girl.
+Dialogue: 0,0:27:42.67,0:27:44.84,Default,,0000,0000,0000,,{\fn黑体\fs24}我要她身上的东西{\r}\NWhat ever she's got, l want it.
+Dialogue: 0,0:27:44.84,0:27:46.07,Default,,0000,0000,0000,,{\fn黑体\fs24}我们该怎么做？{\r}\NSo what is our play?
+Dialogue: 0,0:27:46.07,0:27:47.57,Default,,0000,0000,0000,,{\fn黑体\fs24}我让老俄放下戒心{\r}\Nl get the Russians to drop their guard, you go in.
+Dialogue: 0,0:27:47.57,0:27:49.84,Default,,0000,0000,0000,,{\fn黑体\fs24}你们冲进去 如果女孩中枪{\r}\Nlf she catches a bullet l want you to take out everyone
+Dialogue: 0,0:27:49.84,0:27:53.61,Default,,0000,0000,0000,,{\fn黑体\fs24}就把那群人渣全杀光{\r}\Nlast one of those Bolshevik scumbags.
+Dialogue: 0,0:27:54.05,0:27:56.58,Default,,0000,0000,0000,,{\fn黑体\fs24}艾米尔，我接受条件{\r}\NAlright Emile, your offer is good.
+Dialogue: 0,0:27:56.58,0:27:59.99,Default,,0000,0000,0000,,{\fn黑体\fs24}我会叫人撤退 因为我比较喜欢你{\r}\Nl'm going to call my guys off, but only because l like you better.
+Dialogue: 0,0:27:59.99,0:28:03.66,Default,,0000,0000,0000,,{\fn黑体\fs24}放你个屁 你这贪心的混蛋{\r}\NBullshit. You're a greedy bastard, Wolf.
+Dialogue: 0,0:28:03.66,0:28:07.16,Default,,0000,0000,0000,,{\fn黑体\fs24}你一看到有好处 就想占尽便宜{\r}\NYou got the scent of something big and now you want it all for yourself.
+Dialogue: 0,0:28:08.23,0:28:12.75,Default,,0000,0000,0000,,{\fn黑体\fs24}在你的人进来大开杀戒前 我得先跟你说{\r}\NBut l have to pay something before you send your men in gun blazing.
+Dialogue: 0,0:28:12.93,0:28:15.03,Default,,0000,0000,0000,,{\fn黑体\fs24}她不见了{\r}\NShe is gone.
+Dialogue: 0,0:28:15.03,0:28:16.30,Default,,0000,0000,0000,,{\fn黑体\fs24}什么叫她不见了？{\r}\NWhat do you mean, she is gone?
+Dialogue: 0,0:28:16.97,0:28:18.74,Default,,0000,0000,0000,,{\fn黑体\fs24}她逃走了{\r}\Nl mean, she escaped.
+Dialogue: 0,0:28:18.74,0:28:21.54,Default,,0000,0000,0000,,{\fn黑体\fs24}外面都是你的人 我不能追出去{\r}\NAnd will all your men out there l can't follow.
+Dialogue: 0,0:28:21.54,0:28:24.14,Default,,0000,0000,0000,,{\fn黑体\fs24}找到她之前先休战吧{\r}\Nl offer you a truce until we find her.
+Dialogue: 0,0:28:24.14,0:28:26.61,Default,,0000,0000,0000,,{\fn黑体\fs24}相信我，如果老中先找到她{\r}\NTrust me, if the Chinese find her first,
+Dialogue: 0,0:28:26.61,0:28:30.14,Default,,0000,0000,0000,,{\fn黑体\fs24}你会后悔一辈子的{\r}\Nthat will be a thing you regret as long as you live.
+Dialogue: 0,0:28:30.45,0:28:32.44,Default,,0000,0000,0000,,{\fn黑体\fs24}多切斯基{\r}\NDocheski, 
+Dialogue: 0,0:28:32.59,0:28:34.39,Default,,0000,0000,0000,,{\fn黑体\fs24}她为何这么重要？{\r}\Nwhat does she have?
+Dialogue: 0,0:28:34.39,0:28:36.86,Default,,0000,0000,0000,,{\fn黑体\fs24}要休战吗，沃夫队长？{\r}\NDo we have a truce, Captain Wolf?
+Dialogue: 0,0:28:39.86,0:28:42.16,Default,,0000,0000,0000,,{\fn黑体\fs24}是个中国女孩，年约十一岁{\r}\NThe girl is Chinese, eleven years old.
+Dialogue: 0,0:28:42.16,0:28:43.99,Default,,0000,0000,0000,,{\fn黑体\fs24}会说中文和英文{\r}\NShe speaks Mandarin and English.
+Dialogue: 0,0:28:45.97,0:28:47.53,Default,,0000,0000,0000,,{\fn黑体\fs24}照片已经公布了{\r}\NHer photo is being disseminated.
+Dialogue: 0,0:28:47.53,0:28:50.73,Default,,0000,0000,0000,,{\fn黑体\fs24}一定要找到她 找到就带到中央街{\r}\NYou are to find her and bring her straight to Center Street.
+Dialogue: 0,0:28:54.94,0:28:57.50,Default,,0000,0000,0000,,{\fn黑体\fs24}动作快 她朝着地铁站去了{\r}\NMove now, she is headed for subway.
+Dialogue: 0,0:29:03.28,0:29:05.22,Default,,0000,0000,0000,,{\fn黑体\fs24}警察跟我们干上了{\r}\NThe police have screwed us.
+Dialogue: 0,0:29:06.35,0:29:07.42,Default,,0000,0000,0000,,{\fn黑体\fs24}是吗？{\r}\Nls that so?
+Dialogue: 0,0:29:07.42,0:29:08.92,Default,,0000,0000,0000,,{\fn黑体\fs24}你没有办法？{\r}\NThat's all you have to say?
+Dialogue: 0,0:29:08.92,0:29:11.75,Default,,0000,0000,0000,,{\fn黑体\fs24}你这个不动脑筋的笨蛋{\r}\NYou're an idiot.
+Dialogue: 0,0:29:12.29,0:29:17.45,Default,,0000,0000,0000,,{\fn黑体\fs24}如果让警察和俄国人… 先找到那个女孩{\r}\Nlf you don't find the girl before the police do...
+Dialogue: 0,0:29:17.86,0:29:20.16,Default,,0000,0000,0000,,{\fn黑体\fs24}我就砍了你的人头{\r}\Nyour head will be gone in an instant.
+Dialogue: 0,0:29:29.21,0:29:30.44,Default,,0000,0000,0000,,{\fn黑体\fs24}我们开打吧{\r}\NLet's go to war.
+Dialogue: 0,0:29:59.14,0:30:00.37,Default,,0000,0000,0000,,{\fn黑体\fs24}对不起，安妮{\r}\NSorry, Annie.
+Dialogue: 0,0:32:08.57,0:32:11.23,Default,,0000,0000,0000,,{\fn黑体\fs24}俄罗斯人在J街消失了{\r}\NLost my lock on the Russian Cell on " J" Street.
+Dialogue: 0,0:32:12.04,0:32:14.40,Default,,0000,0000,0000,,{\fn黑体\fs24}看来是进了地铁站{\r}\NSounds like they went into the Subway Station, 
+Dialogue: 0,0:32:14.57,0:32:15.97,Default,,0000,0000,0000,,{\fn黑体\fs24}往曼哈顿走{\r}\NManhattan bound.
+Dialogue: 0,0:34:05.48,0:34:09.19,Default,,0000,0000,0000,,{\fn黑体\fs24}是你？收垃圾的？{\r}\NYou? The garbage collector?
+Dialogue: 0,0:34:09.19,0:34:10.82,Default,,0000,0000,0000,,{\fn黑体\fs24}你资料有误{\r}\NYou got bad information.
+Dialogue: 0,0:34:11.52,0:34:13.46,Default,,0000,0000,0000,,{\fn黑体\fs24}我从没收过垃圾{\r}\Nl never collected garbage.
+Dialogue: 0,0:34:13.46,0:34:14.69,Default,,0000,0000,0000,,{\fn黑体\fs24}我只清除垃圾{\r}\Nl disposed of it.
+Dialogue: 0,0:34:19.00,0:34:22.16,Default,,0000,0000,0000,,{\fn黑体\fs24}别吓到，是他自找的{\r}\NDon't lose sleep. He had it coming.
+Dialogue: 0,0:35:01.11,0:35:02.37,Default,,0000,0000,0000,,{\fn黑体\fs24}妳没事吧？{\r}\NAre you all right?
+Dialogue: 0,0:35:03.81,0:35:07.04,Default,,0000,0000,0000,,{\fn黑体\fs24}快逃… 赶快跑{\r}\NGet out, get out. Move.
+Dialogue: 0,0:35:07.61,0:35:08.84,Default,,0000,0000,0000,,{\fn黑体\fs24}没事了{\r}\Nlt's okay.
+Dialogue: 0,0:35:28.77,0:35:31.83,Default,,0000,0000,0000,,{\fn黑体\fs24}找到人就带到中央街{\r}\NWhen found, she is to be brought to Captain Wolf at Center Street.
+Dialogue: 0,0:35:43.45,0:35:47.15,Default,,0000,0000,0000,,{\fn黑体\fs24}别怕… 孩子，我们是警察{\r}\NWhoa, easy. Easy there, Hon. We're the police...
+Dialogue: 0,0:35:47.15,0:35:48.62,Default,,0000,0000,0000,,{\fn黑体\fs24}我们会保护妳{\r}\N...everything's alright.
+Dialogue: 0,0:35:48.89,0:35:50.91,Default,,0000,0000,0000,,{\fn黑体\fs24}妳叫什么名字？{\r}\NHey, what's you name, Hon?
+Dialogue: 0,0:35:52.22,0:35:55.13,Default,,0000,0000,0000,,{\fn黑体\fs24}就是她 不确定，中国人长得都一样{\r}\NThis is her. l don't know, they all look alike to me.
+Dialogue: 0,0:35:55.13,0:35:57.22,Default,,0000,0000,0000,,{\fn黑体\fs24}你有照片吗？ 有，我找找{\r}\NYou got that picture up? Yeah, let me see.
+Dialogue: 0,0:36:05.10,0:36:06.90,Default,,0000,0000,0000,,{\fn黑体\fs24}去他妈的纽约市{\r}\NFucking New York City,
+Dialogue: 0,0:36:07.84,0:36:09.91,Default,,0000,0000,0000,,{\fn黑体\fs24}几百年不见你们{\r}\Ndon't see somebody for years...
+Dialogue: 0,0:36:09.91,0:36:12.14,Default,,0000,0000,0000,,{\fn黑体\fs24}同一天却给我遇到两次{\r}\N...and you bump into them twice in the same day.
+Dialogue: 0,0:36:14.51,0:36:18.01,Default,,0000,0000,0000,,{\fn黑体\fs24}我不会伤害妳的{\r}\NHey, hey. l'm not going to hurt you.
+Dialogue: 0,0:36:25.52,0:36:27.36,Default,,0000,0000,0000,,{\fn黑体\fs24}妳到底做了什么事？{\r}\NWhat the Hell did you do, kid?
+Dialogue: 0,0:36:44.71,0:36:46.54,Default,,0000,0000,0000,,{\fn黑体\fs24}那些追妳的人是坏蛋{\r}\NYou know, those men who are chasing you are bad.
+Dialogue: 0,0:36:47.41,0:36:48.85,Default,,0000,0000,0000,,{\fn黑体\fs24}他们为何要抓妳？{\r}\NYou want to tell me why they're after you?
+Dialogue: 0,0:36:49.82,0:36:50.87,Default,,0000,0000,0000,,{\fn黑体\fs24}妳听得懂吗？{\r}\NDo you understand me?
+Dialogue: 0,0:36:52.82,0:36:54.05,Default,,0000,0000,0000,,{\fn黑体\fs24}妳会讲英文吗？{\r}\NDo you speak English?
+Dialogue: 0,0:36:58.42,0:37:02.09,Default,,0000,0000,0000,,{\fn黑体\fs24}什么叫西米亚他们不见了？{\r}\NWhat do you mean Chemyakin and the others disappeared? Someone else has taken her.
+Dialogue: 0,0:37:02.19,0:37:03.56,Default,,0000,0000,0000,,{\fn黑体\fs24}她被别人带走了{\r}\NNo, not the police.
+Dialogue: 0,0:37:04.90,0:37:09.33,Default,,0000,0000,0000,,{\fn黑体\fs24}他不是条子 有两个条子差点被他干掉{\r}\NHe nearly killed a couple of cops.
+Dialogue: 0,0:37:09.33,0:37:10.47,Default,,0000,0000,0000,,{\fn黑体\fs24}也不是中国佬{\r}\NNot the Chinese, either.
+Dialogue: 0,0:37:10.47,0:37:11.07,Default,,0000,0000,0000,,{\fn黑体\fs24}我不知道他是谁{\r}\Nl don't know who the hell he is.
+Dialogue: 0,0:37:11.07,0:37:14.81,Default,,0000,0000,0000,,{\fn黑体\fs24}那就干掉他 活捉那个女孩{\r}\NThen kill him, and take the girl alive.
+Dialogue: 0,0:37:14.81,0:37:17.37,Default,,0000,0000,0000,,{\fn黑体\fs24}抓不到就连她也一起干掉{\r}\Nlf you can't , then kill her too.
+Dialogue: 0,0:37:38.43,0:37:40.60,Default,,0000,0000,0000,,{\fn黑体\fs24}你走反了 你在逆向行驶!{\r}\NThe other way. Cars go the other way!
+Dialogue: 0,0:37:51.28,0:37:52.80,Default,,0000,0000,0000,,{\fn黑体\fs24}你疯了吗？{\r}\NAre you crazy, man?
+Dialogue: 0,0:38:20.34,0:38:21.47,Default,,0000,0000,0000,,{\fn黑体\fs24}抓稳了{\r}\NHold on.
+Dialogue: 0,0:38:28.78,0:38:31.31,Default,,0000,0000,0000,,{\fn黑体\fs24}这样下去，会有很多人受牵连{\r}\NThis goes on, a lot of innocent people are going to get hurt.
+Dialogue: 0,0:38:31.68,0:38:32.65,Default,,0000,0000,0000,,{\fn黑体\fs24}妳希望那样吗？{\r}\NYou want that?
+Dialogue: 0,0:38:34.99,0:38:36.58,Default,,0000,0000,0000,,{\fn黑体\fs24}很好，那就听我的话{\r}\NGood, then do what l say.
+Dialogue: 0,0:39:14.93,0:39:16.05,Default,,0000,0000,0000,,{\fn黑体\fs24}妳没事吧？{\r}\NAre you okay?
+Dialogue: 0,0:39:19.20,0:39:20.43,Default,,0000,0000,0000,,{\fn黑体\fs24}走吧{\r}\NLet us go.
+Dialogue: 0,0:39:20.87,0:39:22.30,Default,,0000,0000,0000,,{\fn黑体\fs24}我不是五岁小孩{\r}\Nl'm not five years old.
+Dialogue: 0,0:39:26.17,0:39:27.33,Default,,0000,0000,0000,,{\fn黑体\fs24}那就动作快点{\r}\NThen keep up.
+Dialogue: 0,0:39:47.33,0:39:48.69,Default,,0000,0000,0000,,{\fn黑体\fs24}抓到人却搞丢了{\r}\NYou had her, and you lost her.
+Dialogue: 0,0:39:48.69,0:39:50.55,Default,,0000,0000,0000,,{\fn黑体\fs24}不，队长 我们没搞丢她{\r}\NNo Captain, we didn't lose her.
+Dialogue: 0,0:39:51.13,0:39:52.83,Default,,0000,0000,0000,,{\fn黑体\fs24}她是被人劫走的{\r}\NShe was taken by force.
+Dialogue: 0,0:39:52.83,0:39:55.56,Default,,0000,0000,0000,,{\fn黑体\fs24}是那群老俄 不是他们干的{\r}\NThe Russians. No, not the Russians.
+Dialogue: 0,0:39:56.27,0:39:59.84,Default,,0000,0000,0000,,{\fn黑体\fs24}是路克莱特{\r}\NWell, it was Luke Wright.
+Dialogue: 0,0:39:59.84,0:40:02.84,Default,,0000,0000,0000,,{\fn黑体\fs24}什么？ 沃夫队长 我现在没空，迪克{\r}\NWhat? - Captain Wolf. - Not now, Deke.
+Dialogue: 0,0:40:03.38,0:40:04.97,Default,,0000,0000,0000,,{\fn黑体\fs24}市长找你，队长{\r}\NThe mayor wants you, Captain.
+Dialogue: 0,0:40:06.28,0:40:09.35,Default,,0000,0000,0000,,{\fn黑体\fs24}转到二线来 他不是打电话来{\r}\NPut him through on two. He is not on the phone.
+Dialogue: 0,0:40:09.35,0:40:11.58,Default,,0000,0000,0000,,{\fn黑体\fs24}他叫你去他家，昨天说的{\r}\NHe wants you at the mansion. Yesterday.
+Dialogue: 0,0:40:13.39,0:40:14.65,Default,,0000,0000,0000,,{\fn黑体\fs24}麻烦签名{\r}\NHere you go.
+Dialogue: 0,0:40:17.66,0:40:19.22,Default,,0000,0000,0000,,{\fn黑体\fs24}谢谢你，艾凡诺先生{\r}\NThank you Mister lvanov.
+Dialogue: 0,0:40:19.22,0:40:20.12,Default,,0000,0000,0000,,{\fn黑体\fs24}谢谢{\r}\NThank you.
+Dialogue: 0,0:40:29.74,0:40:32.54,Default,,0000,0000,0000,,{\fn黑体\fs24}艾凡诺先生？ 这是你的房门卡{\r}\NMister lvanov? Here you are Mister lvanov.
+Dialogue: 0,0:40:32.54,0:40:35.17,Default,,0000,0000,0000,,{\fn黑体\fs24}房号是1012，在10楼{\r}\NRoom 1012 on the tenth floor.
+Dialogue: 0,0:40:35.24,0:40:36.47,Default,,0000,0000,0000,,{\fn黑体\fs24}谢谢妳{\r}\NThank you.
+Dialogue: 0,0:40:55.06,0:40:56.46,Default,,0000,0000,0000,,{\fn黑体\fs24}你喜欢住好饭店{\r}\NYou like a nice hotel.
+Dialogue: 0,0:40:57.76,0:40:59.46,Default,,0000,0000,0000,,{\fn黑体\fs24}我从没住过好饭店{\r}\Nl never stayed in a nice hotel.
+Dialogue: 0,0:41:00.60,0:41:02.46,Default,,0000,0000,0000,,{\fn黑体\fs24}坏蛋不会来这里{\r}\NNo one is going to look for us in one.
+Dialogue: 0,0:41:03.34,0:41:04.56,Default,,0000,0000,0000,,{\fn黑体\fs24}她一定在这里{\r}\NShe's in the area,
+Dialogue: 0,0:41:05.17,0:41:06.81,Default,,0000,0000,0000,,{\fn黑体\fs24}不过我看不清楚{\r}\Nbut there's a lot of interfrerence...
+Dialogue: 0,0:41:06.81,0:41:08.07,Default,,0000,0000,0000,,{\fn黑体\fs24}干扰太多了{\r}\Nl can't be more specific.
+Dialogue: 0,0:41:08.91,0:41:09.90,Default,,0000,0000,0000,,{\fn黑体\fs24}等一下{\r}\NWait... 
+Dialogue: 0,0:41:11.28,0:41:12.54,Default,,0000,0000,0000,,{\fn黑体\fs24}等一下!{\r}\Nwait!
+Dialogue: 0,0:41:13.51,0:41:14.84,Default,,0000,0000,0000,,{\fn黑体\fs24}我找到她了{\r}\NGot her.
+Dialogue: 0,0:41:19.89,0:41:21.58,Default,,0000,0000,0000,,{\fn黑体\fs24}真想冲个澡{\r}\NMan, would l like a shower.
+Dialogue: 0,0:41:22.85,0:41:24.08,Default,,0000,0000,0000,,{\fn黑体\fs24}你应该洗个澡{\r}\NYou could use one.
+Dialogue: 0,0:41:29.39,0:41:31.76,Default,,0000,0000,0000,,{\fn黑体\fs24}干脆让老俄抓走妳算了{\r}\Nl could've just let those Russians grab you on the train.
+Dialogue: 0,0:41:35.77,0:41:37.13,Default,,0000,0000,0000,,{\fn黑体\fs24}你为什么要救我？{\r}\NWhy did you save me?
+Dialogue: 0,0:41:40.44,0:41:41.57,Default,,0000,0000,0000,,{\fn黑体\fs24}我没有救妳{\r}\Nl didn't save you.
+Dialogue: 0,0:41:42.37,0:41:43.50,Default,,0000,0000,0000,,{\fn黑体\fs24}是妳救了我{\r}\NYou saved me.
+Dialogue: 0,0:41:44.51,0:41:45.67,Default,,0000,0000,0000,,{\fn黑体\fs24}我只是报恩{\r}\Nl'm paying you back.
+Dialogue: 0,0:41:47.75,0:41:48.94,Default,,0000,0000,0000,,{\fn黑体\fs24}我叫路克{\r}\NMy name is Luke.
+Dialogue: 0,0:41:51.65,0:41:52.98,Default,,0000,0000,0000,,{\fn黑体\fs24}我叫梅{\r}\NMei.
+Dialogue: 0,0:41:56.22,0:41:57.65,Default,,0000,0000,0000,,{\fn黑体\fs24}妳的父母呢？{\r}\NYou have parents, Mei?
+Dialogue: 0,0:41:59.86,0:42:01.22,Default,,0000,0000,0000,,{\fn黑体\fs24}我有爸爸{\r}\Nl have a father.
+Dialogue: 0,0:42:01.46,0:42:03.20,Default,,0000,0000,0000,,{\fn黑体\fs24}他叫什么名字？{\r}\NWhat's his name?
+Dialogue: 0,0:42:03.20,0:42:04.49,Default,,0000,0000,0000,,{\fn黑体\fs24}张宽{\r}\NChang Quan.
+Dialogue: 0,0:42:06.63,0:42:08.57,Default,,0000,0000,0000,,{\fn黑体\fs24}张宽{\r}\NChang Quan.
+Dialogue: 0,0:42:09.13,0:42:11.40,Default,,0000,0000,0000,,{\fn黑体\fs24}如果是我认识的那个{\r}\Nlf we're talking about the same guy,
+Dialogue: 0,0:42:12.10,0:42:14.20,Default,,0000,0000,0000,,{\fn黑体\fs24}我记得他没小孩{\r}\Nhe didn't have any kids last time l checked.
+Dialogue: 0,0:42:14.84,0:42:17.00,Default,,0000,0000,0000,,{\fn黑体\fs24}就算有也不到三岁{\r}\NAny that he made since wouldn't be a day over three years old.
+Dialogue: 0,0:42:17.91,0:42:19.14,Default,,0000,0000,0000,,{\fn黑体\fs24}我是领养的{\r}\Nl'm adopted.
+Dialogue: 0,0:42:20.28,0:42:22.11,Default,,0000,0000,0000,,{\fn黑体\fs24}在中国领养的吗？{\r}\NDid he bring you over from back home?
+Dialogue: 0,0:42:27.95,0:42:29.92,Default,,0000,0000,0000,,{\fn黑体\fs24}他不是当父亲的料{\r}\NChang isn't the fatherly type.
+Dialogue: 0,0:42:30.52,0:42:31.92,Default,,0000,0000,0000,,{\fn黑体\fs24}妳为何来这里？{\r}\NWhy are you here, Mei?
+Dialogue: 0,0:42:33.49,0:42:34.62,Default,,0000,0000,0000,,{\fn黑体\fs24}记数字{\r}\NTo count.
+Dialogue: 0,0:42:40.70,0:42:43.90,Default,,0000,0000,0000,,{\fn黑体\fs24}是那个老鬼找妳来的 张的老板{\r}\NYou were send over by the old guy, Chang's boss. What's his name?
+Dialogue: 0,0:42:43.90,0:42:45.60,Default,,0000,0000,0000,,{\fn黑体\fs24}那个老古董叫啥？{\r}\NOld school.
+Dialogue: 0,0:42:46.00,0:42:48.27,Default,,0000,0000,0000,,{\fn黑体\fs24}他怕计算机会留记录{\r}\NNo computers, no electronic trails.
+Dialogue: 0,0:42:48.27,0:42:49.93,Default,,0000,0000,0000,,{\fn黑体\fs24}所以要妳记数字，对吧？{\r}\NJust what you have in our head. Right?
+Dialogue: 0,0:43:02.59,0:43:03.99,Default,,0000,0000,0000,,{\fn黑体\fs24}妳认识韩交？{\r}\NYou know Jiao Han?
+Dialogue: 0,0:43:03.99,0:43:05.15,Default,,0000,0000,0000,,{\fn黑体\fs24}听说过他{\r}\Nl know of him.
+Dialogue: 0,0:43:06.29,0:43:09.49,Default,,0000,0000,0000,,{\fn黑体\fs24}他告诉我一组号码 很长的一组号码{\r}\NHe told me a number, a very long number.
+Dialogue: 0,0:43:09.49,0:43:12.96,Default,,0000,0000,0000,,{\fn黑体\fs24}我原本要去另一个地方 拿第二组号码和指令{\r}\Nl was going someplace where l would get another number and instructions.
+Dialogue: 0,0:43:12.96,0:43:14.99,Default,,0000,0000,0000,,{\fn黑体\fs24}但俄国人杀了所有人{\r}\NBut the Russians came and shot everyone.
+Dialogue: 0,0:43:15.63,0:43:18.10,Default,,0000,0000,0000,,{\fn黑体\fs24}我趁警察来时逃走了{\r}\NThen the police came and l ran away.
+Dialogue: 0,0:43:18.10,0:43:21.00,Default,,0000,0000,0000,,{\fn黑体\fs24}现在你全知道了，满意了吗？{\r}\NNow you know everything. Happiness for you?
+Dialogue: 0,0:43:24.44,0:43:26.07,Default,,0000,0000,0000,,{\fn黑体\fs24}妳想回韩交那吗？{\r}\NYou want to go back to Han Jiao?
+Dialogue: 0,0:43:27.75,0:43:30.58,Default,,0000,0000,0000,,{\fn黑体\fs24}我惹上不少麻烦，是个累赘{\r}\Nl make too much trouble. Bad business.
+Dialogue: 0,0:43:30.92,0:43:33.02,Default,,0000,0000,0000,,{\fn黑体\fs24}等我办完事，他就会杀了我{\r}\NAfter l do what he asks, he kills me.
+Dialogue: 0,0:43:33.02,0:43:35.92,Default,,0000,0000,0000,,{\fn黑体\fs24}省得他烦恼 那是什么号码？{\r}\NGood business. So, what about this number?
+Dialogue: 0,0:43:36.22,0:43:38.25,Default,,0000,0000,0000,,{\fn黑体\fs24}又长又无聊的号码{\r}\Nlt is long boring number.
+Dialogue: 0,0:43:38.46,0:43:39.98,Default,,0000,0000,0000,,{\fn黑体\fs24}我可以告诉你{\r}\Nl can tell it to you.
+Dialogue: 0,0:43:40.23,0:43:42.02,Default,,0000,0000,0000,,{\fn黑体\fs24}那对我毫无意义{\r}\Nlt wouldn't mean anything to me.
+Dialogue: 0,0:43:43.16,0:43:45.92,Default,,0000,0000,0000,,{\fn黑体\fs24}妳怎么知道是一组号码 而不是单独的号码？{\r}\NBut how do you know it is one number and not a bunch of separate numbers?
+Dialogue: 0,0:43:48.53,0:43:52.54,Default,,0000,0000,0000,,{\fn黑体\fs24}你虽然是疯子 但并不笨{\r}\NYou're a crazy man. But not so stupid.
+Dialogue: 0,0:43:53.47,0:43:56.00,Default,,0000,0000,0000,,{\fn黑体\fs24}号码有特别的地方吗？{\r}\Nls there anything interesting to you about these numbers?
+Dialogue: 0,0:43:56.88,0:43:58.18,Default,,0000,0000,0000,,{\fn黑体\fs24}有些数字有{\r}\NMaybe a few of them.
+Dialogue: 0,0:43:58.18,0:43:59.48,Default,,0000,0000,0000,,{\fn黑体\fs24}为什么？{\r}\NWhy?
+Dialogue: 0,0:43:59.48,0:44:02.21,Default,,0000,0000,0000,,{\fn黑体\fs24}因为前面有三或七{\r}\NBecause they have a three or a seven before them.
+Dialogue: 0,0:44:02.98,0:44:04.68,Default,,0000,0000,0000,,{\fn黑体\fs24}所有数字都是随机的{\r}\NAll the numbers are random.
+Dialogue: 0,0:44:04.68,0:44:07.22,Default,,0000,0000,0000,,{\fn黑体\fs24}可是有五个数字前面有七{\r}\NBut, five of them have a seven before it.
+Dialogue: 0,0:44:07.22,0:44:08.99,Default,,0000,0000,0000,,{\fn黑体\fs24}有八个数字前面有三{\r}\NAnd eight of them have a three before it.
+Dialogue: 0,0:44:08.99,0:44:10.92,Default,,0000,0000,0000,,{\fn黑体\fs24}像是刻意安排的{\r}\NThat's too many times to be random.
+Dialogue: 0,0:44:11.82,0:44:13.09,Default,,0000,0000,0000,,{\fn黑体\fs24}这是个密码{\r}\Nlt's a code. 
+Dialogue: 0,0:44:14.29,0:44:15.52,Default,,0000,0000,0000,,{\fn黑体\fs24}还有什么？{\r}\NWhat else?
+Dialogue: 0,0:44:16.26,0:44:17.32,Default,,0000,0000,0000,,{\fn黑体\fs24}没了{\r}\NNothing.
+Dialogue: 0,0:44:18.63,0:44:20.53,Default,,0000,0000,0000,,{\fn黑体\fs24}特别的地方是三和七{\r}\NSo, it's the three and the seven that are interesting.
+Dialogue: 0,0:44:20.53,0:44:22.66,Default,,0000,0000,0000,,{\fn黑体\fs24}因为像刻意安排的{\r}\NBecause they happen too many times to be random.
+Dialogue: 0,0:44:23.74,0:44:27.01,Default,,0000,0000,0000,,{\fn黑体\fs24}那是因为数字代表文字{\r}\NBecause they're not numbers, they're words.
+Dialogue: 0,0:44:27.01,0:44:28.47,Default,,0000,0000,0000,,{\fn黑体\fs24}像是往左或往右{\r}\NRight-left, or left-right.
+Dialogue: 0,0:44:29.51,0:44:30.48,Default,,0000,0000,0000,,{\fn黑体\fs24}老套了{\r}\NOld school, 
+Dialogue: 0,0:44:31.28,0:44:32.74,Default,,0000,0000,0000,,{\fn黑体\fs24}是保险箱密码{\r}\Na combination to a safe.
+Dialogue: 0,0:44:44.36,0:44:46.39,Default,,0000,0000,0000,,{\fn黑体\fs24}- 他们在饭店里？ - 是的{\r}\Nln the hotel?
+Dialogue: 0,0:44:46.39,0:44:49.52,Default,,0000,0000,0000,,{\fn黑体\fs24}哪一家？ 我们查到的就是这间{\r}\NWhere? That's as close as l can track.
+Dialogue: 0,0:44:55.33,0:44:56.64,Default,,0000,0000,0000,,{\fn黑体\fs24}怎么样？{\r}\NWhat do you have for me?
+Dialogue: 0,0:44:56.64,0:45:00.11,Default,,0000,0000,0000,,{\fn黑体\fs24}我们现在在找一个男的 他和一个女孩在一起{\r}\NWe're looking for a man now, who is supposed to be with the girl...
+Dialogue: 0,0:45:00.11,0:45:02.41,Default,,0000,0000,0000,,{\fn黑体\fs24}他有武器，非常危险{\r}\NHe's armed and to be considered extremely dangerous.
+Dialogue: 0,0:45:02.41,0:45:04.01,Default,,0000,0000,0000,,{\fn黑体\fs24}警察局的人说他是…{\r}\NDispatch says he's ...
+Dialogue: 0,0:45:04.01,0:45:07.55,Default,,0000,0000,0000,,{\fn黑体\fs24}身高大约五呎十一吋 褐色头发、三十多岁…{\r}\NAbout five, eleven, brown hair, thirties...
+Dialogue: 0,0:45:07.55,0:45:09.68,Default,,0000,0000,0000,,{\fn黑体\fs24}大约几小时前入住的{\r}\NAh, probably came in here less than a few hours ago.
+Dialogue: 0,0:45:09.68,0:45:11.92,Default,,0000,0000,0000,,{\fn黑体\fs24}我们无法透露房客数据{\r}\NSir, we're not allowed to discuss our guests.
+Dialogue: 0,0:45:11.92,0:45:13.32,Default,,0000,0000,0000,,{\fn黑体\fs24}他是房客吗？{\r}\NSo, he's a guest? Did he check in?
+Dialogue: 0,0:45:13.55,0:45:16.32,Default,,0000,0000,0000,,{\fn黑体\fs24}他有入住吗？ 先生，我们无法…{\r}\Nl'm sorry, sir. We're not at liberty to...
+Dialogue: 0,0:45:16.32,0:45:18.86,Default,,0000,0000,0000,,{\fn黑体\fs24}他带着十一岁的中国女孩{\r}\NHe would be with a Chinese girl, eleven years old.
+Dialogue: 0,0:45:18.86,0:45:21.86,Default,,0000,0000,0000,,{\fn黑体\fs24}我是她爸爸 我很担心我女儿{\r}\Nl'm her father. And l'm very worried about her.
+Dialogue: 0,0:45:21.86,0:45:25.69,Default,,0000,0000,0000,,{\fn黑体\fs24}很抱歉，我可以帮你报警{\r}\Nl'm so sorry. l can call the police for you.
+Dialogue: 0,0:45:26.33,0:45:28.20,Default,,0000,0000,0000,,{\fn黑体\fs24}妳敢我就轰了妳的头{\r}\NDo that and l blow your brains out.
+Dialogue: 0,0:45:29.33,0:45:31.80,Default,,0000,0000,0000,,{\fn黑体\fs24}他住几号房？{\r}\NNow, what room is he in?
+Dialogue: 0,0:45:32.47,0:45:34.80,Default,,0000,0000,0000,,{\fn黑体\fs24}他住几号房？{\r}\NWhat room is he in?
+Dialogue: 0,0:45:38.18,0:45:41.08,Default,,0000,0000,0000,,{\fn黑体\fs24}好像是十楼的房间{\r}\Nl think maybe, l put him on the tenth floor.
+Dialogue: 0,0:45:41.08,0:45:42.31,Default,,0000,0000,0000,,{\fn黑体\fs24}房号!{\r}\NRoom!
+Dialogue: 0,0:45:43.78,0:45:46.35,Default,,0000,0000,0000,,{\fn黑体\fs24}他身边真的没有小女孩{\r}\Nl swear he didn't have a little girl with him.
+Dialogue: 0,0:45:46.35,0:45:47.62,Default,,0000,0000,0000,,{\fn黑体\fs24}房号{\r}\NRoom.
+Dialogue: 0,0:45:47.62,0:45:50.36,Default,,0000,0000,0000,,{\fn黑体\fs24}- 我查一下 - 那就快点{\r}\Nl just need to check. Then check quick.
+Dialogue: 0,0:45:50.36,0:45:51.82,Default,,0000,0000,0000,,{\fn黑体\fs24}不然就把妳干掉{\r}\NBefore l put a bullet in your brain.
+Dialogue: 0,0:45:52.16,0:45:54.42,Default,,0000,0000,0000,,{\fn黑体\fs24}快点! 把手举起来{\r}\NQuick! Put your hands up.
+Dialogue: 0,0:45:56.60,0:45:58.00,Default,,0000,0000,0000,,{\fn黑体\fs24}劝你别来惹我!{\r}\NYou don't want any part of this!
+Dialogue: 0,0:45:58.00,0:45:59.46,Default,,0000,0000,0000,,{\fn黑体\fs24}把手举起来{\r}\NHands up so l can see them.
+Dialogue: 0,0:46:14.28,0:46:15.80,Default,,0000,0000,0000,,{\fn黑体\fs24}通通不准出去!{\r}\NNo one leaves the hotel!
+Dialogue: 0,0:46:17.12,0:46:18.45,Default,,0000,0000,0000,,{\fn黑体\fs24}进来!{\r}\NCome on!
+Dialogue: 0,0:46:18.45,0:46:21.15,Default,,0000,0000,0000,,{\fn黑体\fs24}是1012房{\r}\NTen, twelve. He's in room ten, twelve.
+Dialogue: 0,0:46:21.15,0:46:23.28,Default,,0000,0000,0000,,{\fn黑体\fs24}你还说坏蛋不会来{\r}\Nl thought you said no one would look for us here.
+Dialogue: 0,0:46:25.06,0:46:26.22,Default,,0000,0000,0000,,{\fn黑体\fs24}关掉了，是我关的{\r}\Nlt's off. l turned it off. So no one could call.
+Dialogue: 0,0:46:26.22,0:46:28.52,Default,,0000,0000,0000,,{\fn黑体\fs24}这样才不会有人打来 关掉也找得到{\r}\Nlt doesn't need to be on.
+Dialogue: 0,0:46:29.89,0:46:31.12,Default,,0000,0000,0000,,{\fn黑体\fs24}回来!{\r}\NGet back!
+Dialogue: 0,0:46:32.00,0:46:33.73,Default,,0000,0000,0000,,{\fn黑体\fs24}通通趴在地上!{\r}\NGet down on the floor!
+Dialogue: 0,0:46:36.40,0:46:40.24,Default,,0000,0000,0000,,{\fn黑体\fs24}不准出去!{\r}\NEverybody get back!
+Dialogue: 0,0:46:40.37,0:46:44.54,Default,,0000,0000,0000,,{\fn黑体\fs24}把号码写下来 前面有三和七的就好 快点{\r}\NWrite down the numbers. Just the ones with the three and seven in front of them. Quick.
+Dialogue: 0,0:46:45.98,0:46:47.18,Default,,0000,0000,0000,,{\fn黑体\fs24}给我过去!{\r}\NYou get over there!
+Dialogue: 0,0:46:47.18,0:46:48.37,Default,,0000,0000,0000,,
+Dialogue: 0,0:46:50.25,0:46:51.91,Default,,0000,0000,0000,,{\fn黑体\fs24}坐好!{\r}\NGet up!
+Dialogue: 0,0:46:52.02,0:46:53.82,Default,,0000,0000,0000,,{\fn黑体\fs24}我会找地方安置妳{\r}\Nl'll try to get you someplace safe.
+Dialogue: 0,0:46:53.82,0:46:56.12,Default,,0000,0000,0000,,{\fn黑体\fs24}假如我们走散了 别说妳有给过我密码{\r}\Nlf we get separated, don't tell them you told me anything. Lie.
+Dialogue: 0,0:46:56.12,0:46:56.79,Default,,0000,0000,0000,,{\fn黑体\fs24}编个谎话{\r}\Nlf they try to scare you...
+Dialogue: 0,0:46:56.79,0:46:59.46,Default,,0000,0000,0000,,{\fn黑体\fs24}如果他们吓唬妳 吓我？我已经够怕了{\r}\NTry? l'm so scared already.
+Dialogue: 0,0:46:59.46,0:47:01.49,Default,,0000,0000,0000,,{\fn黑体\fs24}是啊，我也是 记住，编个谎话{\r}\NYeah, me too. Remember, lie.
+Dialogue: 0,0:47:01.49,0:47:02.76,Default,,0000,0000,0000,,{\fn黑体\fs24}我们快到了{\r}\NWe're almost there.
+Dialogue: 0,0:47:02.76,0:47:05.16,Default,,0000,0000,0000,,{\fn黑体\fs24}如果他们俩在楼下 别杀那个女孩{\r}\Nlf you see them downstairs try not to kill the girl.
+Dialogue: 0,0:47:13.14,0:47:14.11,Default,,0000,0000,0000,,{\fn黑体\fs24}进去{\r}\NGet back inside.
+Dialogue: 0,0:47:20.28,0:47:22.85,Default,,0000,0000,0000,,{\fn黑体\fs24}快追他们! 我去楼下拦截{\r}\NFollow them! l'm going back down to cut them off.
+Dialogue: 0,0:48:00.22,0:48:01.32,Default,,0000,0000,0000,,{\fn黑体\fs24}条子来了{\r}\NThe cops are here.
+Dialogue: 0,0:48:01.32,0:48:03.02,Default,,0000,0000,0000,,{\fn黑体\fs24}拖住他们，等我的指示{\r}\NHold them off until l give the word.
+Dialogue: 0,0:48:03.02,0:48:04.18,Default,,0000,0000,0000,,{\fn黑体\fs24}别让他们进来!{\r}\NDo not let them in!
+Dialogue: 0,0:48:33.22,0:48:34.79,Default,,0000,0000,0000,,{\fn黑体\fs24}全部蹲下!{\r}\NEverybody stay down!
+Dialogue: 0,0:48:34.79,0:48:36.89,Default,,0000,0000,0000,,{\fn黑体\fs24}通通别想跑!{\r}\NYou ain't going nowhere! Stay!
+Dialogue: 0,0:48:36.89,0:48:38.62,Default,,0000,0000,0000,,{\fn黑体\fs24}全部不准动!{\r}\NEverybody's going to sit down!
+Dialogue: 0,0:48:38.62,0:48:40.36,Default,,0000,0000,0000,,{\fn黑体\fs24}- 快追!别跑!蹲下! - 走开!{\r}\NGo! Get back! Get down!
+Dialogue: 0,0:48:40.36,0:48:41.38,Default,,0000,0000,0000,,{\fn黑体\fs24}快追!{\r}\NGo! 
+Dialogue: 0,0:49:28.17,0:49:29.87,Default,,0000,0000,0000,,{\fn黑体\fs24}看着她 看着她{\r}
+Dialogue: 0,0:49:38.18,0:49:39.67,Default,,0000,0000,0000,,{\fn黑体\fs24}起来，全部起来{\r}\NGet up! Everybody up.
+Dialogue: 0,0:49:40.15,0:49:42.02,Default,,0000,0000,0000,,{\fn黑体\fs24}掩护我们离开这里{\r}\NWe're getting out of the hotel.
+Dialogue: 0,0:49:42.72,0:49:43.65,Default,,0000,0000,0000,,{\fn黑体\fs24}快起来!{\r}\NUp! 
+Dialogue: 0,0:49:44.02,0:49:46.62,Default,,0000,0000,0000,,{\fn黑体\fs24}否则我开始杀人 起来!{\r}\NOr l start killing you. Up!
+Dialogue: 0,0:49:48.46,0:49:51.33,Default,,0000,0000,0000,,{\fn黑体\fs24}嫌犯在58街转角{\r}\NAt the corner of 58th, we got a suspect.
+Dialogue: 0,0:49:51.33,0:49:52.82,Default,,0000,0000,0000,,{\fn黑体\fs24}站住!{\r}\NHey! Don't move.
+Dialogue: 0,0:49:54.10,0:49:55.03,Default,,0000,0000,0000,,{\fn黑体\fs24}站住!{\r}\NDon't move.
+Dialogue: 0,0:50:06.04,0:50:07.88,Default,,0000,0000,0000,,{\fn黑体\fs24}到街上去!继续走!{\r}\Nlnto the street! Keep moving!
+Dialogue: 0,0:50:08.48,0:50:10.71,Default,,0000,0000,0000,,{\fn黑体\fs24}不听话就会跟他一样{\r}\NAnyone who doesn't dies like this.
+Dialogue: 0,0:50:13.05,0:50:14.11,Default,,0000,0000,0000,,{\fn黑体\fs24}到街上去!{\r}\Nlnto the street! 
+Dialogue: 0,0:50:16.55,0:50:17.82,Default,,0000,0000,0000,,{\fn黑体\fs24}快点!{\r}\NGo!
+Dialogue: 0,0:50:17.82,0:50:19.15,Default,,0000,0000,0000,,{\fn黑体\fs24}停火!{\r}\NHold your fire!
+Dialogue: 0,0:50:34.41,0:50:37.97,Default,,0000,0000,0000,,{\fn黑体\fs24}嫌犯在人群中无法辨识{\r}\NSuspects in the crowd. We can't lD them.
+Dialogue: 0,0:50:44.62,0:50:46.05,Default,,0000,0000,0000,,{\fn黑体\fs24}给我站住!{\r}\NHey! Stop right there!
+Dialogue: 0,0:50:52.76,0:50:54.73,Default,,0000,0000,0000,,{\fn黑体\fs24}开车…!{\r}
+Dialogue: 0,0:51:15.05,0:51:17.65,Default,,0000,0000,0000,,{\fn黑体\fs24}你要干嘛？{\r}\NHey! Hey! What the Hell are you doing?
+Dialogue: 0,0:51:21.92,0:51:23.25,Default,,0000,0000,0000,,{\fn黑体\fs24}那是我的车!{\r}\NThat's my car!
+Dialogue: 0,0:51:23.25,0:51:25.52,Default,,0000,0000,0000,,{\fn黑体\fs24}警察，他抢了我的车!{\r}\NLook! That guy took my fucking car!
+Dialogue: 0,0:51:39.37,0:51:41.24,Default,,0000,0000,0000,,{\fn黑体\fs24}到市区，我再跟你讲地址{\r}\NHead downtown, l'll give you an address in a minute.
+Dialogue: 0,0:51:58.62,0:51:59.99,Default,,0000,0000,0000,,{\fn黑体\fs24}他妈的!{\r}\NShit!
+Dialogue: 0,0:52:08.00,0:52:08.87,Default,,0000,0000,0000,,{\fn黑体\fs24}老兄，有地址吗？{\r}\NHey Buddy, you want to give me an address? Piotor lvanovov Hey Buddy, you want to give me an address?
+Dialogue: 0,0:52:08.87,0:52:09.73,Default,,0000,0000,0000,,{\fn黑体\fs24}（皮托依凡诺夫）{\r}\NPiotor lvanovov ln a minute, just hold on.
+Dialogue: 0,0:52:09.73,0:52:11.13,Default,,0000,0000,0000,,{\fn黑体\fs24}等我一下 等我一下{\r}\Nln a minute, just hold on.
+Dialogue: 0,0:52:20.41,0:52:21.44,Default,,0000,0000,0000,,{\fn黑体\fs24}（正在拨打给瓦西里）{\r}
+Dialogue: 0,0:52:26.58,0:52:30.32,Default,,0000,0000,0000,,{\fn黑体\fs24}你是谁？ 这还用问？ 当然是皮托{\r}\NWho's this? Who do you think? lt's Piotor.
+Dialogue: 0,0:52:30.32,0:52:32.59,Default,,0000,0000,0000,,{\fn黑体\fs24}你没我的号码吗？{\r}\NDon't you have me in your phone?
+Dialogue: 0,0:52:32.59,0:52:36.26,Default,,0000,0000,0000,,{\fn黑体\fs24}皮托？ 条子说你挂在地铁里…{\r}\NPiotor? Police reports said you were found on the subway, with...
+Dialogue: 0,0:52:36.26,0:52:38.46,Default,,0000,0000,0000,,{\fn黑体\fs24}条子在唬烂{\r}\NPolice reports were wrong.
+Dialogue: 0,0:52:39.73,0:52:42.23,Default,,0000,0000,0000,,{\fn黑体\fs24}其它人都…{\r}\NThe others got...
+Dialogue: 0,0:52:42.23,0:52:43.53,Default,,0000,0000,0000,,{\fn黑体\fs24}什么声音？{\r}\NWhat's that?
+Dialogue: 0,0:52:44.50,0:52:46.33,Default,,0000,0000,0000,,{\fn黑体\fs24}抱歉，讯号不良{\r}\NSorry, bad connection.
+Dialogue: 0,0:52:47.24,0:52:48.83,Default,,0000,0000,0000,,{\fn黑体\fs24}我问到密码了{\r}\Nl have the number.
+Dialogue: 0,0:52:49.44,0:52:54.55,Default,,0000,0000,0000,,{\fn黑体\fs24}你说什么？ 小孩被带走前 我们已经问到号码了{\r}\NYou what? Before the guy grabbed her, we got the number from her...
+Dialogue: 0,0:52:54.55,0:52:58.32,Default,,0000,0000,0000,,{\fn黑体\fs24}这段时间我都在躲条子{\r}\Nl've been ducking the cops for hours.
+Dialogue: 0,0:52:58.32,0:53:02.15,Default,,0000,0000,0000,,{\fn黑体\fs24}伊果，记下这个号码{\r}\Nlgor, put this number into your phone.
+Dialogue: 0,0:53:02.39,0:53:03.92,Default,,0000,0000,0000,,{\fn黑体\fs24}快把密码跟我说{\r}\NGo ahead, give it to me.
+Dialogue: 0,0:53:03.92,0:53:05.79,Default,,0000,0000,0000,,{\fn黑体\fs24}你疯了吗？{\r}\NAre you crazy?
+Dialogue: 0,0:53:05.79,0:53:07.79,Default,,0000,0000,0000,,{\fn黑体\fs24}号码有一大长串{\r}\Nlt's on a piece of paper a kilometer long.
+Dialogue: 0,0:53:07.79,0:53:09.16,Default,,0000,0000,0000,,{\fn黑体\fs24}你人在哪？{\r}\NWhere are you?
+Dialogue: 0,0:53:09.49,0:53:12.10,Default,,0000,0000,0000,,{\fn黑体\fs24}小心他引条子来{\r}\NHe might be bringing the cops.
+Dialogue: 0,0:53:12.10,0:53:14.17,Default,,0000,0000,0000,,{\fn黑体\fs24}要赶走客人吗？{\r}\NShould we clear the place out?
+Dialogue: 0,0:53:14.17,0:53:17.17,Default,,0000,0000,0000,,{\fn黑体\fs24}如果有条子来 混在人群中比较安全{\r}\Nlf there are cops we're better off in a crowd.
+Dialogue: 0,0:53:17.17,0:53:19.40,Default,,0000,0000,0000,,{\fn黑体\fs24}而且这里是自己的地盘{\r}\NStill, we need better positions.
+Dialogue: 0,0:53:21.51,0:53:23.14,Default,,0000,0000,0000,,{\fn黑体\fs24}好吧，皮托…{\r}\NAlright Piotor...
+Dialogue: 0,0:53:23.14,0:53:25.84,Default,,0000,0000,0000,,{\fn黑体\fs24}该轮你出风头了{\r}\Nnow's your chance to be a hero.
+Dialogue: 0,0:53:26.54,0:53:27.75,Default,,0000,0000,0000,,{\fn黑体\fs24}到玛摩奇卡餐厅{\r}\NMamoschka's .
+Dialogue: 0,0:53:27.75,0:53:29.11,Default,,0000,0000,0000,,{\fn黑体\fs24}快点来{\r}\NBe here soon.
+Dialogue: 0,0:53:29.58,0:53:30.91,Default,,0000,0000,0000,,{\fn黑体\fs24}马上到{\r}\Nl'll be there.
+Dialogue: 0,0:53:31.28,0:53:32.37,Default,,0000,0000,0000,,{\fn黑体\fs24}他回来了{\r}\NHe's here,
+Dialogue: 0,0:53:32.68,0:53:34.59,Default,,0000,0000,0000,,{\fn黑体\fs24}路克莱特回来了{\r}\N Luke Wright, back in the city.
+Dialogue: 0,0:53:34.59,0:53:37.06,Default,,0000,0000,0000,,{\fn黑体\fs24}在我的地盘里 他回来一阵子了{\r}\Nln my city. Actually, he's been back for a while.
+Dialogue: 0,0:53:37.06,0:53:38.52,Default,,0000,0000,0000,,{\fn黑体\fs24}一阵子？那是多久？{\r}\NA while? What's a while?
+Dialogue: 0,0:53:38.52,0:53:39.59,Default,,0000,0000,0000,,{\fn黑体\fs24}一年吧，很难讲{\r}\NMaybe a year, it's hard to say.
+Dialogue: 0,0:53:39.59,0:53:41.02,Default,,0000,0000,0000,,{\fn黑体\fs24}给我关掉{\r}\NTurn that god damned thing off.
+Dialogue: 0,0:53:42.76,0:53:43.73,Default,,0000,0000,0000,,{\fn黑体\fs24}艾力克斯{\r}\NAlex.
+Dialogue: 0,0:53:49.37,0:53:50.50,Default,,0000,0000,0000,,{\fn黑体\fs24}怎么回事，沃夫？{\r}\NWhat's going on Wolf?
+Dialogue: 0,0:53:50.50,0:53:52.40,Default,,0000,0000,0000,,{\fn黑体\fs24}为何会扯上路克？{\r}\NAnd how is Luke Wright involved in it?
+Dialogue: 0,0:53:52.40,0:53:54.64,Default,,0000,0000,0000,,{\fn黑体\fs24}我也正想问你{\r}\Nl figured l might ask you the same question.
+Dialogue: 0,0:53:54.64,0:53:56.37,Default,,0000,0000,0000,,{\fn黑体\fs24}别耍嘴皮子{\r}\NDon't try to game me.
+Dialogue: 0,0:53:57.38,0:53:58.91,Default,,0000,0000,0000,,{\fn黑体\fs24}你根本不是个咖{\r}\NYou're not even a pawn,
+Dialogue: 0,0:53:58.91,0:54:01.61,Default,,0000,0000,0000,,{\fn黑体\fs24}想飞黄腾达又没本事{\r}\Nplaying on a board so big you can't even see the edge.
+Dialogue: 0,0:54:01.61,0:54:03.01,Default,,0000,0000,0000,,{\fn黑体\fs24}你就是这块料{\r}\NThat's all you've ever been.
+Dialogue: 0,0:54:03.51,0:54:05.18,Default,,0000,0000,0000,,{\fn黑体\fs24}我很了解路克{\r}\Nl know about Luke Wright.
+Dialogue: 0,0:54:05.18,0:54:07.65,Default,,0000,0000,0000,,{\fn黑体\fs24}但他现在让我捉摸不透{\r}\NWhich is more than you can say until five minutes ago.
+Dialogue: 0,0:54:08.55,0:54:10.12,Default,,0000,0000,0000,,{\fn黑体\fs24}你对他的了解{\r}\NWhat you know about Luke Wright rates less than a paragraph
+Dialogue: 0,0:54:10.12,0:54:13.99,Default,,0000,0000,0000,,{\fn黑体\fs24}对我们一点屁用都没有{\r}\Nin a very fat book.
+Dialogue: 0,0:54:14.03,0:54:15.49,Default,,0000,0000,0000,,{\fn黑体\fs24}世贸大楼倒塌之后{\r}\NAfter the towers fell,
+Dialogue: 0,0:54:15.49,0:54:18.56,Default,,0000,0000,0000,,{\fn黑体\fs24}所有人力都用来找恐怖份子{\r}\Nand our manpower was spread out tracking terrorist activity...
+Dialogue: 0,0:54:18.56,0:54:20.70,Default,,0000,0000,0000,,{\fn黑体\fs24}是我组织了项目组{\r}\Nl was the one who formed the special
+Dialogue: 0,0:54:20.70,0:54:22.73,Default,,0000,0000,0000,,{\fn黑体\fs24}处理那段时间的所有罪案{\r}\Ntask force to deal with the crime that was filling the gap.
+Dialogue: 0,0:54:22.73,0:54:26.14,Default,,0000,0000,0000,,{\fn黑体\fs24}请你别忘了 是我让你带队的{\r}\NAnd don't you ever fucking forget that l was the one who put you in charge.
+Dialogue: 0,0:54:26.14,0:54:29.21,Default,,0000,0000,0000,,{\fn黑体\fs24}我没忘掉 你是靠我才当上市长的{\r}\Nl didn't forget, my work made you Mayor.
+Dialogue: 0,0:54:29.21,0:54:30.88,Default,,0000,0000,0000,,{\fn黑体\fs24}靠你？{\r}\NYour work.
+Dialogue: 0,0:54:30.88,0:54:33.54,Default,,0000,0000,0000,,{\fn黑体\fs24}你以为路克是一般警察吗？{\r}\NYou think Luke was just one of your cops?
+Dialogue: 0,0:54:33.54,0:54:35.95,Default,,0000,0000,0000,,{\fn黑体\fs24}当我在组队时 我知道我需要个高手{\r}\NWhen l put together your team, l knew l needed an edge.
+Dialogue: 0,0:54:35.95,0:54:38.48,Default,,0000,0000,0000,,{\fn黑体\fs24}一个能力超越一般探员{\r}\NNo ordinary detectives could give me.
+Dialogue: 0,0:54:38.48,0:54:40.42,Default,,0000,0000,0000,,{\fn黑体\fs24}身手不凡的人{\r}\Nl needed something surgical.
+Dialogue: 0,0:54:40.42,0:54:44.26,Default,,0000,0000,0000,,{\fn黑体\fs24}我请匿迹江湖的老友们推荐{\r}\Nl called friends in places buried so deep they don't officially exist.
+Dialogue: 0,0:54:44.26,0:54:46.49,Default,,0000,0000,0000,,{\fn黑体\fs24}他们都很帮忙{\r}\NThey were sympathetic.
+Dialogue: 0,0:54:46.49,0:54:49.26,Default,,0000,0000,0000,,{\fn黑体\fs24}一周后路克就出现了{\r}\NA week later they sent Luke Wright.
+Dialogue: 0,0:54:49.36,0:54:52.00,Default,,0000,0000,0000,,{\fn黑体\fs24}这七年来消失的老大们{\r}\NThose Wise Guys who vanished over the last seven years.
+Dialogue: 0,0:54:52.00,0:54:54.16,Default,,0000,0000,0000,,{\fn黑体\fs24}你以为是自相残杀的结果吗？{\r}\NYou think that was internecine war?
+Dialogue: 0,0:54:54.97,0:54:57.50,Default,,0000,0000,0000,,{\fn黑体\fs24}死在水沟里的大毒枭…{\r}\NThose Coke Kings you found in the gutter in Harlem...
+Dialogue: 0,0:54:57.50,0:55:00.97,Default,,0000,0000,0000,,{\fn黑体\fs24}布鲁克林的弗莱迪佩卓 中国城的刘汤米{\r}\NFreddy Petrovich in Brooklyn, Tommy Lau in Chinatown.
+Dialogue: 0,0:55:00.97,0:55:03.17,Default,,0000,0000,0000,,{\fn黑体\fs24}路克莱特是个鬼魂{\r}\NLuke Wright is a ghost.
+Dialogue: 0,0:55:03.84,0:55:05.54,Default,,0000,0000,0000,,{\fn黑体\fs24}专门索命的猛鬼{\r}\NA very deadly ghost.
+Dialogue: 0,0:55:07.68,0:55:09.34,Default,,0000,0000,0000,,{\fn黑体\fs24}他的本事还真不小{\r}\NAnd it worked like a charm, too.
+Dialogue: 0,0:55:10.45,0:55:14.01,Default,,0000,0000,0000,,{\fn黑体\fs24}一切都怪你们这些蠢蛋贪污{\r}\NThen you dicks had to get greedy and pad your pockets.
+Dialogue: 0,0:55:14.29,0:55:17.46,Default,,0000,0000,0000,,{\fn黑体\fs24}路克是个杀手 但他为人正直{\r}\NLuke's a killer, but he's an honest one.
+Dialogue: 0,0:55:17.46,0:55:20.66,Default,,0000,0000,0000,,{\fn黑体\fs24}他当时想向内务组投诉{\r}\NWhen he threatened to take the whole thing to lA...
+Dialogue: 0,0:55:20.66,0:55:24.83,Default,,0000,0000,0000,,{\fn黑体\fs24}是很多高层劝他才罢休的{\r}\N...it took some people with a lot of bronze stuffed in their pajamas to talk him off the ledge.
+Dialogue: 0,0:55:24.83,0:55:27.53,Default,,0000,0000,0000,,{\fn黑体\fs24}对，后来专案组被解散 我们又成了打杂的{\r}\NYeah, and my team gets dismantled and we're peons again.
+Dialogue: 0,0:55:27.53,0:55:29.10,Default,,0000,0000,0000,,{\fn黑体\fs24}如果路克关系这么好{\r}\NBut if Luke Wright's so connected,
+Dialogue: 0,0:55:29.10,0:55:32.09,Default,,0000,0000,0000,,{\fn黑体\fs24}何必沦落到纽泽西打黑市拳击？{\r}\Nhow's he wind up in Jersey cage fighting in the B circuit?
+Dialogue: 0,0:55:33.04,0:55:34.66,Default,,0000,0000,0000,,{\fn黑体\fs24}我是心理医生吗？{\r}\NDo l look like a shrink?
+Dialogue: 0,0:55:35.41,0:55:36.96,Default,,0000,0000,0000,,{\fn黑体\fs24}叫所有人来{\r}\NGet everybody on this.
+Dialogue: 0,0:55:37.74,0:55:39.61,Default,,0000,0000,0000,,{\fn黑体\fs24}一旦路克莱特出手{\r}\NOnce Luke Wright gets on a roll
+Dialogue: 0,0:55:39.61,0:55:41.75,Default,,0000,0000,0000,,{\fn黑体\fs24}全市只有一个人能跟他匹敌{\r}\Nthere's only on man in this city can take him on one on one.
+Dialogue: 0,0:55:41.75,0:55:43.21,Default,,0000,0000,0000,,{\fn黑体\fs24}打扰了，我知道你们在开会{\r}\NExcuse me. l know this this is a closed door.
+Dialogue: 0,0:55:43.21,0:55:47.12,Default,,0000,0000,0000,,{\fn黑体\fs24}但有间饭店发生大枪战{\r}\NBut there was just a major gun battle downtown at a hotel.
+Dialogue: 0,0:55:47.12,0:55:49.71,Default,,0000,0000,0000,,{\fn黑体\fs24}媒体都在报，你得出面发言{\r}\NThe media is going nuts. You're going to need to make a statement.
+Dialogue: 0,0:55:51.79,0:55:54.13,Default,,0000,0000,0000,,{\fn黑体\fs24}韩交也回来了{\r}\NHan Jiao is in the city, also.
+Dialogue: 0,0:55:54.13,0:55:55.76,Default,,0000,0000,0000,,{\fn黑体\fs24}有个中国女孩有他的东西{\r}\NHe gave this little Chinese girl something.
+Dialogue: 0,0:55:55.76,0:55:57.86,Default,,0000,0000,0000,,{\fn黑体\fs24}我不知道是什么{\r}\Nl don't know what.
+Dialogue: 0,0:55:57.86,0:55:59.43,Default,,0000,0000,0000,,{\fn黑体\fs24}女孩被路克带走了{\r}\N-Luke Wright grabbed her before l could. - What?
+Dialogue: 0,0:55:59.43,0:56:02.07,Default,,0000,0000,0000,,{\fn黑体\fs24}什么？ 我是说路克… 听到了…{\r}\N- l said Luke Wright... - Yeah, yeah...
+Dialogue: 0,0:56:02.07,0:56:03.40,Default,,0000,0000,0000,,{\fn黑体\fs24}你刚才说过了{\r}\Nl heard you the first time.
+Dialogue: 0,0:56:07.57,0:56:09.17,Default,,0000,0000,0000,,{\fn黑体\fs24}封锁曼哈顿的所有对外道路{\r}\NClose every exit out of Manhattan.
+Dialogue: 0,0:56:09.17,0:56:12.81,Default,,0000,0000,0000,,{\fn黑体\fs24}不准让路克或是女孩逃走 你就有好处可拿{\r}\NMake sure the neither Wright or the girl gets away; you get commission.
+Dialogue: 0,0:56:12.81,0:56:17.28,Default,,0000,0000,0000,,{\fn黑体\fs24}要是人跑了 你就准备帮自己收尸吧{\r}\NLet 'em go; you got a shovel to dig your own grave.
+Dialogue: 0,0:56:18.42,0:56:20.85,Default,,0000,0000,0000,,{\fn黑体\fs24}不准让那个女孩踏出纽约一步{\r}\NThat girl does not leave this city.
+Dialogue: 0,0:56:26.99,0:56:29.65,Default,,0000,0000,0000,,{\fn黑体\fs24}是谁杀了那个俄国人？{\r}\NWho was this man who killed the Russians?
+Dialogue: 0,0:56:30.33,0:56:32.82,Default,,0000,0000,0000,,{\fn黑体\fs24}我不知道 他没有告诉我{\r}\Nl don't know. He didn't tell me.
+Dialogue: 0,0:56:33.63,0:56:36.67,Default,,0000,0000,0000,,{\fn黑体\fs24}他有没有问到那个数字？{\r}\NDid he ask you about the number?
+Dialogue: 0,0:56:36.67,0:56:38.57,Default,,0000,0000,0000,,{\fn黑体\fs24}每个人都问这个数字{\r}\NEveryone asked me about the number.
+Dialogue: 0,0:56:42.91,0:56:46.74,Default,,0000,0000,0000,,{\fn黑体\fs24}那妳跟他们讲些什么呢？{\r}\NAnd what did you tell them?
+Dialogue: 0,0:56:50.28,0:56:51.75,Default,,0000,0000,0000,,{\fn黑体\fs24}我什么都没说{\r}\NNothing.
+Dialogue: 0,0:56:52.98,0:56:54.11,Default,,0000,0000,0000,,{\fn黑体\fs24}什么？{\r}\NWhat?
+Dialogue: 0,0:56:56.15,0:56:57.95,Default,,0000,0000,0000,,{\fn黑体\fs24}我什么都没说{\r}\NNothing.
+Dialogue: 0,0:57:00.06,0:57:01.33,Default,,0000,0000,0000,,{\fn黑体\fs24}妳在撒谎!{\r}\NYou are lying!
+Dialogue: 0,0:57:01.33,0:57:03.76,Default,,0000,0000,0000,,{\fn黑体\fs24}韩叔叔，我不会对你撒谎的{\r}\Nl would never lie to you, Uncle Han.
+Dialogue: 0,0:57:04.06,0:57:05.93,Default,,0000,0000,0000,,{\fn黑体\fs24}打个电话告诉他们{\r}\NCall our men back home.
+Dialogue: 0,0:57:05.93,0:57:09.40,Default,,0000,0000,0000,,{\fn黑体\fs24}把阿梅的妈妈干掉{\r}\NTell them to kill Mei's mother,
+Dialogue: 0,0:57:09.40,0:57:12.60,Default,,0000,0000,0000,,{\fn黑体\fs24}因为她的女儿是骗子{\r}\Nbecause her daughter is a deceitful liar.
+Dialogue: 0,0:57:12.60,0:57:14.24,Default,,0000,0000,0000,,{\fn黑体\fs24}韩叔叔，我发誓{\r}\Nl swear, Uncle Han.
+Dialogue: 0,0:57:14.24,0:57:16.37,Default,,0000,0000,0000,,{\fn黑体\fs24}我假装不会说英文，也听不懂{\r}\Nl pretended l didn't speak English, or understand it.
+Dialogue: 0,0:57:16.37,0:57:18.58,Default,,0000,0000,0000,,{\fn黑体\fs24}他们又吼又叫的 但是我什么都没说{\r}\NThey screamed and shouted but l didn't say anything,
+Dialogue: 0,0:57:18.58,0:57:20.91,Default,,0000,0000,0000,,{\fn黑体\fs24}因为我知道你会生气的{\r}\Nbecause l knew it would upset you.
+Dialogue: 0,0:57:20.91,0:57:22.61,Default,,0000,0000,0000,,{\fn黑体\fs24}我向我妈发誓{\r}\Nl swear on my mother.
+Dialogue: 0,0:57:30.55,0:57:31.96,Default,,0000,0000,0000,,{\fn黑体\fs24}找到女孩了{\r}\NWe recovered the girl.
+Dialogue: 0,0:57:31.96,0:57:34.03,Default,,0000,0000,0000,,{\fn黑体\fs24}但数据可能泄漏了{\r}\NBut the information might have been compromised.
+Dialogue: 0,0:57:34.03,0:57:35.69,Default,,0000,0000,0000,,{\fn黑体\fs24}要改时间吗？{\r}\NShould we change our time frame?
+Dialogue: 0,0:57:35.69,0:57:38.86,Default,,0000,0000,0000,,{\fn黑体\fs24}不可能 事情已经闹得沸沸扬扬了{\r}\Nlmpossible, now that the whole damn thing has gone super nova.
+Dialogue: 0,0:57:38.86,0:57:41.07,Default,,0000,0000,0000,,{\fn黑体\fs24}想交易就订今晚{\r}\Nlf it's going to happen, it's going to happen tonight.
+Dialogue: 0,0:57:41.07,0:57:43.00,Default,,0000,0000,0000,,{\fn黑体\fs24}会面地点必须更改{\r}\NThe meeting place needs to be changed.
+Dialogue: 0,0:57:43.00,0:57:44.44,Default,,0000,0000,0000,,{\fn黑体\fs24}改到哪里？{\r}\NWhere to?
+Dialogue: 0,0:57:44.44,0:57:47.09,Default,,0000,0000,0000,,{\fn黑体\fs24}我会再通知你 到了，就是这里{\r}\Nl'll let you know. Here. Right here.
+Dialogue: 0,0:57:53.08,0:57:54.31,Default,,0000,0000,0000,,{\fn黑体\fs24}慢一点{\r}\NSlow down.
+Dialogue: 0,0:57:55.51,0:57:56.48,Default,,0000,0000,0000,,{\fn黑体\fs24}停车{\r}\N Stop the car.
+Dialogue: 0,0:57:56.48,0:58:00.25,Default,,0000,0000,0000,,{\fn黑体\fs24}不行 妓女不准上我的车{\r}\NNo. You don't bring no hookers in my cab, man.
+Dialogue: 0,0:58:01.02,0:58:02.58,Default,,0000,0000,0000,,{\fn黑体\fs24}表照跳就是了{\r}\NJust keep the meter running.
+Dialogue: 0,0:58:06.86,0:58:08.52,Default,,0000,0000,0000,,{\fn黑体\fs24}美女…{\r}\NLadies...
+Dialogue: 0,0:58:09.39,0:58:10.66,Default,,0000,0000,0000,,{\fn黑体\fs24}去喝一杯吧{\r}\NHow about a drink.
+Dialogue: 0,0:58:18.97,0:58:19.99,Default,,0000,0000,0000,,{\fn黑体\fs24}晚安{\r}\NGood evening.
+Dialogue: 0,0:58:21.14,0:58:23.24,Default,,0000,0000,0000,,{\fn黑体\fs24}晚安 请问有订位吗？{\r}\NGood evening. Will you be joining a reservation?
+Dialogue: 0,0:58:23.24,0:58:24.80,Default,,0000,0000,0000,,{\fn黑体\fs24}我们没订位{\r}\NNo, we don't have a reservation.
+Dialogue: 0,0:58:25.78,0:58:27.65,Default,,0000,0000,0000,,{\fn黑体\fs24}晚点会客满{\r}\Nlt will be later tonight,
+Dialogue: 0,0:58:27.65,0:58:34.61,Default,,0000,0000,0000,,{\fn黑体\fs24}不过现在应该有位子 不介意的话可以坐楼上{\r}\Nbut we should be able to find you something.
+Dialogue: 0,0:58:35.85,0:58:37.51,Default,,0000,0000,0000,,You can sit upstairs, if you like.
+Dialogue: 0,0:58:45.20,0:58:49.70,Default,,0000,0000,0000,,{\fn黑体\fs24}先生，你的意思呢？{\r}\NSir, do you have a preference?
+Dialogue: 0,0:58:49.70,0:58:51.79,Default,,0000,0000,0000,,{\fn黑体\fs24}去酒吧喝杯酒就好了{\r}\Nl think we'll just get a drink at the bar.
+Dialogue: 0,0:58:55.31,0:58:57.88,Default,,0000,0000,0000,,{\fn黑体\fs24}先亲我一下 然后转身离开这里{\r}\NWhy don't you give me a kiss, turn around and walk out of here.
+Dialogue: 0,0:58:57.88,0:58:58.41,Default,,0000,0000,0000,,{\fn黑体\fs24}我以为…{\r}\NBut l thought...
+Dialogue: 0,0:58:58.41,0:59:00.54,Default,,0000,0000,0000,,{\fn黑体\fs24}假装妳掉了东西在外面{\r}\NJust act like you forgot something outside.
+Dialogue: 0,0:59:00.54,0:59:01.98,Default,,0000,0000,0000,,{\fn黑体\fs24}千万别再进来{\r}\NOnly, don't come back.
+Dialogue: 0,0:59:14.53,0:59:18.00,Default,,0000,0000,0000,,{\fn黑体\fs24}一杯白俄罗斯，谢谢 还有一支叉子{\r}\NGive me a White Russian please, and a fork.
+Dialogue: 0,0:59:18.00,0:59:19.10,Default,,0000,0000,0000,,{\fn黑体\fs24}叉子？{\r}\NA fork?
+Dialogue: 0,0:59:19.10,0:59:21.12,Default,,0000,0000,0000,,{\fn黑体\fs24}对，就是那个{\r}\NYeah, one of those.
+Dialogue: 0,0:59:22.67,0:59:26.60,Default,,0000,0000,0000,,{\fn黑体\fs24}每到这种时刻我都会辞穷{\r}\Nl never know what to say in these moments.
+Dialogue: 0,0:59:28.91,0:59:30.53,Default,,0000,0000,0000,,{\fn黑体\fs24}什么时刻？{\r}\NWhat moments?
+Dialogue: 0,0:59:31.18,0:59:33.47,Default,,0000,0000,0000,,{\fn黑体\fs24}我准备杀人的时刻{\r}\NThe ones before l kill somebody.
+Dialogue: 0,0:59:36.31,0:59:37.25,Default,,0000,0000,0000,,
+Dialogue: 0,0:59:51.60,0:59:52.72,Default,,0000,0000,0000,,{\fn黑体\fs24}老大!{\r}\NBoss!
+Dialogue: 0,0:59:57.44,1:00:00.60,Default,,0000,0000,0000,,{\fn黑体\fs24}他开什么车？ 车停哪里？{\r}\NWhat does he drive? And where is it parked?
+Dialogue: 0,1:00:02.71,1:00:04.77,Default,,0000,0000,0000,,{\fn黑体\fs24}休旅车，停在外面的巷子{\r}\Nlt's an SUV in the alley outside.
+Dialogue: 0,1:00:19.42,1:00:20.83,Default,,0000,0000,0000,,{\fn黑体\fs24}瓦西里{\r}\NVassily.
+Dialogue: 0,1:00:20.83,1:00:22.26,Default,,0000,0000,0000,,{\fn黑体\fs24}猜错了{\r}\NNot even close.
+Dialogue: 0,1:00:23.96,1:00:27.26,Default,,0000,0000,0000,,{\fn黑体\fs24}你是谁？ 今晚不断杀你手下的人{\r}\NWho is this? The guy who's been killing your boys all night, Emile.
+Dialogue: 0,1:00:27.26,1:00:30.06,Default,,0000,0000,0000,,{\fn黑体\fs24}也是抓走你儿子的人{\r}\NThe guy who has your son tied up in a very dark place.
+Dialogue: 0,1:00:31.40,1:00:34.21,Default,,0000,0000,0000,,{\fn黑体\fs24}这是我的条件… 你以为我会鸟你吗？{\r}\NNow, here's what l want. Do you think l give a shit what you want?
+Dialogue: 0,1:00:34.21,1:00:36.77,Default,,0000,0000,0000,,{\fn黑体\fs24}你以为抓了他就能威胁我吗？{\r}\NDo you think you can blackmail me, because you have Vassily?
+Dialogue: 0,1:00:36.77,1:00:38.41,Default,,0000,0000,0000,,{\fn黑体\fs24}他死了你就下地狱!{\r}\NKill him and go to Hell!
+Dialogue: 0,1:00:38.41,1:00:40.21,Default,,0000,0000,0000,,{\fn黑体\fs24}我是会下地狱{\r}\NOh, l'm going to Hell alright.
+Dialogue: 0,1:00:40.21,1:00:41.95,Default,,0000,0000,0000,,{\fn黑体\fs24}我不会杀你儿子{\r}\Nl'm not going to kill your boy.
+Dialogue: 0,1:00:41.95,1:00:45.05,Default,,0000,0000,0000,,{\fn黑体\fs24}我会把他留在身边 当作宠物{\r}\Nl'm going to keep him around. Like a pet.
+Dialogue: 0,1:00:45.05,1:00:46.74,Default,,0000,0000,0000,,{\fn黑体\fs24}被主人虐待的宠物{\r}\NA very badly treated pet.
+Dialogue: 0,1:00:47.75,1:00:51.42,Default,,0000,0000,0000,,{\fn黑体\fs24}我会做出令人不齿的事{\r}\Nl'm going to do things to him that will make me ashamed to look in the mirror afterward.
+Dialogue: 0,1:00:51.42,1:00:53.15,Default,,0000,0000,0000,,{\fn黑体\fs24}但我还是会做{\r}\NBut l will do them.
+Dialogue: 0,1:00:53.42,1:00:57.09,Default,,0000,0000,0000,,{\fn黑体\fs24}瓦西里会供出你组织的秘密{\r}\NVassily's going to tell me everything he knows about your operation.
+Dialogue: 0,1:00:57.09,1:01:00.26,Default,,0000,0000,0000,,{\fn黑体\fs24}然后你会怎样？ 报警吗？{\r}\NAnd then what you going to do? Tell the police?
+Dialogue: 0,1:01:00.73,1:01:04.27,Default,,0000,0000,0000,,{\fn黑体\fs24}你想逗我笑吗？ 谁说要报警了？{\r}\NYou want me to laugh? Who said anything about the police?
+Dialogue: 0,1:01:04.80,1:01:06.64,Default,,0000,0000,0000,,{\fn黑体\fs24}我要爆料给你的对手{\r}\Nl'm going to share the information with the competition.
+Dialogue: 0,1:01:06.64,1:01:08.57,Default,,0000,0000,0000,,{\fn黑体\fs24}那些还活着的对手{\r}\NThe one's l haven't already killed.
+Dialogue: 0,1:01:08.57,1:01:11.11,Default,,0000,0000,0000,,{\fn黑体\fs24}他们没杀死的人就让我来动手{\r}\NAnything they don't take from you, l will.
+Dialogue: 0,1:01:11.11,1:01:13.58,Default,,0000,0000,0000,,{\fn黑体\fs24}首先是你老婆{\r}\NFirst, l'm going to take your trophy wife.
+Dialogue: 0,1:01:14.58,1:01:16.81,Default,,0000,0000,0000,,{\fn黑体\fs24}再来是你的孩子们{\r}\NThen l'm going to take trophy children.
+Dialogue: 0,1:01:17.82,1:01:19.25,Default,,0000,0000,0000,,{\fn黑体\fs24}最后你会一无所有{\r}\NThen l'll leave you with nothing.
+Dialogue: 0,1:01:20.08,1:01:22.28,Default,,0000,0000,0000,,{\fn黑体\fs24}最后你会没人替你送终{\r}\NWhen l'm done, you won't even be a memory of a memory.
+Dialogue: 0,1:01:23.22,1:01:24.85,Default,,0000,0000,0000,,{\fn黑体\fs24}你可以避免这一切{\r}\NBut that doesn't have to happen.
+Dialogue: 0,1:01:25.19,1:01:26.78,Default,,0000,0000,0000,,{\fn黑体\fs24}你要什么？{\r}\NWhat do you want?
+Dialogue: 0,1:01:27.36,1:01:29.16,Default,,0000,0000,0000,,{\fn黑体\fs24}保险箱里装了什么？{\r}\Nl want to know what is in the safe?
+Dialogue: 0,1:01:29.16,1:01:33.12,Default,,0000,0000,0000,,{\fn黑体\fs24}哪个保险箱？ 那女孩告诉我密码了 就是那一个{\r}\NWhat safe? The safe the girl gave me the combination too. That safe.
+Dialogue: 0,1:01:35.33,1:01:37.43,Default,,0000,0000,0000,,{\fn黑体\fs24}三千万美金{\r}\NThirty million dollars.
+Dialogue: 0,1:01:38.97,1:01:40.70,Default,,0000,0000,0000,,{\fn黑体\fs24}那女孩要去拿第二组号码{\r}\NThe kid was on her way to get a second number.
+Dialogue: 0,1:01:40.70,1:01:42.70,Default,,0000,0000,0000,,{\fn黑体\fs24}第二个保险箱装了什么？{\r}\NWhat is in the second safe?
+Dialogue: 0,1:01:42.87,1:01:46.81,Default,,0000,0000,0000,,{\fn黑体\fs24}不值三千万的东西{\r}\NSomething worth thirty million dollars.
+Dialogue: 0,1:01:46.81,1:01:48.15,Default,,0000,0000,0000,,{\fn黑体\fs24}谁的东西？{\r}\NTo who?
+Dialogue: 0,1:01:48.15,1:01:49.24,Default,,0000,0000,0000,,{\fn黑体\fs24}不知道{\r}\NNo idea.
+Dialogue: 0,1:01:50.45,1:01:52.38,Default,,0000,0000,0000,,{\fn黑体\fs24}因为你不够聪明，艾米尔{\r}\NThat is because you are only half smart, Emile.
+Dialogue: 0,1:01:55.02,1:01:56.35,Default,,0000,0000,0000,,{\fn黑体\fs24}那就这么办{\r}\NSo, here's the deal.
+Dialogue: 0,1:01:57.19,1:01:59.99,Default,,0000,0000,0000,,{\fn黑体\fs24}说出第一个保险箱在哪 我拿到钱就放人{\r}\NYou tell me where the first safe is. l take the money and let your boy go.
+Dialogue: 0,1:01:59.99,1:02:01.79,Default,,0000,0000,0000,,{\fn黑体\fs24}敢骗我你就完了{\r}\NLie to me, and your world ends. You have my word on that.
+Dialogue: 0,1:02:01.79,1:02:04.26,Default,,0000,0000,0000,,{\fn黑体\fs24}我说到做到 白痴{\r}\Nldiot.
+Dialogue: 0,1:02:04.26,1:02:09.57,Default,,0000,0000,0000,,{\fn黑体\fs24}我知道你只有一个人 一个人是办不到的{\r}\Nl know when a man is working alone. And you're as alone as one can be.
+Dialogue: 0,1:02:09.57,1:02:12.80,Default,,0000,0000,0000,,{\fn黑体\fs24}你需要军队才能靠近那个保险箱{\r}\NYou need a small army to get near that safe.
+Dialogue: 0,1:02:12.80,1:02:15.44,Default,,0000,0000,0000,,{\fn黑体\fs24}我有军队{\r}\NThe kind of army l have.
+Dialogue: 0,1:02:15.44,1:02:16.41,Default,,0000,0000,0000,,{\fn黑体\fs24}那是过去式了{\r}\NHad.
+Dialogue: 0,1:02:17.44,1:02:19.64,Default,,0000,0000,0000,,{\fn黑体\fs24}军队刚才缩编了{\r}\Nlt's been shrinking by the minute.
+Dialogue: 0,1:02:20.28,1:02:23.27,Default,,0000,0000,0000,,{\fn黑体\fs24}再不说你儿子就要倒霉了{\r}\NLast chance before l hang up and go to work on your son.
+Dialogue: 0,1:02:27.72,1:02:29.58,Default,,0000,0000,0000,,{\fn黑体\fs24}你要杀我吗，收垃圾的？{\r}\NYou going to kill me, garbage man?
+Dialogue: 0,1:02:31.92,1:02:35.02,Default,,0000,0000,0000,,{\fn黑体\fs24}你那天大可杀了我们的{\r}\NYou could have taken us out that day, couldn't you?
+Dialogue: 0,1:02:35.19,1:02:37.09,Default,,0000,0000,0000,,{\fn黑体\fs24}但你却坐在地上{\r}\NBut you just sat there. Let us ruin you.
+Dialogue: 0,1:02:37.09,1:02:39.43,Default,,0000,0000,0000,,{\fn黑体\fs24}任凭我们宰割{\r}\NLet us make you nothing.
+Dialogue: 0,1:02:40.13,1:02:43.86,Default,,0000,0000,0000,,{\fn黑体\fs24}保险箱似乎给了你新希望 对吧，收垃圾的？{\r}\Nl guess finding out about that safe gave you new motivation, Garbage man?
+Dialogue: 0,1:02:45.17,1:02:47.30,Default,,0000,0000,0000,,{\fn黑体\fs24}换作我才不会聊天{\r}\Nl wouldn't spend my time talking if l were you.
+Dialogue: 0,1:02:48.34,1:02:50.44,Default,,0000,0000,0000,,{\fn黑体\fs24}我会祷告{\r}\Nl'd spend it praying, when this is over,
+Dialogue: 0,1:02:50.44,1:02:53.00,Default,,0000,0000,0000,,{\fn黑体\fs24}希望小女孩别因此丧命{\r}\Nthat little girl is still alive.
+Dialogue: 0,1:02:56.71,1:02:57.81,Default,,0000,0000,0000,,{\fn黑体\fs24}祷告吧{\r}\NPray.
+Dialogue: 0,1:03:07.22,1:03:11.09,Default,,0000,0000,0000,,{\fn黑体\fs24}时间和地点？ 一小时后在桥下的通道{\r}\NWhen and where? The underpass, under the bridge, one hour.
+Dialogue: 0,1:03:14.93,1:03:17.23,Default,,0000,0000,0000,,{\fn黑体\fs24}被老俄袭击时…{\r}\Nl'm sorry l pointed a gun at you,
+Dialogue: 0,1:03:17.23,1:03:19.03,Default,,0000,0000,0000,,{\fn黑体\fs24}很抱歉用枪指着妳{\r}\Nwhen the Russians attacked us, Mei.
+Dialogue: 0,1:03:20.14,1:03:22.07,Default,,0000,0000,0000,,{\fn黑体\fs24}- 当时我… - 我知道是生意{\r}\Nlt was... Business. l know.
+Dialogue: 0,1:03:22.07,1:03:24.23,Default,,0000,0000,0000,,{\fn黑体\fs24}很好，妳了解就好{\r}\NThat's good. lt's good you understand.
+Dialogue: 0,1:03:24.94,1:03:26.53,Default,,0000,0000,0000,,{\fn黑体\fs24}我们会完成这件事{\r}\NWe're going to get this done.
+Dialogue: 0,1:03:27.18,1:03:29.37,Default,,0000,0000,0000,,{\fn黑体\fs24}我和韩叔会照顾妳的{\r}\NAnd you'll be safe with me and uncle Han
+Dialogue: 0,1:03:31.32,1:03:35.11,Default,,0000,0000,0000,,{\fn黑体\fs24}我保证会当个好爸爸 绝不会抛弃你们母女{\r}\Nl promise to be a better father to you than the one who left you and your mother.
+Dialogue: 0,1:03:38.89,1:03:41.48,Default,,0000,0000,0000,,{\fn黑体\fs24}最关心妳的人只有我{\r}\NThere's no one in the world who cares more about you.
+Dialogue: 0,1:03:42.86,1:03:44.52,Default,,0000,0000,0000,,{\fn黑体\fs24}妳最清楚了，对不对？{\r}\NYou know that, don't you?
+Dialogue: 0,1:04:14.39,1:04:16.15,Default,,0000,0000,0000,,{\fn黑体\fs24}队友都到齐了{\r}\NWell, the gang's all here. 
+Dialogue: 0,1:04:16.96,1:04:18.15,Default,,0000,0000,0000,,{\fn黑体\fs24}还差一位{\r}\NAlmost.
+Dialogue: 0,1:04:18.90,1:04:20.56,Default,,0000,0000,0000,,{\fn黑体\fs24}莱迪克请病假吗？{\r}\NReddick have to call in sick?
+Dialogue: 0,1:04:20.56,1:04:23.87,Default,,0000,0000,0000,,{\fn黑体\fs24}他还在医院，混帐! 他的气管被你打断了{\r}\NHe's in the hospital, dickhead! You broke his trachea.
+Dialogue: 0,1:04:23.87,1:04:25.56,Default,,0000,0000,0000,,{\fn黑体\fs24}原来气管会断喔{\r}\Nl didn't know a trachea could brake. l hope they can fix it.
+Dialogue: 0,1:04:26.24,1:04:28.47,Default,,0000,0000,0000,,{\fn黑体\fs24}希望医生能处理 我来处理你好了{\r}\NYeah, how 'bout l fix you.
+Dialogue: 0,1:04:28.47,1:04:31.34,Default,,0000,0000,0000,,{\fn黑体\fs24}别在这动手{\r}\NHey, hey, hey... Not here.
+Dialogue: 0,1:04:32.21,1:04:34.28,Default,,0000,0000,0000,,{\fn黑体\fs24}好久不见，路克{\r}\NBeen a while, Luke.
+Dialogue: 0,1:04:34.28,1:04:36.08,Default,,0000,0000,0000,,{\fn黑体\fs24}真不想看到你{\r}\NCan't say l missed you.
+Dialogue: 0,1:04:37.21,1:04:39.41,Default,,0000,0000,0000,,{\fn黑体\fs24}还是言归正转吧{\r}\NSo, let us get down to business.
+Dialogue: 0,1:04:39.58,1:04:41.18,Default,,0000,0000,0000,,{\fn黑体\fs24}我要的东西有带吗？{\r}\NDid you bring what l asked for?
+Dialogue: 0,1:04:45.39,1:04:46.72,Default,,0000,0000,0000,,{\fn黑体\fs24}是史考提的吗？{\r}\NScotty's ?
+Dialogue: 0,1:04:46.72,1:04:47.88,Default,,0000,0000,0000,,{\fn黑体\fs24}不然呢？{\r}\NWhere else?
+Dialogue: 0,1:05:06.41,1:05:07.54,Default,,0000,0000,0000,,{\fn黑体\fs24}真好吃{\r}\NThat's good.
+Dialogue: 0,1:05:21.43,1:05:23.86,Default,,0000,0000,0000,,{\fn黑体\fs24}我在餐厅耗了整晚{\r}\Nl've been in restaurants all night.
+Dialogue: 0,1:05:24.50,1:05:26.29,Default,,0000,0000,0000,,{\fn黑体\fs24}里面只有供应子弹{\r}\NAll l got served was lead.
+Dialogue: 0,1:05:32.67,1:05:34.00,Default,,0000,0000,0000,,{\fn黑体\fs24}有打火机吗？{\r}\NAnyone got a light?
+Dialogue: 0,1:05:34.00,1:05:36.11,Default,,0000,0000,0000,,{\fn黑体\fs24}我告诉你，去你的!{\r}\NYou know what? Screw this!
+Dialogue: 0,1:05:36.11,1:05:38.64,Default,,0000,0000,0000,,{\fn黑体\fs24}听我说，队长 你一讲我们就来了{\r}\NLook, Cap, You asked us to come here. So we came.
+Dialogue: 0,1:05:38.64,1:05:41.31,Default,,0000,0000,0000,,{\fn黑体\fs24}但我才不要听他的废话{\r}\NBut l ain't going to sit here and listen to this scumbag's big mouth.
+Dialogue: 0,1:05:41.31,1:05:42.94,Default,,0000,0000,0000,,{\fn黑体\fs24}闭嘴，柯费斯{\r}\NShut up Kolfax.
+Dialogue: 0,1:05:43.91,1:05:45.31,Default,,0000,0000,0000,,{\fn黑体\fs24}还没戒啊？{\r}\NStill haven't quit, huh?
+Dialogue: 0,1:05:59.06,1:06:00.06,Default,,0000,0000,0000,,{\fn黑体\fs24}那是什么？{\r}\NHey, what the hell is that? Combination to the safe with thirty million bucks in it.
+Dialogue: 0,1:06:00.06,1:06:04.80,Default,,0000,0000,0000,,{\fn黑体\fs24}装了三千万的保险箱的密码 奸诈的人渣{\r}\NWhoa, whoa, What the hell you filthy piece of shit.
+Dialogue: 0,1:06:04.80,1:06:07.67,Default,,0000,0000,0000,,{\fn黑体\fs24}现在只有我知道密码{\r}\NThe only place it exists now is in here.
+Dialogue: 0,1:06:07.67,1:06:10.51,Default,,0000,0000,0000,,{\fn黑体\fs24}下次千万别乱开枪{\r}\NRemember that next time your little trigger finger gets itchy.
+Dialogue: 0,1:06:10.51,1:06:12.11,Default,,0000,0000,0000,,{\fn黑体\fs24}这里是中国城最夯的赌场{\r}\NWhy would Han Jiao stash it right in the middle of Chinatown's
+Dialogue: 0,1:06:12.11,1:06:14.88,Default,,0000,0000,0000,,{\fn黑体\fs24}韩交为何把钱放在这？{\r}\Nbusiest gambling den?
+Dialogue: 0,1:06:14.88,1:06:15.88,Default,,0000,0000,0000,,{\fn黑体\fs24}因为像你这种条子{\r}\NBecause of sleazbucket cops.
+Dialogue: 0,1:06:15.88,1:06:20.35,Default,,0000,0000,0000,,{\fn黑体\fs24}最爱来这种地方收钱{\r}\NLike you Benoit, who collect off of Chinatown's busiest gambling den.
+Dialogue: 0,1:06:20.35,1:06:22.52,Default,,0000,0000,0000,,{\fn黑体\fs24}否则这么多保镳拿枪{\r}\NWhere else would he be surrounded by dozens of armed men
+Dialogue: 0,1:06:22.52,1:06:24.19,Default,,0000,0000,0000,,{\fn黑体\fs24}条子怎么都不起疑？{\r}\Nwithout attracting police attention?
+Dialogue: 0,1:06:24.19,1:06:26.62,Default,,0000,0000,0000,,{\fn黑体\fs24}队长，搞不好他在骗人{\r}\NAlight Captain, how do we know this son-of-abitch is on the level?
+Dialogue: 0,1:06:26.62,1:06:29.26,Default,,0000,0000,0000,,{\fn黑体\fs24}他是个无赖 你的消息哪来的？{\r}\NHuh? He's a bum. Where'd you get your information?
+Dialogue: 0,1:06:30.83,1:06:32.83,Default,,0000,0000,0000,,{\fn黑体\fs24}今晚有个大交易{\r}\NThere's an exchange happening tonight.
+Dialogue: 0,1:06:32.83,1:06:35.17,Default,,0000,0000,0000,,{\fn黑体\fs24}中国帮一半的财产都在这{\r}\NThe Triad half of the deal is in the safe at the Casino.
+Dialogue: 0,1:06:35.17,1:06:39.37,Default,,0000,0000,0000,,{\fn黑体\fs24}我一个人搞不定 所以才找老搭档们一起来{\r}\NNo way l could get to it on my own. So l called on you, my old pals.
+Dialogue: 0,1:06:40.24,1:06:43.00,Default,,0000,0000,0000,,{\fn黑体\fs24}三千万分六份还是很多{\r}\NThirty million split six ways is still a lot of money.
+Dialogue: 0,1:06:45.81,1:06:47.30,Default,,0000,0000,0000,,{\fn黑体\fs24}风险很高，队长{\r}\NWe're risking a lot, Captain.
+Dialogue: 0,1:06:47.88,1:06:52.18,Default,,0000,0000,0000,,{\fn黑体\fs24}特别是你 大家都知道你前途无量{\r}\NYou especially. Everybody knows you have a bright future.
+Dialogue: 0,1:06:52.18,1:06:55.59,Default,,0000,0000,0000,,{\fn黑体\fs24}谁能保证？市长吗？{\r}\NPromised by who? Hizzonor?
+Dialogue: 0,1:06:55.59,1:06:57.65,Default,,0000,0000,0000,,{\fn黑体\fs24}他在耍你，沃夫{\r}\NWhat carrot is he teasing you with, Wolf?
+Dialogue: 0,1:06:58.52,1:07:00.89,Default,,0000,0000,0000,,{\fn黑体\fs24}他知道你的事哪敢用你{\r}\NHe's going to let off the street knowing what you know?
+Dialogue: 0,1:07:00.89,1:07:03.89,Default,,0000,0000,0000,,{\fn黑体\fs24}这话什么意思？ 代表他的第二任期快结束了{\r}\NHey, what's that supposed to mean? Meaning his second term is going to come to an end,
+Dialogue: 0,1:07:03.89,1:07:05.30,Default,,0000,0000,0000,,{\fn黑体\fs24}很快就没权力了{\r}\Nand his old on the city goes puff.
+Dialogue: 0,1:07:05.30,1:07:06.99,Default,,0000,0000,0000,,{\fn黑体\fs24}他会变成平民百姓{\r}\NJust like that, he's Joe Citizen again.
+Dialogue: 0,1:07:07.93,1:07:10.60,Default,,0000,0000,0000,,{\fn黑体\fs24}三千万退休金还不错{\r}\NThirty million would be a nice retirement package.
+Dialogue: 0,1:07:10.60,1:07:12.10,Default,,0000,0000,0000,,{\fn黑体\fs24}他给了老中什么好处？{\r}\NWhat's he giving the Chinks?
+Dialogue: 0,1:07:12.10,1:07:15.03,Default,,0000,0000,0000,,{\fn黑体\fs24}我要是知道 就不会找你们这群混蛋{\r}\Nlf l knew that, l wouldn't be standing here with you assholes, would l?
+Dialogue: 0,1:07:17.21,1:07:18.54,Default,,0000,0000,0000,,{\fn黑体\fs24}前途无量是吗？{\r}\NBright future, huh?
+Dialogue: 0,1:07:18.98,1:07:20.91,Default,,0000,0000,0000,,{\fn黑体\fs24}上头条新闻{\r}\NBig headlines.
+Dialogue: 0,1:07:20.91,1:07:24.82,Default,,0000,0000,0000,,{\fn黑体\fs24}英勇警探破获纽约最大地下赌场{\r}\N"Hero cops take down New York City's biggest underground gambling operation.
+Dialogue: 0,1:07:24.82,1:07:26.75,Default,,0000,0000,0000,,{\fn黑体\fs24}每人分五百万{\r}\NFive million bucks apiece.
+Dialogue: 0,1:07:26.75,1:07:29.78,Default,,0000,0000,0000,,{\fn黑体\fs24}没有人会发现 打点一下就可以了{\r}\NNo one will ever know about it, just to give it that extra sweet taste.
+Dialogue: 0,1:07:48.34,1:07:50.03,Default,,0000,0000,0000,,{\fn黑体\fs24}好，有谁进去过？{\r}\NAlright, who's been in there?
+Dialogue: 0,1:07:50.64,1:07:51.91,Default,,0000,0000,0000,,{\fn黑体\fs24}快说，谁进去过？{\r}\NFor Christ sake, who's been in there?
+Dialogue: 0,1:07:51.91,1:07:53.71,Default,,0000,0000,0000,,{\fn黑体\fs24}我，队长{\r}\NMe Cap.
+Dialogue: 0,1:07:53.71,1:07:55.15,Default,,0000,0000,0000,,{\fn黑体\fs24}你们两个走前面{\r}\NYou two, you're on point.
+Dialogue: 0,1:07:55.15,1:07:57.58,Default,,0000,0000,0000,,{\fn黑体\fs24}里面都是平民 所以要见机行事{\r}\NThe place is packed with civilians. So exercise some judgement.
+Dialogue: 0,1:07:57.58,1:07:59.92,Default,,0000,0000,0000,,{\fn黑体\fs24}别忘了，密码在我这{\r}\NRemember, l got the combination.
+Dialogue: 0,1:07:59.92,1:08:01.89,Default,,0000,0000,0000,,{\fn黑体\fs24}想要钱就保护我{\r}\NYou want that money? Watch my back.
+Dialogue: 0,1:08:19.40,1:08:20.39,Default,,0000,0000,0000,,{\fn黑体\fs24}你要去哪？{\r}\NHey, where you going?
+Dialogue: 0,1:08:21.77,1:08:22.90,Default,,0000,0000,0000,,{\fn黑体\fs24}别动!{\r}\NDon't move!
+Dialogue: 0,1:08:23.17,1:08:24.80,Default,,0000,0000,0000,,{\fn黑体\fs24}不准抵抗!妈的!{\r}
+Dialogue: 0,1:08:57.41,1:08:58.87,Default,,0000,0000,0000,,Hey you! Settle down!
+Dialogue: 0,1:09:11.36,1:09:12.52,Default,,0000,0000,0000,,{\fn黑体\fs24}往这走!快点!{\r}\NThis way!
+Dialogue: 0,1:09:12.52,1:09:15.46,Default,,0000,0000,0000,,{\fn黑体\fs24}妈的!{\r}\NJesus!
+Dialogue: 0,1:09:26.50,1:09:28.84,Default,,0000,0000,0000,,{\fn黑体\fs24}警察…{\r}\NWarn them!
+Dialogue: 0,1:09:33.94,1:09:35.47,Default,,0000,0000,0000,,{\fn黑体\fs24}警告他们!{\r}\NWarn them!
+Dialogue: 0,1:09:56.87,1:09:58.06,Default,,0000,0000,0000,,{\fn黑体\fs24}莱斯基，小心点!{\r}\NLasky, heads up!
+Dialogue: 0,1:10:06.61,1:10:07.51,Default,,0000,0000,0000,,{\fn黑体\fs24}前进!{\r}\NGo!
+Dialogue: 0,1:10:19.52,1:10:21.29,Default,,0000,0000,0000,,{\fn黑体\fs24}柯费斯，干掉他!{\r}\NKolfax, take him out!
+Dialogue: 0,1:10:28.43,1:10:29.46,Default,,0000,0000,0000,,{\fn黑体\fs24}掩护他!{\r}\NCover him!
+Dialogue: 0,1:11:12.94,1:11:14.71,Default,,0000,0000,0000,,{\fn黑体\fs24}快点打开!{\r}\NOpen it! Take it!
+Dialogue: 0,1:11:15.61,1:11:18.38,Default,,0000,0000,0000,,{\fn黑体\fs24}他妈的!好痛!{\r}\NOh fuck! Aww shit!
+Dialogue: 0,1:11:37.07,1:11:39.94,Default,,0000,0000,0000,,{\fn黑体\fs24}惨了…我得去医院{\r}\NAw shit. l got to get out of here.
+Dialogue: 0,1:11:39.94,1:11:42.13,Default,,0000,0000,0000,,{\fn黑体\fs24}好痛…队长…{\r}\NAww fuck. Aw Captain...
+Dialogue: 0,1:11:44.94,1:11:47.28,Default,,0000,0000,0000,,{\fn黑体\fs24}你这混蛋! 竟然从背后开枪!{\r}\NGod, you shit! Shoot a man in the back!
+Dialogue: 0,1:11:47.28,1:11:49.11,Default,,0000,0000,0000,,{\fn黑体\fs24}王八蛋!{\r}\NSon of a bitch!
+Dialogue: 0,1:11:49.11,1:11:51.11,Default,,0000,0000,0000,,{\fn黑体\fs24}米尔斯，该往哪走？{\r}\NAlright, Mears. Where're we going?
+Dialogue: 0,1:11:51.11,1:11:52.24,Default,,0000,0000,0000,,{\fn黑体\fs24}往这走{\r}\NThis way.
+Dialogue: 0,1:11:53.12,1:11:54.14,Default,,0000,0000,0000,,{\fn黑体\fs24}快点!{\r}\NMove!
+Dialogue: 0,1:11:56.52,1:11:58.22,Default,,0000,0000,0000,,{\fn黑体\fs24}我们被袭击了{\r}\NWe've been attacked...
+Dialogue: 0,1:11:58.22,1:11:59.62,Default,,0000,0000,0000,,{\fn黑体\fs24}他们不是俄国人{\r}\NNot by the Russians. Buy the police l think...
+Dialogue: 0,1:11:59.62,1:12:02.39,Default,,0000,0000,0000,,{\fn黑体\fs24}好像是警察 不过他们比警察更厉害{\r}\NBut they're better than police.
+Dialogue: 0,1:12:02.39,1:12:06.42,Default,,0000,0000,0000,,{\fn黑体\fs24}多派点人来 他们杀了很多人 快点，我们需要…{\r}\NWe need help. They've killed a lot of our people.
+Dialogue: 0,1:12:07.20,1:12:10.60,Default,,0000,0000,0000,,{\fn黑体\fs24}找小张 尽快拿到那个数字{\r}\NCall Chang. Tell him as soon as he gets that number,
+Dialogue: 0,1:12:10.60,1:12:13.47,Default,,0000,0000,0000,,{\fn黑体\fs24}然后把跑腿的干掉{\r}\Nhe is to take out their errand boy.
+Dialogue: 0,1:12:14.20,1:12:17.87,Default,,0000,0000,0000,,{\fn黑体\fs24}这个数字由我们自己来破解{\r}\NWe'll have to decipher the code quickly...
+Dialogue: 0,1:12:19.01,1:12:20.07,Default,,0000,0000,0000,,{\fn黑体\fs24}你们听到了吗？{\r}\NDo as l said!
+Dialogue: 0,1:12:34.72,1:12:37.53,Default,,0000,0000,0000,,{\fn黑体\fs24}通往天堂之门 看来不是为罪人而开的{\r}\NThe Gates of Paradise. Locked and bolted to sinners like us.
+Dialogue: 0,1:12:37.53,1:12:39.09,Default,,0000,0000,0000,,{\fn黑体\fs24}那我们就自己开吧{\r}\NYeah, well let's not wait for an invitation.
+Dialogue: 0,1:13:03.22,1:13:06.02,Default,,0000,0000,0000,,{\fn黑体\fs24}好了，混蛋，你可以开工了{\r}\NAlright you bastard. Get started.
+Dialogue: 0,1:13:14.10,1:13:16.09,Default,,0000,0000,0000,,{\fn黑体\fs24}先把规则讲好{\r}\NHere's how we do this.
+Dialogue: 0,1:13:16.67,1:13:18.44,Default,,0000,0000,0000,,{\fn黑体\fs24}你们把枪放下{\r}\NYou put down your guns...
+Dialogue: 0,1:13:18.44,1:13:19.66,Default,,0000,0000,0000,,{\fn黑体\fs24}我就开保险箱{\r}\N...l open the safe.
+Dialogue: 0,1:13:20.74,1:13:22.30,Default,,0000,0000,0000,,{\fn黑体\fs24}想杀我就杀吧{\r}\NYou want to shoot me, go ahead.
+Dialogue: 0,1:13:22.97,1:13:25.84,Default,,0000,0000,0000,,{\fn黑体\fs24}快点决定 正牌的条子快到了{\r}\NMake your minds up quick, because the real cops will be here soon.
+Dialogue: 0,1:13:29.98,1:13:31.11,Default,,0000,0000,0000,,{\fn黑体\fs24}扔在地上{\r}\NOn the floor.
+Dialogue: 0,1:14:06.28,1:14:07.28,Default,,0000,0000,0000,,{\fn黑体\fs24}别开玩笑了{\r}\NCome on you son of a bitch, what are you trying to pull.
+Dialogue: 0,1:14:07.28,1:14:09.69,Default,,0000,0000,0000,,{\fn黑体\fs24}你在耍什么花样？ 左右弄反了{\r}\Nl got right left switched.
+Dialogue: 0,1:14:09.69,1:14:10.74,Default,,0000,0000,0000,,{\fn黑体\fs24}会开的{\r}\Nlt's going to open.
+Dialogue: 0,1:14:27.40,1:14:28.50,Default,,0000,0000,0000,,{\fn黑体\fs24}他妈的!{\r}\NOh fuck!
+Dialogue: 0,1:14:28.77,1:14:29.86,Default,,0000,0000,0000,,{\fn黑体\fs24}你不会死的{\r}\NYou'll live.
+Dialogue: 0,1:14:32.81,1:14:34.33,Default,,0000,0000,0000,,{\fn黑体\fs24}往左转到26{\r}\NLeft, twenty six.
+Dialogue: 0,1:14:51.39,1:14:53.33,Default,,0000,0000,0000,,{\fn黑体\fs24}沃夫队长，发生什么事？{\r}\NCaptain Wolf, what the hell happened in here?
+Dialogue: 0,1:14:53.33,1:14:54.50,Default,,0000,0000,0000,,{\fn黑体\fs24}你说呢？{\r}\NWhat do you think happened, huh?
+Dialogue: 0,1:14:54.50,1:14:56.07,Default,,0000,0000,0000,,{\fn黑体\fs24}我们突袭失败了{\r}\NWe had a raid on the place go bad.
+Dialogue: 0,1:14:56.07,1:14:57.40,Default,,0000,0000,0000,,{\fn黑体\fs24}里面有不少人伤亡{\r}\NWe got dead cops, casualties, get in there will ya!
+Dialogue: 0,1:14:57.40,1:14:58.50,Default,,0000,0000,0000,,{\fn黑体\fs24}快去帮忙!{\r}\NCaptain Wolf, you need an ambulance.
+Dialogue: 0,1:14:58.50,1:15:00.87,Default,,0000,0000,0000,,{\fn黑体\fs24}沃夫队长，你需要去医院 快派救护车队来{\r}\Nl need a fleet of ambulances! Alright?
+Dialogue: 0,1:15:00.87,1:15:03.74,Default,,0000,0000,0000,,{\fn黑体\fs24}快去通报 我自己会去医院{\r}\NCall it in, will ya? l'll take my own busted ass to the hospital.
+Dialogue: 0,1:15:07.41,1:15:08.65,Default,,0000,0000,0000,,{\fn黑体\fs24}还不赖嘛{\r}\NNot bad.
+Dialogue: 0,1:15:08.65,1:15:10.25,Default,,0000,0000,0000,,{\fn黑体\fs24}如果你没有那么虚假{\r}\Nlf you weren't such a double dealing asshole,
+Dialogue: 0,1:15:10.25,1:15:11.71,Default,,0000,0000,0000,,{\fn黑体\fs24}我还有可能会欣赏你{\r}\Nl could almost like you.
+Dialogue: 0,1:15:12.38,1:15:14.35,Default,,0000,0000,0000,,{\fn黑体\fs24}只是可能而已，开车吧{\r}\NAlmost. Drive.
+Dialogue: 0,1:15:19.39,1:15:20.48,Default,,0000,0000,0000,,{\fn黑体\fs24}擦伤而已{\r}\Nlt's a scratch.
+Dialogue: 0,1:15:24.29,1:15:25.35,Default,,0000,0000,0000,,{\fn黑体\fs24}我不会杀你{\r}\Nl'm not going to kill you.
+Dialogue: 0,1:15:26.33,1:15:28.30,Default,,0000,0000,0000,,{\fn黑体\fs24}但也没说要让你好过{\r}\NBut l didn't say l was putting you up in the Ritz.
+Dialogue: 0,1:15:36.64,1:15:38.11,Default,,0000,0000,0000,,{\fn黑体\fs24}沃夫{\r}\NWolf.
+Dialogue: 0,1:15:38.11,1:15:39.51,Default,,0000,0000,0000,,{\fn黑体\fs24}钱在我这，丹尼{\r}\Nl have your money, Danny.
+Dialogue: 0,1:15:42.45,1:15:43.31,Default,,0000,0000,0000,,{\fn黑体\fs24}什么？{\r}\NWhat?
+Dialogue: 0,1:15:44.41,1:15:45.57,Default,,0000,0000,0000,,{\fn黑体\fs24}你听到了{\r}\NYou heard me.
+Dialogue: 0,1:15:46.48,1:15:50.35,Default,,0000,0000,0000,,{\fn黑体\fs24}三千万，面额是五千和一千{\r}\NThirty million, five thousand and one thousand dollar bills.
+Dialogue: 0,1:15:50.62,1:15:51.25,Default,,0000,0000,0000,,{\fn黑体\fs24}我想谈谈…{\r}\N- l want to talk... - No. No,
+Dialogue: 0,1:15:51.25,1:15:54.52,Default,,0000,0000,0000,,{\fn黑体\fs24}不…你先冷静一下 我们好好的谈{\r}\Nwhat you want to do is calm down so we can talk like adults.
+Dialogue: 0,1:15:54.52,1:15:56.36,Default,,0000,0000,0000,,{\fn黑体\fs24}闭嘴，丹尼{\r}\NShut it, Danny.
+Dialogue: 0,1:15:56.36,1:15:57.56,Default,,0000,0000,0000,,{\fn黑体\fs24}我要谈条件{\r}\Nl want to talk. But l don't want to talk to you.
+Dialogue: 0,1:15:57.56,1:16:00.59,Default,,0000,0000,0000,,{\fn黑体\fs24}但我不想跟你谈 我要找你的男友谈{\r}\Nl want to talk to your boyfriend.
+Dialogue: 0,1:16:04.67,1:16:05.83,Default,,0000,0000,0000,,{\fn黑体\fs24}我是艾力克斯{\r}\NThis is Alex.
+Dialogue: 0,1:16:06.44,1:16:08.67,Default,,0000,0000,0000,,{\fn黑体\fs24}好久不见，艾力克斯{\r}\Nlt has been a while, Alex.
+Dialogue: 0,1:16:08.97,1:16:10.74,Default,,0000,0000,0000,,{\fn黑体\fs24}你哪来的号码？{\r}\NHow did you get this number?
+Dialogue: 0,1:16:10.74,1:16:13.84,Default,,0000,0000,0000,,{\fn黑体\fs24}别傻了，艾力克斯 抠抠市长的屁屁就有了{\r}\NCome on, Alex. Reach up the Mayor's ass there you are.
+Dialogue: 0,1:16:15.88,1:16:18.11,Default,,0000,0000,0000,,{\fn黑体\fs24}该来的总是避不掉{\r}\NA man has got to do, what a man has got to do.
+Dialogue: 0,1:16:18.55,1:16:20.92,Default,,0000,0000,0000,,{\fn黑体\fs24}他比安妮好多了{\r}\NWell, he was a better catch than Annie was anyway.
+Dialogue: 0,1:16:20.92,1:16:23.82,Default,,0000,0000,0000,,{\fn黑体\fs24}我不懂你为何会看上她{\r}\Nl never understood how you hooked up with a cow like that.
+Dialogue: 0,1:16:24.12,1:16:27.89,Default,,0000,0000,0000,,{\fn黑体\fs24}这与长相无关 我喜欢她的幽默{\r}\Nlt was never about her looks. lt was her sense of humor.
+Dialogue: 0,1:16:27.89,1:16:29.53,Default,,0000,0000,0000,,{\fn黑体\fs24}她不再幽默了吧？{\r}\NShe is not so funny now, is she?
+Dialogue: 0,1:16:29.53,1:16:32.05,Default,,0000,0000,0000,,{\fn黑体\fs24}你说得对，我也是{\r}\NNo, she is not, neither am l.
+Dialogue: 0,1:16:33.83,1:16:35.30,Default,,0000,0000,0000,,{\fn黑体\fs24}钱在我这，艾力克斯{\r}\Nl have the money, Alex.
+Dialogue: 0,1:16:35.30,1:16:38.16,Default,,0000,0000,0000,,{\fn黑体\fs24}杀了不少人才得到的 所以给我听清楚{\r}\Nl had to kill a lot of people to get it, so listen up.
+Dialogue: 0,1:16:39.70,1:16:41.91,Default,,0000,0000,0000,,{\fn黑体\fs24}你还没交易密码{\r}\NYou haven't made the combination exchange yet.
+Dialogue: 0,1:16:41.91,1:16:43.91,Default,,0000,0000,0000,,{\fn黑体\fs24}另一个保险箱里装了什么？{\r}\NWhat is in the other safe?
+Dialogue: 0,1:16:43.91,1:16:45.00,Default,,0000,0000,0000,,{\fn黑体\fs24}一张光盘{\r}\NA disk. 
+Dialogue: 0,1:16:45.54,1:16:48.48,Default,,0000,0000,0000,,{\fn黑体\fs24}记录名字和金流…{\r}\NNames, money trails...
+Dialogue: 0,1:16:48.48,1:16:51.08,Default,,0000,0000,0000,,{\fn黑体\fs24}指挥官派你和我协助丹尼时{\r}\N...when our commanders sent the two of us to help Danny clean up the city,
+Dialogue: 0,1:16:51.08,1:16:52.92,Default,,0000,0000,0000,,{\fn黑体\fs24}他们有附带条件{\r}\Nthey attached a price.
+Dialogue: 0,1:16:52.92,1:16:55.22,Default,,0000,0000,0000,,{\fn黑体\fs24}丹尼必须不闻不问{\r}\Nln exchange Danny looked the other way...
+Dialogue: 0,1:16:55.22,1:16:56.62,Default,,0000,0000,0000,,{\fn黑体\fs24}被判定为恐怖组织的帮派{\r}\N...while the assets seized from every group deemed
+Dialogue: 0,1:16:56.62,1:17:00.29,Default,,0000,0000,0000,,{\fn黑体\fs24}其资产都归他们所有{\r}\Na terrorist organization were funneled into their private accounts.
+Dialogue: 0,1:17:00.29,1:17:01.72,Default,,0000,0000,0000,,{\fn黑体\fs24}没想到为了保命{\r}\Nlt's amazing what people let you get away with
+Dialogue: 0,1:17:01.72,1:17:03.56,Default,,0000,0000,0000,,{\fn黑体\fs24}那些人什么都愿意给{\r}\Nwhen they are scared and want to feel protected.
+Dialogue: 0,1:17:03.56,1:17:07.40,Default,,0000,0000,0000,,{\fn黑体\fs24}没想到有这么多豺狼虎豹想分杯羹{\r}\NAmazing how many scumbags there are out there waiting to take advantage of it.
+Dialogue: 0,1:17:07.40,1:17:08.20,Default,,0000,0000,0000,,{\fn黑体\fs24}你别自命清高了{\r}\N- Like you didn't . - l quit.
+Dialogue: 0,1:17:08.20,1:17:09.07,Default,,0000,0000,0000,,{\fn黑体\fs24}我改变了{\r}\Nl bet that helps all those souls
+Dialogue: 0,1:17:09.07,1:17:11.73,Default,,0000,0000,0000,,{\fn黑体\fs24}那些无故被你干掉的人{\r}\Nyou sent to meet their maker without due process,
+Dialogue: 0,1:17:11.73,1:17:13.74,Default,,0000,0000,0000,,{\fn黑体\fs24}终于可以安息了{\r}\Nrest a whole lot easier.
+Dialogue: 0,1:17:13.74,1:17:16.51,Default,,0000,0000,0000,,{\fn黑体\fs24}你以为参加黑市拳赛{\r}\NYou thought you could atone by climbing into a cage
+Dialogue: 0,1:17:16.51,1:17:18.14,Default,,0000,0000,0000,,{\fn黑体\fs24}故意挨揍就能弥补一切？{\r}\Nand allowing yourself to get beaten to a pulp.
+Dialogue: 0,1:17:18.14,1:17:20.01,Default,,0000,0000,0000,,{\fn黑体\fs24}少跟我说教了，路克{\r}\NDon't fucking preach at me, Luke.
+Dialogue: 0,1:17:20.01,1:17:22.75,Default,,0000,0000,0000,,{\fn黑体\fs24}我只是拿钱办事{\r}\Nl'm getting paid for services rendered.
+Dialogue: 0,1:17:22.75,1:17:27.52,Default,,0000,0000,0000,,{\fn黑体\fs24}对 你把光盘卖给老中 让他们勒索高层{\r}\NRight. You sell the disk to the Chinese so they can black mail our old honchos.
+Dialogue: 0,1:17:27.52,1:17:31.39,Default,,0000,0000,0000,,{\fn黑体\fs24}拿着那三千万 带着丹尼去巴哈马享乐{\r}\NTake the thirty mil and waltz off with Danny to a Villa in the Bahamas.
+Dialogue: 0,1:17:31.39,1:17:33.58,Default,,0000,0000,0000,,{\fn黑体\fs24}峇里岛也不错{\r}\NBali, but whatever, eh?
+Dialogue: 0,1:17:34.06,1:17:37.23,Default,,0000,0000,0000,,{\fn黑体\fs24}你都知道了 那接下来呢？{\r}\NSo, now you know. Now what?
+Dialogue: 0,1:17:37.23,1:17:39.23,Default,,0000,0000,0000,,{\fn黑体\fs24}你现在得跟我交易了{\r}\NNow you're dealing with me.
+Dialogue: 0,1:17:39.23,1:17:40.83,Default,,0000,0000,0000,,{\fn黑体\fs24}好，那我不找他们了{\r}\NAlright, l'm turning around.
+Dialogue: 0,1:17:40.83,1:17:41.92,Default,,0000,0000,0000,,{\fn黑体\fs24}不行{\r}\NNo you're not.
+Dialogue: 0,1:17:43.10,1:17:44.36,Default,,0000,0000,0000,,{\fn黑体\fs24}什么意思？{\r}\NWhat are you talking about?
+Dialogue: 0,1:17:45.00,1:17:47.27,Default,,0000,0000,0000,,{\fn黑体\fs24}钱在你手上 中国帮对我没用处{\r}\NYou got the money, the Chinese have nothing l care about.
+Dialogue: 0,1:17:47.27,1:17:50.17,Default,,0000,0000,0000,,{\fn黑体\fs24}不，他们有我想要的东西{\r}\NNo, they have something l do.
+Dialogue: 0,1:17:59.45,1:18:04.44,Default,,0000,0000,0000,,{\fn黑体\fs24}记住，当他给梅密码，就动手{\r}
+Dialogue: 0,1:18:08.73,1:18:10.73,Default,,0000,0000,0000,,{\fn黑体\fs24}把保险箱密码给她{\r}\NGive her the combination to your safe.
+Dialogue: 0,1:18:10.73,1:18:14.36,Default,,0000,0000,0000,,{\fn黑体\fs24}她会给你我们的 我们各自到对方的地方{\r}\NAnd she will give you our number. We go to your location, you go to ours.
+Dialogue: 0,1:18:14.36,1:18:18.00,Default,,0000,0000,0000,,{\fn黑体\fs24}等我们拿到光盘 我们会教你解碼{\r}\NWhen we've gotten the disk, we will explain the code.
+Dialogue: 0,1:18:18.00,1:18:19.63,Default,,0000,0000,0000,,{\fn黑体\fs24}你就能拿到钱了{\r}\NAnd you get the cash.
+Dialogue: 0,1:18:19.80,1:18:21.13,Default,,0000,0000,0000,,{\fn黑体\fs24}一言为定{\r}\NThat's the deal.
+Dialogue: 0,1:18:22.84,1:18:23.84,Default,,0000,0000,0000,,{\fn黑体\fs24}快讲吧{\r}\NLet's hear it.
+Dialogue: 0,1:18:23.84,1:18:27.28,Default,,0000,0000,0000,,{\fn黑体\fs24}密码很长，你最好写下来{\r}\Nlt's a very long number. You'll want to write it down.
+Dialogue: 0,1:18:29.35,1:18:31.01,Default,,0000,0000,0000,,{\fn黑体\fs24}还好我有带笔{\r}\NThank goodness l brought a pen. Huh?
+Dialogue: 0,1:18:40.66,1:18:42.28,Default,,0000,0000,0000,,{\fn黑体\fs24}妳最好闭上眼睛{\r}\NYou might want to close your eyes.
+Dialogue: 0,1:18:44.86,1:18:45.83,Default,,0000,0000,0000,,{\fn黑体\fs24}随妳便{\r}\NHave it your way.
+Dialogue: 0,1:18:58.81,1:19:00.61,Default,,0000,0000,0000,,{\fn黑体\fs24}快接电话…路克{\r}\NCome on, Luke.
+Dialogue: 0,1:19:02.68,1:19:04.91,Default,,0000,0000,0000,,{\fn黑体\fs24}你我到老地方见{\r}\NThe old place. Just you and me.
+Dialogue: 0,1:19:07.78,1:19:09.75,Default,,0000,0000,0000,,{\fn黑体\fs24}你是路克的朋友？{\r}\NYou're a friend of Luke's ?
+Dialogue: 0,1:19:11.92,1:19:13.79,Default,,0000,0000,0000,,{\fn黑体\fs24}不能算是{\r}\NNot as far as you're concerned.
+Dialogue: 0,1:19:26.34,1:19:30.34,Default,,0000,0000,0000,,{\fn黑体\fs24}今晚发生的枪战事件{\r}\NThe violence that has rocked the city tonight continued in a bloody gun battle...
+Dialogue: 0,1:19:30.34,1:19:33.21,Default,,0000,0000,0000,,{\fn黑体\fs24}大约在一个小时前 已转战中国城的夜总会{\r}\N...in a Chinatown night club, less than an hour ago.
+Dialogue: 0,1:19:33.21,1:19:34.54,Default,,0000,0000,0000,,{\fn黑体\fs24}这件事很棘手{\r}\NThis is really getting out of hand.
+Dialogue: 0,1:19:34.54,1:19:37.07,Default,,0000,0000,0000,,{\fn黑体\fs24}是吗？多谢你的观察{\r}\NYou think? Thanks for that insight.
+Dialogue: 0,1:19:37.81,1:19:40.48,Default,,0000,0000,0000,,{\fn黑体\fs24}市长，艾力克斯罗森在专线{\r}\NYour Honor. Alex Rosen is on your private line.
+Dialogue: 0,1:19:40.48,1:19:41.58,Default,,0000,0000,0000,,{\fn黑体\fs24}他说有急事{\r}\NHe says that it's urgent.
+Dialogue: 0,1:19:42.69,1:19:45.65,Default,,0000,0000,0000,,{\fn黑体\fs24}不好意思，市长… 五分钟后再说 现在别烦我{\r}\NExcuse me, your Honor... Back in five, don't bother me now.
+Dialogue: 0,1:19:46.02,1:19:48.19,Default,,0000,0000,0000,,{\fn黑体\fs24}他为何不打手机？{\r}\NWhy didn't he call me on my cell phone?
+Dialogue: 0,1:19:48.19,1:19:51.13,Default,,0000,0000,0000,,{\fn黑体\fs24}我说过通通转接到手机…{\r}\Nl thought l told you to put all my calls through to the Cell phone.
+Dialogue: 0,1:19:52.40,1:19:55.16,Default,,0000,0000,0000,,{\fn黑体\fs24}我常说这里的保全很烂{\r}\Nl always told you this place had lousy security standards.
+Dialogue: 0,1:19:57.70,1:20:00.74,Default,,0000,0000,0000,,{\fn黑体\fs24}那是因为没人敢来撒野{\r}\NWell, that's because noboby's been crazy enough to come in here and pull a stunt like this.
+Dialogue: 0,1:20:00.74,1:20:02.17,Default,,0000,0000,0000,,{\fn黑体\fs24}你真带种，路克{\r}\NYou got some balls, Luke.
+Dialogue: 0,1:20:02.17,1:20:04.74,Default,,0000,0000,0000,,{\fn黑体\fs24}我不仅带种，还很杀{\r}\NYeah, amazing l can even walk.
+Dialogue: 0,1:20:04.74,1:20:06.21,Default,,0000,0000,0000,,{\fn黑体\fs24}光盘拿来{\r}\NThe disk.
+Dialogue: 0,1:20:06.68,1:20:08.78,Default,,0000,0000,0000,,{\fn黑体\fs24}你以为我会笨到…{\r}\NWhat, you think l'm stupid enough to let a gang of Chinese
+Dialogue: 0,1:20:08.78,1:20:11.78,Default,,0000,0000,0000,,{\fn黑体\fs24}让中国帮随便就能得手？{\r}\Nwalk up the front steps and collect it from me in my living room?
+Dialogue: 0,1:20:11.78,1:20:13.75,Default,,0000,0000,0000,,{\fn黑体\fs24}光盘在远处的保险箱里{\r}\Nlt's in a safe, far away from here.
+Dialogue: 0,1:20:13.75,1:20:15.49,Default,,0000,0000,0000,,{\fn黑体\fs24}我不认为你是个笨蛋{\r}\Nl don't think you're stupid.
+Dialogue: 0,1:20:15.49,1:20:18.39,Default,,0000,0000,0000,,{\fn黑体\fs24}所以我才认为你有备份{\r}\NWhich is why l don't for a second you gave away the only copy.
+Dialogue: 0,1:20:19.09,1:20:21.26,Default,,0000,0000,0000,,{\fn黑体\fs24}我会跟艾力克斯碰面{\r}\Nl'm going to meet Alex.
+Dialogue: 0,1:20:21.26,1:20:23.19,Default,,0000,0000,0000,,{\fn黑体\fs24}你得先给我光盘{\r}\NFirst you're going to give me the disk.
+Dialogue: 0,1:20:23.19,1:20:25.03,Default,,0000,0000,0000,,{\fn黑体\fs24}否则我会避开要害{\r}\NOr l'll put bullets in places that won't kill you.
+Dialogue: 0,1:20:25.03,1:20:27.09,Default,,0000,0000,0000,,{\fn黑体\fs24}让你这辈子生不如死{\r}\NBut it will make you spend the rest of your life wishing l had.
+Dialogue: 0,1:20:36.24,1:20:37.54,Default,,0000,0000,0000,,{\fn黑体\fs24}满意了吗？{\r}\NSatisfied?
+Dialogue: 0,1:20:38.11,1:20:40.70,Default,,0000,0000,0000,,{\fn黑体\fs24}放进计算机让我检查{\r}\Nl want to make sure it's not "ABBA's Greatest Hits" .
+Dialogue: 0,1:20:50.29,1:20:52.35,Default,,0000,0000,0000,,{\fn黑体\fs24}艾力克斯会杀了你的{\r}\NAlex will kill you, you know?
+Dialogue: 0,1:20:53.09,1:20:54.56,Default,,0000,0000,0000,,{\fn黑体\fs24}或许吧{\r}\NYeah, probably.
+Dialogue: 0,1:21:40.34,1:21:44.67,Default,,0000,0000,0000,,{\fn黑体\fs24}天啊 路克，你的气色真差{\r}\NJesus Luke, you look like Hell.
+Dialogue: 0,1:21:44.67,1:21:46.40,Default,,0000,0000,0000,,{\fn黑体\fs24}只是酗酒{\r}\NJust alcohol,
+Dialogue: 0,1:21:47.11,1:21:49.60,Default,,0000,0000,0000,,{\fn黑体\fs24}没晒太阳和缺乏睡眠{\r}\N lack of sunlight, sleep deprivation...
+Dialogue: 0,1:21:51.08,1:21:52.64,Default,,0000,0000,0000,,{\fn黑体\fs24}其它的还不错{\r}\N...other than that l feel great.
+Dialogue: 0,1:21:55.25,1:21:57.12,Default,,0000,0000,0000,,{\fn黑体\fs24}我有一次在想…{\r}\NYou know, l was thinking.
+Dialogue: 0,1:21:57.12,1:21:59.25,Default,,0000,0000,0000,,{\fn黑体\fs24}我们扔了多少尸体在这？{\r}\NHow many bodies did we dump in this place?
+Dialogue: 0,1:22:01.59,1:22:03.08,Default,,0000,0000,0000,,{\fn黑体\fs24}我从来不算的{\r}\NYou know, l didn't keep count.
+Dialogue: 0,1:22:04.36,1:22:06.49,Default,,0000,0000,0000,,{\fn黑体\fs24}不过全都是坏蛋，对吧？{\r}\NThey were all assholes though. Right?
+Dialogue: 0,1:22:11.47,1:22:12.93,Default,,0000,0000,0000,,{\fn黑体\fs24}放了她，艾力克斯{\r}\NLet her go, Alex.
+Dialogue: 0,1:22:13.87,1:22:15.03,Default,,0000,0000,0000,,{\fn黑体\fs24}丹尼打来{\r}\NDanny called, 
+Dialogue: 0,1:22:15.94,1:22:17.27,Default,,0000,0000,0000,,{\fn黑体\fs24}说你找过他{\r}\Ntold me about your visit.
+Dialogue: 0,1:22:18.78,1:22:22.20,Default,,0000,0000,0000,,{\fn黑体\fs24}不得不佩服你 连我也料想不到这招{\r}\Nl have to admit, even l didn't see that one coming.
+Dialogue: 0,1:22:22.88,1:22:25.11,Default,,0000,0000,0000,,{\fn黑体\fs24}你有了光盘和钱{\r}\NYou have the disk and the money.
+Dialogue: 0,1:22:28.45,1:22:29.94,Default,,0000,0000,0000,,{\fn黑体\fs24}她算得了什么？{\r}\NWhat is she to you?
+Dialogue: 0,1:22:33.79,1:22:35.05,Default,,0000,0000,0000,,{\fn黑体\fs24}生命{\r}\NLife.
+Dialogue: 0,1:22:36.73,1:22:39.75,Default,,0000,0000,0000,,{\fn黑体\fs24}那就及时行乐吧{\r}\NWell, enjoy it while it lasts.
+Dialogue: 0,1:22:40.46,1:22:43.13,Default,,0000,0000,0000,,{\fn黑体\fs24}因为她会害你短命的{\r}\NBecause she is the reason yours is going to be a whole lot shorter.
+Dialogue: 0,1:22:44.03,1:22:45.23,Default,,0000,0000,0000,,{\fn黑体\fs24}钱拿来，路克{\r}\NMoney, Luke.
+Dialogue: 0,1:22:47.20,1:22:48.57,Default,,0000,0000,0000,,{\fn黑体\fs24}在车上{\r}\NThe Car.
+Dialogue: 0,1:22:52.34,1:22:54.21,Default,,0000,0000,0000,,{\fn黑体\fs24}也可能在银行{\r}\NOr in a bank.
+Dialogue: 0,1:22:56.85,1:22:59.18,Default,,0000,0000,0000,,{\fn黑体\fs24}也可能在车站的置物柜{\r}\NOr in a series of lockers in Grand Central.
+Dialogue: 0,1:22:59.48,1:23:01.68,Default,,0000,0000,0000,,{\fn黑体\fs24}也可能捐去做慈善了{\r}\NOr maybe l donated it to charity.
+Dialogue: 0,1:23:02.08,1:23:03.55,Default,,0000,0000,0000,,{\fn黑体\fs24}我可是善心人士{\r}\NOut of the goodness of my heart.
+Dialogue: 0,1:23:06.49,1:23:07.42,Default,,0000,0000,0000,,{\fn黑体\fs24}如果你想要钱{\r}\Nlf you want to find out where that money is,
+Dialogue: 0,1:23:07.42,1:23:08.95,Default,,0000,0000,0000,,{\fn黑体\fs24}就凭真本事拿吧{\r}\Nyou are going to have to do it the hard way.
+Dialogue: 0,1:24:05.41,1:24:06.68,Default,,0000,0000,0000,,{\fn黑体\fs24}妳没事吧？{\r}\NAre you alright Mei?
+Dialogue: 0,1:24:08.28,1:24:09.88,Default,,0000,0000,0000,,{\fn黑体\fs24}我看过他打架{\r}\Nl saw him fight before.
+Dialogue: 0,1:24:10.89,1:24:12.46,Default,,0000,0000,0000,,{\fn黑体\fs24}要赢他很难{\r}\NBad business for you.
+Dialogue: 0,1:24:12.46,1:24:14.82,Default,,0000,0000,0000,,{\fn黑体\fs24}对，非常难{\r}\NYeah, the worst.
+Dialogue: 0,1:24:16.76,1:24:20.49,Default,,0000,0000,0000,,{\fn黑体\fs24}妳又救了我一命{\r}\NYou saved me. Again.
+Dialogue: 0,1:24:21.40,1:24:23.02,Default,,0000,0000,0000,,{\fn黑体\fs24}我们救了彼此{\r}\NWe save each other.
+Dialogue: 0,1:24:28.40,1:24:30.17,Default,,0000,0000,0000,,{\fn黑体\fs24}我懂你的感受{\r}\Nl know how you feel.
+Dialogue: 0,1:24:30.67,1:24:32.73,Default,,0000,0000,0000,,{\fn黑体\fs24}帮我一起搬垃圾吧{\r}\NHelp me get this sack of garbage out of the car.
+Dialogue: 0,1:24:35.08,1:24:37.55,Default,,0000,0000,0000,,{\fn黑体\fs24}让他安然无恙的回家{\r}\NMake sure he gets to his daddy safe and sound.
+Dialogue: 0,1:24:40.85,1:24:42.01,Default,,0000,0000,0000,,{\fn黑体\fs24}给你五万{\r}\NFifty grand.
+Dialogue: 0,1:24:43.02,1:24:44.25,Default,,0000,0000,0000,,{\fn黑体\fs24}算是补偿{\r}\NFor your trouble.
+Dialogue: 0,1:24:44.65,1:24:47.36,Default,,0000,0000,0000,,{\fn黑体\fs24}我知道钱不多 但你起码还有命享受{\r}\Nl know it don't seem like much. But at least you're going to live to enjoy it.
+Dialogue: 0,1:24:47.36,1:24:49.09,Default,,0000,0000,0000,,{\fn黑体\fs24}你希望他安然无恙吗？{\r}\NYou want him safe and sound?
+Dialogue: 0,1:24:49.66,1:24:51.15,Default,,0000,0000,0000,,{\fn黑体\fs24}他那样对你{\r}\NAfter what he did to you?
+Dialogue: 0,1:24:53.43,1:24:54.83,Default,,0000,0000,0000,,{\fn黑体\fs24}那是为了她好{\r}\NFor her sake.
+Dialogue: 0,1:24:59.14,1:25:01.10,Default,,0000,0000,0000,,{\fn黑体\fs24}后会有期，我们互不相欠了{\r}\NWe meet again, all bets are off.
+Dialogue: 0,1:25:03.64,1:25:05.27,Default,,0000,0000,0000,,{\fn黑体\fs24}最尊敬的叔叔{\r}\NMost revered Uncle.
+Dialogue: 0,1:25:05.27,1:25:08.84,Default,,0000,0000,0000,,{\fn黑体\fs24}这里有两千九百零九十五万美元{\r}\NHere is twenty nine million, nine hundred and fifty thousand dollars.
+Dialogue: 0,1:25:08.84,1:25:13.02,Default,,0000,0000,0000,,{\fn黑体\fs24}我们会还剩余的五万 再加百分之十的利息{\r}\NWe will pay back the remaining fifty thousand, with interest.
+Dialogue: 0,1:25:14.08,1:25:16.22,Default,,0000,0000,0000,,{\fn黑体\fs24}如果万一您还生气{\r}\NBut in case you are still angry,
+Dialogue: 0,1:25:16.22,1:25:17.99,Default,,0000,0000,0000,,{\fn黑体\fs24}我必须告诉您{\r}\Nl must tell you this;
+Dialogue: 0,1:25:17.99,1:25:21.52,Default,,0000,0000,0000,,{\fn黑体\fs24}我知道您在中国城生意的每个账号{\r}\Nl know every account of every operation you have in Chinatown...
+Dialogue: 0,1:25:21.52,1:25:23.99,Default,,0000,0000,0000,,{\fn黑体\fs24}还有汇钱到中国的途径{\r}\Nand the money routes back to China.
+Dialogue: 0,1:25:24.46,1:25:28.25,Default,,0000,0000,0000,,{\fn黑体\fs24}您不找我们的麻烦 我们也不会找您的麻烦{\r}\NYou don't come after us, we won't come after you.
+Dialogue: 0,1:25:29.20,1:25:32.50,Default,,0000,0000,0000,,{\fn黑体\fs24}来追我们的话 你的世界就完了{\r}\NCome after us... and your world ends.
+Dialogue: 0,1:25:32.50,1:25:34.23,Default,,0000,0000,0000,,{\fn黑体\fs24}我保证说话算话{\r}\NYou have my word on that.
+Dialogue: 0,1:25:37.01,1:25:38.84,Default,,0000,0000,0000,,{\fn黑体\fs24}给我准备飞机票{\r}\NGet me on a flight home.
+Dialogue: 0,1:25:40.28,1:25:43.04,Default,,0000,0000,0000,,{\fn黑体\fs24}我再也不想看到这个…{\r}\Nlf l never set foot in this damned city again...
+Dialogue: 0,1:25:44.01,1:25:45.04,Default,,0000,0000,0000,,{\fn黑体\fs24}鬼地方!{\r}\Nlt will be too soon.
+Dialogue: 0,1:25:49.09,1:25:51.29,Default,,0000,0000,0000,,{\fn黑体\fs24}走路小心一点!{\r}\NWatch where you are fucking going man!
+Dialogue: 0,1:25:51.29,1:25:51.89,Default,,0000,0000,0000,,{\fn黑体\fs24}走你的路去{\r}\NKeep walking, pal.
+Dialogue: 0,1:25:51.89,1:25:53.36,Default,,0000,0000,0000,,{\fn黑体\fs24}借过？对不起？{\r}\NExcuse me? Pardon me? Anything?
+Dialogue: 0,1:25:53.36,1:25:55.76,Default,,0000,0000,0000,,{\fn黑体\fs24}你是哑巴吗？ 这是他妈的纽约!{\r}\NThis is fucking New York City!
+Dialogue: 0,1:26:07.44,1:26:09.71,Default,,0000,0000,0000,,{\fn黑体\fs24}这是第五家银行 还有几家？{\r}\NBank number five. How many more?
+Dialogue: 0,1:26:09.71,1:26:11.10,Default,,0000,0000,0000,,{\fn黑体\fs24}没了{\r}\NThat's it.
+Dialogue: 0,1:26:11.91,1:26:14.98,Default,,0000,0000,0000,,{\fn黑体\fs24}每间银行的保险箱都有备份{\r}\NThere are copies of the disk in security boxes all over the city.
+Dialogue: 0,1:26:14.98,1:26:16.25,Default,,0000,0000,0000,,{\fn黑体\fs24}我们只要出事{\r}\NAnything happens to us
+Dialogue: 0,1:26:16.25,1:26:18.37,Default,,0000,0000,0000,,{\fn黑体\fs24}就会有很多大人物倒霉{\r}\Na lot of important people are going to be very sorry.
+Dialogue: 0,1:26:18.75,1:26:20.05,Default,,0000,0000,0000,,{\fn黑体\fs24}这是护身符{\r}\NOur security.
+Dialogue: 0,1:26:20.05,1:26:21.64,Default,,0000,0000,0000,,{\fn黑体\fs24}是笔划算的生意{\r}\NGood business for us.
+Dialogue: 0,1:26:23.75,1:26:24.91,Default,,0000,0000,0000,,{\fn黑体\fs24}现在要干嘛？{\r}\NWhat now?
+Dialogue: 0,1:26:25.42,1:26:26.89,Default,,0000,0000,0000,,{\fn黑体\fs24}离开这个城市{\r}\NNow we get out of town.
+Dialogue: 0,1:26:28.92,1:26:31.19,Default,,0000,0000,0000,,{\fn黑体\fs24}梅，妳年纪还小{\r}\NMei, you're a kid and...
+Dialogue: 0,1:26:32.96,1:26:35.06,Default,,0000,0000,0000,,{\fn黑体\fs24}我可能当不了好父亲{\r}\Nl'm not sure l could be a good father.
+Dialogue: 0,1:26:35.06,1:26:36.27,Default,,0000,0000,0000,,{\fn黑体\fs24}我不适合再当父亲了{\r}\Nl think that ship has sailed.
+Dialogue: 0,1:26:36.27,1:26:38.79,Default,,0000,0000,0000,,{\fn黑体\fs24}我不要父亲{\r}\Nl don't want no more fathers.
+Dialogue: 0,1:26:40.67,1:26:42.19,Default,,0000,0000,0000,,{\fn黑体\fs24}你愿意当我的朋友吗？{\r}\NWill you be my friend?
+Dialogue: 0,1:26:44.31,1:26:46.33,Default,,0000,0000,0000,,{\fn黑体\fs24}当然愿意{\r}\NUntil my dying day.
+Dialogue: 0,1:26:51.51,1:26:54.48,Default,,0000,0000,0000,,{\fn黑体\fs24}西雅图有一所特殊学校{\r}\Nl've got info on a school for gifted kids up in Seattle.
+Dialogue: 0,1:26:55.85,1:26:57.18,Default,,0000,0000,0000,,{\fn黑体\fs24}那里很漂亮{\r}\Nlt's a nice drive,
+Dialogue: 0,1:26:57.92,1:26:59.39,Default,,0000,0000,0000,,{\fn黑体\fs24}希望妳喜欢风景{\r}\Nif you like trees and shit.
+Dialogue: 0,1:27:01.96,1:27:03.72,Default,,0000,0000,0000,,{\fn黑体\fs24}我们安全吗？{\r}\NAre we safe?
+Dialogue: 0,1:27:05.19,1:27:06.82,Default,,0000,0000,0000,,{\fn黑体\fs24}过一天是一天，梅{\r}\NOne day at a time, Mei.
+Dialogue: 0,1:27:07.53,1:27:09.05,Default,,0000,0000,0000,,{\fn黑体\fs24}过一天是一天{\r}\NOne day at a time.
+
