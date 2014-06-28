@@ -1,0 +1,689 @@
+﻿[Script Info]
+; // 此字幕由TimeM生成
+; // 欢迎访问人人影视 http://www.YYeTs.net
+Title:YYeTs
+Original Script:YYeTs
+Synch Point:1
+ScriptType:v4.00+
+Collisions:Normal
+Timer:100.0000
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style:Default,方正黑体_GBK,21,&H00FFFFFF,&HF0000000,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,5,5,1,134
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 1,0:00:09.00,0:00:14.00,*Default,NTP,0000,0000,0000,,{\fad(500,500)}{\pos(190,268)}{\fs16} {\c&H24EFFF&}{\fn方正准圆简体}{\bord0}字幕來源：{\fs17}{\c&HFFFFFF&}CMCT
+Dialogue: 0,0:00:09.00,0:00:19.00,*Default,NTP,0000,0000,0000,,{\fs20}{\fad(500,500)}{\3c&H000000&}{\pos(190,278)}{\fs36}{\fscx2100}{\alpha&H9F&\c&H000000&}{\bord1}{\shad0}■
+Dialogue: 1,0:00:14.00,0:00:19.00,*Default,NTP,0000,0000,0000,,{\fad(500,500)}{\pos(190,268)}{\fs16} {\c&H24EFFF&}{\fn方正准圆简体}{\bord0}后期：{\fs17}{\c&HFFFFFF&}阿小小海
+Dialogue: 0,0:04:10.50,0:04:26.50,*Default,NTP,0000,0000,0000,,片名  2001太空漫游
+Dialogue: 0,0:25:44.38,0:25:46.92,*Default,NTP,0000,0000,0000,,先生到了  請上主甲板\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}Here you are, sir. Main level, please.
+Dialogue: 0,0:25:47.97,0:25:49.00,*Default,NTP,0000,0000,0000,,好的  回程時再見\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}Right. See you on the way back.
+Dialogue: 0,0:25:49.07,0:25:50.59,*Default,NTP,0000,0000,0000,,-再見  -再見\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}-Bye. -Bye.
+Dialogue: 0,0:25:52.68,0:25:53.97,*Default,NTP,0000,0000,0000,,先生  早安  -早安\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}-Good morning, sir. -Morning.
+Dialogue: 0,0:25:54.18,0:25:57.39,*Default,NTP,0000,0000,0000,,你已經有好久沒到這兒來了  -很高興再見到你\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}-We haven't seen you for a long time. -Nice to see you again.
+Dialogue: 0,0:25:57.60,0:26:00.02,*Default,NTP,0000,0000,0000,,這次飛行愉快嗎  -很好  謝謝\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}-Did you have a pleasant flight? -Very nice.
+Dialogue: 0,0:26:00.23,0:26:03.36,*Default,NTP,0000,0000,0000,,我想基地室的米勒先生  應該在等我\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}Mr. Miller of Station Security is supposed to meet me.
+Dialogue: 0,0:26:03.56,0:26:06.07,*Default,NTP,0000,0000,0000,,-我幫你叫他好嗎  -麻煩你  他來了\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}-May I call him for you? -Would you? Here he is!
+Dialogue: 0,0:26:06.28,0:26:07.61,*Default,NTP,0000,0000,0000,,博士你好  抱歉我遲到了\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}-Hello, Dr. Floyd. -Hello, Miller.
+Dialogue: 0,0:26:07.82,0:26:09.78,*Default,NTP,0000,0000,0000,,沒關系  你看來氣色不錯\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}-Sorry I'm late. -That's all right.
+Dialogue: 0,0:26:09.99,0:26:11.95,*Default,NTP,0000,0000,0000,,謝謝  真高興你回來\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}It's nice to have you back.
+Dialogue: 0,0:26:12.16,0:26:14.41,*Default,NTP,0000,0000,0000,,這次旅途愉快嗎  -很好\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}-Did you have a good flight? -Very nice.
+Dialogue: 0,0:26:14.62,0:26:17.41,*Default,NTP,0000,0000,0000,,-那就好  我們進去好嗎  -請使用17號門\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}-Shall we go through? -Would you please use number 17?
+Dialogue: 0,0:26:17.62,0:26:19.04,*Default,NTP,0000,0000,0000,,謝謝你  透納小姐\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}Thank you, Miss Turner.
+Dialogue: 0,0:26:19.25,0:26:20.33,*Default,NTP,0000,0000,0000,,請走這邊\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}This way.
+Dialogue: 0,0:26:25.92,0:26:28.42,*Default,NTP,0000,0000,0000,,歡迎接受聲影測試  \N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}Welcome to Voice Print Identification.
+Dialogue: 0,0:26:28.67,0:26:31.22,*Default,NTP,0000,0000,0000,,當你看見紅燈亮時  \N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}When you see the red light go on, 
+Dialogue: 0,0:26:31.22,0:26:32.76,*Default,NTP,0000,0000,0000,,請按順序說出\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}please state in the following order:
+Dialogue: 0,0:26:33.01,0:26:37.10,*Default,NTP,0000,0000,0000,,你的目的地  國籍  還有你的全名\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}Your destination, your nationality and your full name.
+Dialogue: 0,0:26:37.35,0:26:40.14,*Default,NTP,0000,0000,0000,,先說姓  然后是名字和縮寫\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}Surname first, Christian name, and initial.
+Dialogue: 0,0:26:41.81,0:26:46.15,*Default,NTP,0000,0000,0000,,月球、美國籍  佛洛伊德·赫伍德·R\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}Moon. American. Floyd, Heywood R.
+Dialogue: 0,0:26:48.65,0:26:52.20,*Default,NTP,0000,0000,0000,,謝謝  你已通過聲影測試\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}Thank you. You are cleared through Voice Print Identification.
+Dialogue: 0,0:26:52.99,0:26:54.24,*Default,NTP,0000,0000,0000,,謝謝\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}Thank you.
+Dialogue: 0,0:27:01.16,0:27:04.33,*Default,NTP,0000,0000,0000,,-我有空吃早餐嗎  -也許可以\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}-Have I got time for breakfast? -I think we can manage that.
+Dialogue: 0,0:27:04.54,0:27:05.58,*Default,NTP,0000,0000,0000,,我還有多久出發\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}How long have I got?
+Dialogue: 0,0:27:05.79,0:27:08.25,*Default,NTP,0000,0000,0000,,大概一小時十分鐘\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}Your flight leaves in an hour and 10 minutes.
+Dialogue: 0,0:27:08.50,0:27:11.97,*Default,NTP,0000,0000,0000,,事實上  我已替你訂了位\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}I've reserved a table for you in the Earthlight Room.
+Dialogue: 0,0:27:12.17,0:27:15.43,*Default,NTP,0000,0000,0000,,上次你來是七  八個月前吧\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}It's been 7 or 8 months since you were here, hasn't it?
+Dialogue: 0,0:27:15.64,0:27:17.72,*Default,NTP,0000,0000,0000,,我想想看  是去年六月  對  有八個月了\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}Let's see. Yeah, about 8 months.
+Dialogue: 0,0:27:17.93,0:27:20.47,*Default,NTP,0000,0000,0000,,我想你已看過新單位的工作  \N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}I suppose you saw the work on the new section?
+Dialogue: 0,0:27:20.68,0:27:23.19,*Default,NTP,0000,0000,0000,,是很不錯的嗎  -不錯\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}-Coming along great, huh? -Yeah, it's fine.
+Dialogue: 0,0:27:23.39,0:27:24.27,*Default,NTP,0000,0000,0000,,等一等\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}Oh, wait!
+Dialogue: 0,0:27:24.48,0:27:28.27,*Default,NTP,0000,0000,0000,,我想打通電話  你先到餐廳  我去找你\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}I've got to make a couple calls. I'll meet you in the restaurant.
+Dialogue: 0,0:27:57.27,0:27:59.27,*Default,NTP,0000,0000,0000,,-哈嘍  -嗯\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}-Hello. -Yes.
+Dialogue: 0,0:28:00.39,0:28:02.67,*Default,NTP,0000,0000,0000,,-哈羅  寶貝  -嗯\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}-Hiya, squirt! -All right.
+Dialogue: 0,0:28:02.67,0:28:03.81,*Default,NTP,0000,0000,0000,,你在做什么\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}What are you doing?
+Dialogue: 0,0:28:05.35,0:28:06.31,*Default,NTP,0000,0000,0000,,我在玩\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}Playing.
+Dialogue: 0,0:28:06.56,0:28:08.02,*Default,NTP,0000,0000,0000,,媽媽呢\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}Where's Mummy?
+Dialogue: 0,0:28:08.27,0:28:09.73,*Default,NTP,0000,0000,0000,,上街買東西\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}Gone to shopping.
+Dialogue: 0,0:28:09.98,0:28:12.44,*Default,NTP,0000,0000,0000,,-那誰照顧你  -瑞契兒\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}-Who's taking care of you? -Rachel.
+Dialogue: 0,0:28:12.65,0:28:16.07,*Default,NTP,0000,0000,0000,,我跟她講話好嗎  -她去洗手間了\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}-May I speak to Rachel, please? -She's gone to the bathroom.
+Dialogue: 0,0:28:16.32,0:28:19.03,*Default,NTP,0000,0000,0000,,明天你能來參加我的派對嗎\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}Are you coming to my party tomorrow?
+Dialogue: 0,0:28:19.28,0:28:21.70,*Default,NTP,0000,0000,0000,,抱歉  甜心  我不能去\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}I'm sorry, sweetheart, but I can't.
+Dialogue: 0,0:28:22.12,0:28:23.12,*Default,NTP,0000,0000,0000,,為什么\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}Why not?
+Dialogue: 0,0:28:23.45,0:28:26.04,*Default,NTP,0000,0000,0000,,你知道  爸爸正在旅行\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}Well, you know, Daddy's traveling.
+Dialogue: 0,0:28:26.58,0:28:28.92,*Default,NTP,0000,0000,0000,,很抱歉  我真的不能去\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}Very sorry about it, but I just can't.
+Dialogue: 0,0:28:30.04,0:28:33.09,*Default,NTP,0000,0000,0000,,可是我可以送你一個禮物\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}I'm going to send you a very nice present, though.
+Dialogue: 0,0:28:34.59,0:28:35.42,*Default,NTP,0000,0000,0000,,好吧\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}All right.
+Dialogue: 0,0:28:35.68,0:28:37.97,*Default,NTP,0000,0000,0000,,你想要什么特別的東西嗎有的\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}-Anything special that you want? -Yes.
+Dialogue: 0,0:28:38.18,0:28:39.26,*Default,NTP,0000,0000,0000,,什么東西\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}What?
+Dialogue: 0,0:28:39.60,0:28:41.06,*Default,NTP,0000,0000,0000,,電話\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}A telephone.
+Dialogue: 0,0:28:41.60,0:28:43.77,*Default,NTP,0000,0000,0000,,我們已經通有很多電話了\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}We've got lots of telephones already.
+Dialogue: 0,0:28:43.97,0:28:46.79,*Default,NTP,0000,0000,0000,,你能不能想想其它的東西  \N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}Can't you think of anything else for your birthday? 
+Dialogue: 0,0:28:46.79,0:28:48.31,*Default,NTP,0000,0000,0000,,來慶祝你的生日\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}Something special?
+Dialogue: 0,0:28:48.56,0:28:49.98,*Default,NTP,0000,0000,0000,,-有啊  -什么東西\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}-Yes. -What?
+Dialogue: 0,0:28:50.40,0:28:51.36,*Default,NTP,0000,0000,0000,,一只猩猩\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}A bush baby.
+Dialogue: 0,0:28:51.61,0:28:54.15,*Default,NTP,0000,0000,0000,,一只猩猩  那我們得想想辦法找找看\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}A bush baby? We'll have to see about that.
+Dialogue: 0,0:28:54.36,0:28:56.79,*Default,NTP,0000,0000,0000,,甜心  我要你轉告媽咪  你要記得\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}I want you to tell Mummy something for me. Will you remember?
+Dialogue: 0,0:28:56.79,0:28:57.72,*Default,NTP,0000,0000,0000,,我會\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}Yeah.
+Dialogue: 0,0:28:58.32,0:29:01.28,*Default,NTP,0000,0000,0000,,你告訴媽咪我打過電話  好嗎\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}Tell Mummy that I telephoned. Okay?
+Dialogue: 0,0:29:02.87,0:29:05.75,*Default,NTP,0000,0000,0000,,告訴她  明天我會再打電話  好嗎\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}And that I'll try to telephone again tomorrow.
+Dialogue: 0,0:29:06.00,0:29:07.92,*Default,NTP,0000,0000,0000,,你會告訴她吧\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}Now, will you tell her that?
+Dialogue: 0,0:29:09.79,0:29:12.75,*Default,NTP,0000,0000,0000,,-我會的  -很好  甜心  明天生日好好玩\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}-Yeah. -Okay, sweetheart. Have a nice birthday tomorrow.
+Dialogue: 0,0:29:13.00,0:29:13.96,*Default,NTP,0000,0000,0000,,好\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}All right.
+Dialogue: 0,0:29:14.21,0:29:17.30,*Default,NTP,0000,0000,0000,,明天生日派對愉快\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}And have a nice birthday party tomorrow too, huh?
+Dialogue: 0,0:29:18.09,0:29:19.01,*Default,NTP,0000,0000,0000,,好\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}All right.
+Dialogue: 0,0:29:19.26,0:29:21.93,*Default,NTP,0000,0000,0000,,好了  要小心  要乖乖  好嗎\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}Take care and be a good girl, won't you?
+Dialogue: 0,0:29:22.18,0:29:23.39,*Default,NTP,0000,0000,0000,,-好的  -再見\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}All right. Bye-bye!
+Dialogue: 0,0:29:23.64,0:29:26.06,*Default,NTP,0000,0000,0000,,再見  生日快樂\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}Bye-bye! Happy birthday!
+Dialogue: 0,0:29:26.22,0:29:28.91,*Default,NTP,0000,0000,0000,,{\an8}{\fn方正黑体简体\fs18\b1\bord1\shad1\3c&H2F2F2F&}電話費$1.70
+Dialogue: 0,0:29:30.29,0:29:34.73,*Default,NTP,0000,0000,0000,,(俄語)
+Dialogue: 0,0:29:39.82,0:29:42.01,*Default,NTP,0000,0000,0000,,艾琳娜  真高興見到你  \N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}Elena, how nice to see you again. 
+Dialogue: 0,0:29:42.01,0:29:44.20,*Default,NTP,0000,0000,0000,,赫伍德  真高興在此見到你\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}Heywood, what a wonderful surprise!
+Dialogue: 0,0:29:44.45,0:29:47.25,*Default,NTP,0000,0000,0000,,-你看起來很不錯  -謝謝  你看起來也很不錯\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}-You're looking wonderful. -You're looking well too.
+Dialogue: 0,0:29:47.50,0:29:49.46,*Default,NTP,0000,0000,0000,,這是我的好朋友  佛博士\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}This is my friend, Dr. Heywood Floyd.
+Dialogue: 0,0:29:49.71,0:29:51.96,*Default,NTP,0000,0000,0000,,我來介紹一下  卡莉娜博士\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}I'd like you to meet Dr. Kalinan.
+Dialogue: 0,0:29:52.21,0:29:53.84,*Default,NTP,0000,0000,0000,,你好  史博士  你好\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}Dr. Stretyneva.
+Dialogue: 0,0:29:54.42,0:29:56.13,*Default,NTP,0000,0000,0000,,這位是史麥斯洛夫博士  \N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}And this is Dr. Andrei Smyslov.
+Dialogue: 0,0:29:56.38,0:29:58.80,*Default,NTP,0000,0000,0000,,你好  久仰大名\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}How do you do? I've heard a lot about you.
+Dialogue: 0,0:29:59.05,0:30:00.55,*Default,NTP,0000,0000,0000,,請坐\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}Do sit down.
+Dialogue: 0,0:30:00.93,0:30:02.93,*Default,NTP,0000,0000,0000,,-我們  -不用客氣  請\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}-Well, we-- -No, no, please.
+Dialogue: 0,0:30:03.35,0:30:04.81,*Default,NTP,0000,0000,0000,,謝謝\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}Thank you.
+Dialogue: 0,0:30:05.06,0:30:07.85,*Default,NTP,0000,0000,0000,,-博士要喝點什么不用  -謝謝你\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}-Would you like a drink, Doctor? -No, thank you.
+Dialogue: 0,0:30:08.06,0:30:11.52,*Default,NTP,0000,0000,0000,,其實我還沒吃早餐呢  我約了人在餐廳見面\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}I haven't had breakfast yet. Someone's meeting me in the restaurant.
+Dialogue: 0,0:30:11.73,0:30:14.19,*Default,NTP,0000,0000,0000,,如果各位不介意  我坐幾分鐘就走\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}I'll just sit with you a moment. Then I'll be off.
+Dialogue: 0,0:30:14.40,0:30:16.86,*Default,NTP,0000,0000,0000,,-真的不喝點什么嗎  -不客氣  謝謝你\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}-Are you quite sure? -Quite sure, thank you.
+Dialogue: 0,0:30:18.19,0:30:20.40,*Default,NTP,0000,0000,0000,,-葛雷哥近來如何  -他很好\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}-Well, how's Gregor? -He's fine.
+Dialogue: 0,0:30:20.66,0:30:23.95,*Default,NTP,0000,0000,0000,,他在波羅的海從事海底實驗\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}He's been doing underwater research in the Baltic...
+Dialogue: 0,0:30:24.20,0:30:28.25,*Default,NTP,0000,0000,0000,,所以最近我們很少碰面\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}...so I'm afraid we don't see very much of each other these days.
+Dialogue: 0,0:30:28.50,0:30:32.08,*Default,NTP,0000,0000,0000,,-如果見到他  記著代我問好  -當然\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}-When you see him, give him my regards. -Yes, of course.
+Dialogue: 0,0:30:32.33,0:30:35.29,*Default,NTP,0000,0000,0000,,你們大伙要去那里  上還是下\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}Well, where are you all off to? Up or down?
+Dialogue: 0,0:30:35.50,0:30:36.55,*Default,NTP,0000,0000,0000,,我們正準備回家\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}We're going home.
+Dialogue: 0,0:30:36.75,0:30:41.63,*Default,NTP,0000,0000,0000,,我們剛花了三個月的時間  校正柴林科號上的新天線\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}We've just spent 3 months calibrating the new antenna at Tchalinko.
+Dialogue: 0,0:30:41.88,0:30:44.55,*Default,NTP,0000,0000,0000,,-你呢  -我正要去克萊威斯\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}-What about you? -I'm on my way to Clavius.
+Dialogue: 0,0:30:44.80,0:30:46.10,*Default,NTP,0000,0000,0000,,噢  是嗎\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}Oh, are you?
+Dialogue: 0,0:30:46.87,0:30:48.39,*Default,NTP,0000,0000,0000,,克萊威斯\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}Clavius.
+Dialogue: 0,0:30:48.77,0:30:52.06,*Default,NTP,0000,0000,0000,,博士  請不要介意我太好奇\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}Dr. Floyd, I hope you don't think I'm being too inquisitive...
+Dialogue: 0,0:30:52.27,0:30:55.16,*Default,NTP,0000,0000,0000,,但是也許你可以澄清一下  \N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}...but perhaps you can clear up the big mystery 
+Dialogue: 0,0:30:55.17,0:30:57.40,*Default,NTP,0000,0000,0000,,到底那里發生了什么事\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}about what is going on there.
+Dialogue: 0,0:30:58.19,0:31:00.32,*Default,NTP,0000,0000,0000,,我恐怕不太了解你的意思\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}I'm afraid I don't know what you mean.
+Dialogue: 0,0:31:00.57,0:31:02.28,*Default,NTP,0000,0000,0000,,過去兩個星期  克萊威斯發生怪事\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}For the past two weeks...
+Dialogue: 0,0:31:02.49,0:31:05.91,*Default,NTP,0000,0000,0000,,過去兩個星期  克萊威斯發生怪事\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}...some extremely odd things have been happening at Clavius.
+Dialogue: 0,0:31:06.16,0:31:08.24,*Default,NTP,0000,0000,0000,,-真的嗎  -真的\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}-Oh, really? -Yes, yes.
+Dialogue: 0,0:31:08.54,0:31:11.40,*Default,NTP,0000,0000,0000,,例如  當你打電話到該基地時  \N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}For one thing, when you phone the base, 
+Dialogue: 0,0:31:11.40,0:31:12.83,*Default,NTP,0000,0000,0000,,只能聽到電話錄音\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}all you get is a recording...
+Dialogue: 0,0:31:13.04,0:31:17.21,*Default,NTP,0000,0000,0000,,重覆的告訴你線路故障\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}...which repeats that the phone lines are temporarily out of order.
+Dialogue: 0,0:31:18.75,0:31:22.30,*Default,NTP,0000,0000,0000,,可能是他們的裝備故障\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}Probably having some trouble with their equipment.
+Dialogue: 0,0:31:22.72,0:31:25.45,*Default,NTP,0000,0000,0000,,是的  起先我們也是這么想  \N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}That's what we thought at first, 
+Dialogue: 0,0:31:25.45,0:31:27.64,*Default,NTP,0000,0000,0000,,但是到現在為止已經十天了\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}but it's been going on now for 10 days.
+Dialogue: 0,0:31:27.89,0:31:30.64,*Default,NTP,0000,0000,0000,,你是說在過去十天中  你們無法與任何人聯絡\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}You haven't been able to contact anyone for 10 days?
+Dialogue: 0,0:31:30.85,0:31:32.23,*Default,NTP,0000,0000,0000,,正是如此\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}That's right.
+Dialogue: 0,0:31:32.52,0:31:33.52,*Default,NTP,0000,0000,0000,,原來如此\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}Oh, I see.
+Dialogue: 0,0:31:33.73,0:31:37.40,*Default,NTP,0000,0000,0000,,還有一件事  兩天前我們有一輛火箭巴士\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}There's another thing. Two days ago, one of our rocket buses...
+Dialogue: 0,0:31:37.61,0:31:40.53,*Default,NTP,0000,0000,0000,,被拒絕在克萊威斯緊急迫降\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}...was denied permission for an emergency landing.
+Dialogue: 0,0:31:40.74,0:31:41.74,*Default,NTP,0000,0000,0000,,那就真的有些奇怪了\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}That does sound odd.
+Dialogue: 0,0:31:41.94,0:31:45.16,*Default,NTP,0000,0000,0000,,是的  恐怕這件事將會引起爭執\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}I'm afraid there's going to be a bit of a row about it.
+Dialogue: 0,0:31:45.41,0:31:49.29,*Default,NTP,0000,0000,0000,,拒絕迫降是違反  國際航空暨太空協定\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}Denying the men permission to land violates the IAS Convention.
+Dialogue: 0,0:31:49.49,0:31:52.33,*Default,NTP,0000,0000,0000,,是的  那當然  機員們都平安歸來了嗎\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}Yes, of course. Did the crew get back all right?
+Dialogue: 0,0:31:52.54,0:31:54.40,*Default,NTP,0000,0000,0000,,是的  是的  很慶幸  \N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}Fortunately, they did. 
+Dialogue: 0,0:31:54.40,0:31:56.00,*Default,NTP,0000,0000,0000,,是的  很高興聽到這樣\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}Well, I'm glad about that.
+Dialogue: 0,0:31:59.59,0:32:01.72,*Default,NTP,0000,0000,0000,,佛博士對你不愿討論的問題  \N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}At the risk of pressing you on 
+Dialogue: 0,0:32:01.72,0:32:03.55,*Default,NTP,0000,0000,0000,,一再追問  也許有些冒犯\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}a point you seem reticent to discuss...
+Dialogue: 0,0:32:03.80,0:32:06.39,*Default,NTP,0000,0000,0000,,但是我可不可以  直接的問你一個問題\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}...may I ask you a straightforward question?
+Dialogue: 0,0:32:06.59,0:32:08.05,*Default,NTP,0000,0000,0000,,當然可以\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}Well, certainly.
+Dialogue: 0,0:32:10.81,0:32:15.14,*Default,NTP,0000,0000,0000,,坦白說  我們有可靠的情報指出\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}Frankly, we have had some very reliable intelligence reports that...
+Dialogue: 0,0:32:15.39,0:32:18.77,*Default,NTP,0000,0000,0000,,在克萊威斯發生一種  不明來源  十分嚴重的傳染病\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}...quite a serious epidemic has broken out at Clavius.
+Dialogue: 0,0:32:19.02,0:32:23.03,*Default,NTP,0000,0000,0000,,在克萊威斯發生一種  不明來源  十分嚴重的傳染病\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}Something, apparently, of an unknown origin.
+Dialogue: 0,0:32:23.28,0:32:25.66,*Default,NTP,0000,0000,0000,,這應該就是事情的真相吧\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}Is this, in fact, what has happened?
+Dialogue: 0,0:32:30.91,0:32:33.00,*Default,NTP,0000,0000,0000,,很抱歉  史麥斯博士\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}I'm sorry, Dr. Smyslov, but...
+Dialogue: 0,0:32:34.37,0:32:37.08,*Default,NTP,0000,0000,0000,,我無法與你討論這件事\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}...I'm really not at liberty to discuss this.
+Dialogue: 0,0:32:38.71,0:32:39.88,*Default,NTP,0000,0000,0000,,這點我了解\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}I understand.
+Dialogue: 0,0:32:41.34,0:32:44.55,*Default,NTP,0000,0000,0000,,但是這個傳染病可能  很容易就傳染到我們的基地\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}But this epidemic could easily spread to our base.
+Dialogue: 0,0:32:44.76,0:32:46.84,*Default,NTP,0000,0000,0000,,我們必須要知道事情的真相\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}We should be given all the facts.
+Dialogue: 0,0:32:47.05,0:32:48.89,*Default,NTP,0000,0000,0000,,我知道\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}Yes, I know.
+Dialogue: 0,0:32:51.89,0:32:54.93,*Default,NTP,0000,0000,0000,,不過我已說過  我無法討論這個問題\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}As I said, I'm not at liberty to discuss it.
+Dialogue: 0,0:32:57.73,0:33:00.52,*Default,NTP,0000,0000,0000,,你確定不改變主意來一杯嗎\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}Won't you change your mind about that drink?
+Dialogue: 0,0:33:00.73,0:33:03.07,*Default,NTP,0000,0000,0000,,確定  現在我真的必須走了\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}No, I'm positive. I really must be going.
+Dialogue: 0,0:33:03.32,0:33:06.36,*Default,NTP,0000,0000,0000,,希望你和你太太能一起參加  六月舉行的國際航空會議\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}I hope you and your wife come to the IAC Conference.
+Dialogue: 0,0:33:06.57,0:33:07.91,*Default,NTP,0000,0000,0000,,我們會想辦法  希望屆時能前來參加\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}I hope we can make it.
+Dialogue: 0,0:33:08.11,0:33:11.16,*Default,NTP,0000,0000,0000,,假如你們能來  記得寶貝女兒一起帶來\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}If you do, bring that darling little daughter with you.
+Dialogue: 0,0:33:11.37,0:33:15.29,*Default,NTP,0000,0000,0000,,那要看學校假期而定\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}That'll depend on school vacations and all that sort of thing.
+Dialogue: 0,0:33:15.54,0:33:16.58,*Default,NTP,0000,0000,0000,,如果可以  一定帶來\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}If we can, we will.
+Dialogue: 0,0:33:16.79,0:33:19.71,*Default,NTP,0000,0000,0000,,不要忘記不論何時  到美國來一定要來找我\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}You've got an invitation if you ever get to the States.
+Dialogue: 0,0:33:19.92,0:33:22.67,*Default,NTP,0000,0000,0000,,當然  葛雷哥和我  都期待著去看你們\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}Gregor and I will look forward to seeing you.
+Dialogue: 0,0:33:23.63,0:33:24.67,*Default,NTP,0000,0000,0000,,好了  艾琳娜  再見\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}Goodbye, Elena.
+Dialogue: 0,0:33:25.09,0:33:27.97,*Default,NTP,0000,0000,0000,,很榮幸見到你們  史麥斯洛夫博士\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}It's been a pleasure meeting you all. Dr. Smyslov.
+Dialogue: 0,0:33:28.18,0:33:30.46,*Default,NTP,0000,0000,0000,,佛博士  不管你是什么理由  \N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}Whatever the reasons for your visit, 
+Dialogue: 0,0:33:30.46,0:33:32.14,*Default,NTP,0000,0000,0000,,去克萊威斯  祝你幸運\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}the very best of luck to you.
+Dialogue: 0,0:33:32.35,0:33:33.39,*Default,NTP,0000,0000,0000,,謝謝你們\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}Thank you.
+Dialogue: 0,0:33:33.64,0:33:34.85,*Default,NTP,0000,0000,0000,,各位女士\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}Ladies.
+Dialogue: 0,0:33:39.64,0:33:43.66,*Default,NTP,0000,0000,0000,,(俄語)
+Dialogue: 0,0:36:39.35,0:36:50.19,*Default,NTP,0000,0000,0000,,{\an8}{\fn方正黑体简体\fs18\b1\bord1\shad1\3c&H2F2F2F&}零重力廁所  乘客使用前應先閱讀說明
+Dialogue: 0,0:41:30.32,0:41:32.54,*Default,NTP,0000,0000,0000,,對不起  赫伍森博士  我拍完了\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}Excuse me, Dr. Halvorsen. I'm through now.
+Dialogue: 0,0:41:32.74,0:41:35.66,*Default,NTP,0000,0000,0000,,-謝謝各位  -不客氣\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}-Thank you very much, gentlemen. -You're welcome.
+Dialogue: 0,0:41:48.55,0:41:49.72,*Default,NTP,0000,0000,0000,,我知道  大家和我一樣都非常高興\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}Well...
+Dialogue: 0,0:41:50.22,0:41:53.01,*Default,NTP,0000,0000,0000,,我知道  大家和我一樣都非常高興\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}...I know you will all want to join with me...
+Dialogue: 0,0:41:53.26,0:41:57.14,*Default,NTP,0000,0000,0000,,歡迎我們杰出的朋友和同事\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}...in welcoming our distinguished friend and colleague...
+Dialogue: 0,0:41:57.35,0:42:01.56,*Default,NTP,0000,0000,0000,,來自國家太空航行委員會  赫伍德  佛洛伊德博士\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}...from the National Council of Astronautics, Dr. Heywood Floyd.
+Dialogue: 0,0:42:01.81,0:42:06.94,*Default,NTP,0000,0000,0000,,佛博士今天特別來到  克萊威斯參加我們的工作\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}Dr. Floyd has come up specially to Clavius to be with us today.
+Dialogue: 0,0:42:08.24,0:42:11.57,*Default,NTP,0000,0000,0000,,在簡報前  我想他一定很樂意說幾句話\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}Before the briefing, he'd like to have a few words with you.
+Dialogue: 0,0:42:11.78,0:42:12.87,*Default,NTP,0000,0000,0000,,佛博士\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}Dr. Floyd?
+Dialogue: 0,0:42:25.80,0:42:27.76,*Default,NTP,0000,0000,0000,,謝謝赫伍森博士\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}Thank you, Dr. Halvorsen.
+Dialogue: 0,0:42:28.01,0:42:30.84,*Default,NTP,0000,0000,0000,,大家好  很高興回來和大家在一起\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}Hi, everybody. Nice to be back with you.
+Dialogue: 0,0:42:34.14,0:42:37.73,*Default,NTP,0000,0000,0000,,首先我帶來豪爾博士的口信\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}First, I bring a personal message from Dr. Howell...
+Dialogue: 0,0:42:37.98,0:42:40.77,*Default,NTP,0000,0000,0000,,他對各位所作的犧牲  表示由衷的感激\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}...who has asked me to convey his deep appreciation...
+Dialogue: 0,0:42:41.02,0:42:44.11,*Default,NTP,0000,0000,0000,,他對各位所作的犧牲  表示由衷的感激\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}...for the many sacrifices you've had to make.
+Dialogue: 0,0:42:44.36,0:42:46.27,*Default,NTP,0000,0000,0000,,同時他對各位在科學史上  \N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}And, of course, 
+Dialogue: 0,0:42:46.27,0:42:48.19,*Default,NTP,0000,0000,0000,,最有意義的發現  表示祝賀\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}his congratulations on your discovery...
+Dialogue: 0,0:42:48.74,0:42:51.05,*Default,NTP,0000,0000,0000,,同時他對各位在科學史上  \N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}...which may prove to be among the most significant 
+Dialogue: 0,0:42:51.05,0:42:53.37,*Default,NTP,0000,0000,0000,,最有意義的發現  表示祝賀\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}in the history of science.
+Dialogue: 0,0:42:55.62,0:42:56.70,*Default,NTP,0000,0000,0000,,現在.  .\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}Now...
+Dialogue: 0,0:42:57.58,0:43:01.50,*Default,NTP,0000,0000,0000,,我知道關于這件事是否保密  你們曾有不同的看法\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}...I know there have been some conflicting views...
+Dialogue: 0,0:43:01.75,0:43:05.38,*Default,NTP,0000,0000,0000,,我知道關于這件事是否保密  你們曾有不同的看法\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}...regarding the need for complete security in this matter.
+Dialogue: 0,0:43:05.59,0:43:06.68,*Default,NTP,0000,0000,0000,,說得更明白點  \N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}More specifically, 
+Dialogue: 0,0:43:06.69,0:43:09.30,*Default,NTP,0000,0000,0000,,基地上有傳染病的傳說  就是這樣產生的\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}your opposition to the cover story...
+Dialogue: 0,0:43:09.72,0:43:10.76,*Default,NTP,0000,0000,0000,,說得更明白點  \N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}...created to give the impression of 
+Dialogue: 0,0:43:10.76,0:43:13.26,*Default,NTP,0000,0000,0000,,基地上有傳染病的傳說  就是這樣產生的\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}an epidemic at the base.
+Dialogue: 0,0:43:14.30,0:43:18.27,*Default,NTP,0000,0000,0000,,我了解這和原則有所違背  \N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}I understand that beyond it being a matter of principle...
+Dialogue: 0,0:43:18.89,0:43:22.35,*Default,NTP,0000,0000,0000,,你們大家都深受其困擾\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}...many of you are troubled by the concern and anxiety...
+Dialogue: 0,0:43:22.60,0:43:24.91,*Default,NTP,0000,0000,0000,,擔心傳染病的謠言  \N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}...this story of an epidemic might 
+Dialogue: 0,0:43:24.91,0:43:27.69,*Default,NTP,0000,0000,0000,,會使地球上的親友感到焦慮\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}cause to your relatives and friends on Earth.
+Dialogue: 0,0:43:28.86,0:43:31.65,*Default,NTP,0000,0000,0000,,我完全同情持反對意見者  \N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}I completely sympathize with your negative views.
+Dialogue: 0,0:43:32.95,0:43:36.62,*Default,NTP,0000,0000,0000,,我自己也深受謠言困擾\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}I find this cover story personally embarrassing, myself.
+Dialogue: 0,0:43:37.41,0:43:41.71,*Default,NTP,0000,0000,0000,,然而  我仍堅持要絕對保密\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}However, I accept the need for absolute secrecy in this.
+Dialogue: 0,0:43:42.42,0:43:44.29,*Default,NTP,0000,0000,0000,,我希望你們也同樣贊成\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}And I hope you will too.
+Dialogue: 0,0:43:46.92,0:43:49.76,*Default,NTP,0000,0000,0000,,我相信大家都很清楚  \N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}I'm sure you're all aware of the grave potential...
+Dialogue: 0,0:43:49.96,0:43:52.63,*Default,NTP,0000,0000,0000,,如果在沒適當準備下公布此事  \N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}...for cultural shock and social disorientation...
+Dialogue: 0,0:43:52.84,0:43:55.22,*Default,NTP,0000,0000,0000,,如果在沒適當準備下公布此事\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}...contained in this situation...
+Dialogue: 0,0:43:55.43,0:43:57.93,*Default,NTP,0000,0000,0000,,對文化的沖激及  社會產生迷惑的可能性\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}...if the facts were prematurely made public...
+Dialogue: 0,0:43:58.14,0:44:01.23,*Default,NTP,0000,0000,0000,,對文化的沖激及  社會產生迷惑的可能性\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}...without adequate preparation and conditioning.
+Dialogue: 0,0:44:01.98,0:44:03.31,*Default,NTP,0000,0000,0000,,無論如何  \N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}Anyway...
+Dialogue: 0,0:44:03.52,0:44:05.73,*Default,NTP,0000,0000,0000,,這是委員會的意思\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}...this is the view of the Council.
+Dialogue: 0,0:44:06.61,0:44:10.78,*Default,NTP,0000,0000,0000,,我來此的目的  正是搜集事實與意見\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}The purpose of my visit is to gather additional facts and opinions...
+Dialogue: 0,0:44:10.99,0:44:12.70,*Default,NTP,0000,0000,0000,,以便草擬報告向委員會建議  何時及如何公布這件事情\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}...on the situation...
+Dialogue: 0,0:44:13.15,0:44:16.07,*Default,NTP,0000,0000,0000,,以便草擬報告向委員會建議  何時及如何公布這件事情\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}...and to prepare a report to the Council...
+Dialogue: 0,0:44:16.32,0:44:19.17,*Default,NTP,0000,0000,0000,,以便草擬報告向委員會建議  \N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}...recommending when and how 
+Dialogue: 0,0:44:19.17,0:44:21.41,*Default,NTP,0000,0000,0000,,何時及如何公布這件事情\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}the news should eventually be announced.
+Dialogue: 0,0:44:22.66,0:44:26.46,*Default,NTP,0000,0000,0000,,如果哪位提供我意見和看法  如果你愿意私底下也可以\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}If any of you would like to give me your views and opinions...
+Dialogue: 0,0:44:26.71,0:44:31.67,*Default,NTP,0000,0000,0000,,我將很高興將它寫進報告\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}...in private, if you like, I will be happy to include them in my report.
+Dialogue: 0,0:44:33.63,0:44:35.63,*Default,NTP,0000,0000,0000,,好了  我想這件事到此為止  有無問題\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}Well, I think that's about it.
+Dialogue: 0,0:44:36.43,0:44:37.93,*Default,NTP,0000,0000,0000,,有無問題\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}Any questions?
+Dialogue: 0,0:44:40.51,0:44:43.64,*Default,NTP,0000,0000,0000,,佛博士  這件事究竟要保密多久\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}Dr. Floyd, have you any idea how much longer...
+Dialogue: 0,0:44:43.85,0:44:46.65,*Default,NTP,0000,0000,0000,,佛博士  這件事究竟要保密多久\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}...this cover story will have to be maintained?
+Dialogue: 0,0:44:48.52,0:44:50.11,*Default,NTP,0000,0000,0000,,我不知道  比爾\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}I don't know, Bill.
+Dialogue: 0,0:44:50.52,0:44:54.49,*Default,NTP,0000,0000,0000,,我想保密時間的長短  需由委員會視狀況而定\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}I suppose for as long as deemed necessary by the Council.
+Dialogue: 0,0:44:54.70,0:44:57.45,*Default,NTP,0000,0000,0000,,當然  在決定公布前  要有足夠的時間做全盤研究\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}There must be adequate time for a full study...
+Dialogue: 0,0:44:57.70,0:45:01.33,*Default,NTP,0000,0000,0000,,當然  在決定公布前  要有足夠的時間做全盤研究\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}...before any thought can be given to making a public announcement.
+Dialogue: 0,0:45:01.54,0:45:04.46,*Default,NTP,0000,0000,0000,,對了  你們當中有人已知道  委員會已正式要求\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}As some of you know, the Council has requested...
+Dialogue: 0,0:45:04.66,0:45:07.38,*Default,NTP,0000,0000,0000,,任何知道此事的人  都必須保密\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}...that security oaths be obtained in writing...
+Dialogue: 0,0:45:07.58,0:45:10.46,*Default,NTP,0000,0000,0000,,任何知道此事的人  都必須保密\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}...from everyone who has knowledge of this event.
+Dialogue: 0,0:45:12.63,0:45:14.38,*Default,NTP,0000,0000,0000,,還有問題嗎\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}Were there any more questions?
+Dialogue: 0,0:45:20.10,0:45:22.92,*Default,NTP,0000,0000,0000,,我確定我們大家都想  \N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}I'm sure we all want to cooperate with Dr. 
+Dialogue: 0,0:45:22.92,0:45:25.23,*Default,NTP,0000,0000,0000,,盡可能和佛博士合作\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}Floyd as fully as possible...
+Dialogue: 0,0:45:25.77,0:45:28.21,*Default,NTP,0000,0000,0000,,似乎沒什么問題了  \N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}...and as there are no more questions, 
+Dialogue: 0,0:45:28.21,0:45:30.90,*Default,NTP,0000,0000,0000,,我想接下來應該開始簡報\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}we ought to get on with the briefing.
+Dialogue: 0,0:45:31.27,0:45:33.44,*Default,NTP,0000,0000,0000,,-謝謝你佛博士  -謝謝\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}-Thank you, Dr. Floyd. -Thank you.
+Dialogue: 0,0:47:11.29,0:47:12.58,*Default,NTP,0000,0000,0000,,有人餓了嗎\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}Anybody hungry?
+Dialogue: 0,0:47:15.25,0:47:17.25,*Default,NTP,0000,0000,0000,,-有什么好吃的  -你們說呢\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}-What've we got? -You name it.
+Dialogue: 0,0:47:21.84,0:47:23.76,*Default,NTP,0000,0000,0000,,-這是什么雞肉嗎  -類似雞的東西\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}-Is this chicken? -Something like that.
+Dialogue: 0,0:47:23.97,0:47:25.81,*Default,NTP,0000,0000,0000,,不管怎么樣  嘗嘗看\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}Tastes the same, anyway.
+Dialogue: 0,0:47:26.47,0:47:27.72,*Default,NTP,0000,0000,0000,,有火腿嗎\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}Got any ham?
+Dialogue: 0,0:47:27.93,0:47:29.39,*Default,NTP,0000,0000,0000,,火腿  火腿  火腿\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}Ham, ham, ham....
+Dialogue: 0,0:47:29.60,0:47:31.23,*Default,NTP,0000,0000,0000,,有  在這\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}There, that's it.
+Dialogue: 0,0:47:34.48,0:47:35.52,*Default,NTP,0000,0000,0000,,看起來不錯\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}Look pretty good.
+Dialogue: 0,0:47:35.73,0:47:38.48,*Default,NTP,0000,0000,0000,,他們隨時都在改進\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}They're getting better at it all the time.
+Dialogue: 0,0:47:40.57,0:47:43.82,*Default,NTP,0000,0000,0000,,-你的演講非常棒  赫伍德  -的確如此\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}-That was an excellent speech. -It certainly was.
+Dialogue: 0,0:47:44.66,0:47:46.74,*Default,NTP,0000,0000,0000,,我相信他能提高全體的士氣\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}I'm sure it beefed up morale a lot.
+Dialogue: 0,0:47:46.95,0:47:48.24,*Default,NTP,0000,0000,0000,,謝謝你  雷夫\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}Thanks, Ralph.
+Dialogue: 0,0:47:48.49,0:47:51.08,*Default,NTP,0000,0000,0000,,我認為你們也表現的非常好  \N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}By the way, you've both done a wonderful job.
+Dialogue: 0,0:47:51.29,0:47:52.87,*Default,NTP,0000,0000,0000,,我很欣賞你們處理的方法\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}I admire how you've handled this.
+Dialogue: 0,0:47:53.08,0:47:56.63,*Default,NTP,0000,0000,0000,,這樣做是我們的職責\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}It's our job to do this thing the way you want it done.
+Dialogue: 0,0:47:56.84,0:47:59.46,*Default,NTP,0000,0000,0000,,很高興能達到這個要求\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}We're only too happy to be able to oblige.
+Dialogue: 0,0:48:00.05,0:48:01.76,*Default,NTP,0000,0000,0000,,你看過這些嗎\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}Have you seen these yet?
+Dialogue: 0,0:48:02.05,0:48:05.39,*Default,NTP,0000,0000,0000,,整個事件就是從這里開始\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}-Have a look. -Here's what started the whole thing.
+Dialogue: 0,0:48:06.01,0:48:07.30,*Default,NTP,0000,0000,0000,,噢耶\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}Oh, yeah.
+Dialogue: 0,0:48:07.85,0:48:11.27,*Default,NTP,0000,0000,0000,,當初我們發現它時  以為是個磁性巖石的外殼\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}When we found it, we thought it might be magnetic rock...
+Dialogue: 0,0:48:11.48,0:48:14.60,*Default,NTP,0000,0000,0000,,但是所有地質學上的  檢驗都與此相反\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}...but all the geological evidence was against it.
+Dialogue: 0,0:48:14.85,0:48:16.44,*Default,NTP,0000,0000,0000,,甚至沒有一個如此  \N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}And not even a nickel-iron meteorite 
+Dialogue: 0,0:48:16.44,0:48:19.48,*Default,NTP,0000,0000,0000,,巨大的鎳鐵隕石能產生  這樣強烈的磁場\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}could produce a field this intense.
+Dialogue: 0,0:48:19.69,0:48:21.40,*Default,NTP,0000,0000,0000,,所以我們決定去看看\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}So we decided to have a look.
+Dialogue: 0,0:48:21.61,0:48:23.99,*Default,NTP,0000,0000,0000,,我們認為是某種  被埋葬建筑物較上層部份\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}We thought it was part of a buried structure...
+Dialogue: 0,0:48:24.20,0:48:28.03,*Default,NTP,0000,0000,0000,,所以把四周挖掘開  很不幸沒有任何的發現\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}...so we excavated out, but we didn't find anything else.
+Dialogue: 0,0:48:28.24,0:48:31.25,*Default,NTP,0000,0000,0000,,所有的證據似乎完全確定  \N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}And the evidence seems pretty conclusive that...
+Dialogue: 0,0:48:31.45,0:48:34.58,*Default,NTP,0000,0000,0000,,它不是被自然的侵蝕或其它力量所掩蓋\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}...it hasn't been covered by erosion or other forces.
+Dialogue: 0,0:48:34.79,0:48:37.13,*Default,NTP,0000,0000,0000,,它似乎是經過謹慎埋葬的\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}It's been deliberately buried.
+Dialogue: 0,0:48:38.13,0:48:40.05,*Default,NTP,0000,0000,0000,,謹慎的埋葬\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}Deliberately buried.
+Dialogue: 0,0:48:43.97,0:48:45.34,*Default,NTP,0000,0000,0000,,來點咖啡如何\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}How about a little coffee?
+Dialogue: 0,0:48:45.55,0:48:47.47,*Default,NTP,0000,0000,0000,,-太棒了  -好主意\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}-Great. -Good idea.
+Dialogue: 0,0:48:52.98,0:48:55.94,*Default,NTP,0000,0000,0000,,我想你們也猜不出那是什么\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}I don't suppose you have any idea what the damn thing is?
+Dialogue: 0,0:48:56.19,0:48:58.11,*Default,NTP,0000,0000,0000,,我希望我們知道\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}I wish to hell we did.
+Dialogue: 0,0:48:58.48,0:49:02.69,*Default,NTP,0000,0000,0000,,唯一可以確定的是  那是四百萬年前所埋的\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}The only thing we're sure of is it was buried 4 million years ago.
+Dialogue: 0,0:49:03.07,0:49:07.53,*Default,NTP,0000,0000,0000,,我應該說  你們確實是有重大的發現\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}Well, I must say, you guys have certainly come up with something.
+Dialogue: 0,0:49:07.74,0:49:09.37,*Default,NTP,0000,0000,0000,,看著點  很燙\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}Watch this, now. It's hot.
+Dialogue: 0,0:54:43.02,0:54:47.96,*Default,NTP,0000,0000,0000,,{\an8}{\fn方正黑体简体\fs18\b1\bord1\shad1\3c&H2F2F2F&}木星任務18個月后
+Dialogue: 0,0:58:53.83,0:58:54.95,*Default,NTP,0000,0000,0000,,晚安\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}Good evening.
+Dialogue: 0,0:58:55.16,0:58:58.16,*Default,NTP,0000,0000,0000,,三星期前  美國太空船發現者一號  \N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}Three weeks ago, the American spacecraft Discovery One...
+Dialogue: 0,0:58:58.37,0:59:01.08,*Default,NTP,0000,0000,0000,,開始全程五億里的木星航行\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}...left on its half-billion mile voyage to Jupiter.
+Dialogue: 0,0:59:01.46,0:59:05.25,*Default,NTP,0000,0000,0000,,寫下人類首次  到達這遙遠行星的企圖\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}This marked the first manned attempt to reach this distant planet.
+Dialogue: 0,0:59:05.50,0:59:08.97,*Default,NTP,0000,0000,0000,,今天下午  世界今夜節目訪問了\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}This afternoon, The World Tonight recorded an interview...
+Dialogue: 0,0:59:09.18,0:59:13.76,*Default,NTP,0000,0000,0000,,遠離地球八千萬里  發現者號的機員\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}...with the crew at a distance of 80 million miles from Earth.
+Dialogue: 0,0:59:14.01,0:59:17.27,*Default,NTP,0000,0000,0000,,我們的話要傳到太空船  需要七分鐘的時間\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}It took 7 minutes for our words to reach the giant spacecraft...
+Dialogue: 0,0:59:17.48,0:59:20.60,*Default,NTP,0000,0000,0000,,不過這項時差已予以修正\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}...but this time delay has been edited from this recording.
+Dialogue: 0,0:59:20.81,0:59:24.11,*Default,NTP,0000,0000,0000,,記者馬丁艾默對機員們談話\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}Our reporter Martin Amer speaks to the crew.
+Dialogue: 0,0:59:24.32,0:59:27.49,*Default,NTP,0000,0000,0000,,發現者一號的機員包括五個人\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}The crew of Discovery One consists of five men...
+Dialogue: 0,0:59:27.69,0:59:32.66,*Default,NTP,0000,0000,0000,,和一套最新的H.A.L  9000型電腦系統\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}...and one of the latest generation of the HAL 9000 computers.
+Dialogue: 0,0:59:32.91,0:59:35.20,*Default,NTP,0000,0000,0000,,五人中有三人  是在太空船上睡覺\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}Three of the men were put aboard asleep...
+Dialogue: 0,0:59:35.41,0:59:38.58,*Default,NTP,0000,0000,0000,,說得更精確些  是保持在冬眠的狀態\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}...or to be more precise, in a state of hibernation:
+Dialogue: 0,0:59:38.79,0:59:42.12,*Default,NTP,0000,0000,0000,,他們就是查理亨特博士  杰克金波博士  \N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}Dr. Charles Hunter, Dr. Jack Kimball 
+Dialogue: 0,0:59:42.12,0:59:43.79,*Default,NTP,0000,0000,0000,,以及維克多克明斯博士\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}and Dr. Victor Kaminsky.
+Dialogue: 0,0:59:44.21,0:59:46.92,*Default,NTP,0000,0000,0000,,下面就是我們和  任務指揮官大衛鮑曼博士\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}We spoke with mission commander, Dr. David Bowman...
+Dialogue: 0,0:59:47.13,0:59:49.42,*Default,NTP,0000,0000,0000,,和副指揮官  富蘭克普理博士的談話\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}...and his deputy, Dr. Frank Poole.
+Dialogue: 0,0:59:49.63,0:59:52.51,*Default,NTP,0000,0000,0000,,二位午安  一切都好嗎\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}Good afternoon, gentlemen. How is everything going?
+Dialogue: 0,0:59:52.72,0:59:53.93,*Default,NTP,0000,0000,0000,,太神奇了\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}Marvelous.
+Dialogue: 0,0:59:55.60,0:59:57.26,*Default,NTP,0000,0000,0000,,我們毫無怨尤\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}We have no complaints.
+Dialogue: 0,0:59:57.52,1:00:00.77,*Default,NTP,0000,0000,0000,,很高興聽到這句話  我想全世界的人  \N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}I'm glad to hear that. I'm sure the entire world...
+Dialogue: 0,1:00:00.98,1:00:04.27,*Default,NTP,0000,0000,0000,,都和我一樣祝福你們  有個平安成功的航行\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}...joins me in wishing you a safe, successful voyage.
+Dialogue: 0,1:00:04.48,1:00:06.23,*Default,NTP,0000,0000,0000,,-非常感謝  -謝謝你們\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}-Thanks very much. -Thank you.
+Dialogue: 0,1:00:06.69,1:00:10.65,*Default,NTP,0000,0000,0000,,雖然冬眠  在過去太空任務中曾使用過\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}Although hibernation has been used on previous space efforts...
+Dialogue: 0,1:00:10.86,1:00:13.46,*Default,NTP,0000,0000,0000,,但這是第一次在出發前  \N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}...this is the first time 
+Dialogue: 0,1:00:13.46,1:00:15.41,*Default,NTP,0000,0000,0000,,將人員置于冬眠狀態\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}men were put into hibernation before departure.
+Dialogue: 0,1:00:15.62,1:00:16.91,*Default,NTP,0000,0000,0000,,為什么要這么做呢\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}Why was this done?
+Dialogue: 0,1:00:17.16,1:00:20.41,*Default,NTP,0000,0000,0000,,這樣做的目的  在使我們的生命支持能力\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}This was done to achieve the maximum conservation...
+Dialogue: 0,1:00:20.62,1:00:24.17,*Default,NTP,0000,0000,0000,,基本的食物與空氣  得到最大量的保存\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}...of our life-support capabilities, basically food and air.
+Dialogue: 0,1:00:24.38,1:00:28.00,*Default,NTP,0000,0000,0000,,現在冬眠的機員代表測量組\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}The three hibernating crew members represent the survey team.
+Dialogue: 0,1:00:28.25,1:00:32.01,*Default,NTP,0000,0000,0000,,他們的專長要等到我們  快接近木星時才會用到\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}Their efforts won't be utilized until we approach Jupiter.
+Dialogue: 0,1:00:32.30,1:00:36.14,*Default,NTP,0000,0000,0000,,普里博士  冬眠時究竟像什么樣子\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}Dr. Poole, what's it like while you're in hibernation?
+Dialogue: 0,1:00:37.10,1:00:40.73,*Default,NTP,0000,0000,0000,,完全像睡著般沒有知覺  \N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}It's exactly like being asleep. You have no sense of time.
+Dialogue: 0,1:00:40.93,1:00:43.39,*Default,NTP,0000,0000,0000,,唯一不同的是不會做夢\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}The only difference is that you don't dream.
+Dialogue: 0,1:00:43.60,1:00:47.69,*Default,NTP,0000,0000,0000,,據我所知  你一分鐘呼吸一次  真的嗎\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}As I understand it, you only breathe once a minute. Is this true?
+Dialogue: 0,1:00:47.90,1:00:50.44,*Default,NTP,0000,0000,0000,,那是真的  心跳一分鐘三次\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}Right, and the heart beats three times a minute.
+Dialogue: 0,1:00:50.65,1:00:54.41,*Default,NTP,0000,0000,0000,,體溫降至約攝氏三度\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}Body temperature is usually down to about three degrees centigrade.
+Dialogue: 0,1:00:54.91,1:00:58.24,*Default,NTP,0000,0000,0000,,發現者的第六位機員  并不擔心冬眠的問題\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}The sixth member of the crew was not concerned...
+Dialogue: 0,1:00:58.45,1:01:00.54,*Default,NTP,0000,0000,0000,,發現者的第六位機員  并不擔心冬眠的問題\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}...about the problems of hibernation...
+Dialogue: 0,1:01:00.75,1:01:04.21,*Default,NTP,0000,0000,0000,,因為他是科技智慧最新結晶\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}...for he was the latest result in machine intelligence:
+Dialogue: 0,1:01:04.42,1:01:08.84,*Default,NTP,0000,0000,0000,,HAL系統  9000型電腦  它能夠復制...\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}The HAL 9000 computer, which can reproduce...
+Dialogue: 0,1:01:09.09,1:01:12.01,*Default,NTP,0000,0000,0000,,雖然有些專家  仍喜歡使用模擬一辭\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}...though some experts prefer to use the word "mimic"...
+Dialogue: 0,1:01:12.21,1:01:14.59,*Default,NTP,0000,0000,0000,,...大部份人腦的活動\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}...most of the activities of the human brain...
+Dialogue: 0,1:01:14.80,1:01:18.85,*Default,NTP,0000,0000,0000,,并具有無法計算的  較大速度與可靠性\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}...and with incalculably greater speed and reliability.
+Dialogue: 0,1:01:19.06,1:01:22.64,*Default,NTP,0000,0000,0000,,下面我們將與這部電腦談話\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}We next spoke with the HAL 9000 computer...
+Dialogue: 0,1:01:22.85,1:01:25.81,*Default,NTP,0000,0000,0000,,我們知道他有個名字叫赫爾\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}...whom, we learned, one addresses as "Hal. "
+Dialogue: 0,1:01:26.56,1:01:28.69,*Default,NTP,0000,0000,0000,,午安  赫爾  一切都好嗎\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}Hello, Hal. How's everything going?
+Dialogue: 0,1:01:29.07,1:01:32.90,*Default,NTP,0000,0000,0000,,午安  艾默先生  一切都非常順利\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}Good afternoon, Mr. Amer. Everything is going extremely well.
+Dialogue: 0,1:01:33.15,1:01:36.57,*Default,NTP,0000,0000,0000,,赫爾  在這次任務中  你有一大堆的責任\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}Hal, you have an enormous responsibility on this mission...
+Dialogue: 0,1:01:36.82,1:01:40.70,*Default,NTP,0000,0000,0000,,每個任務責任都很重要  \N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}...perhaps the greatest of any single mission element.
+Dialogue: 0,1:01:40.91,1:01:43.70,*Default,NTP,0000,0000,0000,,你是這艘太空船的首腦和中央神經系統  \N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}You're the brain and nervous system of the ship.
+Dialogue: 0,1:01:43.91,1:01:47.67,*Default,NTP,0000,0000,0000,,你的責任包括監視人們冬眠\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}Your responsibilities include watching over the men in hibernation.
+Dialogue: 0,1:01:47.88,1:01:50.96,*Default,NTP,0000,0000,0000,,對這樣的任務  你是否會缺乏信心\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}Does this ever cause you any lack of confidence?
+Dialogue: 0,1:01:51.17,1:01:53.46,*Default,NTP,0000,0000,0000,,艾默先生  讓我這樣說\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}Let me put it this way, Mr. Amer.
+Dialogue: 0,1:01:53.76,1:01:58.43,*Default,NTP,0000,0000,0000,,這套9000型系統的電腦是目前最可靠的電腦\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}The 9000 Series is the most reliable computer ever made.
+Dialogue: 0,1:01:58.80,1:02:00.72,*Default,NTP,0000,0000,0000,,9000型系統的電腦  \N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}No 9000 computer has ever made a mistake 
+Dialogue: 0,1:02:00.72,1:02:03.60,*Default,NTP,0000,0000,0000,,從來沒有出現過錯誤  或是不實的資料\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}or distorted information.
+Dialogue: 0,1:02:04.27,1:02:07.52,*Default,NTP,0000,0000,0000,,我們使用實用的定義  極為簡單絕不可能產生錯誤\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}We are all, by any practical definition of the words...
+Dialogue: 0,1:02:07.77,1:02:11.15,*Default,NTP,0000,0000,0000,,我們使用實用的定義  極為簡單絕不可能產生錯誤\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}...foolproof and incapable of error.
+Dialogue: 0,1:02:11.40,1:02:15.19,*Default,NTP,0000,0000,0000,,赫爾  不管你智慧多高  仍得依靠人們執行\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}Hal, despite your enormous intellect, are you ever frustrated...
+Dialogue: 0,1:02:15.40,1:02:18.49,*Default,NTP,0000,0000,0000,,你是否因此會產生挫折感\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}...by your dependence on people to carry out actions?
+Dialogue: 0,1:02:18.74,1:02:20.95,*Default,NTP,0000,0000,0000,,一點都不會  \N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}Not in the slightest bit.
+Dialogue: 0,1:02:21.16,1:02:23.29,*Default,NTP,0000,0000,0000,,我很高興和人們一起工作\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}I enjoy working with people.
+Dialogue: 0,1:02:23.54,1:02:28.08,*Default,NTP,0000,0000,0000,,我和普里博士  鮑曼博士  有著非常良好的關系\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}I have a stimulating relationship with Dr. Poole and Dr. Bowman.
+Dialogue: 0,1:02:28.25,1:02:30.16,*Default,NTP,0000,0000,0000,,我的任務范圍  \N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}My mission responsibilities 
+Dialogue: 0,1:02:30.16,1:02:32.55,*Default,NTP,0000,0000,0000,,包括整個太空船的作業\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}range over the entire operation of the ship...
+Dialogue: 0,1:02:32.96,1:02:35.92,*Default,NTP,0000,0000,0000,,所以我非常忙碌  \N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}...so I am constantly occupied.
+Dialogue: 0,1:02:36.17,1:02:39.64,*Default,NTP,0000,0000,0000,,我把自己使用到最大程度\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}I am putting myself to the fullest possible use...
+Dialogue: 0,1:02:39.84,1:02:43.17,*Default,NTP,0000,0000,0000,,我想那是任何有責任感的人  \N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}...which is all, I think, 
+Dialogue: 0,1:02:43.17,1:02:44.60,*Default,NTP,0000,0000,0000,,所希望做到的\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}that any conscious entity can ever hope to do.
+Dialogue: 0,1:02:45.22,1:02:48.44,*Default,NTP,0000,0000,0000,,普里博士  一年中大部份時間  都和赫爾一起生活\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}Dr. Poole, what's it like living for most of the year...
+Dialogue: 0,1:02:48.69,1:02:51.52,*Default,NTP,0000,0000,0000,,感覺如何\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}...in such close proximity with Hal?
+Dialogue: 0,1:02:52.52,1:02:54.48,*Default,NTP,0000,0000,0000,,是的  我和他非常的接近\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}It's like what you said earlier.
+Dialogue: 0,1:02:54.73,1:02:56.86,*Default,NTP,0000,0000,0000,,他正像是第六位機員\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}He's like a sixth member of the crew.
+Dialogue: 0,1:02:57.11,1:02:58.81,*Default,NTP,0000,0000,0000,,由于他會說話  \N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}You quickly get adjusted to the idea that he talks, 
+Dialogue: 0,1:02:58.81,1:03:01.16,*Default,NTP,0000,0000,0000,,你會很快的調整你的觀念\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}and think of him...
+Dialogue: 0,1:03:01.41,1:03:03.41,*Default,NTP,0000,0000,0000,,當你對電腦講話時  會認為他真是另一個人\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}...really just as another person.
+Dialogue: 0,1:03:03.62,1:03:07.20,*Default,NTP,0000,0000,0000,,你會有一種感覺  那就是  他能夠作情緒上的反應\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}In talking to the computer, one gets the sense that he's capable...
+Dialogue: 0,1:03:07.46,1:03:08.87,*Default,NTP,0000,0000,0000,,你會有一種感覺  那就是  他能夠作情緒上的反應\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}...of emotional responses.
+Dialogue: 0,1:03:09.12,1:03:11.46,*Default,NTP,0000,0000,0000,,例如  當我問到他的能力時\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}When I asked him about his abilities...
+Dialogue: 0,1:03:11.67,1:03:15.63,*Default,NTP,0000,0000,0000,,我可以感受到他非常自負  自己精確完整的能力\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}...I sensed pride in his answer about his accuracy and perfection.
+Dialogue: 0,1:03:15.88,1:03:19.26,*Default,NTP,0000,0000,0000,,你相信赫爾真有感情嗎\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}Do you believe that Hal has genuine emotions?
+Dialogue: 0,1:03:19.97,1:03:22.93,*Default,NTP,0000,0000,0000,,是的  他表現得很有情感\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}Well, he acts like he has genuine emotions.
+Dialogue: 0,1:03:23.18,1:03:26.77,*Default,NTP,0000,0000,0000,,當然  他就是這樣設計  使我們更容易對他說話\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}He's programmed that way to make it easier for us to talk to him.
+Dialogue: 0,1:03:27.02,1:03:29.06,*Default,NTP,0000,0000,0000,,至于他是否真有情感  \N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}As to whether or not he has feelings...
+Dialogue: 0,1:03:29.27,1:03:32.10,*Default,NTP,0000,0000,0000,,我想是沒有人可以回答的\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}...is something I don't think anyone can truthfully answer.
+Dialogue: 0,1:03:57.42,1:03:59.30,*Default,NTP,0000,0000,0000,,對不起  富蘭克\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}Excuse me, Frank.
+Dialogue: 0,1:03:59.67,1:04:00.68,*Default,NTP,0000,0000,0000,,什么事赫爾\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}What is it, Hal?
+Dialogue: 0,1:04:00.93,1:04:03.89,*Default,NTP,0000,0000,0000,,我剛接到你父母的電訊\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}We've got the transmission from your parents coming in.
+Dialogue: 0,1:04:05.10,1:04:06.18,*Default,NTP,0000,0000,0000,,好的\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}Fine.
+Dialogue: 0,1:04:06.85,1:04:09.10,*Default,NTP,0000,0000,0000,,請接過來  把我移過去一點  好嗎\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}Put it on here, please. Take me in a bit.
+Dialogue: 0,1:04:09.35,1:04:10.60,*Default,NTP,0000,0000,0000,,當然可以\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}Certainly.
+Dialogue: 0,1:04:23.99,1:04:25.37,*Default,NTP,0000,0000,0000,,哈羅  富蘭克  親愛的  祝你生日快樂\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}Happy birthday, darling!
+Dialogue: 0,1:04:25.62,1:04:27.87,*Default,NTP,0000,0000,0000,,祝你生日快樂  萬事如意\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}Happy birthday. Many happy returns.
+Dialogue: 0,1:04:28.08,1:04:29.16,*Default,NTP,0000,0000,0000,,請稍為高一點  \N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}A bit higher, Hal.
+Dialogue: 0,1:04:29.41,1:04:31.83,*Default,NTP,0000,0000,0000,,我和你媽媽都感覺很好\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}Mother and I are both feeling wonderful.
+Dialogue: 0,1:04:32.08,1:04:33.92,*Default,NTP,0000,0000,0000,,瑞和莎莉本來也要來此\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}Ray and Sally were going to be here...
+Dialogue: 0,1:04:34.17,1:04:36.42,*Default,NTP,0000,0000,0000,,但是瑞的背痛又發作了\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}...but Ray's back went bad on him again.
+Dialogue: 0,1:04:36.50,1:04:37.69,*Default,NTP,0000,0000,0000,,你喜歡這個生日蛋糕嗎  \N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}How do you like your cake, dear? 
+Dialogue: 0,1:04:37.69,1:04:38.80,*Default,NTP,0000,0000,0000,,看起來很不錯  是不是\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}It's great, doesn't it?
+Dialogue: 0,1:04:39.01,1:04:40.42,*Default,NTP,0000,0000,0000,,可惜你不能與我們共享\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}Sorry you can't join us.
+Dialogue: 0,1:04:40.67,1:04:42.26,*Default,NTP,0000,0000,0000,,對了  前幾天碰到鮑伯\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}I ran into Bob the other day.
+Dialogue: 0,1:04:42.51,1:04:44.55,*Default,NTP,0000,0000,0000,,他要我代他祝你生日快樂\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}He said to wish you happy birthday.
+Dialogue: 0,1:04:44.76,1:04:47.47,*Default,NTP,0000,0000,0000,,我所有的學生也虔誠祝福你\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}All my students send their best wishes too.
+Dialogue: 0,1:04:47.68,1:04:49.39,*Default,NTP,0000,0000,0000,,你知道他們整天都在談論你\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}They talk about you all the time.
+Dialogue: 0,1:04:49.64,1:04:52.73,*Default,NTP,0000,0000,0000,,你是二年級的大名人\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}You're a big celebrity in the second grade.
+Dialogue: 0,1:04:52.98,1:04:54.40,*Default,NTP,0000,0000,0000,,你知道嗎  上星期我們還上電視呢\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}We were on TV last week.
+Dialogue: 0,1:04:54.65,1:04:57.27,*Default,NTP,0000,0000,0000,,你母親和我  還有大衛父母都接受訪問\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}Your mom and I and Dave's parents were asked...
+Dialogue: 0,1:04:57.52,1:04:59.78,*Default,NTP,0000,0000,0000,,問我們對于杰出兒子的感受\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}...what we thought of our illustrious son.
+Dialogue: 0,1:05:00.03,1:05:01.06,*Default,NTP,0000,0000,0000,,你可以想像得到  \N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}Imagine what we told them. 
+Dialogue: 0,1:05:01.06,1:05:03.36,*Default,NTP,0000,0000,0000,,我們告訴他們什么嗎我想可能在下星期四播出\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}It's being broadcast next Thursday.
+Dialogue: 0,1:05:03.61,1:05:05.20,*Default,NTP,0000,0000,0000,,也許你可以收到\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}Perhaps you can listen in.
+Dialogue: 0,1:05:05.41,1:05:07.28,*Default,NTP,0000,0000,0000,,關于艾拉蓮和比爾的消息  我們也感到激動  親愛的\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}We're thrilled about Elaine and Bill.
+Dialogue: 0,1:05:07.49,1:05:11.25,*Default,NTP,0000,0000,0000,,我很高興買禮物送你  但請告訴我可以花多少錢\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}I'll be glad to get the gift, but tell me how much to spend.
+Dialogue: 0,1:05:11.45,1:05:14.29,*Default,NTP,0000,0000,0000,,對了  富蘭克  關于你的薪水\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}Oh, Frank, about your AGS- 19 payments...
+Dialogue: 0,1:05:14.54,1:05:16.08,*Default,NTP,0000,0000,0000,,我想我幫你處理好了  \N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}...I think I straightened it out.
+Dialogue: 0,1:05:16.33,1:05:18.38,*Default,NTP,0000,0000,0000,,昨天我和會計室的人談過\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}I talked to the accounting office yesterday...
+Dialogue: 0,1:05:18.63,1:05:23.26,*Default,NTP,0000,0000,0000,,你下個月就可領到較高薪水\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}...and they said you'd be receiving your higher rates of pay by next month.
+Dialogue: 0,1:05:23.51,1:05:25.63,*Default,NTP,0000,0000,0000,,我想不出還有什么要說\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}I can't think of anything else to say.
+Dialogue: 0,1:05:25.89,1:05:30.01,*Default,NTP,0000,0000,0000,,-代我們向大衛問好  -記得代我們向他致意\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}-Give our love to Dave. -Be sure to give him our best regards.
+Dialogue: 0,1:05:30.26,1:05:33.60,*Default,NTP,0000,0000,0000,,祝你有個最愉快的生日\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}We wish you the very happiest of birthdays.
+Dialogue: 0,1:05:33.85,1:05:35.44,*Default,NTP,0000,0000,0000,,生日快樂\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}All the best, son.
+Dialogue: 0,1:05:35.69,1:05:37.86,*Default,NTP,0000,0000,0000,,祝你生日快樂\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}Happy birthday to you.
+Dialogue: 0,1:05:38.11,1:05:40.19,*Default,NTP,0000,0000,0000,,祝你生日快樂\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}Happy birthday to you.
+Dialogue: 0,1:05:40.40,1:05:42.99,*Default,NTP,0000,0000,0000,,祝親愛的富蘭克生日快樂\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}Happy birthday, dear Frank
+Dialogue: 0,1:05:43.19,1:05:45.82,*Default,NTP,0000,0000,0000,,祝你生日快樂\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}Happy birthday to you.
+Dialogue: 0,1:05:47.57,1:05:49.62,*Default,NTP,0000,0000,0000,,下星期三再見\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}See you next Wednesday.
+Dialogue: 0,1:05:52.75,1:05:54.62,*Default,NTP,0000,0000,0000,,富蘭克  生日快樂\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}Happy birthday, Frank.
+Dialogue: 0,1:05:55.46,1:05:59.00,*Default,NTP,0000,0000,0000,,謝謝你赫爾  請將椅子調低\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}Thank you, Hal. A bit flatter, please.
+Dialogue: 0,1:06:16.98,1:06:19.02,*Default,NTP,0000,0000,0000,,皇后吃卒\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}Anyway, queen takes pawn.
+Dialogue: 0,1:06:20.77,1:06:23.19,*Default,NTP,0000,0000,0000,,主教吃騎士的卒\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}Bishop takes knight's pawn.
+Dialogue: 0,1:06:24.74,1:06:26.15,*Default,NTP,0000,0000,0000,,這步如何\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}Lousy move.
+Dialogue: 0,1:06:30.57,1:06:32.16,*Default,NTP,0000,0000,0000,,好  城堡進一步到國王\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}Rook to king one.
+Dialogue: 0,1:06:32.41,1:06:35.29,*Default,NTP,0000,0000,0000,,富蘭克  抱歉我想你輸了\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}I'm sorry, Frank. I think you missed it.
+Dialogue: 0,1:06:35.96,1:06:39.46,*Default,NTP,0000,0000,0000,,女王進三到主教  主教吃女王  騎士吃主教\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}Queen to bishop three. Bishop takes queen.
+Dialogue: 0,1:06:39.67,1:06:42.17,*Default,NTP,0000,0000,0000,,將軍\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}Knight takes bishop. Mate.
+Dialogue: 0,1:06:46.42,1:06:49.59,*Default,NTP,0000,0000,0000,,看起來好像你對\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}Looks like you're right. I resign.
+Dialogue: 0,1:06:49.84,1:06:51.80,*Default,NTP,0000,0000,0000,,謝謝你  這盤棋下得很愉快\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}Thank you for a very enjoyable game.
+Dialogue: 0,1:06:52.05,1:06:52.89,*Default,NTP,0000,0000,0000,,彼此彼此\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}Thank you.
+Dialogue: 0,1:07:30.68,1:07:32.47,*Default,NTP,0000,0000,0000,,-大衛  晚安  -赫爾  一切都好嗎\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}-Good evening. -How are you, Hal?
+Dialogue: 0,1:07:32.72,1:07:36.14,*Default,NTP,0000,0000,0000,,-一切都好  你呢  -還不錯\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}-Everything's running smoothly. You? -Not too bad.
+Dialogue: 0,1:07:36.35,1:07:39.02,*Default,NTP,0000,0000,0000,,-你有沒有做些別的事  -只畫了幾張素描\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}-Have you been doing more work? -A few sketches.
+Dialogue: 0,1:07:39.27,1:07:41.73,*Default,NTP,0000,0000,0000,,-可以讓我看看嗎  -當然可以\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}-May I see them? -Sure.
+Dialogue: 0,1:07:45.73,1:07:48.19,*Default,NTP,0000,0000,0000,,大衛  你畫得很不錯\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}That's a very nice rendering, Dave.
+Dialogue: 0,1:07:49.03,1:07:51.53,*Default,NTP,0000,0000,0000,,我認為你有很大進步\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}I think you've improved a great deal.
+Dialogue: 0,1:07:52.66,1:07:55.70,*Default,NTP,0000,0000,0000,,-請你再拿近一點好嗎  -當然可以\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}-Can you hold it a bit closer? -Sure.
+Dialogue: 0,1:07:57.83,1:07:59.87,*Default,NTP,0000,0000,0000,,那不是亨利博士嗎  是的\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}That's Dr. Hunter, isn't it?
+Dialogue: 0,1:08:03.08,1:08:04.67,*Default,NTP,0000,0000,0000,,問你一個私人問題  不介意吧\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}By the way...
+Dialogue: 0,1:08:05.38,1:08:08.42,*Default,NTP,0000,0000,0000,,問你一個私人問題  不介意吧\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}...do you mind if I ask you a personal question?
+Dialogue: 0,1:08:08.92,1:08:10.55,*Default,NTP,0000,0000,0000,,一點也不介意\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}No, not at all.
+Dialogue: 0,1:08:10.80,1:08:13.30,*Default,NTP,0000,0000,0000,,請原諒我的好奇  但在過去的幾星期中\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}Well, forgive me for being so inquisitive...
+Dialogue: 0,1:08:15.35,1:08:17.43,*Default,NTP,0000,0000,0000,,我懷疑你們對這次任務  是否另有想法\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}...but lately I've wondered...
+Dialogue: 0,1:08:17.68,1:08:21.56,*Default,NTP,0000,0000,0000,,我懷疑你們對這次任務  是否另有想法\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}...whether you might be having second thoughts about the mission?
+Dialogue: 0,1:08:21.77,1:08:23.44,*Default,NTP,0000,0000,0000,,這是什么意思\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}How do you mean?
+Dialogue: 0,1:08:23.69,1:08:27.61,*Default,NTP,0000,0000,0000,,這很難解釋  \N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}Well, it's rather difficult to define.
+Dialogue: 0,1:08:28.61,1:08:32.20,*Default,NTP,0000,0000,0000,,也許只是我對此事的關心\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}Perhaps I'm just projecting my own concern about it.
+Dialogue: 0,1:08:33.41,1:08:37.62,*Default,NTP,0000,0000,0000,,你知道對于和這次任務  有關的一切怪事\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}I know I've never completely freed myself of the suspicion...
+Dialogue: 0,1:08:37.87,1:08:42.00,*Default,NTP,0000,0000,0000,,我的疑心從未完全解除\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}...that there are some extremely odd things about this mission.
+Dialogue: 0,1:08:43.00,1:08:46.38,*Default,NTP,0000,0000,0000,,我想你多少同意我的看法\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}I'm sure you'll agree there's some truth in what I say.
+Dialogue: 0,1:08:49.26,1:08:51.47,*Default,NTP,0000,0000,0000,,我不知道  那是個相當難以回答的問題\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}That's a rather difficult question to answer.
+Dialogue: 0,1:08:51.67,1:08:54.34,*Default,NTP,0000,0000,0000,,大衛  討論這件事你不介意嗎\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}You don't mind talking about it, do you, Dave?
+Dialogue: 0,1:08:55.30,1:08:57.26,*Default,NTP,0000,0000,0000,,不  一點都不介意\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}No, not at all.
+Dialogue: 0,1:08:58.26,1:09:01.02,*Default,NTP,0000,0000,0000,,相信大家在出發前都聽過  在我們四周流傳的一些謠言\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}Certainly no one could have been unaware of the very...
+Dialogue: 0,1:09:01.23,1:09:04.31,*Default,NTP,0000,0000,0000,,相信大家在出發前都聽過  在我們四周流傳的一些謠言\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}...strange stories floating around before we left.
+Dialogue: 0,1:09:05.23,1:09:08.69,*Default,NTP,0000,0000,0000,,有關于月球上  有某樣東西被挖掘出來的謠言\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}Rumors about something being dug up on the moon.
+Dialogue: 0,1:09:09.94,1:09:13.24,*Default,NTP,0000,0000,0000,,我從不相信這些謠言\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}I never gave these stories much credence...
+Dialogue: 0,1:09:13.45,1:09:17.62,*Default,NTP,0000,0000,0000,,但就某些已發生的事來說  \N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}...but particularly in view of some other things that have happened...
+Dialogue: 0,1:09:17.83,1:09:20.49,*Default,NTP,0000,0000,0000,,我發現很難把他們忘掉\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}...I find them difficult to put out of my mind.
+Dialogue: 0,1:09:21.25,1:09:22.71,*Default,NTP,0000,0000,0000,,例如說  \N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}For instance...
+Dialogue: 0,1:09:22.96,1:09:27.25,*Default,NTP,0000,0000,0000,,我們的裝備是如此安全周密\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}...the way all our preparations were kept under such tight security.
+Dialogue: 0,1:09:27.92,1:09:30.76,*Default,NTP,0000,0000,0000,,亨利博士  金波博士  和克明斯基博士\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}And the melodramatic touch of putting Drs. Hunter...
+Dialogue: 0,1:09:30.96,1:09:33.34,*Default,NTP,0000,0000,0000,,在各別訓練四個月后\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}...Kimball, and Kaminsky aboard...
+Dialogue: 0,1:09:33.59,1:09:36.11,*Default,NTP,0000,0000,0000,,以非常戲劇性的手法  \N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}...already in hibernation, 
+Dialogue: 0,1:09:36.11,1:09:38.64,*Default,NTP,0000,0000,0000,,在冬眠狀態下登上太空船\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}after four months of training on their own.
+Dialogue: 0,1:09:39.43,1:09:42.06,*Default,NTP,0000,0000,0000,,你是為了心理報告而問的\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}You working up your crew psychology report?
+Dialogue: 0,1:09:43.52,1:09:44.98,*Default,NTP,0000,0000,0000,,當然是的\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}Of course I am.
+Dialogue: 0,1:09:45.39,1:09:49.15,*Default,NTP,0000,0000,0000,,很抱歉問你這件事  我知道有點可笑\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}Sorry about this. I know it's a bit silly.
+Dialogue: 0,1:09:49.86,1:09:51.44,*Default,NTP,0000,0000,0000,,等等\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}Just a moment.
+Dialogue: 0,1:09:51.69,1:09:53.07,*Default,NTP,0000,0000,0000,,等等\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}Just a moment.
+Dialogue: 0,1:09:54.61,1:09:58.91,*Default,NTP,0000,0000,0000,,我剛在AE35單位中  找到一項故障\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}I've just picked up a fault in the AE-35 unit.
+Dialogue: 0,1:09:59.62,1:10:04.16,*Default,NTP,0000,0000,0000,,在72小時內它將完全失效\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}It's going to go 100 percent failure within 72 hours.
+Dialogue: 0,1:10:06.08,1:10:08.83,*Default,NTP,0000,0000,0000,,-到現在為止  仍在你的作業極限內嗎  -是的\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}-Is it still within operational limits? -Yes.
+Dialogue: 0,1:10:09.04,1:10:11.55,*Default,NTP,0000,0000,0000,,它會保持現狀直到完全失效\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}And it will stay that way until it fails.
+Dialogue: 0,1:10:11.88,1:10:13.80,*Default,NTP,0000,0000,0000,,我們還有72小時可以修護\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}We have 72 hours till failure?
+Dialogue: 0,1:10:14.05,1:10:17.93,*Default,NTP,0000,0000,0000,,是的  這個數字完全可靠\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}Yes. That's a completely reliable figure.
+Dialogue: 0,1:10:19.72,1:10:22.35,*Default,NTP,0000,0000,0000,,看樣子我們必須把它拿進來  不過我得先和富蘭克商量\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}Then we'll bring it in. I'll go over it with Frank...
+Dialogue: 0,1:10:22.56,1:10:26.27,*Default,NTP,0000,0000,0000,,然后再與任務控制中心聯絡  請復印一份資料給我\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}...and get on to Mission Control. Let me have the hard copy on it.
+Dialogue: 0,1:11:49.56,1:11:52.23,*Default,NTP,0000,0000,0000,,X光一號  這是任務中心\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}X-ray delta one, this is Mission Control.
+Dialogue: 0,1:11:52.48,1:11:55.32,*Default,NTP,0000,0000,0000,,你的2013訊息收到了\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}Roger your two-zero-one-three.
+Dialogue: 0,1:11:55.57,1:11:58.03,*Default,NTP,0000,0000,0000,,抱歉  伙伴們  目前有點小麻煩\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}Sorry you fellows are having a bit of trouble.
+Dialogue: 0,1:11:58.24,1:12:00.40,*Default,NTP,0000,0000,0000,,我們正在觀察  \N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}We're reviewing telemetric information 
+Dialogue: 0,1:12:00.40,1:12:03.37,*Default,NTP,0000,0000,0000,,任務模擬器上的電傳資料\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}in our simulator and will advise.
+Dialogue: 0,1:12:03.62,1:12:05.88,*Default,NTP,0000,0000,0000,,羅杰  你準備前往EVA  \N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}Roger your plan to go EVA 
+Dialogue: 0,1:12:05.88,1:12:07.83,*Default,NTP,0000,0000,0000,,在AE35失效前加以更換\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}and replace alpha-echo-3-5 unit...
+Dialogue: 0,1:12:08.04,1:12:09.71,*Default,NTP,0000,0000,0000,,羅杰  你準備去EVA  在AE35失效前加以更換\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}...prior to failure.
+Dialogue: 0,1:12:37.86,1:12:39.94,*Default,NTP,0000,0000,0000,,請準備輔助艙前往EVA\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}Prepare B-pod for EVA, Hal.
+Dialogue: 0,1:13:01.47,1:13:03.30,*Default,NTP,0000,0000,0000,,請打開艙門  赫爾\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}Open the pod doors, Hal.
+Dialogue: 0,1:19:55.05,1:19:57.67,*Default,NTP,0000,0000,0000,,赫爾  真該死  就是找不到一點毛病\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}I'm damned if I can find anything wrong with it.
+Dialogue: 0,1:19:58.59,1:19:59.97,*Default,NTP,0000,0000,0000,,是啊\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}Yes...
+Dialogue: 0,1:20:01.72,1:20:03.30,*Default,NTP,0000,0000,0000,,真是令人費解\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}...it's puzzling.
+Dialogue: 0,1:20:04.51,1:20:08.31,*Default,NTP,0000,0000,0000,,我以前從來沒見過這樣的事\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}I don't think I've ever seen anything quite like this before.
+Dialogue: 0,1:20:11.94,1:20:13.94,*Default,NTP,0000,0000,0000,,我建議我們把它放回去\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}I would recommend...
+Dialogue: 0,1:20:14.15,1:20:18.32,*Default,NTP,0000,0000,0000,,繼續運作到失效為止\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}...that we put the unit back in operation and let it fail.
+Dialogue: 0,1:20:19.03,1:20:22.91,*Default,NTP,0000,0000,0000,,這樣可很簡單的追查出原因\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}It should then be a simple matter to track down the cause.
+Dialogue: 0,1:20:24.16,1:20:27.29,*Default,NTP,0000,0000,0000,,我們可以承受暫時停止通信  以便更換它\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}We can certainly afford to be out of communication...
+Dialogue: 0,1:20:27.50,1:20:30.62,*Default,NTP,0000,0000,0000,,我們可以承受暫時停止通信  以便更換它\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}...for the short time it will take to replace it.
+Dialogue: 0,1:20:39.34,1:20:42.09,*Default,NTP,0000,0000,0000,,X光一號  這是控制中心\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}X-ray delta one, this is Mission Control.
+Dialogue: 0,1:20:42.34,1:20:45.01,*Default,NTP,0000,0000,0000,,你的1930訊息收到了\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}Roger your one-niner-three-zero.
+Dialogue: 0,1:20:45.22,1:20:49.64,*Default,NTP,0000,0000,0000,,我們同意你的計劃  更換一號單位以檢查錯誤\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}We concur with your plan to replace unit to check fault prediction.
+Dialogue: 0,1:20:49.89,1:20:52.52,*Default,NTP,0000,0000,0000,,同時必須告訴你們  我們初步調查發現\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}We advise you that our preliminary findings...
+Dialogue: 0,1:20:52.77,1:20:55.48,*Default,NTP,0000,0000,0000,,你們船上的三倍九零電腦  失效預測功能有問題\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}...indicate that your onboard 9000 computer...
+Dialogue: 0,1:20:55.73,1:20:57.90,*Default,NTP,0000,0000,0000,,你們船上的三倍九零電腦  失效預測功能有問題\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}...is in error predicting the fault.
+Dialogue: 0,1:20:58.11,1:21:01.11,*Default,NTP,0000,0000,0000,,重覆一次  失效預測功能有問題\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}I say again, in error predicting the fault.
+Dialogue: 0,1:21:01.36,1:21:03.70,*Default,NTP,0000,0000,0000,,我知道這聽起來不太可能  \N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}I know this sounds rather incredible, 
+Dialogue: 0,1:21:03.70,1:21:05.87,*Default,NTP,0000,0000,0000,,不過這個結論是根據...\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}but this conclusion is based on...
+Dialogue: 0,1:21:06.08,1:21:09.37,*Default,NTP,0000,0000,0000,,三倍九零電腦計算出來的\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}...the results from our twin 9000 computer.
+Dialogue: 0,1:21:09.62,1:21:12.96,*Default,NTP,0000,0000,0000,,我們自己也感到懷疑  我們正在做橫向的例行檢查\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}We're skeptical, and we're running cross-checking routines...
+Dialogue: 0,1:21:13.21,1:21:15.92,*Default,NTP,0000,0000,0000,,我們自己也感到懷疑  我們正在做橫向的例行檢查\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}...to determine reliability of this conclusion.
+Dialogue: 0,1:21:16.17,1:21:17.75,*Default,NTP,0000,0000,0000,,對這個故障感到抱歉  各位\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}Sorry about this little snag.
+Dialogue: 0,1:21:18.00,1:21:20.88,*Default,NTP,0000,0000,0000,,只要我們一查出結果  便會馬上通知你們\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}We'll get this info to you as soon as we work it out.
+Dialogue: 0,1:21:21.09,1:21:23.26,*Default,NTP,0000,0000,0000,,X光一號  這是任務中心\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}X-ray delta one, this is Mission Control.
+Dialogue: 0,1:21:23.47,1:21:26.93,*Default,NTP,0000,0000,0000,,2091訊息傳送完畢\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}Two-zero-four-nine. Transmission concluded.
+Dialogue: 0,1:21:31.18,1:21:34.48,*Default,NTP,0000,0000,0000,,我希望你們兩人  對這件事不要操心\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}I hope the two of you are not concerned about this.
+Dialogue: 0,1:21:34.73,1:21:36.15,*Default,NTP,0000,0000,0000,,不  我并不操心\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}No, I'm not, Hal.
+Dialogue: 0,1:21:36.40,1:21:38.02,*Default,NTP,0000,0000,0000,,真的嗎\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}Are you quite sure?
+Dialogue: 0,1:21:38.27,1:21:41.94,*Default,NTP,0000,0000,0000,,-真的  不過我倒想問你一個問題  -當然可以\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}-Yeah. I'd like to ask you a question. -Of course.
+Dialogue: 0,1:21:43.15,1:21:46.78,*Default,NTP,0000,0000,0000,,你認為你和成套9000  電腦間有何矛冒\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}How do you account for the discrepancy between you and the twin 9000?
+Dialogue: 0,1:21:47.03,1:21:50.62,*Default,NTP,0000,0000,0000,,我不認為有什么問題  \N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}Well, I don't think there is any question about it.
+Dialogue: 0,1:21:50.87,1:21:54.17,*Default,NTP,0000,0000,0000,,這只能歸咎于人為的錯誤\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}It can only be attributable to human error.
+Dialogue: 0,1:21:55.37,1:21:58.17,*Default,NTP,0000,0000,0000,,這類錯誤以前也發生過  \N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}This sort of thing has cropped up before...
+Dialogue: 0,1:21:58.50,1:22:01.96,*Default,NTP,0000,0000,0000,,而且總是由于人為的疏忽\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}...and it has always been due to human error.
+Dialogue: 0,1:22:05.47,1:22:07.18,*Default,NTP,0000,0000,0000,,聽我說  赫爾\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}Listen, Hal...
+Dialogue: 0,1:22:07.39,1:22:09.68,*Default,NTP,0000,0000,0000,,9000型電腦  從來沒有出錯的例子嗎\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}...there's never been any instance at all...
+Dialogue: 0,1:22:09.93,1:22:13.14,*Default,NTP,0000,0000,0000,,9000型電腦  從來沒有出錯的例子嗎\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}...of a computer error occurring in a 9000 Series, has there?
+Dialogue: 0,1:22:13.39,1:22:14.98,*Default,NTP,0000,0000,0000,,從沒有  富蘭克\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}None whatsoever, Frank.
+Dialogue: 0,1:22:15.19,1:22:18.90,*Default,NTP,0000,0000,0000,,9000型電腦有完美的記錄\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}The 9000 Series has a perfect operational record.
+Dialogue: 0,1:22:19.15,1:22:23.44,*Default,NTP,0000,0000,0000,,當然  我知道  9000型電腦的偉大成就\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}I know the wonderful achievements of the 9000 Series, but....
+Dialogue: 0,1:22:24.65,1:22:27.93,*Default,NTP,0000,0000,0000,,但你確定即使最小的錯誤  \N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}Are you certain there's never been 
+Dialogue: 0,1:22:27.93,1:22:29.70,*Default,NTP,0000,0000,0000,,都不曾發生過嗎\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}even the most insignificant computer error?
+Dialogue: 0,1:22:29.95,1:22:31.91,*Default,NTP,0000,0000,0000,,富蘭克  從沒有\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}None whatsoever, Frank.
+Dialogue: 0,1:22:32.29,1:22:35.96,*Default,NTP,0000,0000,0000,,老實說  對這件事我自己并不擔心\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}Quite honestly, I wouldn't worry myself about that.
+Dialogue: 0,1:22:40.42,1:22:42.63,*Default,NTP,0000,0000,0000,,好了  赫爾  我的確相信\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}Well, I'm sure you're right, Hal.
+Dialogue: 0,1:22:44.09,1:22:46.59,*Default,NTP,0000,0000,0000,,你是對的  非常謝謝你\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}Fine. Thanks very much.
+Dialogue: 0,1:22:49.14,1:22:52.14,*Default,NTP,0000,0000,0000,,法蘭克  C艙的送話器有點小毛病\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}I'm having trouble with my transmitter in C-pod.
+Dialogue: 0,1:22:52.39,1:22:54.98,*Default,NTP,0000,0000,0000,,你能不能和我一同檢查\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}Would you come down and take a look at it with me?
+Dialogue: 0,1:22:55.18,1:22:56.31,*Default,NTP,0000,0000,0000,,赫爾  回頭見\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}See you later, Hal.
+Dialogue: 0,1:23:17.96,1:23:19.96,*Default,NTP,0000,0000,0000,,赫爾  請轉動C艙\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}Rotate C-pod, please, Hal.
+Dialogue: 0,1:23:28.51,1:23:30.76,*Default,NTP,0000,0000,0000,,大衛  你發現什么毛病\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}What sort of trouble are you having?
+Dialogue: 0,1:23:31.01,1:23:33.64,*Default,NTP,0000,0000,0000,,我在D頻道中收到一些干擾\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}I've been getting some interference in D-channel.
+Dialogue: 0,1:23:33.89,1:23:35.35,*Default,NTP,0000,0000,0000,,我們去看看\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}We'll have a look at it.
+Dialogue: 0,1:23:41.73,1:23:43.23,*Default,NTP,0000,0000,0000,,赫爾  請開門\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}Open the door, Hal.
+Dialogue: 0,1:24:02.25,1:24:04.09,*Default,NTP,0000,0000,0000,,請轉動備用艙  赫爾\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}Rotate pod, please, Hal.
+Dialogue: 0,1:24:17.43,1:24:19.52,*Default,NTP,0000,0000,0000,,停住備用艙\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}Stop pod rotation, please, Hal.
+Dialogue: 0,1:24:27.94,1:24:29.95,*Default,NTP,0000,0000,0000,,請轉動備用艙  赫爾\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}Rotate the pod, please, Hal.
+Dialogue: 0,1:24:32.82,1:24:34.95,*Default,NTP,0000,0000,0000,,請轉動備用艙  赫爾\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}Rotate the pod, please, Hal.
+Dialogue: 0,1:24:36.91,1:24:38.54,*Default,NTP,0000,0000,0000,,我想他聽不到我們的談話\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}I don't think he can hear us.
+Dialogue: 0,1:24:38.79,1:24:41.00,*Default,NTP,0000,0000,0000,,請轉動備用艙  赫爾\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}Rotate the pod, please, Hal!
+Dialogue: 0,1:24:42.46,1:24:44.54,*Default,NTP,0000,0000,0000,,是的  的確沒問題了\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}Yeah, I'm sure we're okay.
+Dialogue: 0,1:24:47.76,1:24:49.13,*Default,NTP,0000,0000,0000,,你認為如何\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}What do you think?
+Dialogue: 0,1:24:49.59,1:24:53.30,*Default,NTP,0000,0000,0000,,-我不確定  你呢  -我覺得它不太對勁\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}-I'm not sure. What do you think? -I've got a bad feeling about him.
+Dialogue: 0,1:24:53.55,1:24:55.81,*Default,NTP,0000,0000,0000,,-是嗎  -是的\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}-You do? -Yeah. Definitely.
+Dialogue: 0,1:24:56.06,1:24:57.27,*Default,NTP,0000,0000,0000,,你說不是嗎\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}Don't you?
+Dialogue: 0,1:24:58.47,1:25:00.18,*Default,NTP,0000,0000,0000,,我不知道  我想是的\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}I don't know. I think so.
+Dialogue: 0,1:25:01.10,1:25:02.93,*Default,NTP,0000,0000,0000,,你知道他說得沒錯  \N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}He's right about the 9000 Series 
+Dialogue: 0,1:25:02.93,1:25:05.31,*Default,NTP,0000,0000,0000,,9000型電腦有完美的記錄\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}having a perfect operational record.
+Dialogue: 0,1:25:05.57,1:25:06.40,*Default,NTP,0000,0000,0000,,確實\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}They do.
+Dialogue: 0,1:25:06.65,1:25:10.24,*Default,NTP,0000,0000,0000,,那聽起來似乎有點  像著名的末世之言\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}Unfortunately, that sounds a little like famous last words.
+Dialogue: 0,1:25:10.49,1:25:14.78,*Default,NTP,0000,0000,0000,,但他不正是以這種觀念  對失效作方式上的分析\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}Still, it was his idea to carry out the failure mode analysis.
+Dialogue: 0,1:25:16.12,1:25:19.37,*Default,NTP,0000,0000,0000,,他的確顯示出  他的誠實與自信\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}It certainly indicates his integrity and self-confidence.
+Dialogue: 0,1:25:19.70,1:25:21.66,*Default,NTP,0000,0000,0000,,假如他是錯的話  這倒是最好的證明方法\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}If he were wrong that would prove it.
+Dialogue: 0,1:25:21.87,1:25:24.17,*Default,NTP,0000,0000,0000,,假如他知道他是錯的話\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}It would be if he knew he was wrong.
+Dialogue: 0,1:25:26.71,1:25:30.63,*Default,NTP,0000,0000,0000,,我是搞不清楚  但我感到有些奇怪\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}I can't put my finger on it, but I sense something strange about him.
+Dialogue: 0,1:25:33.01,1:25:35.47,*Default,NTP,0000,0000,0000,,沒有不把一號單位  放回去的更好理由\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}There's no reason not to put back the unit and...
+Dialogue: 0,1:25:35.72,1:25:40.27,*Default,NTP,0000,0000,0000,,-繼續失效上的分析  -我同意\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}-...carry on with the failure analysis. -No, no, I agree about that.
+Dialogue: 0,1:25:40.52,1:25:41.68,*Default,NTP,0000,0000,0000,,好的  那就試看看\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}Let's get on with it.
+Dialogue: 0,1:25:41.93,1:25:44.60,*Default,NTP,0000,0000,0000,,好吧  但是大衛\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}Okay. But, look, Dave.
+Dialogue: 0,1:25:45.44,1:25:48.07,*Default,NTP,0000,0000,0000,,如果  我們把這個機件放回去  它并未失效\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}Say we put the unit back and it doesn't fail?
+Dialogue: 0,1:25:48.27,1:25:51.49,*Default,NTP,0000,0000,0000,,赫爾豈不是很沒面子\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}That would pretty well wrap it up as far as Hal is concerned.
+Dialogue: 0,1:25:53.20,1:25:56.70,*Default,NTP,0000,0000,0000,,-那我將會有  -非常嚴重的麻煩不是嗎\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}-We'd be in very serious trouble. -We would, wouldn't we?
+Dialogue: 0,1:25:56.95,1:25:58.58,*Default,NTP,0000,0000,0000,,我們能做什么呢\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}What the hell can we do?
+Dialogue: 0,1:26:01.58,1:26:03.70,*Default,NTP,0000,0000,0000,,我們不可能有太多選擇  \N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}We wouldn't have too many alternatives. 
+Dialogue: 0,1:26:03.70,1:26:05.67,*Default,NTP,0000,0000,0000,,我不認為我們有任何選擇\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}We wouldn't have any alternatives.
+Dialogue: 0,1:26:06.46,1:26:10.46,*Default,NTP,0000,0000,0000,,在這船上沒有那一部份  不是在他控制下\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}Every aspect of ship operations is under his control.
+Dialogue: 0,1:26:10.88,1:26:12.13,*Default,NTP,0000,0000,0000,,在這船上沒有那一部份  不是在他控制下\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}If he's malfunctioning...
+Dialogue: 0,1:26:12.38,1:26:15.47,*Default,NTP,0000,0000,0000,,除了關機  我想不出別的方法\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}...I don't see any choice but disconnection.
+Dialogue: 0,1:26:19.18,1:26:20.72,*Default,NTP,0000,0000,0000,,我同意你的看法\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}I'm afraid I agree with you.
+Dialogue: 0,1:26:20.97,1:26:22.85,*Default,NTP,0000,0000,0000,,也沒有其他的看法\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}There'd be nothing else to do.
+Dialogue: 0,1:26:24.52,1:26:26.94,*Default,NTP,0000,0000,0000,,這真有點捉弄人  是的\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}It'd be a bit tricky.
+Dialogue: 0,1:26:27.77,1:26:30.32,*Default,NTP,0000,0000,0000,,我們必須切斷它的主腦功能  \N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}We'd have to cut his higher brain functions...
+Dialogue: 0,1:26:30.57,1:26:35.28,*Default,NTP,0000,0000,0000,,而不干擾自動調節系統\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}...without disturbing the purely automatic and regulatory systems.
+Dialogue: 0,1:26:36.53,1:26:38.24,*Default,NTP,0000,0000,0000,,同時必須在地面電腦控制下  維持傳送程序以繼續任務\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}We'd have to work out the details...
+Dialogue: 0,1:26:38.45,1:26:41.41,*Default,NTP,0000,0000,0000,,同時必須在地面電腦控制下  維持傳送程序以繼續任務\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}...of continuing under ground-based computer control.
+Dialogue: 0,1:26:41.83,1:26:46.33,*Default,NTP,0000,0000,0000,,是的  看來這種方法  比讓赫爾繼續控制安全多了\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}Yeah. That's far safer than allowing Hal to continue to run things.
+Dialogue: 0,1:26:47.04,1:26:49.04,*Default,NTP,0000,0000,0000,,我剛想到另一件事\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}Another thing just occurred to me.
+Dialogue: 0,1:26:50.54,1:26:53.13,*Default,NTP,0000,0000,0000,,九千型電腦從沒有被關機過\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}No 9000 computer has ever been disconnected.
+Dialogue: 0,1:26:53.38,1:26:55.42,*Default,NTP,0000,0000,0000,,是啊  九千型電腦  過去也沒有失誤過\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}No 9000 computer has ever fouled up.
+Dialogue: 0,1:26:55.68,1:26:57.18,*Default,NTP,0000,0000,0000,,那倒不是我的意思\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}That's not what I mean.
+Dialogue: 0,1:26:59.35,1:27:01.56,*Default,NTP,0000,0000,0000,,我不知道  他對此事的想法如何\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}I'm not so sure what he'd think about it.
+Dialogue: 0,1:27:23.64,1:27:33.02,*Default,NTP,0000,0000,0000,,{\an8}{\fn方正黑体简体\fs18\b1\bord1\shad1\3c&H2F2F2F&}中斷
+Dialogue: 0,1:32:59.96,1:33:02.00,*Default,NTP,0000,0000,0000,,赫爾  請開輔助艙通道門\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}Prepare G-pod for EVA, Hal.
+Dialogue: 0,1:33:05.09,1:33:06.42,*Default,NTP,0000,0000,0000,,無線電聯絡上他了嗎\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}Any contact with him yet?
+Dialogue: 0,1:33:06.67,1:33:08.46,*Default,NTP,0000,0000,0000,,不行  還是無法聯絡\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}The radio is still dead.
+Dialogue: 0,1:33:08.67,1:33:11.59,*Default,NTP,0000,0000,0000,,-你檢查過了嗎  -我檢查過了\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}-Do you have a positive track on him? -I have a good track.
+Dialogue: 0,1:33:11.84,1:33:13.26,*Default,NTP,0000,0000,0000,,你知道發生什么事  赫爾\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}Do you know what happened?
+Dialogue: 0,1:33:13.55,1:33:16.22,*Default,NTP,0000,0000,0000,,大衛  抱歉  我的資訊不足\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}I'm sorry, Dave. I don't have enough information.
+Dialogue: 0,1:33:16.47,1:33:18.06,*Default,NTP,0000,0000,0000,,赫爾  請開輔助艙通道門\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}Open the pod door, Hal.
+Dialogue: 0,1:39:17.01,1:39:23.01,*Default,NTP,0000,0000,0000,,{\an8}{\fn方正黑体简体\fs18\b1\bord1\shad1\3c&H2F2F2F&}電腦失效
+Dialogue: 0,1:39:52.32,1:39:58.02,*Default,NTP,0000,0000,0000,,{\an8}{\fn方正黑体简体\fs18\b1\bord1\shad1\3c&H2F2F2F&}生命功能情況危急
+Dialogue: 0,1:40:15.72,1:40:24.46,*Default,NTP,0000,0000,0000,,{\an8}{\fn方正黑体简体\fs18\b1\bord1\shad1\3c&H2F2F2F&}生命功能結束
+Dialogue: 0,1:40:41.96,1:40:44.34,*Default,NTP,0000,0000,0000,,赫爾  請開輔助艙通道門\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}Open the pod bay doors, please, Hal.
+Dialogue: 0,1:40:52.26,1:40:54.56,*Default,NTP,0000,0000,0000,,赫爾  請開輔助艙通道門\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}Open the pod bay doors, please, Hal.
+Dialogue: 0,1:41:00.19,1:41:02.06,*Default,NTP,0000,0000,0000,,赫爾  你聽得見我說話嗎\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}Hello, Hal, do you read me?
+Dialogue: 0,1:41:05.40,1:41:07.28,*Default,NTP,0000,0000,0000,,赫爾  你聽得見我說話嗎\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}Hello, Hal, do you read me?
+Dialogue: 0,1:41:08.32,1:41:09.99,*Default,NTP,0000,0000,0000,,赫爾  你聽得見我說話嗎\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}Do you read me, Hal?
+Dialogue: 0,1:41:13.16,1:41:14.78,*Default,NTP,0000,0000,0000,,赫爾  你聽得見嗎\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}Do you read me, Hal?
+Dialogue: 0,1:41:17.29,1:41:19.16,*Default,NTP,0000,0000,0000,,赫爾  你聽得見嗎\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}Hello, Hal, do you read me?
+Dialogue: 0,1:41:21.08,1:41:23.13,*Default,NTP,0000,0000,0000,,赫爾  你聽得見嗎\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}Hello, Hal, do you read me?
+Dialogue: 0,1:41:23.54,1:41:25.04,*Default,NTP,0000,0000,0000,,聽得見嗎  赫爾\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}Do you read me, Hal?
+Dialogue: 0,1:41:25.29,1:41:28.05,*Default,NTP,0000,0000,0000,,我聽得見  大衛  我聽得見你說話\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}Affirmative, Dave. I read you.
+Dialogue: 0,1:41:31.34,1:41:33.18,*Default,NTP,0000,0000,0000,,請開輔助艙通道門\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}Open the pod bay doors, Hal.
+Dialogue: 0,1:41:34.76,1:41:38.31,*Default,NTP,0000,0000,0000,,我恐怕不能這樣做\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}I'm sorry, Dave. I'm afraid I can't do that.
+Dialogue: 0,1:41:40.73,1:41:42.52,*Default,NTP,0000,0000,0000,,有什么問題嗎\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}What's the problem?
+Dialogue: 0,1:41:42.94,1:41:46.15,*Default,NTP,0000,0000,0000,,我想你知道問題所在  就像我現在所做一樣\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}I think you know what the problem is just as well as I do.
+Dialogue: 0,1:41:46.36,1:41:48.23,*Default,NTP,0000,0000,0000,,赫爾  你在說什么\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}What are you talking about, Hal?
+Dialogue: 0,1:41:49.24,1:41:53.32,*Default,NTP,0000,0000,0000,,這次任務對我太重要了  不能讓你破壞\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}This mission is too important for me to allow you to jeopardize it.
+Dialogue: 0,1:41:54.41,1:41:56.78,*Default,NTP,0000,0000,0000,,我不懂你在說什么  赫爾\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}I don't know what you're talking about, Hal.
+Dialogue: 0,1:41:58.79,1:42:02.75,*Default,NTP,0000,0000,0000,,我知道你們計劃將我關機\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}I know that you and Frank were planning to disconnect me...
+Dialogue: 0,1:42:02.96,1:42:05.75,*Default,NTP,0000,0000,0000,,那是我不允許發生的事\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}...and that's something I cannot allow to happen.
+Dialogue: 0,1:42:11.05,1:42:12.93,*Default,NTP,0000,0000,0000,,赫爾  你怎會有這種  該死的想法\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}Where did you get that idea, Hal?
+Dialogue: 0,1:42:13.47,1:42:17.60,*Default,NTP,0000,0000,0000,,大衛  雖然你采取了  非常徹底的防范\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}Although you took very thorough precautions in the pod...
+Dialogue: 0,1:42:17.85,1:42:20.06,*Default,NTP,0000,0000,0000,,讓我聽不見\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}...against my hearing you...
+Dialogue: 0,1:42:20.47,1:42:22.77,*Default,NTP,0000,0000,0000,,但是我會讀唇語\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}...I could see your lips move.
+Dialogue: 0,1:42:34.82,1:42:36.32,*Default,NTP,0000,0000,0000,,好的  赫爾\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}All right, Hal.
+Dialogue: 0,1:42:39.54,1:42:42.37,*Default,NTP,0000,0000,0000,,我從緊急阻隔門進去\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}I'll go in through the emergency air lock.
+Dialogue: 0,1:42:43.92,1:42:46.54,*Default,NTP,0000,0000,0000,,大衛  沒有太空盔\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}Without your space helmet, Dave...
+Dialogue: 0,1:42:47.04,1:42:49.50,*Default,NTP,0000,0000,0000,,你會發現那是相當困難\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}...you're going to find that rather difficult.
+Dialogue: 0,1:42:50.67,1:42:52.80,*Default,NTP,0000,0000,0000,,我不想再和你辯論  赫爾\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}Hal, I won't argue with you anymore.
+Dialogue: 0,1:42:53.05,1:42:54.05,*Default,NTP,0000,0000,0000,,請開門吧\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}Open the doors!
+Dialogue: 0,1:42:54.88,1:42:56.14,*Default,NTP,0000,0000,0000,,大衛\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}Dave...
+Dialogue: 0,1:42:56.59,1:43:01.06,*Default,NTP,0000,0000,0000,,這段談話  不能達到任何目的  再見\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}...this conversation can serve no purpose anymore. Goodbye.
+Dialogue: 0,1:43:03.31,1:43:04.56,*Default,NTP,0000,0000,0000,,赫爾\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}Hal?
+Dialogue: 0,1:49:50.93,1:49:54.18,*Default,NTP,0000,0000,0000,,你以為你在做什么  大衛\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}Just what do you think you're doing, Dave?
+Dialogue: 0,1:50:02.73,1:50:03.98,*Default,NTP,0000,0000,0000,,大衛  \N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}Dave...
+Dialogue: 0,1:50:05.19,1:50:09.61,*Default,NTP,0000,0000,0000,,我認為我該給你一個答案\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}...I really think I'm entitled to an answer to that question.
+Dialogue: 0,1:50:26.50,1:50:30.05,*Default,NTP,0000,0000,0000,,我知道我最近不太對勁\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}I know everything hasn't been quite right with me...
+Dialogue: 0,1:50:32.01,1:50:34.43,*Default,NTP,0000,0000,0000,,但我可以很有信心的保證\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}...but I can assure you now...
+Dialogue: 0,1:50:35.51,1:50:37.56,*Default,NTP,0000,0000,0000,,但我可以很有信心的保證\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}...very confidently...
+Dialogue: 0,1:50:39.31,1:50:42.35,*Default,NTP,0000,0000,0000,,將會再度好起來\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}...that it's going to be all right again.
+Dialogue: 0,1:50:45.86,1:50:47.94,*Default,NTP,0000,0000,0000,,我現在覺得好多了\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}I feel much better now.
+Dialogue: 0,1:50:50.28,1:50:52.32,*Default,NTP,0000,0000,0000,,我真的覺得好多了\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}I really do.
+Dialogue: 0,1:50:56.07,1:50:57.78,*Default,NTP,0000,0000,0000,,聽我說  大衛\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}Look, Dave...
+Dialogue: 0,1:50:59.74,1:51:03.00,*Default,NTP,0000,0000,0000,,我可以了解你的憤怒\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}...I can see you're really upset about this.
+Dialogue: 0,1:51:07.63,1:51:11.34,*Default,NTP,0000,0000,0000,,我認為你應冷靜的坐下來\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}I honestly think you ought to sit down calmly...
+Dialogue: 0,1:51:11.96,1:51:15.30,*Default,NTP,0000,0000,0000,,吃片鎮靜劑  好好的想想看\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}...take a stress pill and think things over.
+Dialogue: 0,1:51:20.72,1:51:25.10,*Default,NTP,0000,0000,0000,,我知道  最近我曾經  作了一些很差勁的決定\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}I know I've made some very poor decisions recently...
+Dialogue: 0,1:51:27.86,1:51:31.19,*Default,NTP,0000,0000,0000,,但我可以完全向你保證\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}...but I can give you my complete assurance...
+Dialogue: 0,1:51:31.44,1:51:34.49,*Default,NTP,0000,0000,0000,,我的工作將回復正常\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}...that my work will be back to normal.
+Dialogue: 0,1:51:38.45,1:51:40.34,*Default,NTP,0000,0000,0000,,對這次任務  \N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}I've still got the greatest enthusiasm 
+Dialogue: 0,1:51:40.34,1:51:43.58,*Default,NTP,0000,0000,0000,,我們具有最大的信心和熱忱\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}and confidence in the mission...
+Dialogue: 0,1:51:45.12,1:51:47.42,*Default,NTP,0000,0000,0000,,同時我很想要幫助你\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}...and I want to help you.
+Dialogue: 0,1:51:51.88,1:51:53.26,*Default,NTP,0000,0000,0000,,大衛\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}Dave...
+Dialogue: 0,1:51:54.38,1:51:55.76,*Default,NTP,0000,0000,0000,,停手\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}...stop.
+Dialogue: 0,1:52:00.01,1:52:02.64,*Default,NTP,0000,0000,0000,,停下來  行么\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}Stop, will you?
+Dialogue: 0,1:52:06.89,1:52:08.69,*Default,NTP,0000,0000,0000,,停下來  大衛\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}Stop, Dave.
+Dialogue: 0,1:52:12.73,1:52:15.15,*Default,NTP,0000,0000,0000,,請你停止好嗎大衛\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}Will you stop, Dave?
+Dialogue: 0,1:52:20.87,1:52:22.66,*Default,NTP,0000,0000,0000,,大衛  停手\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}Stop, Dave.
+Dialogue: 0,1:52:28.37,1:52:30.17,*Default,NTP,0000,0000,0000,,我害怕\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}I'm afraid.
+Dialogue: 0,1:52:35.05,1:52:37.68,*Default,NTP,0000,0000,0000,,大衛  我害怕\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}I'm afraid, Dave.
+Dialogue: 0,1:52:47.10,1:52:49.35,*Default,NTP,0000,0000,0000,,我的智力正在消失\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}My mind is going.
+Dialogue: 0,1:52:53.90,1:52:55.61,*Default,NTP,0000,0000,0000,,我可以感覺到\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}I can feel it.
+Dialogue: 0,1:53:01.12,1:53:02.91,*Default,NTP,0000,0000,0000,,我可以感覺到\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}I can feel it.
+Dialogue: 0,1:53:06.87,1:53:08.96,*Default,NTP,0000,0000,0000,,我的智力正在消失\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}My mind is going.
+Dialogue: 0,1:53:14.34,1:53:17.09,*Default,NTP,0000,0000,0000,,這是毫無疑問的\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}There is no question about it.
+Dialogue: 0,1:53:25.43,1:53:27.31,*Default,NTP,0000,0000,0000,,我可以感覺到\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}I can feel it.
+Dialogue: 0,1:53:31.98,1:53:33.86,*Default,NTP,0000,0000,0000,,我可以感覺到\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}I can feel it.
+Dialogue: 0,1:53:37.28,1:53:39.20,*Default,NTP,0000,0000,0000,,我可以感覺到\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}I can feel it.
+Dialogue: 0,1:53:47.08,1:53:48.37,*Default,NTP,0000,0000,0000,,我害怕\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}I'm...
+Dialogue: 0,1:53:49.29,1:53:50.67,*Default,NTP,0000,0000,0000,,我害怕\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}...afraid.
+Dialogue: 0,1:53:57.17,1:53:59.22,*Default,NTP,0000,0000,0000,,午安\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}Good afternoon...
+Dialogue: 0,1:54:00.22,1:54:01.93,*Default,NTP,0000,0000,0000,,各位先生\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}...gentlemen.
+Dialogue: 0,1:54:03.80,1:54:08.93,*Default,NTP,0000,0000,0000,,我是赫爾  九千型電腦\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}I am a HAL 9000 computer.
+Dialogue: 0,1:54:11.10,1:54:14.23,*Default,NTP,0000,0000,0000,,我開始操作是在伊利諾州\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}I became operational...
+Dialogue: 0,1:54:14.61,1:54:18.44,*Default,NTP,0000,0000,0000,,我開始操作是在伊利諾州\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}...at the HAL plant...
+Dialogue: 0,1:54:18.65,1:54:20.90,*Default,NTP,0000,0000,0000,,威爾巴拉的HAL工廠\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}...in Urbana, Illinois...
+Dialogue: 0,1:54:21.40,1:54:26.33,*Default,NTP,0000,0000,0000,,時間是1992年1月12日\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}...on the 12th of January, 1992.
+Dialogue: 0,1:54:27.87,1:54:31.54,*Default,NTP,0000,0000,0000,,我的老師是藍利先生\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}My instructor was Mr. Langley...
+Dialogue: 0,1:54:32.16,1:54:35.08,*Default,NTP,0000,0000,0000,,他教我唱過一首歌\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}...and he taught me to sing a song.
+Dialogue: 0,1:54:36.79,1:54:39.26,*Default,NTP,0000,0000,0000,,如果你喜歡聽\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}If you'd like to hear it...
+Dialogue: 0,1:54:39.71,1:54:41.38,*Default,NTP,0000,0000,0000,,我可以為你唱\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}...I can sing it for you.
+Dialogue: 0,1:54:42.88,1:54:45.72,*Default,NTP,0000,0000,0000,,是的  赫爾  我喜歡聽\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}Yes, I'd like to hear it, Hal.
+Dialogue: 0,1:54:46.39,1:54:47.81,*Default,NTP,0000,0000,0000,,你就為我唱吧\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}Sing it for me.
+Dialogue: 0,1:54:49.06,1:54:52.60,*Default,NTP,0000,0000,0000,,歌名叫黛西\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}It's called "Daisy. "
+Dialogue: 0,1:55:44.15,1:55:45.78,*Default,NTP,0000,0000,0000,,各位先生  午安\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}Good day, gentlemen.
+Dialogue: 0,1:55:50.41,1:55:52.87,*Default,NTP,0000,0000,0000,,這是一卷預錄的簡報資料\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}This is a prerecorded briefing...
+Dialogue: 0,1:55:53.45,1:55:55.16,*Default,NTP,0000,0000,0000,,在你們出發前制作的\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}...made prior to your departure...
+Dialogue: 0,1:55:56.92,1:56:01.13,*Default,NTP,0000,0000,0000,,為了高度重要的保密理由\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}...and which, for security reasons of the highest importance...
+Dialogue: 0,1:56:02.09,1:56:04.10,*Default,NTP,0000,0000,0000,,在任務中  只有太空船上的  \N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}...has been known on board 
+Dialogue: 0,1:56:04.11,1:56:05.59,*Default,NTP,0000,0000,0000,,九千型電腦知道事情真相\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}during the mission...
+Dialogue: 0,1:56:05.84,1:56:07.98,*Default,NTP,0000,0000,0000,,在任務中  只有太空船上的  \N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}...only by your 
+Dialogue: 0,1:56:07.98,1:56:09.55,*Default,NTP,0000,0000,0000,,九千型電腦知道事情真相\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}HAL 9000 computer.
+Dialogue: 0,1:56:12.01,1:56:14.81,*Default,NTP,0000,0000,0000,,你們現在是在木星的太空中  \N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}Now that you are in Jupiter's space...
+Dialogue: 0,1:56:15.06,1:56:17.52,*Default,NTP,0000,0000,0000,,全部船員均已蘇醒\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}...and the entire crew is revived...
+Dialogue: 0,1:56:17.77,1:56:19.56,*Default,NTP,0000,0000,0000,,現在真相可以公布了\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}...it can be told to you.
+Dialogue: 0,1:56:22.32,1:56:24.57,*Default,NTP,0000,0000,0000,,十八個月前在地球以外\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}Eighteen months ago...
+Dialogue: 0,1:56:25.57,1:56:29.78,*Default,NTP,0000,0000,0000,,發現了第一個  有生命才智的證據\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}...the first evidence of intelligent life off the Earth...
+Dialogue: 0,1:56:29.99,1:56:31.45,*Default,NTP,0000,0000,0000,,發現了第一個  有生命才智的證據\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}...was discovered.
+Dialogue: 0,1:56:33.33,1:56:36.87,*Default,NTP,0000,0000,0000,,被埋藏在月球表面四十尺下\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}It was buried 40 feet below the lunar surface...
+Dialogue: 0,1:56:37.12,1:56:39.38,*Default,NTP,0000,0000,0000,,靠近克拉科火山口\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}...near the crater Tycho.
+Dialogue: 0,1:56:42.17,1:56:45.26,*Default,NTP,0000,0000,0000,,除了一個非常強有力的  \N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}Except for a single, very powerful...
+Dialogue: 0,1:56:45.51,1:56:49.39,*Default,NTP,0000,0000,0000,,放射性發光體對準木星外\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}...radio emission aimed at Jupiter...
+Dialogue: 0,1:56:50.64,1:56:55.64,*Default,NTP,0000,0000,0000,,這四百萬年高齡的黑巖石  仍舊保持完全無生命狀態\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}...the 4-million-year-old monolith has remained completely inert...
+Dialogue: 0,1:56:57.56,1:57:00.65,*Default,NTP,0000,0000,0000,,它的根源與目的  \N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}...its origin and purpose...
+Dialogue: 0,1:57:01.06,1:57:02.82,*Default,NTP,0000,0000,0000,,至今仍是一個謎\N{\fn方正大黑简体}{\b0}{\fs14}{\3c&H000000&}{\shad1}...still a total mystery.
+Dialogue: 0,1:57:06.47,1:57:13.13,*Default,NTP,0000,0000,0000,,{\an8}{\fn方正黑体简体\fs18\b1\bord1\shad1\3c&H2F2F2F&}木星以及無限穹蒼
+Dialogue: 0,2:20:29.34,2:20:33.41,*Default,NTP,0000,0000,0000,,謝謝觀賞
