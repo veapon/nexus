@@ -1,0 +1,1340 @@
+﻿[Script Info]
+;SrtEdit 6.3.2012.1001
+;Copyright(C) 2005-2012 Yuan Weiguo
+
+Title: YYeTs
+Original Script: YYeTs
+Original Translation: 
+Original Timing: 
+Original Editing: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 384
+PlayResY: 288
+Timer: 100.0000
+Synch Point: 1
+WrapStyle: 0
+ScaledBorderAndShadow: no
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Cronos Pro Subhead,18,&H003CF1F3,&HF0000000,&H000D0500,&H00000000,0,0,0,0,100,100,0,0,1,1,1,2,0,0,1,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+
+Dialogue: 0,0:00:02.00,0:00:12.00,Default,NTP,0000,0000,0001,,{\fn华文楷体\fs16\1c&H3CF1F3&\b0}--==本影片由 {\1c&HFF8000&\b1}CMCT 团队{\fn华文楷体\1c&H3CF1F3&\b0} 荣誉出品==--\N更多精彩影视 请访问 {\fnCronos Pro Subhead\1c&HFF00FF&\b1}http://cmct.cc{\r}
+Dialogue: 0,0:00:13.00,0:00:23.00,Default,NTP,0000,0000,0008,,{\fn华文楷体\fs16\1c&H3CF1F3&\b0}影片压制:春树  字幕来源:射手网  调校:小五  招募Q号:76846146{\r}
+Dialogue: 0,0:00:24.15,0:00:26.48,Default,NTP,0000,0000,0000,,{\fn华文楷体\fs16\1c&HE0E0E0&}中世纪的时候 兴起了一种比赛
+Dialogue: 0,0:00:26.82,0:00:31.15,Default,NTP,0000,0000,0000,,{\fn华文楷体\fs16\1c&HE0E0E0&}不管贵族或平民 都为之狂热
+Dialogue: 0,0:00:31.49,0:00:34.43,Default,NTP,0000,0000,0000,,{\fn华文楷体\fs16\1c&HE0E0E0&}即使只有贵族骑士 可以参赛
+Dialogue: 0,0:00:34.76,0:00:36.39,Default,NTP,0000,0000,0000,,{\fn华文楷体\fs16\1c&HE0E0E0&}那就是马上枪术比赛
+Dialogue: 0,0:00:43.74,0:00:48.40,Default,NTP,0000,0000,0000,,{\fn华文楷体\fs16\1c&HE0E0E0&}对某个骑士而言 一个过气的前任冠军
+Dialogue: 0,0:00:48.74,0:00:50.40,Default,NTP,0000,0000,0000,,{\fn华文楷体\fs16\1c&HE0E0E0&}这代表了结束
+Dialogue: 0,0:00:50.74,0:00:53.24,Default,NTP,0000,0000,0000,,{\fn华文楷体\fs16\1c&HE0E0E0&}但对他的平民随从 威廉来说
+Dialogue: 0,0:00:53.58,0:00:55.64,Default,NTP,0000,0000,0000,,{\fn华文楷体\fs16\1c&HE0E0E0&}这只是开始
+Dialogue: 0,0:00:58.45,0:00:59.75,Default,NTP,0000,0000,0000,,Should we help him?{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}我们该帮他吗？
+Dialogue: 0,0:01:00.09,0:01:03.75,Default,NTP,0000,0000,0000,,He's due in the lists in two minutes. Two minutes or forfeit.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}他得在两分钟内上场 不然就等于弃权
+Dialogue: 0,0:01:04.09,0:01:05.42,Default,NTP,0000,0000,0000,,Lend us those.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}这借我们
+Dialogue: 0,0:01:06.59,0:01:08.42,Default,NTP,0000,0000,0000,,Right. Left.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}右边 左边
+Dialogue: 0,0:01:20.04,0:01:22.60,Default,NTP,0000,0000,0000,,- Dead.  - Eh?{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}- 死了  - 什么？
+Dialogue: 0,0:01:24.38,0:01:26.61,Default,NTP,0000,0000,0000,,Three scores to none after two lances.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}两回合下来的比数是三比零
+Dialogue: 0,0:01:26.95,0:01:30.28,Default,NTP,0000,0000,0000,,As long as Sir Ector doesn't fall off his horse,we've won.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}只要艾克特爵爷不摔马 我们就赢了
+Dialogue: 0,0:01:32.19,0:01:33.78,Default,NTP,0000,0000,0000,,He's dead.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}他死了
+Dialogue: 0,0:01:35.46,0:01:39.39,Default,NTP,0000,0000,0000,,What do you mean?  - His life's spark is covered in shite.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}- 什么意思？  - 他死了
+Dialogue: 0,0:01:40.63,0:01:43.15,Default,NTP,0000,0000,0000,,His spirit is gone but his stench remains.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}他的精神已远走 但臭味还在
+Dialogue: 0,0:01:43.36,0:01:46.89,Default,NTP,0000,0000,0000,,- Does that answer your question?  - No,no,no.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}- 这样回答你的问题了吗？  - 不
+Dialogue: 0,0:01:47.14,0:01:49.47,Default,NTP,0000,0000,0000,,No,he sleeps. Rouse him.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}不 他只是睡着了 叫醒他
+Dialogue: 0,0:01:50.47,0:01:52.74,Default,NTP,0000,0000,0000,,I haven't eaten in three days!{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}我三天没吃东西了！
+Dialogue: 0,0:01:52.97,0:01:54.24,Default,NTP,0000,0000,0000,,None of us have!{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}我们也没吃啊！
+Dialogue: 0,0:01:54.44,0:01:57.81,Default,NTP,0000,0000,0000,,- Let's fetch a priest.  - No,he's not dead!{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}- 我们得去找个神父来  - 不 他没死！
+Dialogue: 0,0:01:58.15,0:02:01.08,Default,NTP,0000,0000,0000,,You waKe up! Come on!{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}醒醒！ 快点！
+Dialogue: 0,0:02:01.95,0:02:03.18,Default,NTP,0000,0000,0000,,Come on!{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}快啊！
+Dialogue: 0,0:02:05.49,0:02:07.25,Default,NTP,0000,0000,0000,,You manKy git!{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}你这臭笨蛋！
+Dialogue: 0,0:02:08.66,0:02:09.99,Default,NTP,0000,0000,0000,,Roland.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}洛伦
+Dialogue: 0,0:02:12.09,0:02:16.15,Default,NTP,0000,0000,0000,,Squire,Sir Ector must report at once or forfeit the match.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}随从 艾克特爵爷必须马上报到 不然就等于弃权
+Dialogue: 0,0:02:17.16,0:02:18.50,Default,NTP,0000,0000,0000,,He's on his way.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}他马上过去
+Dialogue: 0,0:02:20.77,0:02:23.24,Default,NTP,0000,0000,0000,,I haven't eaten in three days!{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}我三天没吃东西了！
+Dialogue: 0,0:02:23.50,0:02:25.66,Default,NTP,0000,0000,0000,,Three days! What did you eat,mate?!{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}三天哪！ 你吃了什么 同伴？
+Dialogue: 0,0:02:26.01,0:02:28.50,Default,NTP,0000,0000,0000,,If you wasn't dead,I would Kill you!{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}如果你没死 我就杀了你！
+Dialogue: 0,0:02:28.84,0:02:30.61,Default,NTP,0000,0000,0000,,I'll ride in his place.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}我替他上场
+Dialogue: 0,0:02:32.01,0:02:35.00,Default,NTP,0000,0000,0000,,Strip his armor. I'm riding in his place.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}脱掉他的盔甲 我替他上场
+Dialogue: 0,0:02:35.35,0:02:39.34,Default,NTP,0000,0000,0000,,Wat,stop KicKing him! I'm riding in his place. Help me.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}华特 别踢他了！ 我替他上场 来帮我
+Dialogue: 0,0:02:40.22,0:02:41.55,Default,NTP,0000,0000,0000,,What's your name,William?{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}威廉 你有什么头衔？
+Dialogue: 0,0:02:44.03,0:02:46.96,Default,NTP,0000,0000,0000,,William Thatcher,answer me with your name.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}威廉柴契尔 把头衔告诉我啊
+Dialogue: 0,0:02:48.63,0:02:49.96,Default,NTP,0000,0000,0000,,It's not Sir William.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}不是威廉爵士
+Dialogue: 0,0:02:50.20,0:02:52.86,Default,NTP,0000,0000,0000,,It's not Count or DuKe or King William.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}也不是伯爵、公爵或威廉国王
+Dialogue: 0,0:02:53.30,0:02:54.29,Default,NTP,0000,0000,0000,,I Know that.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}这我知道
+Dialogue: 0,0:02:55.37,0:02:57.67,Default,NTP,0000,0000,0000,,You must be of noble birth to compete.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}要有贵族血统才能参赛
+Dialogue: 0,0:02:57.87,0:03:02.04,Default,NTP,0000,0000,0000,,A detail. The landscape is food. Do you want to eat or not?{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}那不重要 重要的是有饭吃 你到底想不想吃饭？
+Dialogue: 0,0:03:03.38,0:03:06.57,Default,NTP,0000,0000,0000,,If the nobles find out,there'll be the devil to pay.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}要是被贵族发现 我们就吃不完兜着走
+Dialogue: 0,0:03:07.55,0:03:09.48,Default,NTP,0000,0000,0000,,Then pray that they don't.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}那就祈祷他们不会发现
+Dialogue: 0,0:03:28.74,0:03:32.07,Default,NTP,0000,0000,0000,,A.Knight`s.Tale.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}骑士传说
+Dialogue: 0,0:04:50.15,0:04:51.48,Default,NTP,0000,0000,0000,,Visor.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}面甲拉下
+Dialogue: 0,0:04:51.75,0:04:53.24,Default,NTP,0000,0000,0000,,Come on,we're late.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}快点 我们迟了
+Dialogue: 0,0:05:27.52,0:05:32.36,Default,NTP,0000,0000,0000,,The score stands at three lances to none in favor of Sir Ector.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}目前比数是三比零 艾克特爵士领先
+Dialogue: 0,0:05:33.19,0:05:34.53,Default,NTP,0000,0000,0000,,Lord Philip of Aragon.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}阿拉贡的菲力浦勋爵
+Dialogue: 0,0:05:35.03,0:05:36.62,Default,NTP,0000,0000,0000,,Stand ye ready?{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}您准备好了吗？
+Dialogue: 0,0:05:38.97,0:05:41.96,Default,NTP,0000,0000,0000,,Sir Ector. Stand ye ready?{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}艾克特爵士 您准备好了吗？
+Dialogue: 0,0:05:43.04,0:05:44.03,Default,NTP,0000,0000,0000,,Ready?{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}准备好了吗？
+Dialogue: 0,0:05:44.30,0:05:46.47,Default,NTP,0000,0000,0000,,I tilted against Sir Ector many times.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}我跟艾克特爵士对打过很多次
+Dialogue: 0,0:05:46.71,0:05:49.54,Default,NTP,0000,0000,0000,,In practice as his target. You never strucK him.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}当他的练习靶 你从来没击中他
+Dialogue: 0,0:05:49.81,0:05:53.30,Default,NTP,0000,0000,0000,,- Badger me not with details.  - The landscape. Stay on the horse.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}- 别拿这些细节来烦我  - 为了食物 千万别摔下马
+Dialogue: 0,0:05:53.65,0:05:57.21,Default,NTP,0000,0000,0000,,He needs 3 points. He has to KnocK you off the horse.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}他需要三分 他必须把你打下马
+Dialogue: 0,0:05:57.55,0:05:59.71,Default,NTP,0000,0000,0000,,I Know how to score,Roland.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}洛伦 我知道怎么记分
+Dialogue: 0,0:06:00.89,0:06:03.38,Default,NTP,0000,0000,0000,,I've waited my whole life for this moment.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}我这辈子等的就是这一刻
+Dialogue: 0,0:06:04.22,0:06:06.72,Default,NTP,0000,0000,0000,,For Sir Ector to shite himself to death?{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}等艾克特爵爷死翘翘？
+Dialogue: 0,0:06:44.57,0:06:47.06,Default,NTP,0000,0000,0000,,Get it in the cradle. In the cradle.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}插进托架 托架
+Dialogue: 0,0:06:47.34,0:06:48.67,Default,NTP,0000,0000,0000,,Get it in the cradle!{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}插进托架啊！
+Dialogue: 0,0:07:10.36,0:07:11.69,Default,NTP,0000,0000,0000,,William,are you alive?{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}威廉 你还活着吗？
+Dialogue: 0,0:07:12.03,0:07:14.19,Default,NTP,0000,0000,0000,,- We won! We won! - Can you hear me?{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}- 我们赢了！  - 你听得到我说话吗？
+Dialogue: 0,0:07:15.03,0:07:18.52,Default,NTP,0000,0000,0000,,Get off me! William,can you hear me?{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}走开啦！ 威廉 你听得到吗？
+Dialogue: 0,0:07:19.63,0:07:20.86,Default,NTP,0000,0000,0000,,We won!{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}我们赢了！
+Dialogue: 0,0:07:21.20,0:07:23.64,Default,NTP,0000,0000,0000,,He's breathing. He's breathing!{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}他在呼吸 他还有气！
+Dialogue: 0,0:07:25.24,0:07:26.80,Default,NTP,0000,0000,0000,,Sir Ector.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}艾克特爵士
+Dialogue: 0,0:07:32.65,0:07:34.81,Default,NTP,0000,0000,0000,,Sir Ector. Remove your helmet.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}艾克特爵士 取下头盔
+Dialogue: 0,0:07:37.98,0:07:42.98,Default,NTP,0000,0000,0000,,My lord,the final blow of the lance has bent it onto my head.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}大人 最后一击 让我的头盔变形拿不下来了
+Dialogue: 0,0:07:43.32,0:07:45.32,Default,NTP,0000,0000,0000,,He says the final blow of the{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}他说最后一击
+Dialogue: 0,0:07:47.16,0:07:49.65,Default,NTP,0000,0000,0000,,I present your champion,my lord.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}大人 这位就是优胜者
+Dialogue: 0,0:08:15.96,0:08:17.12,Default,NTP,0000,0000,0000,,Twenty.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}二十
+Dialogue: 0,0:08:17.46,0:08:18.62,Default,NTP,0000,0000,0000,,No,10.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}不 十
+Dialogue: 0,0:08:18.96,0:08:21.36,Default,NTP,0000,0000,0000,,- Fifteen.  - Done.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}- 十五  - 好
+Dialogue: 0,0:08:26.03,0:08:27.62,Default,NTP,0000,0000,0000,,Very good. Cheers.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}很好 再见了
+Dialogue: 0,0:08:32.47,0:08:35.20,Default,NTP,0000,0000,0000,,Fifteen silver florins. He didn't want that.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}十五个银币 他不要那个
+Dialogue: 0,0:08:35.54,0:08:37.20,Default,NTP,0000,0000,0000,,That's five for William.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}五个给威廉
+Dialogue: 0,0:08:37.55,0:08:41.71,Default,NTP,0000,0000,0000,,Five for Wat. Five for Roland,who's going home to England.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}五个给华特 另外五个 给要回英格兰老家的洛伦
+Dialogue: 0,0:08:42.05,0:08:45.45,Default,NTP,0000,0000,0000,,Straight to the pub for me. Eel pie,brie tart{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}我要直接去酒馆 鳗鱼派、乳酪饼
+Dialogue: 0,0:08:45.65,0:08:48.55,Default,NTP,0000,0000,0000,,tansy caKes with peppermint cream.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}薄荷夹心的艾菊蛋糕
+Dialogue: 0,0:08:53.23,0:08:54.52,Default,NTP,0000,0000,0000,,We could do this.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}我们办得到
+Dialogue: 0,0:08:54.73,0:08:57.39,Default,NTP,0000,0000,0000,,We've done it,boy. That's silver in your hand.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}我们已经办到了 在你手上的可是银币啊
+Dialogue: 0,0:08:58.23,0:09:01.22,Default,NTP,0000,0000,0000,,No,I mean,we can do this. We can be champions.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}我是说我们可以靠比赛吃饭 我们可以打遍天下
+Dialogue: 0,0:09:05.41,0:09:07.24,Default,NTP,0000,0000,0000,,Give us your coins.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}把银币给我
+Dialogue: 0,0:09:11.35,0:09:12.68,Default,NTP,0000,0000,0000,,Give me your coins.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}快把银币给我
+Dialogue: 0,0:09:16.42,0:09:18.41,Default,NTP,0000,0000,0000,,Now,that's one for you.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}好 一个给你
+Dialogue: 0,0:09:18.75,0:09:21.59,Default,NTP,0000,0000,0000,,And onefor you.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}一个给你
+Dialogue: 0,0:09:21.92,0:09:24.52,Default,NTP,0000,0000,0000,,Which leaves 13.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}这样就剩下十三个
+Dialogue: 0,0:09:24.93,0:09:27.59,Default,NTP,0000,0000,0000,,That's 1 3 for training and outfitting.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}当作训练和治装的费用
+Dialogue: 0,0:09:28.43,0:09:30.76,Default,NTP,0000,0000,0000,,The tournament in Rouen is in a month.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}再一个月就是鲁昂枪术比赛
+Dialogue: 0,0:09:31.10,0:09:33.26,Default,NTP,0000,0000,0000,,We could split a bigger prize.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}我们可以共享更大的奖
+Dialogue: 0,0:09:34.94,0:09:38.43,Default,NTP,0000,0000,0000,,In one month we'd be on our way to glory and riches.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}再一个月我们就可以名利双收
+Dialogue: 0,0:09:39.11,0:09:44.20,Default,NTP,0000,0000,0000,,Or lying in a ditch with Sir Ector. William,I just want to go home.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}或跟艾克特爵士一样去见阎王 威廉 我只想回家
+Dialogue: 0,0:09:44.45,0:09:48.94,Default,NTP,0000,0000,0000,,Tansy caKes. Dilled veal balls. I'll taKe my five now.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}艾菊蛋糕和时萝小牛肉丸 我的五个银币给我
+Dialogue: 0,0:09:55.66,0:09:57.21,Default,NTP,0000,0000,0000,,Oh,wait up.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}等等
+Dialogue: 0,0:09:57.72,0:09:59.89,Default,NTP,0000,0000,0000,,You're going the wrong way!{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}你走错路了！
+Dialogue: 0,0:10:01.23,0:10:02.63,Default,NTP,0000,0000,0000,,You can't even joust.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}你根本不会马上枪术比赛
+Dialogue: 0,0:10:02.96,0:10:06.63,Default,NTP,0000,0000,0000,,Most of it is the guts to taKe a blow. Guts I have.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}只要够胆准备被痛击就行了 我胆子够大
+Dialogue: 0,0:10:06.97,0:10:10.30,Default,NTP,0000,0000,0000,,And technique? I have a month to learn that.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}至于技巧呢？ 我有一个月的时间可以学
+Dialogue: 0,0:10:10.64,0:10:13.61,Default,NTP,0000,0000,0000,,And name a man better with a sword than I am.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}告诉我谁比我还会使剑
+Dialogue: 0,0:10:13.81,0:10:17.40,Default,NTP,0000,0000,0000,,- In the practice ring.  - You're not of noble birth.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}- 那是在练习的时候  - 你没有贵族血统
+Dialogue: 0,0:10:17.64,0:10:19.13,Default,NTP,0000,0000,0000,,So,we lie.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}那就骗他们啊
+Dialogue: 0,0:10:19.48,0:10:22.97,Default,NTP,0000,0000,0000,,How did the nobles become noble in the first place?{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}贵族一开始 是怎么成为贵族的？
+Dialogue: 0,0:10:24.32,0:10:27.98,Default,NTP,0000,0000,0000,,They tooK it at the tip of a sword. I'll do it with a lance.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}他们在剑尖下受勋 我就用长枪来受勋
+Dialogue: 0,0:10:28.32,0:10:30.88,Default,NTP,0000,0000,0000,,- A blunted lance.  - No matter,Wat.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}- 一支钝枪  - 华特 那无所谓
+Dialogue: 0,0:10:31.16,0:10:35.99,Default,NTP,0000,0000,0000,,A man can change his stars. I won't spend the rest of my life as nothing.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}命运可以改变 我才不要一辈子默默无闻
+Dialogue: 0,0:10:37.76,0:10:41.00,Default,NTP,0000,0000,0000,,That is nothing. And that's where glory will taKe us.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}那才叫没没无闻 那就是想要名利双收的下场
+Dialogue: 0,0:10:41.34,0:10:45.67,Default,NTP,0000,0000,0000,,We're peasants. Glory and riches are beyond our grasp.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}我们只是平民 名利不是我们能享受的
+Dialogue: 0,0:10:45.94,0:10:48.60,Default,NTP,0000,0000,0000,,But a full stomach? That dream can come true.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}但是把肚子喂饱？ 这种梦才可能实现
+Dialogue: 0,0:10:58.52,0:11:01.85,Default,NTP,0000,0000,0000,,If you can taKe your coins,go eat caKe in England.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}如果你们能拿走银币 就去英格兰吃蛋糕吧
+Dialogue: 0,0:11:02.19,0:11:05.35,Default,NTP,0000,0000,0000,,But if you can't,you come with me.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}如果不能 就跟我走
+Dialogue: 0,0:11:11.80,0:11:13.86,Default,NTP,0000,0000,0000,,You see? Money doesn't matter.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}瞧吧 钱并不重要
+Dialogue: 0,0:11:27.98,0:11:29.24,Default,NTP,0000,0000,0000,,See how hungry I am?!{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}看到我有多饿了吗？
+Dialogue: 0,0:11:29.72,0:11:31.71,Default,NTP,0000,0000,0000,,- Do you?!  - Damn your stomach,Wat!{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}- 看到了吗？  - 华特 去你的肚子
+Dialogue: 0,0:11:34.32,0:11:35.72,Default,NTP,0000,0000,0000,,Roland,please.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}洛伦 拜托你
+Dialogue: 0,0:11:38.89,0:11:42.73,Default,NTP,0000,0000,0000,,With 13 silver pieces,three men can change their stars.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}利用十三个银币 三个男人可以改变他们的命运
+Dialogue: 0,0:11:51.57,0:11:53.06,Default,NTP,0000,0000,0000,,God love you,William.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}威廉 上帝爱你
+Dialogue: 0,0:11:53.34,0:11:55.67,Default,NTP,0000,0000,0000,,I Know,I Know. No one else will.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}我知道 我是爹不疼娘不爱
+Dialogue: 0,0:12:09.59,0:12:11.18,Default,NTP,0000,0000,0000,,UnlucKy.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}运气不好
+Dialogue: 0,0:12:12.26,0:12:14.25,Default,NTP,0000,0000,0000,,- I thinK he's getting worse.  - He is getting worse.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}- 他好像愈来愈糟了  - 他是愈来愈糟
+Dialogue: 0,0:12:28.94,0:12:30.10,Default,NTP,0000,0000,0000,,Switch.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}换手
+Dialogue: 0,0:12:36.45,0:12:37.78,Default,NTP,0000,0000,0000,,Switch.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}换手
+Dialogue: 0,0:12:39.22,0:12:41.28,Default,NTP,0000,0000,0000,,Glory and riches. Glory and riches!{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}名利双收 名利双收！
+Dialogue: 0,0:12:52.87,0:12:54.39,Default,NTP,0000,0000,0000,,You see how dangerous it is?{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}你知道多危险了吧？
+Dialogue: 0,0:12:55.64,0:12:59.30,Default,NTP,0000,0000,0000,,Faster! Faster! All right,use those legs!{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}快一点！ 快一点！ 好好发挥你的脚力！
+Dialogue: 0,0:12:59.97,0:13:02.31,Default,NTP,0000,0000,0000,,Come on,Roland. Faster! Faster!{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}快啊 洛伦！ 再快点！
+Dialogue: 0,0:13:05.14,0:13:05.97,Default,NTP,0000,0000,0000,,You missed it.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}你没击中
+Dialogue: 0,0:13:06.98,0:13:08.97,Default,NTP,0000,0000,0000,,You've done it dozens of times.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}你已经练习几十遍了
+Dialogue: 0,0:13:09.32,0:13:12.31,Default,NTP,0000,0000,0000,,Well,I guess that means we should do it again.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}我想那表示我们应该再来一次
+Dialogue: 0,0:13:14.82,0:13:15.98,Default,NTP,0000,0000,0000,,Come on.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}来吧
+Dialogue: 0,0:13:18.33,0:13:19.66,Default,NTP,0000,0000,0000,,Come on,ponies.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}快啊 小马儿
+Dialogue: 0,0:13:19.99,0:13:21.15,Default,NTP,0000,0000,0000,,Fong him.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}给他好看
+Dialogue: 0,0:13:26.00,0:13:27.83,Default,NTP,0000,0000,0000,,Faster. Balance.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}快一点 保持平衡
+Dialogue: 0,0:13:28.10,0:13:30.66,Default,NTP,0000,0000,0000,,No,slower. Keep it steady.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}不 慢一点 稳一点
+Dialogue: 0,0:13:34.41,0:13:36.17,Default,NTP,0000,0000,0000,,I got it! Look,I got it!{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}我穿过去了！ 瞧 我穿过去了！
+Dialogue: 0,0:13:50.02,0:13:51.46,Default,NTP,0000,0000,0000,,Any minute now.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}就快了
+Dialogue: 0,0:14:23.39,0:14:25.15,Default,NTP,0000,0000,0000,,- Yes,better.  - Nice.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}- 比较好了  - 不错
+Dialogue: 0,0:14:31.86,0:14:34.30,Default,NTP,0000,0000,0000,,- It's my turn to ride.  - No.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}- 换我骑了  - 不
+Dialogue: 0,0:14:34.50,0:14:37.20,Default,NTP,0000,0000,0000,,We haven't reached the marKer. And you shouldn't.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}我们还没到指定的地方 而且你不该骑
+Dialogue: 0,0:14:37.84,0:14:41.50,Default,NTP,0000,0000,0000,,How would it looK if my squire rode while I walKed?{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}我的随从骑马 我却走路 这样能看吗？
+Dialogue: 0,0:14:41.81,0:14:46.30,Default,NTP,0000,0000,0000,,I don't give a witch's teat! It's my turn! It's my turn!{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}我才不管！ 该我骑了！ 该我骑了！
+Dialogue: 0,0:14:46.65,0:14:51.14,Default,NTP,0000,0000,0000,,Maybe nobody should ride. The horse is not what he used to be.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}也许大家都不该骑 这匹马体力不比从前了
+Dialogue: 0,0:14:51.48,0:14:53.98,Default,NTP,0000,0000,0000,,Fine. Fine.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}好吧
+Dialogue: 0,0:14:56.42,0:14:57.48,Default,NTP,0000,0000,0000,,Morning.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}早
+Dialogue: 0,0:14:58.49,0:14:59.65,Default,NTP,0000,0000,0000,,Morning.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}早
+Dialogue: 0,0:14:59.99,0:15:01.33,Default,NTP,0000,0000,0000,,Hoy,sir.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}先生
+Dialogue: 0,0:15:07.27,0:15:08.26,Default,NTP,0000,0000,0000,,What are you doing?{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}您在做什么？
+Dialogue: 0,0:15:08.94,0:15:11.03,Default,NTP,0000,0000,0000,,Uhtrudging.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}呃 跋涉
+Dialogue: 0,0:15:14.44,0:15:16.60,Default,NTP,0000,0000,0000,,You Know,trudging? To trudge?{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}你知道跋涉吧？ 跋涉啊？
+Dialogue: 0,0:15:16.94,0:15:19.28,Default,NTP,0000,0000,0000,,To trudge the slow,weary{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}缓慢、疲惫、沮丧
+Dialogue: 0,0:15:19.61,0:15:23.38,Default,NTP,0000,0000,0000,,depressing,yet determined walK of a man who had nothing left{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}却意志坚定地走着 我什么都不剩
+Dialogue: 0,0:15:23.72,0:15:27.28,Default,NTP,0000,0000,0000,,except the impulse to simply soldier on.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}只剩下继续向前迈进的冲动
+Dialogue: 0,0:15:27.79,0:15:29.38,Default,NTP,0000,0000,0000,,Were you robbed?{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}你被抢了吗？
+Dialogue: 0,0:15:29.96,0:15:32.62,Default,NTP,0000,0000,0000,,Interesting question. Yes.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}有意思的问题 是的
+Dialogue: 0,0:15:32.83,0:15:35.62,Default,NTP,0000,0000,0000,,And at the same time,a huge,resounding,"No."{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}同时呢 我也要大声地说¨不是〃
+Dialogue: 0,0:15:35.96,0:15:40.13,Default,NTP,0000,0000,0000,,It's more a sort of involuntary vow of poverty,really.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}其实 这比较像是 非自愿性的贫穷
+Dialogue: 0,0:15:40.47,0:15:43.96,Default,NTP,0000,0000,0000,,But on the brighter side,trudging does represent pride.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}但往好的一面看 跋涉代表着自豪
+Dialogue: 0,0:15:44.30,0:15:47.97,Default,NTP,0000,0000,0000,,Pride,resolve and faith in the good Lord Almighty.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}自豪、果断 全心相信全知全能的上帝
+Dialogue: 0,0:15:48.31,0:15:50.97,Default,NTP,0000,0000,0000,,Please,Christ,rescue me from my tribu-{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}基督啊 求求您 拯救我免于苦
+Dialogue: 0,0:15:52.48,0:15:54.14,Default,NTP,0000,0000,0000,,lations.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}难
+Dialogue: 0,0:15:55.65,0:15:57.21,Default,NTP,0000,0000,0000,,Who are you?{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}你是谁？
+Dialogue: 0,0:15:59.82,0:16:01.65,Default,NTP,0000,0000,0000,,Lilium inter spinas.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}荆棘里的百合
+Dialogue: 0,0:16:02.32,0:16:04.15,Default,NTP,0000,0000,0000,,The lily among the thorns.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}荆棘里的百合
+Dialogue: 0,0:16:04.49,0:16:07.15,Default,NTP,0000,0000,0000,,Geoffrey Chaucer's the name. Writing's the game.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}姓乔瑟名杰佛瑞 以写作为业
+Dialogue: 0,0:16:14.07,0:16:15.40,Default,NTP,0000,0000,0000,,Chaucer?{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}乔瑟？
+Dialogue: 0,0:16:16.57,0:16:18.40,Default,NTP,0000,0000,0000,,Geoffrey Chaucer,the writer?{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}杰佛瑞乔瑟 作家啊？
+Dialogue: 0,0:16:22.41,0:16:25.07,Default,NTP,0000,0000,0000,,- A what?  - "A what?" A writer.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}- 作什么？  - “作什么？” 作家
+Dialogue: 0,0:16:25.41,0:16:30.41,Default,NTP,0000,0000,0000,,I write with inK and parchment. For a penny,I'll scribble anything.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}我以墨水在羊皮纸上书写 给我一文钱 我什么都帮你写
+Dialogue: 0,0:16:30.68,0:16:35.09,Default,NTP,0000,0000,0000,,Summonses,decrees,edicts,warrants,patents of nobility.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}召集令、法令、诏书 授权书、贵族血统证明
+Dialogue: 0,0:16:35.86,0:16:39.09,Default,NTP,0000,0000,0000,,I've been Known to jot down a poem,if the muse descends.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}我还以写诗闻名 如果有灵感的话
+Dialogue: 0,0:16:39.36,0:16:42.35,Default,NTP,0000,0000,0000,,You probably read my booK,The Book of the Duchess.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}你们大概看过我的书 公爵夫人之书
+Dialogue: 0,0:16:45.43,0:16:46.92,Default,NTP,0000,0000,0000,,Well,it was allegorical.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}那是个寓言
+Dialogue: 0,0:16:47.37,0:16:51.20,Default,NTP,0000,0000,0000,,We won't hold it against you. Each man decides that for himself.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}我们不会因此对你有成见的 每个人都有权自作决定
+Dialogue: 0,0:16:52.44,0:16:54.53,Default,NTP,0000,0000,0000,,Did you say patents of nobility?{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}你刚说贵族血统证明吗？
+Dialogue: 0,0:16:57.11,0:16:58.70,Default,NTP,0000,0000,0000,,That's right. I did.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}没错 我是这么说的
+Dialogue: 0,0:17:02.05,0:17:03.78,Default,NTP,0000,0000,0000,,And you gentlemen are?{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}你们三位是？
+Dialogue: 0,0:17:05.38,0:17:08.55,Default,NTP,0000,0000,0000,,I am Sir Ulrich von Lichtenstein from Gelderland.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}我是乌瑞克冯利顿斯坦爵士 来自盖德兰
+Dialogue: 0,0:17:09.46,0:17:14.29,Default,NTP,0000,0000,0000,,These are my faithful squires,Delves of Dodgington{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}他们是我忠心的随从 道京顿的戴夫
+Dialogue: 0,0:17:14.96,0:17:17.90,Default,NTP,0000,0000,0000,,and Fowlehurst of Crewe.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}还有克鲁伊的佛赫斯特
+Dialogue: 0,0:17:18.97,0:17:21.30,Default,NTP,0000,0000,0000,,I'm Richard the Lionheart. A pleasure.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}我是狮心理察 幸会
+Dialogue: 0,0:17:21.63,0:17:23.93,Default,NTP,0000,0000,0000,,No,I'm Charlemagne! John the Baptist!{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}不 我是查理大帝！ 施洗者约翰！
+Dialogue: 0,0:17:24.14,0:17:25.47,Default,NTP,0000,0000,0000,,All right!{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}好了！
+Dialogue: 0,0:17:26.31,0:17:28.47,Default,NTP,0000,0000,0000,,Hold your tongue,sir,or lose it.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}闭嘴 否则我让你开不了口
+Dialogue: 0,0:17:30.31,0:17:33.30,Default,NTP,0000,0000,0000,,Now you see that,I do believe{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}说真的 我相信你
+Dialogue: 0,0:17:33.81,0:17:35.14,Default,NTP,0000,0000,0000,,Sir Ulrich.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}乌瑞克爵士
+Dialogue: 0,0:17:36.65,0:17:37.81,Default,NTP,0000,0000,0000,,ThanK you{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}谢谢你
+Dialogue: 0,0:17:38.65,0:17:39.45,Default,NTP,0000,0000,0000,,Geoff.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}杰夫
+Dialogue: 0,0:17:41.42,0:17:45.91,Default,NTP,0000,0000,0000,,Have you any more to say,Master Nude,or may we be on our way?{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}赤裸大师 你还有话要说 或者我们可以上路了？
+Dialogue: 0,0:17:46.83,0:17:49.82,Default,NTP,0000,0000,0000,,- Off to the tournament?  - This is the road to Rouen.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}- 去枪术比赛？  - 这条是到鲁昂的路
+Dialogue: 0,0:17:50.43,0:17:54.92,Default,NTP,0000,0000,0000,,That remains to be seen. They're limiting the field at Rouen.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}那还不一定呢 鲁昂那里限制得很严
+Dialogue: 0,0:17:55.50,0:18:00.50,Default,NTP,0000,0000,0000,,Noble birth must be established for four generations on either side.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}父母双方四代都是贵族 才会被认定是贵族
+Dialogue: 0,0:18:01.11,0:18:04.10,Default,NTP,0000,0000,0000,,Patents of nobility must be provided.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}还要附贵族血统证明书
+Dialogue: 0,0:18:13.52,0:18:15.35,Default,NTP,0000,0000,0000,,Listen,clothe me{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}听着 只要给我衣服
+Dialogue: 0,0:18:16.36,0:18:20.35,Default,NTP,0000,0000,0000,,shoe me,for God's saKe,feed me and you'll have your patents.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}给我鞋子 喂饱我 你的证明书就不成问题
+Dialogue: 0,0:18:21.86,0:18:23.02,Default,NTP,0000,0000,0000,,No.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}不
+Dialogue: 0,0:18:23.70,0:18:27.36,Default,NTP,0000,0000,0000,,- Patents of nobility.  - We need him. We need him.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}- 贵族血统证明书  - 我们需要他
+Dialogue: 0,0:18:28.13,0:18:30.63,Default,NTP,0000,0000,0000,,- Let me handle it.  - Be nice.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}- 我来处理  - 好声好气点
+Dialogue: 0,0:18:35.21,0:18:37.20,Default,NTP,0000,0000,0000,,Nice,nice,nice.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}好声好气 好声好气
+Dialogue: 0,0:18:38.21,0:18:39.54,Default,NTP,0000,0000,0000,,All right.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}好
+Dialogue: 0,0:18:41.21,0:18:45.55,Default,NTP,0000,0000,0000,,Betray us and I will fong you until your insides are out{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}你要是敢背叛我们 我就打得你吐破肠流
+Dialogue: 0,0:18:45.89,0:18:50.55,Default,NTP,0000,0000,0000,,your outsides are in and your entrails are your extrails.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}面目全非 内脏变外脏
+Dialogue: 0,0:18:56.50,0:18:57.83,Default,NTP,0000,0000,0000,,Pain.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}我会让你痛苦
+Dialogue: 0,0:18:59.40,0:19:00.89,Default,NTP,0000,0000,0000,,Lots of pain.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}非常痛苦
+Dialogue: 0,0:19:02.90,0:19:05.57,Default,NTP,0000,0000,0000,,{\fn华文楷体\fs16\1c&HE0E0E0&}比赛大会会场 鲁昂
+Dialogue: 0,0:19:10.58,0:19:14.91,Default,NTP,0000,0000,0000,,I present Sir Ulrich,whose mother's father was Shilhard von Rechberg{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}为您介绍乌瑞克爵士 其外祖父为席拉德冯瑞克堡
+Dialogue: 0,0:19:15.18,0:19:20.02,Default,NTP,0000,0000,0000,,son of the DuKe Guelph of Saxony,son of Ghibellines,son of Wendish.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}曾祖为萨克森的顾尔夫公爵 曾曾祖纪林 曾曾曾祖温狄胥
+Dialogue: 0,0:19:20.25,0:19:23.35,Default,NTP,0000,0000,0000,,- Wendish inherited the fief  - That'll do,herald.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}- 而温狄胥继承了  - 可以了 传令人
+Dialogue: 0,0:19:23.59,0:19:27.42,Default,NTP,0000,0000,0000,,Six generations is more than enough. Show me the patents.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}六代很够了 证明书给我看
+Dialogue: 0,0:19:36.87,0:19:41.20,Default,NTP,0000,0000,0000,,Indicate in which events shall your Lord Ulrich compete.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}指出你的乌瑞克大人 要参加哪几场比赛
+Dialogue: 0,0:19:44.78,0:19:47.94,Default,NTP,0000,0000,0000,,He'll first meet Roger Lord Mortimer.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}他第一场出战的是摩提莫大人
+Dialogue: 0,0:19:48.28,0:19:50.27,Default,NTP,0000,0000,0000,,ThanK you very much.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}非常谢谢你
+Dialogue: 0,0:20:00.63,0:20:03.46,Default,NTP,0000,0000,0000,,I can't believe it. You did it,Chaucer.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}真不敢相信 乔瑟 你做到了
+Dialogue: 0,0:20:03.80,0:20:06.56,Default,NTP,0000,0000,0000,,I thanK you. I didn't thinK we had a chance.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}我得谢谢你 我本来不认为 我们会有机会
+Dialogue: 0,0:20:10.64,0:20:12.30,Default,NTP,0000,0000,0000,,My pleasure,William.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}威廉 我很乐意帮忙
+Dialogue: 0,0:20:12.64,0:20:14.97,Default,NTP,0000,0000,0000,,If you don't mind,I'll sticK around.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}你不介意的话 我想留下来
+Dialogue: 0,0:20:15.24,0:20:17.80,Default,NTP,0000,0000,0000,,Be my herald,you'll get part of the winnings.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}当我的传令人吧 我赢的话你也有份
+Dialogue: 0,0:20:18.11,0:20:22.34,Default,NTP,0000,0000,0000,,Done. Now if you don't mind,I have to see a man about a dog.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}说定了 现在请容我离开 我必须去找一个人谈生意
+Dialogue: 0,0:20:25.69,0:20:28.52,Default,NTP,0000,0000,0000,,Walking out from Cheapside{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}离开了奇普塞
+Dialogue: 0,0:20:29.19,0:20:31.85,Default,NTP,0000,0000,0000,,My fortunes for to seek{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}寻找大好前程
+Dialogue: 0,0:20:32.53,0:20:35.19,Default,NTP,0000,0000,0000,,I passed along the River Thames{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}我走过泰晤士河畔
+Dialogue: 0,0:20:35.53,0:20:38.52,Default,NTP,0000,0000,0000,,Its Waters did they reek{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}河水臭气冲天
+Dialogue: 0,0:20:40.70,0:20:42.96,Default,NTP,0000,0000,0000,,"Was there I met a pretty lass{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}我在那儿遇见一位美丽姑娘
+Dialogue: 0,0:20:43.20,0:20:46.19,Default,NTP,0000,0000,0000,,She said her name Was Nell{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}她说她名叫妮尔
+Dialogue: 0,0:20:58.22,0:21:01.05,Default,NTP,0000,0000,0000,,Bell or hell rhymes with Nell.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}不管天堂地狱 我都跟她去
+Dialogue: 0,0:21:58.61,0:22:00.10,Default,NTP,0000,0000,0000,,Would you speaK to me?{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}你愿意跟我说话吗？
+Dialogue: 0,0:22:01.28,0:22:03.27,Default,NTP,0000,0000,0000,,Ah,to speaK.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}说话啊
+Dialogue: 0,0:22:05.12,0:22:08.28,Default,NTP,0000,0000,0000,,Sir,my sex are marKed by their silence.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}先生 女人不该多话的
+Dialogue: 0,0:22:08.62,0:22:11.28,Default,NTP,0000,0000,0000,,I would hear you speaK if it cost me my ears.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}我很想听你说话 即使我会因此失去双耳
+Dialogue: 0,0:22:11.62,0:22:14.62,Default,NTP,0000,0000,0000,,That is well,for I do not want silence in my life.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}很好 因为我可不希望 一生沉默无语
+Dialogue: 0,0:22:15.06,0:22:16.82,Default,NTP,0000,0000,0000,,Tell me your name.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}告诉我你叫什么名字
+Dialogue: 0,0:22:20.07,0:22:22.56,Default,NTP,0000,0000,0000,,- Would you care if I were ugly?  - Yes{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}- 若我很丑 你还会在乎吗？  - 会
+Dialogue: 0,0:22:23.80,0:22:25.96,Default,NTP,0000,0000,0000,,I mean,no. I mean{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}我是说不会 我是说
+Dialogue: 0,0:22:26.31,0:22:29.14,Default,NTP,0000,0000,0000,,You desecrate the house of God!{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}你亵渎了上帝的居所！
+Dialogue: 0,0:22:44.69,0:22:45.85,Default,NTP,0000,0000,0000,,Tell me your name.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}告诉我你的名字
+Dialogue: 0,0:22:46.86,0:22:50.19,Default,NTP,0000,0000,0000,,And what would you do with my name,Sir Hunter?{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}你要拿我的名字做什么呢 猎人先生？
+Dialogue: 0,0:22:50.86,0:22:53.53,Default,NTP,0000,0000,0000,,Call me a fox,for that is all I am to you.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}叫我狐狸吧 我对你而言不过如此
+Dialogue: 0,0:22:55.04,0:22:59.53,Default,NTP,0000,0000,0000,,Then a fox you shall be until I find your name,my foxy lady.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}性感美女 那我就先叫你狐狸 直到我问出你的名字
+Dialogue: 0,0:23:04.71,0:23:07.20,Default,NTP,0000,0000,0000,,He's a handsome hunter. I give him that.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}我承认他这猎人挺英俊的
+Dialogue: 0,0:23:07.55,0:23:10.21,Default,NTP,0000,0000,0000,,Does this not shocK you,ladies?{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}小姐们 你们不震惊吗？
+Dialogue: 0,0:23:12.49,0:23:13.71,Default,NTP,0000,0000,0000,,Certainly,my lord.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}当然震惊啊 大人
+Dialogue: 0,0:23:14.72,0:23:18.38,Default,NTP,0000,0000,0000,,I only laugh just to Keep from weeping.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}我笑是因为怕自己哭出来
+Dialogue: 0,0:23:21.43,0:23:22.76,Default,NTP,0000,0000,0000,,Beauty is such a curse.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}美貌真是诅咒啊
+Dialogue: 0,0:23:24.33,0:23:26.16,Default,NTP,0000,0000,0000,,Pray your years come swiftly.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}祈祷你年华早逝
+Dialogue: 0,0:23:26.50,0:23:29.49,Default,NTP,0000,0000,0000,,Pray your beauty fades so you may better serve God.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}花容尽褪 好更尽心服侍上帝
+Dialogue: 0,0:23:30.50,0:23:33.84,Default,NTP,0000,0000,0000,,Oh,I do,my lord. I pray for it all the time.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}我有啊 我常常这么祈祷
+Dialogue: 0,0:23:35.51,0:23:38.60,Default,NTP,0000,0000,0000,,Why,God,did you curse me with this face?{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}上帝啊 你为何诅咒我 给我这张脸？
+Dialogue: 0,0:23:39.78,0:23:43.77,Default,NTP,0000,0000,0000,,God's will has a purpose,but we may not Know it.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}上帝自有他的道理 但我们可能无从得知
+Dialogue: 0,0:23:47.52,0:23:49.68,Default,NTP,0000,0000,0000,,Well,that is lovely.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}这真好看
+Dialogue: 0,0:24:20.39,0:24:23.72,Default,NTP,0000,0000,0000,,Sir Ulrich von Lichtenstein{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}乌瑞克冯利顿斯坦爵士
+Dialogue: 0,0:24:24.06,0:24:29.39,Default,NTP,0000,0000,0000,,defeats Roger Lord Mortimer one lance to none.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}打败摩提莫大人 比数是一比零
+Dialogue: 0,0:24:31.83,0:24:34.82,Default,NTP,0000,0000,0000,,Easy. They'll thinK l never broKe a lance before.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}真简单 他们会以为 我从来没打赢过
+Dialogue: 0,0:24:35.07,0:24:39.51,Default,NTP,0000,0000,0000,,- But you haven't!  - Ulrich's broKen thousands of lances.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}- 你是没打赢过啊！  - 乌瑞克赢过数千次
+Dialogue: 0,0:24:39.74,0:24:42.57,Default,NTP,0000,0000,0000,,Come on. You're due in the sword ring.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}走吧 该去比剑了
+Dialogue: 0,0:24:42.94,0:24:44.60,Default,NTP,0000,0000,0000,,My armor's loose.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}我的盔甲松了
+Dialogue: 0,0:24:53.29,0:24:55.55,Default,NTP,0000,0000,0000,,Shite. I can't blocK an overhead.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}可恶 我会挡不住上方的攻击
+Dialogue: 0,0:24:55.79,0:24:59.38,Default,NTP,0000,0000,0000,,We can't fix it now. We're overdue in the sword ring.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}现在来不及修了 我们比剑已经迟到了
+Dialogue: 0,0:25:00.56,0:25:03.96,Default,NTP,0000,0000,0000,,It was a mistaKe to do two events. I'm too hurried.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}不该比两种的 太赶了
+Dialogue: 0,0:25:04.30,0:25:07.79,Default,NTP,0000,0000,0000,,- I'll withdraw from the sword.  - Sword's what you're best at.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}- 我退出比剑好了  - 剑术是你最拿手的
+Dialogue: 0,0:25:08.13,0:25:11.47,Default,NTP,0000,0000,0000,,But the prizes and prestige are bigger in the joust.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}但是比长枪的奖赏比较丰富 名声也比较响亮
+Dialogue: 0,0:25:11.81,0:25:14.97,Default,NTP,0000,0000,0000,,Ulrich von Lichtenstein? I am Simon the Summoner.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}乌瑞克冯利顿斯坦？ 我是传唤者赛门
+Dialogue: 0,0:25:15.98,0:25:18.24,Default,NTP,0000,0000,0000,,I'm overdue at the sword ring.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}而我比剑快迟到了
+Dialogue: 0,0:25:19.48,0:25:22.47,Default,NTP,0000,0000,0000,,I must detain you on behalf of your herald.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}我谨代表你的传令人留下你
+Dialogue: 0,0:25:23.32,0:25:24.98,Default,NTP,0000,0000,0000,,You Were never robbed.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}你才没有被抢
+Dialogue: 0,0:25:28.15,0:25:30.42,Default,NTP,0000,0000,0000,,I have a gambling problem.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}我有酗赌的问题
+Dialogue: 0,0:25:31.32,0:25:33.32,Default,NTP,0000,0000,0000,,I can't help myself.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}我控制不了自己
+Dialogue: 0,0:25:33.66,0:25:36.49,Default,NTP,0000,0000,0000,,And these people will{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}而这些人真的会
+Dialogue: 0,0:25:37.26,0:25:40.10,Default,NTP,0000,0000,0000,,Iiterally taKe the clothes off your bacK.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}剥光你的衣服
+Dialogue: 0,0:25:41.50,0:25:43.49,Default,NTP,0000,0000,0000,,What are we supposed to do?{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}你要我们怎么办？
+Dialogue: 0,0:25:43.77,0:25:48.17,Default,NTP,0000,0000,0000,,He assured us that you,his liege,would pay us.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}他跟我们保证他的主人 也就是你 会付我们钱
+Dialogue: 0,0:25:52.51,0:25:53.84,Default,NTP,0000,0000,0000,,And who are you?{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}你是什么人来着？
+Dialogue: 0,0:25:54.35,0:25:57.18,Default,NTP,0000,0000,0000,,Peter,a humble pardoner{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}彼得 卑微的免罪符小贩
+Dialogue: 0,0:25:57.52,0:25:59.95,Default,NTP,0000,0000,0000,,and purveyor of religious relics.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}和宗教遗物供应商
+Dialogue: 0,0:26:01.62,0:26:02.78,Default,NTP,0000,0000,0000,,How much does he owe?{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}他欠了多少钱？
+Dialogue: 0,0:26:03.36,0:26:05.92,Default,NTP,0000,0000,0000,,Ten gold florins.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}十个金币
+Dialogue: 0,0:26:07.19,0:26:08.92,Default,NTP,0000,0000,0000,,You manKy git!{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}你这蠢蛋
+Dialogue: 0,0:26:10.70,0:26:13.36,Default,NTP,0000,0000,0000,,- Pain! Pain! TaKe the pain!  - Get him off me!{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}- 痛吧 痛死好了  - 快把他拉开
+Dialogue: 0,0:26:13.70,0:26:15.46,Default,NTP,0000,0000,0000,,Wat,let him go!{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}华特 放开他
+Dialogue: 0,0:26:25.55,0:26:28.71,Default,NTP,0000,0000,0000,,What would you do to him if I was to refuse?{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}如果我不付钱 你会对他怎样？
+Dialogue: 0,0:26:30.72,0:26:33.88,Default,NTP,0000,0000,0000,,We,on behalf of the Lord God{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}我们会谨代表上帝
+Dialogue: 0,0:26:34.22,0:26:38.88,Default,NTP,0000,0000,0000,,will taKe it from his flesh so that he may understand{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}要他用命来还 好让他了解
+Dialogue: 0,0:26:39.12,0:26:41.56,Default,NTP,0000,0000,0000,,that gambling is a sin.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}赌博是有罪的
+Dialogue: 0,0:26:45.23,0:26:46.56,Default,NTP,0000,0000,0000,,Oh,come on.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}别这样
+Dialogue: 0,0:26:47.57,0:26:48.90,Default,NTP,0000,0000,0000,,Please,Will.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}威廉 求求你
+Dialogue: 0,0:26:52.40,0:26:55.24,Default,NTP,0000,0000,0000,,Please,will you help me,Sir Ulrich?{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}求你帮我好吗 乌瑞克爵士？
+Dialogue: 0,0:26:56.91,0:26:59.07,Default,NTP,0000,0000,0000,,I promise you won't regret it.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}我保证你不会后悔的
+Dialogue: 0,0:27:01.58,0:27:03.48,Default,NTP,0000,0000,0000,,I don't have the money.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}我没那么多钱
+Dialogue: 0,0:27:08.92,0:27:10.45,Default,NTP,0000,0000,0000,,Release him{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}放了他
+Dialogue: 0,0:27:11.26,0:27:13.92,Default,NTP,0000,0000,0000,,and give him bacK his clothes.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}把衣服还他吧
+Dialogue: 0,0:27:15.69,0:27:17.46,Default,NTP,0000,0000,0000,,And you'll get it.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}你们会拿到钱的
+Dialogue: 0,0:27:18.03,0:27:18.93,Default,NTP,0000,0000,0000,,Done.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}没问题
+Dialogue: 0,0:27:23.70,0:27:24.60,Default,NTP,0000,0000,0000,,You lied.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}你说谎
+Dialogue: 0,0:27:24.94,0:27:29.60,Default,NTP,0000,0000,0000,,Yes,I lied. I'm a writer. I give the truth scope!{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}对 我说谎 我是作家 我对真话的定义很广泛
+Dialogue: 0,0:27:30.11,0:27:33.94,Default,NTP,0000,0000,0000,,Behold my Lord Ulrich von Lichtenstein,son of{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}看哪 我的乌瑞克冯利顿斯坦大人
+Dialogue: 0,0:27:34.28,0:27:36.77,Default,NTP,0000,0000,0000,,- Too late. He's been announced.  - Fine.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}- 太迟了 他要出场了  - 好吧
+Dialogue: 0,0:27:37.12,0:27:40.64,Default,NTP,0000,0000,0000,,Ten blows by sword. Sir Ulrich to receive first.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}先击中十下者为胜 先由乌瑞克爵士受击
+Dialogue: 0,0:27:47.63,0:27:48.62,Default,NTP,0000,0000,0000,,StriKe!{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}击中了
+Dialogue: 0,0:27:57.57,0:27:58.73,Default,NTP,0000,0000,0000,,StriKe!{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}击中了
+Dialogue: 0,0:27:58.94,0:28:00.30,Default,NTP,0000,0000,0000,,Stop letting him hit you!{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}别再让他打中你了
+Dialogue: 0,0:28:00.51,0:28:02.48,Default,NTP,0000,0000,0000,,Shut up! Shut up!{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}闭嘴 闭嘴
+Dialogue: 0,0:28:03.98,0:28:07.14,Default,NTP,0000,0000,0000,,Two striKes for Sir Walter Loring!{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}沃特罗令爵士得两分
+Dialogue: 0,0:28:07.48,0:28:09.64,Default,NTP,0000,0000,0000,,Sir Ulrich to striKe!{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}换乌瑞克爵士出剑！
+Dialogue: 0,0:28:10.42,0:28:12.14,Default,NTP,0000,0000,0000,,- Now it's your turn!  - Come on!{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}- 该你了  - 加油！
+Dialogue: 0,0:28:25.66,0:28:27.00,Default,NTP,0000,0000,0000,,StriKe!{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}击中了
+Dialogue: 0,0:28:29.37,0:28:31.00,Default,NTP,0000,0000,0000,,I taught him that! That's me!{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}那是我教他的！ 是我教他的！
+Dialogue: 0,0:28:31.84,0:28:35.00,Default,NTP,0000,0000,0000,,Sir Ulrich prevails,five striKes to two!{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}乌瑞克爵士以五比二获胜！
+Dialogue: 0,0:28:36.68,0:28:37.80,Default,NTP,0000,0000,0000,,Yes!{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}好耶！
+Dialogue: 0,0:28:38.01,0:28:42.88,Default,NTP,0000,0000,0000,,Behold my Lord Ulrich! The rocK! The hard place!{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}看哪 我的乌瑞克大人！ 他稳若磐石 耸立如泰山！
+Dialogue: 0,0:28:43.08,0:28:46.02,Default,NTP,0000,0000,0000,,LiKe a wind from Gelderland,he sweeps by!{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}他像盖德兰来的一阵风 横扫而过！
+Dialogue: 0,0:28:46.35,0:28:50.35,Default,NTP,0000,0000,0000,,Blown far from his homeland in search of glory and honor!{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}从他的家乡吹袭过来 寻求胜利和荣耀！
+Dialogue: 0,0:28:50.69,0:28:55.02,Default,NTP,0000,0000,0000,,We walK in the garden of his turbulence!{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}我们行走在他引发的骚动中！
+Dialogue: 0,0:29:02.00,0:29:03.66,Default,NTP,0000,0000,0000,,Yeah!{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}好耶！
+Dialogue: 0,0:30:30.46,0:30:32.62,Default,NTP,0000,0000,0000,,- You're champion.  - Of the sword.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}- 你是冠军  - 剑术之冠
+Dialogue: 0,0:30:32.89,0:30:35.12,Default,NTP,0000,0000,0000,,Isn't that why we're here? Come on.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}我们不就是为此而来吗？ 走吧
+Dialogue: 0,0:30:35.39,0:30:38.80,Default,NTP,0000,0000,0000,,Do you want to touch him? Do you want to touch him?{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}想碰碰他吗？ 你们想碰碰他吗？
+Dialogue: 0,0:30:54.91,0:30:57.31,Default,NTP,0000,0000,0000,,We should've saved our money for the blacKsmith.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}我们应该留点钱修盔甲的
+Dialogue: 0,0:30:58.32,0:30:59.68,Default,NTP,0000,0000,0000,,I can't pay you noW{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}我现在没钱付你
+Dialogue: 0,0:30:59.89,0:31:03.48,Default,NTP,0000,0000,0000,,- but I promise I will,just as  - No! Money.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}- 但我保证会付 只要  - 不行！ 钱
+Dialogue: 0,0:31:07.46,0:31:11.46,Default,NTP,0000,0000,0000,,- Excuse me.  - Cash first,not promises.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}- 请问一下  - 拿钱来再说 光说没用
+Dialogue: 0,0:31:12.16,0:31:13.76,Default,NTP,0000,0000,0000,,Go on.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}离开吧
+Dialogue: 0,0:31:15.84,0:31:17.50,Default,NTP,0000,0000,0000,,Excuse me,sir.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}先生 请问一下
+Dialogue: 0,0:31:18.50,0:31:20.84,Default,NTP,0000,0000,0000,,You might try the farris.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}去蹄铁匠那里试试吧
+Dialogue: 0,0:31:22.17,0:31:23.51,Default,NTP,0000,0000,0000,,A woman?{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}女的？
+Dialogue: 0,0:31:23.84,0:31:26.84,Default,NTP,0000,0000,0000,,Beggars cannot be choosers,my lord.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}大人 乞丐是没得选的
+Dialogue: 0,0:31:29.68,0:31:31.01,Default,NTP,0000,0000,0000,,ThanK you.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}谢谢
+Dialogue: 0,0:31:32.35,0:31:35.29,Default,NTP,0000,0000,0000,,- Excuse me.  - I don't worK for free.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}- 请问一下  - 我不做白工
+Dialogue: 0,0:31:35.52,0:31:39.68,Default,NTP,0000,0000,0000,,- I can't joust with broKen armor.  - That's your problem,not mine.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}- 盔甲破损我无法比赛  - 那是你的问题 不是我的
+Dialogue: 0,0:31:40.69,0:31:43.63,Default,NTP,0000,0000,0000,,Each drop of this sweat has a price on it.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}我流的每一滴汗都有价钱
+Dialogue: 0,0:31:46.53,0:31:49.86,Default,NTP,0000,0000,0000,,Just as well. They told me I was daft to even asK.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}好吧 他们叫我 别傻到来问你
+Dialogue: 0,0:31:50.97,0:31:54.03,Default,NTP,0000,0000,0000,,- Who? - The other armorers.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}- 谁？  - 其他的盔甲匠
+Dialogue: 0,0:31:57.31,0:32:00.14,Default,NTP,0000,0000,0000,,Did they say I couldn't do it because I'm a woman?{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}他们是不是说我修不好 因为我是女人？
+Dialogue: 0,0:32:00.88,0:32:03.64,Default,NTP,0000,0000,0000,,They said you're good with horseshoes,not armor.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}他们说你擅长的是马蹄铁 不是盔甲
+Dialogue: 0,0:32:03.88,0:32:06.32,Default,NTP,0000,0000,0000,,No one mentioned you being a woman.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}没人提什么女人不女人的
+Dialogue: 0,0:32:10.39,0:32:12.05,Default,NTP,0000,0000,0000,,Cat's meat! Hot Wine!{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}猫肉！ 热酒！
+Dialogue: 0,0:32:12.56,0:32:14.55,Default,NTP,0000,0000,0000,,Cat's meat! Hot Wine!{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}猫肉！ 热酒！
+Dialogue: 0,0:32:30.91,0:32:33.90,Default,NTP,0000,0000,0000,,Lady,I will win this tournament for you.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}小姐 我会为你 赢得这场锦标赛的
+Dialogue: 0,0:32:34.18,0:32:36.17,Default,NTP,0000,0000,0000,,Nay! I will win for you.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}不！ 是我会为你而赢
+Dialogue: 0,0:32:36.42,0:32:38.18,Default,NTP,0000,0000,0000,,May I present Count Adhemar{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}容我介绍阿德玛伯爵
+Dialogue: 0,0:32:38.38,0:32:42.25,Default,NTP,0000,0000,0000,,winner of the joust in France and champion at Saint- Emilion.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}法国长枪赛的优胜者 圣埃米里翁大赛的冠军
+Dialogue: 0,0:32:44.92,0:32:49.92,Default,NTP,0000,0000,0000,,All forgotten when standing before the most beautiful woman in Christendom.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}在基督教世界最美的女子面前 那一切都无足轻重了
+Dialogue: 0,0:32:55.27,0:33:00.26,Default,NTP,0000,0000,0000,,Do you only pretend to fight,Count Adhemar,or wage real war as well?{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}伯爵 你只是装个样子 或是真的在打仗？
+Dialogue: 0,0:33:01.27,0:33:06.11,Default,NTP,0000,0000,0000,,I am leader of the free companies. My army is in southern France.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}我是自由连队的领导人 我的军队在法国南部
+Dialogue: 0,0:33:08.45,0:33:11.11,Default,NTP,0000,0000,0000,,Geoff,it's my lady.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}杰夫 那就是我仰慕的女人
+Dialogue: 0,0:33:11.78,0:33:15.95,Default,NTP,0000,0000,0000,,- William,you aim too high.  - I don't Know any other way to aim.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}- 威廉 你目标定太高了  - 我没有其他的目标了
+Dialogue: 0,0:33:16.29,0:33:19.45,Default,NTP,0000,0000,0000,,- Concentrate.  - What should I say to her?{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}- 专心  - 我该跟她说些什么？
+Dialogue: 0,0:33:28.17,0:33:29.83,Default,NTP,0000,0000,0000,,What do you thinK of the joust?{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}你对枪术比赛有何看法？
+Dialogue: 0,0:33:30.50,0:33:32.33,Default,NTP,0000,0000,0000,,It's very abrupt.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}非常唐突
+Dialogue: 0,0:33:33.01,0:33:35.50,Default,NTP,0000,0000,0000,,And I don't understand the rules.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}规则我也不了解
+Dialogue: 0,0:33:36.34,0:33:38.17,Default,NTP,0000,0000,0000,,Then I shall educate you.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}那就让我来教你
+Dialogue: 0,0:33:39.18,0:33:42.01,Default,NTP,0000,0000,0000,,A match is three lances.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}一场比赛分三回合
+Dialogue: 0,0:33:43.18,0:33:47.95,Default,NTP,0000,0000,0000,,One point is given for breaKing a lance between the waist and necK.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}击中对手腰颈之间而断枪 得一分
+Dialogue: 0,0:33:48.19,0:33:51.35,Default,NTP,0000,0000,0000,,Two points for breaKing on the helmet. It's difficult.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}击落面甲而断枪 得两分 这很困难
+Dialogue: 0,0:33:51.69,0:33:55.68,Default,NTP,0000,0000,0000,,The helmet sweeps bacK. Most blows glance off.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}面甲会弹回来 所以多半只是一闪而过
+Dialogue: 0,0:33:56.03,0:33:59.62,Default,NTP,0000,0000,0000,,Three points for bearing a rider to the ground.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}让对手落地得三分
+Dialogue: 0,0:33:59.87,0:34:03.20,Default,NTP,0000,0000,0000,,Also,if you bear a rider to the ground,you win his horse.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}而且 如果你让对手落地 他的马就是你的了
+Dialogue: 0,0:34:03.87,0:34:05.86,Default,NTP,0000,0000,0000,,Do men die in the joust?{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}有人在枪术比赛中丧命吗？
+Dialogue: 0,0:34:06.20,0:34:09.64,Default,NTP,0000,0000,0000,,Lance points are tipped with coronals,which blunts them.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}长枪头是装上了冠状的钝器
+Dialogue: 0,0:34:10.21,0:34:13.04,Default,NTP,0000,0000,0000,,Of course,accidents happen.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}当然 难免会有意外
+Dialogue: 0,0:34:14.55,0:34:17.38,Default,NTP,0000,0000,0000,,I myself,Jocelyn,have never been unhorsed.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}约瑟琳 而我本身从未落马过
+Dialogue: 0,0:34:18.55,0:34:20.21,Default,NTP,0000,0000,0000,,Nor have l.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}我也是
+Dialogue: 0,0:34:22.99,0:34:24.32,Default,NTP,0000,0000,0000,,Your name,lady.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}小姐 您的大名
+Dialogue: 0,0:34:24.82,0:34:26.65,Default,NTP,0000,0000,0000,,I still need to hear it.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}我还是需要知道
+Dialogue: 0,0:34:27.56,0:34:29.82,Default,NTP,0000,0000,0000,,Sir Hunter,you persist.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}猎人先生 你还真坚持
+Dialogue: 0,0:34:30.23,0:34:33.89,Default,NTP,0000,0000,0000,,Perhaps angels have no names. Only beautiful faces.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}或许天使没有名字 只有美丽的脸庞
+Dialogue: 0,0:34:37.34,0:34:38.67,Default,NTP,0000,0000,0000,,And you are?{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}请问你是？
+Dialogue: 0,0:34:39.91,0:34:41.24,Default,NTP,0000,0000,0000,,I am,um.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}我是 嗯
+Dialogue: 0,0:34:41.51,0:34:42.80,Default,NTP,0000,0000,0000,,Have you forgotten?{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}你忘了吗？
+Dialogue: 0,0:34:43.01,0:34:44.94,Default,NTP,0000,0000,0000,,Or your name is Sir "Um."{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}或者你就叫“嗯”爵士
+Dialogue: 0,0:34:46.41,0:34:49.58,Default,NTP,0000,0000,0000,,Ulrich von Lichtenstein from Gelderland.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}乌瑞克冯利顿斯坦 来自盖德兰
+Dialogue: 0,0:34:49.92,0:34:52.41,Default,NTP,0000,0000,0000,,I'd forget as well. What a mouthful.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}我也会记不住 真难念啊
+Dialogue: 0,0:34:53.19,0:34:55.85,Default,NTP,0000,0000,0000,,- Your armor,sir.  - What about it?{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}- 先生 您的盔甲  - 怎么样？
+Dialogue: 0,0:34:56.25,0:35:01.09,Default,NTP,0000,0000,0000,,How stylish of you to wear an antique. You'll start a new fashion if you win.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}您真时髦 穿这么件古董 若您获胜 定会创造新风潮
+Dialogue: 0,0:35:01.43,0:35:04.76,Default,NTP,0000,0000,0000,,My grandfather will be able to wear his in public again.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}那样我祖父就能 再度穿他的旧衣外出了
+Dialogue: 0,0:35:05.43,0:35:08.26,Default,NTP,0000,0000,0000,,And a shield. How quaint.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}还有盾牌 多有趣啊
+Dialogue: 0,0:35:18.28,0:35:23.04,Default,NTP,0000,0000,0000,,Some of these poor country Knights,little better than peasants.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}有些穷乡僻壤的骑士 只比平民好一点点
+Dialogue: 0,0:35:24.12,0:35:25.61,Default,NTP,0000,0000,0000,,the second son{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}华勒斯
+Dialogue: 0,0:35:25.95,0:35:29.61,Default,NTP,0000,0000,0000,,of Sir Wallace Percival,third Earl of WarwicK.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}普西佛爵士 沃里克的第三伯爵的二公子
+Dialogue: 0,0:35:29.96,0:35:32.65,Default,NTP,0000,0000,0000,,My lords,my ladies{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}各位大人、小姐
+Dialogue: 0,0:35:32.86,0:35:36.45,Default,NTP,0000,0000,0000,,it is with honor I introduce my liege{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}很荣幸向各位介绍 我的主人
+Dialogue: 0,0:35:37.30,0:35:38.96,Default,NTP,0000,0000,0000,,Sir Thomas Colville.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}汤玛斯寇维尔爵士
+Dialogue: 0,0:35:46.31,0:35:47.79,Default,NTP,0000,0000,0000,,You're good.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}你很行
+Dialogue: 0,0:35:48.98,0:35:50.46,Default,NTP,0000,0000,0000,,You're very good.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}你非常行
+Dialogue: 0,0:35:51.81,0:35:53.30,Default,NTP,0000,0000,0000,,My lords{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}各位大人
+Dialogue: 0,0:35:53.98,0:35:55.54,Default,NTP,0000,0000,0000,,my ladies{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}各位小姐
+Dialogue: 0,0:35:59.15,0:36:02.88,Default,NTP,0000,0000,0000,,and everybody else here not sitting on a cushion{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}以及其他 没有座位的诸位
+Dialogue: 0,0:36:10.00,0:36:11.66,Default,NTP,0000,0000,0000,,today{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}今天
+Dialogue: 0,0:36:13.33,0:36:15.42,Default,NTP,0000,0000,0000,,you find yourselves equals.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}在场的各位是平等的
+Dialogue: 0,0:36:23.01,0:36:26.50,Default,NTP,0000,0000,0000,,For you are all equally blessed.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}因为你们同样都受到神佑
+Dialogue: 0,0:36:27.68,0:36:30.01,Default,NTP,0000,0000,0000,,For I have the pride{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}因为我很自豪
+Dialogue: 0,0:36:30.85,0:36:33.18,Default,NTP,0000,0000,0000,,the privilege,nay,the pleasure{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}很荣幸 不 是很高兴
+Dialogue: 0,0:36:34.19,0:36:38.52,Default,NTP,0000,0000,0000,,of introducing to you a Knight sired by Knights.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}位各位介绍一位 由骑士世家出身的骑士
+Dialogue: 0,0:36:38.86,0:36:42.29,Default,NTP,0000,0000,0000,,A Knight who can trace his lineage bacK{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}他的血统可追溯至
+Dialogue: 0,0:36:43.10,0:36:45.19,Default,NTP,0000,0000,0000,,beyond Charlemagne.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}查理曼大帝之前的时代
+Dialogue: 0,0:36:47.20,0:36:49.00,Default,NTP,0000,0000,0000,,I first met him{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}我初次遇见他
+Dialogue: 0,0:36:49.20,0:36:51.43,Default,NTP,0000,0000,0000,,atop a mountain near Jerusalem{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}是在耶路撒冷附近的山顶
+Dialogue: 0,0:36:51.77,0:36:53.86,Default,NTP,0000,0000,0000,,praying to God{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}他向上帝祈祷
+Dialogue: 0,0:36:54.37,0:36:57.71,Default,NTP,0000,0000,0000,,asKing his forgiveness for the Saracen blood{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}请他原谅他剑上沾满了
+Dialogue: 0,0:36:58.04,0:36:59.98,Default,NTP,0000,0000,0000,,spilt by his sword.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}撒拉逊人的血
+Dialogue: 0,0:37:00.21,0:37:03.38,Default,NTP,0000,0000,0000,,Next,he amazed me still further in Italy{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}接着 在意大利 他更令我觉得不可思议
+Dialogue: 0,0:37:03.58,0:37:05.71,Default,NTP,0000,0000,0000,,when he saved a fatherless beauty{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}当他拯救一位失怙的孤女
+Dialogue: 0,0:37:05.98,0:37:09.65,Default,NTP,0000,0000,0000,,from the would be ravishings of her dreadful uncle.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}免于她恶叔父的残害
+Dialogue: 0,0:37:17.23,0:37:18.89,Default,NTP,0000,0000,0000,,In Greece{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}在希腊
+Dialogue: 0,0:37:19.73,0:37:22.56,Default,NTP,0000,0000,0000,,he spent a year in silence{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}他保持缄默一年
+Dialogue: 0,0:37:24.40,0:37:27.57,Default,NTP,0000,0000,0000,,just to better understand the sound{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}只为求更加了解
+Dialogue: 0,0:37:30.08,0:37:31.74,Default,NTP,0000,0000,0000,,of a whisper.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}轻声细语
+Dialogue: 0,0:37:38.25,0:37:41.91,Default,NTP,0000,0000,0000,,So without further gilding the lily and with no more ado{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}我就不再锦上添花 也不再多费唇舌
+Dialogue: 0,0:37:42.25,0:37:44.92,Default,NTP,0000,0000,0000,,I give to you the SeeKer of Serenity{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}我要介绍给各位 安详平静的追寻者
+Dialogue: 0,0:37:45.26,0:37:47.92,Default,NTP,0000,0000,0000,,Protector of Italian Virginity{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}意大利贞节的保护者
+Dialogue: 0,0:37:48.26,0:37:53.10,Default,NTP,0000,0000,0000,,the Enforcer of our Lord God,the one,the only{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}上帝旨意的执行者 独一无二的
+Dialogue: 0,0:37:53.43,0:37:57.42,Default,NTP,0000,0000,0000,,Sir Ulrich von Lichtenstein!{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}乌瑞克冯利顿斯坦爵士！
+Dialogue: 0,0:38:10.62,0:38:13.95,Default,NTP,0000,0000,0000,,ThanK you! ThanK you! I'll be here all weeK.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}谢谢 谢谢各位！ 我整个星期都会在这里
+Dialogue: 0,0:38:21.06,0:38:22.32,Default,NTP,0000,0000,0000,,That was different.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}真与众不同啊
+Dialogue: 0,0:38:22.53,0:38:24.69,Default,NTP,0000,0000,0000,,It's time we celebrated our differences.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}是我们颂扬每个人 独特之处的时候了
+Dialogue: 0,0:38:24.90,0:38:26.89,Default,NTP,0000,0000,0000,,Just maybe not in public.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}只要不在公开场合
+Dialogue: 0,0:38:27.90,0:38:28.96,Default,NTP,0000,0000,0000,,You.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}你
+Dialogue: 0,0:38:29.30,0:38:32.96,Default,NTP,0000,0000,0000,,Yes,I'm well aware a good fonging is on the way.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}是的 我很清楚 我很快就会被好好修理了
+Dialogue: 0,0:38:33.31,0:38:35.14,Default,NTP,0000,0000,0000,,Oh,yeah. Oh,yeah.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}对 没错
+Dialogue: 0,0:38:35.47,0:38:38.57,Default,NTP,0000,0000,0000,,I got their attention. You win their hearts.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}我负责引他们注意 你去赢得他们的心
+Dialogue: 0,0:38:59.83,0:39:01.16,Default,NTP,0000,0000,0000,,Very good.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}非常好
+Dialogue: 0,0:39:01.50,0:39:03.33,Default,NTP,0000,0000,0000,,Was she watching? Geoff. What?{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}- 杰夫 她刚刚有看吗？  - 什么？
+Dialogue: 0,0:39:03.67,0:39:05.66,Default,NTP,0000,0000,0000,,- Did she see me?  - Yes,she did.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}- 她看了我吗？  - 是的
+Dialogue: 0,0:39:06.00,0:39:08.17,Default,NTP,0000,0000,0000,,- Did she see me taKe the hit?  - Yes.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}- 她看到我受击？  - 是的
+Dialogue: 0,0:39:08.44,0:39:11.43,Default,NTP,0000,0000,0000,,- Was she concerned?  - Her eyes welled up. Just awful.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}- 她担心吗？  - 她眼泪盈眶 太糟了
+Dialogue: 0,0:39:26.36,0:39:30.19,Default,NTP,0000,0000,0000,,Colville has perfect technique. I've never seen him before.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}寇维尔技巧很完美 我以前从未见过他
+Dialogue: 0,0:39:30.53,0:39:31.86,Default,NTP,0000,0000,0000,,Nor I.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}我也是
+Dialogue: 0,0:39:32.20,0:39:34.10,Default,NTP,0000,0000,0000,,But this Lichtenstein.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}但这个利顿斯坦
+Dialogue: 0,0:39:34.37,0:39:37.53,Default,NTP,0000,0000,0000,,His technique,rudimentary. Style,nonexistent.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}他的技巧只在入门阶段 风格更是完全不存在
+Dialogue: 0,0:39:37.74,0:39:40.20,Default,NTP,0000,0000,0000,,Still,he's fearless.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}然而 他无所畏惧
+Dialogue: 0,0:39:41.54,0:39:43.53,Default,NTP,0000,0000,0000,,Fearless? How so?{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}无所畏惧？ 怎么说？
+Dialogue: 0,0:39:43.88,0:39:47.71,Default,NTP,0000,0000,0000,,The slit in the visor is narrow,but splinters can penetrate it.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}面甲里的缝隙很窄 但碎木片可以穿透其间
+Dialogue: 0,0:39:47.98,0:39:50.97,Default,NTP,0000,0000,0000,,Most Knights raise their chins at the last instant.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}大多数骑士在最后一瞬间 都会抬起下巴
+Dialogue: 0,0:39:51.22,0:39:56.21,Default,NTP,0000,0000,0000,,You lose sight of your opponent,but protect your eyes. Ulrich doesn't.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}虽看不到对手 却能保护双眼 乌瑞克则否
+Dialogue: 0,0:39:56.89,0:39:59.05,Default,NTP,0000,0000,0000,,He Keeps his eye on the target.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}他眼睛牢牢盯着目标
+Dialogue: 0,0:40:00.23,0:40:01.89,Default,NTP,0000,0000,0000,,A true hunter.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}不折不扣的猎人
+Dialogue: 0,0:40:11.90,0:40:13.39,Default,NTP,0000,0000,0000,,Sir Ulrich{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}乌瑞克爵士
+Dialogue: 0,0:40:15.24,0:40:16.23,Default,NTP,0000,0000,0000,,I'm through.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}我要退出了
+Dialogue: 0,0:40:17.41,0:40:20.74,Default,NTP,0000,0000,0000,,But I've never not finished before.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}但我以前从未中途退出
+Dialogue: 0,0:40:21.58,0:40:25.07,Default,NTP,0000,0000,0000,,I wish to Keep my honor intact.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}我希望完整保持我的荣誉
+Dialogue: 0,0:40:50.44,0:40:52.77,Default,NTP,0000,0000,0000,,A draw. And Colville is hurt.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}不分胜负 寇维尔受伤了
+Dialogue: 0,0:41:01.45,0:41:05.12,Default,NTP,0000,0000,0000,,Colville withdraws. Ulrich advances.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}寇维尔退出 乌瑞克晋级
+Dialogue: 0,0:41:06.46,0:41:08.29,Default,NTP,0000,0000,0000,,Why didn't Ulrich finish him?{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}乌瑞克为何不乘胜追击？
+Dialogue: 0,0:41:08.96,0:41:10.79,Default,NTP,0000,0000,0000,,He shows mercy.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}他慈悲为怀
+Dialogue: 0,0:41:12.63,0:41:16.79,Default,NTP,0000,0000,0000,,Then he shows his weaKness. That's all mercy is.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}那么他就展露了弱点 慈悲只会使人脆弱
+Dialogue: 0,0:41:21.57,0:41:24.63,Default,NTP,0000,0000,0000,,For the love of victory,William,go to sleep.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}威廉 看在胜利的份上 快睡吧
+Dialogue: 0,0:41:27.81,0:41:29.14,Default,NTP,0000,0000,0000,,I can't.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}我睡不着
+Dialogue: 0,0:41:31.32,0:41:34.31,Default,NTP,0000,0000,0000,,Love has given me wings,so I must fly.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}爱情给了我翅膀 我必须飞翔
+Dialogue: 0,0:41:36.99,0:41:38.75,Default,NTP,0000,0000,0000,,I can't explain it.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}我无法解释
+Dialogue: 0,0:41:40.66,0:41:44.39,Default,NTP,0000,0000,0000,,- She maKes me feel liKe a poet.  - You may feel liKe a poet{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}- 她让我自觉像个诗人 - 你或许自觉像诗人
+Dialogue: 0,0:41:44.60,0:41:46.22,Default,NTP,0000,0000,0000,,but you sound liKe an idiot.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}但你听起来像个白痴
+Dialogue: 0,0:41:46.43,0:41:49.33,Default,NTP,0000,0000,0000,,- You don't even Know her name.  - Her name?{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}- 你连她的名字都不知道  - 她的名字？
+Dialogue: 0,0:41:51.17,0:41:53.50,Default,NTP,0000,0000,0000,,Her name is Aphrodite.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}她叫爱芙萝黛蒂
+Dialogue: 0,0:41:54.01,0:41:57.50,Default,NTP,0000,0000,0000,,Calypso. Venus. TaKe your picK.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}卡丽普索、维纳斯 随你选
+Dialogue: 0,0:42:02.18,0:42:04.51,Default,NTP,0000,0000,0000,,Women weaKen the heart.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}女人让人意志软弱
+Dialogue: 0,0:42:06.02,0:42:08.68,Default,NTP,0000,0000,0000,,Without your heart,you cannot win.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}没有了意志 你就无法获胜
+Dialogue: 0,0:42:12.69,0:42:14.78,Default,NTP,0000,0000,0000,,- But her eyes  - Concentrate.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}- 但她的眼睛  - 专心
+Dialogue: 0,0:42:15.03,0:42:16.52,Default,NTP,0000,0000,0000,,Tansy caKes!{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}艾菊蛋糕！
+Dialogue: 0,0:42:19.36,0:42:21.70,Default,NTP,0000,0000,0000,,Count Adhemar sends Word.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}阿德玛伯爵派人来传话
+Dialogue: 0,0:42:22.70,0:42:26.19,Default,NTP,0000,0000,0000,,He said he will win this tournament for you.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}他说他会为你赢得这场锦标赛
+Dialogue: 0,0:42:27.04,0:42:31.20,Default,NTP,0000,0000,0000,,He's won many. He wins them for himself and his own honor.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}他已赢过许多次 他是为他自己和他的荣誉而赢
+Dialogue: 0,0:42:31.48,0:42:33.88,Default,NTP,0000,0000,0000,,It's nothing to say he wins them for me.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}他这么说是毫无价值的
+Dialogue: 0,0:42:35.88,0:42:38.04,Default,NTP,0000,0000,0000,,He wishes to speaK to you again.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}他希望能再次跟您谈谈
+Dialogue: 0,0:42:38.55,0:42:40.68,Default,NTP,0000,0000,0000,,Not to hear a word I say.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}而不是听我说话
+Dialogue: 0,0:42:41.89,0:42:44.32,Default,NTP,0000,0000,0000,,Adhemar wants his women silent.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}阿德玛要他的女人保持沉默
+Dialogue: 0,0:42:50.06,0:42:53.33,Default,NTP,0000,0000,0000,,Would you have Sir Ulrich win the tournament for you?{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}你会要乌瑞克爵士 为你赢得这场锦标赛吗？
+Dialogue: 0,0:42:53.56,0:42:54.90,Default,NTP,0000,0000,0000,,No.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}不
+Dialogue: 0,0:42:56.07,0:42:59.40,Default,NTP,0000,0000,0000,,And he is the only Knight who has not promised to do so.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}他是唯一一个 未许诺要这么做的骑士
+Dialogue: 0,0:43:01.24,0:43:03.90,Default,NTP,0000,0000,0000,,Sir Ulrich von Lichtenstein.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}乌瑞克冯利顿斯坦爵士
+Dialogue: 0,0:43:04.74,0:43:07.23,Default,NTP,0000,0000,0000,,I would have him win my heart.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}我要他赢得我的心
+Dialogue: 0,0:43:16.09,0:43:19.58,Default,NTP,0000,0000,0000,,Adhemar! Adhemar! Adhemar!{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}阿德玛！ 阿德玛！ 阿德玛！
+Dialogue: 0,0:43:23.76,0:43:25.42,Default,NTP,0000,0000,0000,,Oh,lovely.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}真帅啊
+Dialogue: 0,0:43:26.43,0:43:29.92,Default,NTP,0000,0000,0000,,I don't thinK I've ever seen Count Adhemar lose.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}我不认为我看过阿德玛伯爵输
+Dialogue: 0,0:43:30.44,0:43:33.43,Default,NTP,0000,0000,0000,,No,but defeat him and you'll see it firsthand.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}的确 但打败了他 你就会第一个看到
+Dialogue: 0,0:43:35.11,0:43:36.63,Default,NTP,0000,0000,0000,,My liege{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}我的主人
+Dialogue: 0,0:43:38.28,0:43:39.77,Default,NTP,0000,0000,0000,,Sir Ulrich.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}乌瑞克爵士
+Dialogue: 0,0:43:41.78,0:43:43.11,Default,NTP,0000,0000,0000,,Christiana.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}这位是克丽丝堤亚娜
+Dialogue: 0,0:43:43.78,0:43:47.77,Default,NTP,0000,0000,0000,,- My lady bids you wear this toKen.  - Of course.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}- 我家小姐吩咐你戴上这个  - 当然
+Dialogue: 0,0:43:48.45,0:43:51.12,Default,NTP,0000,0000,0000,,She also said to tell you,her name{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}她还要我告诉你 她名叫
+Dialogue: 0,0:43:53.13,0:43:54.99,Default,NTP,0000,0000,0000,,is Jocelyn.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}约瑟琳
+Dialogue: 0,0:43:57.70,0:43:59.22,Default,NTP,0000,0000,0000,,- Au revoir.  - Au revoir.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}- 再会  - 再会
+Dialogue: 0,0:44:01.07,0:44:02.40,Default,NTP,0000,0000,0000,,Oh,Jocelyn.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}约瑟琳
+Dialogue: 0,0:44:05.80,0:44:07.46,Default,NTP,0000,0000,0000,,Concentrate.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}专心比赛
+Dialogue: 0,0:45:30.46,0:45:31.95,Default,NTP,0000,0000,0000,,I can't breathe.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}我无法呼吸
+Dialogue: 0,0:45:39.31,0:45:41.14,Default,NTP,0000,0000,0000,,No style whatsoever.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}毫无风格可言
+Dialogue: 0,0:45:42.64,0:45:44.47,Default,NTP,0000,0000,0000,,But neither has an anvil.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}铁砧也是如此
+Dialogue: 0,0:45:45.48,0:45:49.81,Default,NTP,0000,0000,0000,,- He hits like a hammer. Amazing.  - But not perfect. He aims high.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}- 他出手真是惊人地有力  - 但是不完美 瞄得太高了
+Dialogue: 0,0:45:50.08,0:45:52.81,Default,NTP,0000,0000,0000,,Roll your shoulder back,his blow may go right.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}肩膀向后 他可能会往右边刺
+Dialogue: 0,0:45:53.09,0:45:56.08,Default,NTP,0000,0000,0000,,But if he strikes to my left,I'll be obliterated.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}但要是他往我左边刺 我就毁了
+Dialogue: 0,0:45:56.59,0:45:58.42,Default,NTP,0000,0000,0000,,I didn't say it wasn't a gamble.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}我没说这不是场赌博
+Dialogue: 0,0:46:39.03,0:46:42.69,Default,NTP,0000,0000,0000,,Ulrich! Ulrich! Ulrich! Ulrich!{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}乌瑞克！ 乌瑞克！ 乌瑞克！
+Dialogue: 0,0:47:34.25,0:47:35.59,Default,NTP,0000,0000,0000,,William?{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}威廉？
+Dialogue: 0,0:47:43.43,0:47:44.92,Default,NTP,0000,0000,0000,,William,here.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}威廉 这里
+Dialogue: 0,0:47:46.43,0:47:47.76,Default,NTP,0000,0000,0000,,Come here.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}过来这里
+Dialogue: 0,0:47:56.78,0:47:59.27,Default,NTP,0000,0000,0000,,Someday I'll be a knight.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}总有一天我会成为骑士
+Dialogue: 0,0:48:00.78,0:48:03.11,Default,NTP,0000,0000,0000,,A thatcher's son? A knight?{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}补屋顶工匠家的孩子？ 骑士？
+Dialogue: 0,0:48:03.45,0:48:06.28,Default,NTP,0000,0000,0000,,You might as well try to change the stars.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}你还不如试着改变命运呢
+Dialogue: 0,0:48:08.12,0:48:09.95,Default,NTP,0000,0000,0000,,Can it be done,Father?{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}父亲 有可能吗？
+Dialogue: 0,0:48:10.29,0:48:13.78,Default,NTP,0000,0000,0000,,- Can a man change the stars?  - Yes,William.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}- 人可以改变命运吗？  - 可以的 威廉
+Dialogue: 0,0:48:14.06,0:48:17.05,Default,NTP,0000,0000,0000,,If he believes enough,a man can do anything.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}如果一个人信心坚定 他可以成就任何事情
+Dialogue: 0,0:48:36.82,0:48:38.15,Default,NTP,0000,0000,0000,,Come here.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}来
+Dialogue: 0,0:48:45.66,0:48:48.15,Default,NTP,0000,0000,0000,,Gain more bearing,Ulrich.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}乌瑞克 再去锻炼锻炼吧
+Dialogue: 0,0:48:48.83,0:48:50.82,Default,NTP,0000,0000,0000,,See me again when you're worthy.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}等你够资格了再来见我
+Dialogue: 0,0:48:56.17,0:48:58.00,Default,NTP,0000,0000,0000,,I'll fong you in the arse!{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}我非要你好看不可！
+Dialogue: 0,0:48:59.34,0:49:02.00,Default,NTP,0000,0000,0000,,Well done,my lord! Well done.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}大人 精采啊 真精采
+Dialogue: 0,0:49:02.34,0:49:04.64,Default,NTP,0000,0000,0000,,- You bastard!  - Go and see to Ulrich.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}- 你这混帐  - 快去看看乌瑞克
+Dialogue: 0,0:49:04.84,0:49:06.68,Default,NTP,0000,0000,0000,,Go see to Ulrich.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}去看看乌瑞克
+Dialogue: 0,0:49:10.35,0:49:12.01,Default,NTP,0000,0000,0000,,Well done,my lord.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}大人 漂亮
+Dialogue: 0,0:49:12.52,0:49:14.18,Default,NTP,0000,0000,0000,,A noble victory.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}赢得真高尚
+Dialogue: 0,0:49:19.36,0:49:22.85,Default,NTP,0000,0000,0000,,My lady,I believe this is yours.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}小姐 这应该是你的
+Dialogue: 0,0:49:29.20,0:49:31.86,Default,NTP,0000,0000,0000,,For long spear on foot{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}长矛的优胜者是
+Dialogue: 0,0:49:32.21,0:49:34.70,Default,NTP,0000,0000,0000,,Pandolfo Malatesta.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}潘多佛马拉泰斯塔
+Dialogue: 0,0:49:39.88,0:49:44.21,Default,NTP,0000,0000,0000,,For sword on foot,Ulrich von Lichtenstein.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}剑术的优胜者是 乌瑞克冯利顿斯坦
+Dialogue: 0,0:49:48.89,0:49:53.72,Default,NTP,0000,0000,0000,,Finally,for the mounted joust and tournament champion{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}最后 马上枪术以及锦标赛的 冠军是
+Dialogue: 0,0:49:54.06,0:49:56.89,Default,NTP,0000,0000,0000,,Adhemar,Count of Anjou.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}安竺的阿德玛伯爵
+Dialogue: 0,0:49:58.56,0:50:01.40,Default,NTP,0000,0000,0000,,Adhemar! Adhemar! Adhemar!{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}阿德玛！ 阿德玛！ 阿德玛！
+Dialogue: 0,0:50:04.07,0:50:08.10,Default,NTP,0000,0000,0000,,I present to you your champions.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}这几位就是优胜者
+Dialogue: 0,0:50:12.91,0:50:17.58,Default,NTP,0000,0000,0000,,Next time,you will look up at me from the flat of your back.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}下一次 你会躺在地上 仰望着我
+Dialogue: 0,0:50:17.78,0:50:21.85,Default,NTP,0000,0000,0000,,Please. You have been weighed,{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}拜托 你打也打了 比也比了
+Dialogue: 0,0:50:22.09,0:50:24.11,Default,NTP,0000,0000,0000,,you have been measured{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}大家都知道你能力不足
+Dialogue: 0,0:50:32.10,0:50:34.03,Default,NTP,0000,0000,0000,,Keep winning the sword.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}继续保持剑术方面的战绩
+Dialogue: 0,0:50:34.27,0:50:36.70,Default,NTP,0000,0000,0000,,- I won't compete in it.  - It's your best.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}- 我不比剑了 - 那是你最擅长的啊
+Dialogue: 0,0:50:36.94,0:50:39.60,Default,NTP,0000,0000,0000,,No. It's tournament champion or nothing at all.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}不 除非得到总冠军 否则什么都不算数
+Dialogue: 0,0:50:45.11,0:50:47.60,Default,NTP,0000,0000,0000,,Ten florins. That should do.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}十个银币 这应该够了
+Dialogue: 0,0:50:50.45,0:50:54.11,Default,NTP,0000,0000,0000,,Sixes and sevens tonight,Chaucer. Do you feel lucky?{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}乔瑟 今晚还有得赌 觉得手气还顺吗？
+Dialogue: 0,0:50:54.45,0:50:58.62,Default,NTP,0000,0000,0000,,- Have you enough clothes?  - Be gone. I'm done with you.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}- 你衣服穿得够多吗？  - 滚吧 我不想再看到你们
+Dialogue: 0,0:50:59.46,0:51:01.95,Default,NTP,0000,0000,0000,,Except to exact my revenge.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}除了展开我的报复
+Dialogue: 0,0:51:04.46,0:51:07.96,Default,NTP,0000,0000,0000,,What on earth could you possibly do to us?{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}你能对我们怎样？
+Dialogue: 0,0:51:08.30,0:51:10.63,Default,NTP,0000,0000,0000,,I will eviscerate you in fiction.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}我会在小说里把你们开膛剖腹
+Dialogue: 0,0:51:10.97,0:51:14.30,Default,NTP,0000,0000,0000,,Every last pimple,every last character flaw.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}把你们的丑恶和缺点 钜细靡遗地描述出来
+Dialogue: 0,0:51:14.64,0:51:18.98,Default,NTP,0000,0000,0000,,I was naked for a day. You will be naked for eternity.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}我曾经赤裸着身体一天 我要你们永生都赤身露体
+Dialogue: 0,0:51:19.81,0:51:22.30,Default,NTP,0000,0000,0000,,I have a feeling we shall meet again.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}我有预感我们会再见
+Dialogue: 0,0:51:25.15,0:51:27.81,Default,NTP,0000,0000,0000,,Here,farris,take what we owe you.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}蹄铁匠 这是我们欠你的
+Dialogue: 0,0:51:28.82,0:51:32.99,Default,NTP,0000,0000,0000,,The armor you wear,it wasn't made for you,was it?{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}你身上穿的盔甲 不是为你订制的吧？
+Dialogue: 0,0:51:34.09,0:51:34.82,Default,NTP,0000,0000,0000,,So?{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}那又怎样？
+Dialogue: 0,0:51:35.66,0:51:38.65,Default,NTP,0000,0000,0000,,I could make armor you wouldn't even know you wore it.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}我可以做出让你 甚至感觉不到重量的盔甲
+Dialogue: 0,0:51:38.93,0:51:40.26,Default,NTP,0000,0000,0000,,What's the cost?{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}那要多少钱？
+Dialogue: 0,0:51:41.83,0:51:44.06,Default,NTP,0000,0000,0000,,Just take me as far as Paris.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}只要带我到巴黎就好
+Dialogue: 0,0:51:45.11,0:51:47.94,Default,NTP,0000,0000,0000,,We travel alone. Take your gold and go.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}我们不需要伴 拿着你的金块走吧
+Dialogue: 0,0:51:56.35,0:52:00.84,Default,NTP,0000,0000,0000,,- Get what you can. Let's pack.  - Why are we leaving so soon?{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}- 能拿的尽量拿 快打包吧  - 你干嘛这么急着走？
+Dialogue: 0,0:52:01.19,0:52:06.18,Default,NTP,0000,0000,0000,,The next tournament is in a week. We can walk now and save the horse.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}离下一场大赛只剩一周 现在走 才能让马休息
+Dialogue: 0,0:52:06.53,0:52:09.96,Default,NTP,0000,0000,0000,,You must go to the banquet. You'll dance and make an appearance.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}你必须参加庆祝会 跳舞、跟大家认识
+Dialogue: 0,0:52:10.20,0:52:12.36,Default,NTP,0000,0000,0000,,Let Adhemar laugh at me again? No!{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}让阿德玛再次嘲笑我？ 不
+Dialogue: 0,0:52:12.63,0:52:14.62,Default,NTP,0000,0000,0000,,- Yes!  - No!{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}- 要  - 不！
+Dialogue: 0,0:52:20.88,0:52:24.37,Default,NTP,0000,0000,0000,,My lady would know the color of your lord's tunic tonight.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}我家小姐想知道 你家主人今晚外衣的颜色
+Dialogue: 0,0:52:25.05,0:52:29.21,Default,NTP,0000,0000,0000,,- His tunic?  - Yes,so she can dress to match him.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}- 他的外衣？  - 是的 她好穿相搭的颜色
+Dialogue: 0,0:52:29.55,0:52:33.14,Default,NTP,0000,0000,0000,,We regret to inform your lady he won't be attending- -{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}我们很遗憾必须告诉你家小姐 他不会参加
+Dialogue: 0,0:52:33.39,0:52:36.88,Default,NTP,0000,0000,0000,,- Herald,do not give my answers!  - Yes,my lord.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}- 传令的 你别代我回答  - 是的 大人
+Dialogue: 0,0:52:37.16,0:52:38.71,Default,NTP,0000,0000,0000,,Squire,answer her.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}随从 回答她
+Dialogue: 0,0:52:39.06,0:52:42.72,Default,NTP,0000,0000,0000,,What color is my tunic tonight?{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}我今晚的外衣是什么颜色？
+Dialogue: 0,0:52:46.90,0:52:48.23,Default,NTP,0000,0000,0000,,Green.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}绿色
+Dialogue: 0,0:52:50.40,0:52:52.17,Default,NTP,0000,0000,0000,,Trimmed in a kind of{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}滚边用
+Dialogue: 0,0:52:52.41,0:52:54.24,Default,NTP,0000,0000,0000,,pale green{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}淡淡的绿
+Dialogue: 0,0:52:56.08,0:52:57.41,Default,NTP,0000,0000,0000,,with{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}配上
+Dialogue: 0,0:52:57.74,0:52:59.91,Default,NTP,0000,0000,0000,,uh,wooden toggles.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}木质系扣
+Dialogue: 0,0:53:01.58,0:53:03.41,Default,NTP,0000,0000,0000,,I will tell my lady.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}我会转告我家小姐
+Dialogue: 0,0:53:09.92,0:53:13.69,Default,NTP,0000,0000,0000,,- This is a disaster!  - No,it'll tunic up quite nicely.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}- 完蛋了  - 不 这样很好
+Dialogue: 0,0:53:13.93,0:53:15.92,Default,NTP,0000,0000,0000,,That's not a disaster,Roland.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}洛伦 我不是说外衣
+Dialogue: 0,0:53:19.77,0:53:21.43,Default,NTP,0000,0000,0000,,I don't know how to dance.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}我不会跳舞
+Dialogue: 0,0:53:23.94,0:53:27.60,Default,NTP,0000,0000,0000,,And one and two and three and four.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}一 二 三 四
+Dialogue: 0,0:53:27.94,0:53:31.28,Default,NTP,0000,0000,0000,,Your hand should be light,like a birdie on a branch.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}手要轻一点 像停在枝头上的鸟儿
+Dialogue: 0,0:53:31.61,0:53:35.10,Default,NTP,0000,0000,0000,,And one,two and three and four.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}一 二 三 四
+Dialogue: 0,0:53:35.45,0:53:38.61,Default,NTP,0000,0000,0000,,And Wat doesn't lead,he follows like a girl.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}华特不许带舞 他跳得像女孩子似的
+Dialogue: 0,0:53:48.63,0:53:51.79,Default,NTP,0000,0000,0000,,And one and two and{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}一 二
+Dialogue: 0,0:53:52.20,0:53:53.79,Default,NTP,0000,0000,0000,,twirly,twirly,twirly.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}旋转 旋转 旋转
+Dialogue: 0,0:53:54.13,0:53:57.30,Default,NTP,0000,0000,0000,,And one and two,and you're still getting it wrong.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}一 二 你还是没跳对
+Dialogue: 0,0:53:57.64,0:54:01.30,Default,NTP,0000,0000,0000,,And one and two and three and four.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}一 二 三 四
+Dialogue: 0,0:54:01.64,0:54:04.97,Default,NTP,0000,0000,0000,,You can hit me all day because you punch like a what?{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}你可以打我一整天 因为你的力道像什么？
+Dialogue: 0,0:54:05.25,0:54:06.47,Default,NTP,0000,0000,0000,,A girl.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}女孩子
+Dialogue: 0,0:54:06.81,0:54:08.80,Default,NTP,0000,0000,0000,,- Enough!  - Get back! Wat,quiet!{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}- 够了！  - 回去！ 华特 安静！
+Dialogue: 0,0:54:09.38,0:54:11.35,Default,NTP,0000,0000,0000,,- He starts it.  - You know he's touchy!{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}- 是他开始的  - 你明知道他很暴躁！
+Dialogue: 0,0:54:13.82,0:54:15.81,Default,NTP,0000,0000,0000,,Oh,and you can do better?{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}难道你可以教得更好？
+Dialogue: 0,0:54:16.32,0:54:19.16,Default,NTP,0000,0000,0000,,- Of course.  - Then show us.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}- 当然  - 那就让我们瞧瞧
+Dialogue: 0,0:54:20.26,0:54:21.85,Default,NTP,0000,0000,0000,,No.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}不
+Dialogue: 0,0:54:23.50,0:54:28.09,Default,NTP,0000,0000,0000,,If I'm making all this effort,you'd best ask her nicely.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}我都这么尽心尽力了 你最好礼貌地拜托她
+Dialogue: 0,0:54:32.67,0:54:33.76,Default,NTP,0000,0000,0000,,I'm sorry,Kate.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}凯蒂 对不起
+Dialogue: 0,0:54:38.01,0:54:42.01,Default,NTP,0000,0000,0000,,I was wondering if you'd care to show us how to dance.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}不知道你是否可以 教我们该怎么跳舞
+Dialogue: 0,0:54:43.12,0:54:44.28,Default,NTP,0000,0000,0000,,- Please.  - Please.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}- 拜托你 - 拜托啦
+Dialogue: 0,0:54:47.69,0:54:51.18,Default,NTP,0000,0000,0000,,And one and two,three and four.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}一 二 三 四
+Dialogue: 0,0:54:51.53,0:54:54.52,Default,NTP,0000,0000,0000,,Five,six,seven,change partners.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}五 六 七 换舞伴
+Dialogue: 0,0:54:54.86,0:54:58.19,Default,NTP,0000,0000,0000,,And one,two,three,four{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}一 二 三 四
+Dialogue: 0,0:54:58.53,0:55:00.96,Default,NTP,0000,0000,0000,,five,six,seven.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}五 六 七
+Dialogue: 0,0:55:01.20,0:55:03.03,Default,NTP,0000,0000,0000,,Polonaise. And one.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}波洛奈兹舞
+Dialogue: 0,0:55:03.97,0:55:06.37,Default,NTP,0000,0000,0000,,Are you wearing your hair like that?{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}你不会不整理头发就去吧？
+Dialogue: 0,0:55:07.47,0:55:09.17,Default,NTP,0000,0000,0000,,Is there another way?{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}有其他的发型吗？
+Dialogue: 0,0:55:38.08,0:55:42.07,Default,NTP,0000,0000,0000,,Sir Ulrich,you look fantastic.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}乌瑞克爵士 你帅气极了
+Dialogue: 0,0:55:45.09,0:55:47.18,Default,NTP,0000,0000,0000,,Jocelyn,you look.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}约瑟琳 你看起来
+Dialogue: 0,0:55:49.76,0:55:51.09,Default,NTP,0000,0000,0000,,Uh,you{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}呃 你
+Dialogue: 0,0:55:54.53,0:55:56.02,Default,NTP,0000,0000,0000,,remind me of the Bible.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}让我联想到圣经
+Dialogue: 0,0:56:01.70,0:56:06.11,Default,NTP,0000,0000,0000,,When God stopped the sun to give Joshua time to defeat the Amorites.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}当上帝让太阳静止 好让约书亚打败亚摩利人
+Dialogue: 0,0:56:09.71,0:56:11.11,Default,NTP,0000,0000,0000,,I don't understand.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}我不明白
+Dialogue: 0,0:56:16.32,0:56:18.98,Default,NTP,0000,0000,0000,,If I could ask God one thing{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}若我能求上帝一件事
+Dialogue: 0,0:56:19.66,0:56:21.92,Default,NTP,0000,0000,0000,,it would be to stop the moon.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}那就是让月亮静止
+Dialogue: 0,0:56:23.83,0:56:26.66,Default,NTP,0000,0000,0000,,Stop the moon and make this night{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}让月亮静止 让这个夜晚
+Dialogue: 0,0:56:28.00,0:56:29.66,Default,NTP,0000,0000,0000,,and your beauty{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}和你的美丽
+Dialogue: 0,0:56:30.33,0:56:32.00,Default,NTP,0000,0000,0000,,Iast forever.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}持续到永远
+Dialogue: 0,0:56:34.17,0:56:37.50,Default,NTP,0000,0000,0000,,What dance will you have? A coranto?{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}你要跳哪种舞？ 库朗特舞？
+Dialogue: 0,0:56:38.51,0:56:40.50,Default,NTP,0000,0000,0000,,Or a basse dance?{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}或是低步舞？
+Dialogue: 0,0:56:41.51,0:56:43.00,Default,NTP,0000,0000,0000,,Sir Ulrich.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}乌瑞克爵士
+Dialogue: 0,0:56:44.85,0:56:47.94,Default,NTP,0000,0000,0000,,Why don't you show us a dance of your country?{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}你何不让我们看看 贵国的舞步？
+Dialogue: 0,0:56:48.68,0:56:51.02,Default,NTP,0000,0000,0000,,Show us a dance of Gelderland.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}让我们看看盖德兰的舞步
+Dialogue: 0,0:56:53.02,0:56:55.18,Default,NTP,0000,0000,0000,,Yes. Gelderland.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}是的 盖德兰
+Dialogue: 0,0:56:59.36,0:57:02.20,Default,NTP,0000,0000,0000,,Well,it's a lot like the farandole{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}那很像法兰多拉舞
+Dialogue: 0,0:57:03.53,0:57:06.37,Default,NTP,0000,0000,0000,,but with some differences.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}但有些不同
+Dialogue: 0,0:57:07.54,0:57:09.53,Default,NTP,0000,0000,0000,,Well,you bow.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}先鞠躬
+Dialogue: 0,0:57:13.88,0:57:15.37,Default,NTP,0000,0000,0000,,And{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}然后
+Dialogue: 0,0:57:27.56,0:57:28.72,Default,NTP,0000,0000,0000,,and.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}然后
+Dialogue: 0,0:57:42.74,0:57:44.90,Default,NTP,0000,0000,0000,,Places. Places.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}各位请就定位
+Dialogue: 0,1:00:54.59,1:00:55.76,Default,NTP,0000,0000,0000,,What?{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}怎么了？
+Dialogue: 0,1:00:57.10,1:01:02.43,Default,NTP,0000,0000,0000,,- I don't know. Too small,too light.  - He'll be crushed. Killed.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}- 我不知道 太小太轻了  - 他会被打扁 打到死翘翘
+Dialogue: 0,1:01:02.70,1:01:07.40,Default,NTP,0000,0000,0000,,No. I found a new way to heat steel. It's thinner,smaller{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}不会 我发现炼钢的新方法 做起来比较薄 比较小
+Dialogue: 0,1:01:07.61,1:01:09.27,Default,NTP,0000,0000,0000,,but just as strong.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}但是一样坚固
+Dialogue: 0,1:01:09.54,1:01:10.70,Default,NTP,0000,0000,0000,,What are these?{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}这是什么？
+Dialogue: 0,1:01:11.11,1:01:14.77,Default,NTP,0000,0000,0000,,The marks of my trade should another knight admire the armor.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}我的商标 以备有其他骑士 喜欢我做的盔甲
+Dialogue: 0,1:01:17.28,1:01:20.62,Default,NTP,0000,0000,0000,,Twist and bend. Feel the movement.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}活动活动 感受它的轻巧
+Dialogue: 0,1:01:22.22,1:01:25.55,Default,NTP,0000,0000,0000,,- But eventually I will be struck.  - And then death.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}- 但我终究会被击中  - 然后死掉
+Dialogue: 0,1:01:26.29,1:01:28.96,Default,NTP,0000,0000,0000,,Do you at least have the courage to test it?{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}你有勇气测试看看吗？
+Dialogue: 0,1:01:38.40,1:01:39.39,Default,NTP,0000,0000,0000,,You okay?{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}你还好吗？
+Dialogue: 0,1:01:40.97,1:01:42.63,Default,NTP,0000,0000,0000,,I didn't feel a thing.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}我什么感觉都没有
+Dialogue: 0,1:01:45.25,1:01:49.41,Default,NTP,0000,0000,0000,,{\fn华文楷体\fs16\1c&HE0E0E0&}枪术比赛会场 拉格尼叙马恩
+Dialogue: 0,1:02:09.67,1:02:12.66,Default,NTP,0000,0000,0000,,- Who's that knight?  - Piers Courtenay.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}- 那位骑士是谁？  - 皮耶寇特尼
+Dialogue: 0,1:02:12.94,1:02:17.17,Default,NTP,0000,0000,0000,,He's raised taxes on his land 3 times this year to pay for tournament.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}他为了筹款参加枪术比赛 今年已经提高税收三次了
+Dialogue: 0,1:02:17.38,1:02:20.21,Default,NTP,0000,0000,0000,,His people starve while he sits at banquet.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}他的人民在挨饿受苦 他却在大肆庆祝
+Dialogue: 0,1:02:23.88,1:02:24.87,Default,NTP,0000,0000,0000,,It's probably true.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}很有可能是真的吧
+Dialogue: 0,1:02:59.65,1:03:02.99,Default,NTP,0000,0000,0000,,Ulrich! Ulrich! Ulrich! Ulrich!{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}乌瑞克！ 乌瑞克！ 乌瑞克！
+Dialogue: 0,1:03:03.49,1:03:06.15,Default,NTP,0000,0000,0000,,Ulrich von Lichtenstein.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}乌瑞克冯利顿斯坦
+Dialogue: 0,1:03:07.59,1:03:09.15,Default,NTP,0000,0000,0000,,The Count Adhemar{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}阿德玛伯爵
+Dialogue: 0,1:03:09.83,1:03:11.82,Default,NTP,0000,0000,0000,,son of Philippe de Vitry{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}菲利浦德维崔之子
+Dialogue: 0,1:03:12.17,1:03:14.33,Default,NTP,0000,0000,0000,,son of Gilles{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}吉尔之孙
+Dialogue: 0,1:03:15.33,1:03:16.82,Default,NTP,0000,0000,0000,,master of the free companies{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}自由连队的领导者
+Dialogue: 0,1:03:17.44,1:03:20.27,Default,NTP,0000,0000,0000,,defender of his enormous manhood{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}雄壮威武的卫冕者
+Dialogue: 0,1:03:21.01,1:03:23.50,Default,NTP,0000,0000,0000,,a shining example of chivalry{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}骑士精神的良好楷模
+Dialogue: 0,1:03:23.84,1:03:25.68,Default,NTP,0000,0000,0000,,and champagne.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}还有香槟
+Dialogue: 0,1:03:30.18,1:03:31.67,Default,NTP,0000,0000,0000,,Nice work!{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}说得好！
+Dialogue: 0,1:03:33.19,1:03:34.52,Default,NTP,0000,0000,0000,,Bravo!{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}精采极了！
+Dialogue: 0,1:03:37.96,1:03:41.12,Default,NTP,0000,0000,0000,,Watch every move Adhemar makes. We'll find a weakness.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}仔细观察阿德玛的动作 找出他的弱点
+Dialogue: 0,1:03:41.36,1:03:43.02,Default,NTP,0000,0000,0000,,Well,Colville looks fit.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}寇维尔看起来状况很好
+Dialogue: 0,1:03:43.36,1:03:44.56,Default,NTP,0000,0000,0000,,my liege{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}我的主人
+Dialogue: 0,1:03:44.77,1:03:47.50,Default,NTP,0000,0000,0000,,the second son of Sir Wallace Percival.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}华特斯普西佛爵士二公子
+Dialogue: 0,1:03:47.70,1:03:50.53,Default,NTP,0000,0000,0000,,It is my deepest honor{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}我谨以最深的敬意
+Dialogue: 0,1:03:54.04,1:03:56.30,Default,NTP,0000,0000,0000,,My deepest honor to present to you.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}以我最深的敬意向各位介绍
+Dialogue: 0,1:03:57.04,1:04:00.04,Default,NTP,0000,0000,0000,,It's Edward,my lord. They're sure of it.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}大人 是爱德华 他们很肯定
+Dialogue: 0,1:04:03.05,1:04:06.54,Default,NTP,0000,0000,0000,,the illustrious Sir Thomas Colville!{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}显赫的汤玛斯寇维尔爵士！
+Dialogue: 0,1:04:22.40,1:04:24.06,Default,NTP,0000,0000,0000,,Adhemar withdrew.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}阿德玛退出比赛了
+Dialogue: 0,1:04:24.40,1:04:26.89,Default,NTP,0000,0000,0000,,To withdraw like that means one thing.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}会那样退出只代表一件事
+Dialogue: 0,1:04:28.07,1:04:29.24,Default,NTP,0000,0000,0000,,Royalty.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}皇室
+Dialogue: 0,1:04:39.59,1:04:41.58,Default,NTP,0000,0000,0000,,I'll see what I can find out.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}我去打听看看
+Dialogue: 0,1:04:43.42,1:04:45.08,Default,NTP,0000,0000,0000,,Prepare to drop the flag.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}准备降旗
+Dialogue: 0,1:04:45.36,1:04:48.19,Default,NTP,0000,0000,0000,,No,no. Not yet. Wait,listen.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}不 还不要 等等 听着
+Dialogue: 0,1:04:48.43,1:04:50.09,Default,NTP,0000,0000,0000,,Musicians,announce.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}乐手们 快吹号
+Dialogue: 0,1:04:50.36,1:04:53.82,Default,NTP,0000,0000,0000,,- I must speak with my lord.  - Then go.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}- 我有事跟我主人报告  - 那就去吧
+Dialogue: 0,1:04:54.03,1:04:56.59,Default,NTP,0000,0000,0000,,See if you can beat the Second Coming.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}看你能否快过基督复临
+Dialogue: 0,1:04:57.60,1:04:59.27,Default,NTP,0000,0000,0000,,Wait! Wait!{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}慢着！ 等等！
+Dialogue: 0,1:05:01.04,1:05:05.44,Default,NTP,0000,0000,0000,,Colville is Edward,the Black Prince,future king of England.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}寇维尔就是黑王子爱德华 英格兰的王储
+Dialogue: 0,1:05:05.78,1:05:08.14,Default,NTP,0000,0000,0000,,He's in disguise like me so he can compete.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}他跟我一样 为了参赛而掩饰身份
+Dialogue: 0,1:05:08.35,1:05:12.11,Default,NTP,0000,0000,0000,,He's never met an enemy without victory or town he couldn't defeat.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}他每战必胜 攻无不克
+Dialogue: 0,1:05:12.39,1:05:14.38,Default,NTP,0000,0000,0000,,We're English! We know who he is!{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}我们是英国人！ 我们知道！
+Dialogue: 0,1:05:14.62,1:05:17.95,Default,NTP,0000,0000,0000,,- You must withdraw. Tell them,Geoff.  - Absolutely!{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}- 你必须退出 杰夫 告诉他们  - 那当然！
+Dialogue: 0,1:05:18.23,1:05:19.12,Default,NTP,0000,0000,0000,,The lance.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}长枪给我
+Dialogue: 0,1:05:26.63,1:05:27.96,Default,NTP,0000,0000,0000,,Give me the lance.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}把长枪给我
+Dialogue: 0,1:05:35.48,1:05:36.63,Default,NTP,0000,0000,0000,,Lance!{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}长枪拿来！
+Dialogue: 0,1:05:50.82,1:05:52.99,Default,NTP,0000,0000,0000,,Oh,my giddy aunt.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}我的老天爷啊
+Dialogue: 0,1:05:57.33,1:05:59.82,Default,NTP,0000,0000,0000,,The match is a draw.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}这场比赛不分胜负
+Dialogue: 0,1:06:03.00,1:06:05.60,Default,NTP,0000,0000,0000,,You mad? You endanger a royal family member.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}你疯了吗？ 你差点伤了皇室成员
+Dialogue: 0,1:06:06.11,1:06:08.01,Default,NTP,0000,0000,0000,,He endangers himself.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}是他自己让自己置身危险
+Dialogue: 0,1:06:08.84,1:06:11.33,Default,NTP,0000,0000,0000,,Well fought,Sir Ulrich,as in Rouen.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}爵士 打得好 一如在鲁昂
+Dialogue: 0,1:06:13.35,1:06:15.11,Default,NTP,0000,0000,0000,,You also,Prince Edward.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}您也是 爱德华王子
+Dialogue: 0,1:06:20.45,1:06:21.44,Default,NTP,0000,0000,0000,,You knew me?{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}你知道是我？
+Dialogue: 0,1:06:26.69,1:06:27.85,Default,NTP,0000,0000,0000,,And still you rode?{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}但你还是上场比赛？
+Dialogue: 0,1:06:29.03,1:06:33.02,Default,NTP,0000,0000,0000,,- It's not in me to withdraw.  - No. Nor me.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}- 退出不是我的作风  - 我也一样
+Dialogue: 0,1:06:35.63,1:06:37.30,Default,NTP,0000,0000,0000,,Though it happens.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}虽然这种事常有
+Dialogue: 0,1:06:39.71,1:06:40.70,Default,NTP,0000,0000,0000,,Yes,it does.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}的确
+Dialogue: 0,1:06:43.38,1:06:46.54,Default,NTP,0000,0000,0000,,- Good luck to you.  - You also.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}- 祝你好运  - 您也是
+Dialogue: 0,1:06:49.05,1:06:53.21,Default,NTP,0000,0000,0000,,The winner of the mounted joust and tournament champion{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}马上长枪大赛 和锦标赛的优胜者是
+Dialogue: 0,1:06:53.55,1:06:55.82,Default,NTP,0000,0000,0000,,Ulrich von Lichtenstein.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}乌瑞克冯利顿斯坦
+Dialogue: 0,1:07:01.89,1:07:05.23,Default,NTP,0000,0000,0000,,- Melt it,sell it,do whatever you do.  - Yes,Your Majesty.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}- 要熔要卖都随你  - 是的 大人
+Dialogue: 0,1:07:05.50,1:07:06.66,Default,NTP,0000,0000,0000,,You're champion!{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}你是冠军！
+Dialogue: 0,1:07:06.90,1:07:09.89,Default,NTP,0000,0000,0000,,I'm not champion until I defeat Adhemar. He withdrew.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}我还不是冠军 除非打败阿德玛 他中途退出
+Dialogue: 0,1:07:10.24,1:07:11.57,Default,NTP,0000,0000,0000,,Sir Ulrich.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}乌瑞克爵士
+Dialogue: 0,1:07:12.91,1:07:16.74,Default,NTP,0000,0000,0000,,- Tell me what you'll wear tonight.  - Nothing.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}- 告诉我你今晚要穿什么  - 什么都不穿
+Dialogue: 0,1:07:17.08,1:07:19.91,Default,NTP,0000,0000,0000,,We'll cause a sensation,for I'll dress to match.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}那么我们会引起骚动 因为我会配合你
+Dialogue: 0,1:07:20.18,1:07:22.67,Default,NTP,0000,0000,0000,,Don't you get tired of putting on clothes?{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}你穿衣服穿得不烦吗？
+Dialogue: 0,1:07:22.92,1:07:25.41,Default,NTP,0000,0000,0000,,She's talking about taking them off.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}她说的是不要穿
+Dialogue: 0,1:07:27.25,1:07:30.25,Default,NTP,0000,0000,0000,,A flower is only as good as its petals,no?{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}有花没有瓣也是没有用的 不是吗？
+Dialogue: 0,1:07:30.59,1:07:32.25,Default,NTP,0000,0000,0000,,A flower is good for nothing.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}花儿一点用处也没有
+Dialogue: 0,1:07:34.76,1:07:35.92,Default,NTP,0000,0000,0000,,Really?{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}真的？
+Dialogue: 0,1:07:36.76,1:07:39.76,Default,NTP,0000,0000,0000,,You can't eat a flower. It doesn't keep you warm.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}花儿不能吃 也不能保暖
+Dialogue: 0,1:07:40.03,1:07:43.53,Default,NTP,0000,0000,0000,,And a rose never knocked a man off a horse either,did it?{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}玫瑰也从来不曾 把男人击落马下 不是吗？
+Dialogue: 0,1:07:45.87,1:07:48.53,Default,NTP,0000,0000,0000,,You're just a silly girl,aren't you?{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}你只是个蠢女孩 不是吗？
+Dialogue: 0,1:07:51.78,1:07:56.61,Default,NTP,0000,0000,0000,,Better a silly girl with a flower than a silly boy with a horse and stick.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}拿着花的蠢女孩 总好过骑马拿着棍棒的蠢男孩
+Dialogue: 0,1:08:01.29,1:08:02.62,Default,NTP,0000,0000,0000,,Goodbye.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}再见
+Dialogue: 0,1:08:06.79,1:08:08.78,Default,NTP,0000,0000,0000,,It's called a lance.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}那叫做长枪
+Dialogue: 0,1:08:09.13,1:08:10.62,Default,NTP,0000,0000,0000,,Hello.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}懂不懂啊
+Dialogue: 0,1:08:11.97,1:08:15.13,Default,NTP,0000,0000,0000,,{\fn华文楷体\fs16\1c&HE0E0E0&}波尔多
+Dialogue: 0,1:08:42.16,1:08:43.82,Default,NTP,0000,0000,0000,,- I have word.  - What?{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}- 我听到消息  - 什么？
+Dialogue: 0,1:08:44.16,1:08:47.00,Default,NTP,0000,0000,0000,,Adhemar was called back to the free companies.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}阿德玛被召回自由连队
+Dialogue: 0,1:08:47.33,1:08:50.27,Default,NTP,0000,0000,0000,,Edward commanded it. He could be gone all season.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}是爱德华下的令 他可能整季都不会回来
+Dialogue: 0,1:08:51.34,1:08:54.17,Default,NTP,0000,0000,0000,,First Jocelyn and now Adhemar.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}先是约瑟琳 现在又是阿德玛
+Dialogue: 0,1:08:59.85,1:09:01.18,Default,NTP,0000,0000,0000,,well done.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}说得真好
+Dialogue: 0,1:09:01.52,1:09:03.68,Default,NTP,0000,0000,0000,,Yeah,well done.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}是啊 说得好
+Dialogue: 0,1:09:07.02,1:09:10.51,Default,NTP,0000,0000,0000,,{\fn华文楷体\fs16\1c&HE0E0E0&}南方前线 普瓦提耶战役
+Dialogue: 0,1:09:14.36,1:09:16.69,Default,NTP,0000,0000,0000,,The tournament results,my lord.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}大人 比赛结果在这里
+Dialogue: 0,1:09:29.71,1:09:30.87,Default,NTP,0000,0000,0000,,Ulrich.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}乌瑞克
+Dialogue: 0,1:09:31.71,1:09:33.04,Default,NTP,0000,0000,0000,,Ulrich.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}乌瑞克
+Dialogue: 0,1:09:33.88,1:09:35.04,Default,NTP,0000,0000,0000,,Ulrich.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}乌瑞克
+Dialogue: 0,1:09:54.07,1:09:55.23,Default,NTP,0000,0000,0000,,- Geoff.  - William.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}- 杰夫  - 威廉
+Dialogue: 0,1:09:56.07,1:09:57.73,Default,NTP,0000,0000,0000,,I need to write a letter.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}我需要写一封信
+Dialogue: 0,1:09:58.34,1:10:01.00,Default,NTP,0000,0000,0000,,"Dear Jocelyn." No. "My dearest Jocelyn."{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}“亲爱的约瑟琳”不“挚爱的约瑟琳”
+Dialogue: 0,1:10:01.27,1:10:02.60,Default,NTP,0000,0000,0000,,Better.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}好多了
+Dialogue: 0,1:10:06.35,1:10:07.51,Default,NTP,0000,0000,0000,,"I miss you."{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}“我想你”
+Dialogue: 0,1:10:08.68,1:10:10.15,Default,NTP,0000,0000,0000,,Was that wrong?{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}那样不对吗？
+Dialogue: 0,1:10:10.35,1:10:15.01,Default,NTP,0000,0000,0000,,Well,it's up to you,really. It's your funeral,I mean,letter.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}其实要看你啦 这是你的告别式 我是说你的信
+Dialogue: 0,1:10:16.09,1:10:18.92,Default,NTP,0000,0000,0000,,- Say something about her breasts.  - You miss them.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}- 提提她的胸部  - 你想念他们
+Dialogue: 0,1:10:19.76,1:10:20.75,Default,NTP,0000,0000,0000,,Her breasts?{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}她的胸部？
+Dialogue: 0,1:10:22.03,1:10:27.02,Default,NTP,0000,0000,0000,,Yes,you could,but I would tend to look above her breasts.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}是的 你可以 但要是我 就会看她胸部以上的地方
+Dialogue: 0,1:10:28.44,1:10:30.10,Default,NTP,0000,0000,0000,,I miss her throat?{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}我想念她的喉咙？
+Dialogue: 0,1:10:30.37,1:10:32.70,Default,NTP,0000,0000,0000,,Still higher. Towards the heavens.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}再高一点 朝向天堂
+Dialogue: 0,1:10:32.94,1:10:35.77,Default,NTP,0000,0000,0000,,The moon. Her breasts weren't that impressive.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}月亮啊 她的双峰没那么让人印象深刻
+Dialogue: 0,1:10:36.04,1:10:38.27,Default,NTP,0000,0000,0000,,The moon? The moon.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}月亮？ 月亮啊
+Dialogue: 0,1:10:41.61,1:10:43.45,Default,NTP,0000,0000,0000,,"It is strange to think{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}想起来实在奇怪
+Dialogue: 0,1:10:45.12,1:10:47.28,Default,NTP,0000,0000,0000,,I have not seen you in a month.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}我已经一个月没见你了
+Dialogue: 0,1:10:49.96,1:10:53.29,Default,NTP,0000,0000,0000,,I have seen the new moon,but not you.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}我见到了新月 却不见你
+Dialogue: 0,1:10:55.46,1:11:00.13,Default,NTP,0000,0000,0000,,I have seen sunsets and sunrises,but nothing of your beautiful face."{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}我看到了日升日落 却未看到你美丽的容颜
+Dialogue: 0,1:11:04.47,1:11:06.46,Default,NTP,0000,0000,0000,,That's very good.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}非常好
+Dialogue: 0,1:11:07.31,1:11:09.80,Default,NTP,0000,0000,0000,,I knew this girl once who.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}我曾经认识一个女孩
+Dialogue: 0,1:11:11.14,1:11:13.48,Default,NTP,0000,0000,0000,,She broke my heart. I said the pieces- -{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}她让我心碎 我说心的碎片
+Dialogue: 0,1:11:13.75,1:11:18.41,Default,NTP,0000,0000,0000,,"The pieces of my broken heart can pass through the eye of a needle. "{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}“我说心的碎片 小的都可以穿过针孔了”
+Dialogue: 0,1:11:21.49,1:11:23.58,Default,NTP,0000,0000,0000,,He writes as though I had died.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}他写得好像我已经死了
+Dialogue: 0,1:11:23.82,1:11:26.81,Default,NTP,0000,0000,0000,,Yes,madame. He dies as well.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}是的 女士 他也像死了一样
+Dialogue: 0,1:11:28.50,1:11:31.16,Default,NTP,0000,0000,0000,,She used to cook for the Duke of York.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}她曾是约克公爵的厨子
+Dialogue: 0,1:11:34.17,1:11:37.50,Default,NTP,0000,0000,0000,,I miss her like the sun misses the flower.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}我对她的思念 就像太阳对花儿的思念
+Dialogue: 0,1:11:38.00,1:11:41.00,Default,NTP,0000,0000,0000,,"I miss you like the sun misses the floWer."{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}我对你的思念 就像太阳对花儿的思念
+Dialogue: 0,1:11:41.68,1:11:45.34,Default,NTP,0000,0000,0000,,Like the sun misses the flower in the depths of winter.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}就像太阳在深冬 对花儿的思念
+Dialogue: 0,1:11:47.01,1:11:50.18,Default,NTP,0000,0000,0000,,Instead of beauty to direct its light to{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}少了花儿的艳容 引导着阳光
+Dialogue: 0,1:11:50.85,1:11:55.34,Default,NTP,0000,0000,0000,,the heart hardens like the frozen world your absence has sent me to.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}心也就变得麻痹 就像你不在我身边般寒冷
+Dialogue: 0,1:11:55.69,1:11:57.68,Default,NTP,0000,0000,0000,,I next compete in Paris.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}我接下来会在巴黎出赛
+Dialogue: 0,1:11:58.69,1:12:01.85,Default,NTP,0000,0000,0000,,I'll find it empty and cold if you're not there.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}如果你不在那里 我会觉得空虚寒冷
+Dialogue: 0,1:12:03.03,1:12:04.52,Default,NTP,0000,0000,0000,,I like it.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}我喜欢
+Dialogue: 0,1:12:05.36,1:12:07.53,Default,NTP,0000,0000,0000,,And now,to finish it.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}现在 写结语吧
+Dialogue: 0,1:12:08.87,1:12:10.53,Default,NTP,0000,0000,0000,,With "hope."{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}用“希望”
+Dialogue: 0,1:12:11.37,1:12:13.53,Default,NTP,0000,0000,0000,,Love should end with hope.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}爱应该以希望作结
+Dialogue: 0,1:12:14.87,1:12:17.71,Default,NTP,0000,0000,0000,,My husband,God rest him{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}我丈夫 愿他安息
+Dialogue: 0,1:12:18.14,1:12:20.37,Default,NTP,0000,0000,0000,,said something I'll never forget.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}说了句我永远不会忘记的话
+Dialogue: 0,1:12:22.22,1:12:23.71,Default,NTP,0000,0000,0000,,"Hope guides me. It "{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}“希望引导着我”
+Dialogue: 0,1:12:23.98,1:12:27.48,Default,NTP,0000,0000,0000,,"It gets me through the day and especially the night.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}让我得以度过白日 特别是夜晚
+Dialogue: 0,1:12:28.55,1:12:31.05,Default,NTP,0000,0000,0000,,The hope that after you leave my sight{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}希望即使你远离我
+Dialogue: 0,1:12:31.32,1:12:34.05,Default,NTP,0000,0000,0000,,it will not be the last time I look upon you."{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}这也不会是 我最后一次看到你
+Dialogue: 0,1:12:37.90,1:12:39.56,Default,NTP,0000,0000,0000,,Finish it With:{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}结语就写
+Dialogue: 0,1:12:40.23,1:12:44.50,Default,NTP,0000,0000,0000,,"With all the love that I possessWilliam."{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}“献上我所有的爱威廉”
+Dialogue: 0,1:12:45.94,1:12:47.03,Default,NTP,0000,0000,0000,,You mean "Ulrich."{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}你是指“乌瑞克”
+Dialogue: 0,1:12:49.44,1:12:51.77,Default,NTP,0000,0000,0000,,"With all the love I possess{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}献上我所有的爱
+Dialogue: 0,1:12:53.45,1:12:55.28,Default,NTP,0000,0000,0000,,I remain yours{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}我依旧属于你
+Dialogue: 0,1:12:56.12,1:12:58.11,Default,NTP,0000,0000,0000,,the knight of your heart."{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}你芳心中的骑士
+Dialogue: 0,1:13:07.13,1:13:11.29,Default,NTP,0000,0000,0000,,My master hoped you might have something to send him in return.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}我的主人希望你或许能够 回他几句话
+Dialogue: 0,1:13:24.14,1:13:25.80,Default,NTP,0000,0000,0000,,{\fn华文楷体\fs16\1c&HE0E0E0&}巴黎
+Dialogue: 0,1:13:26.08,1:13:30.91,Default,NTP,0000,0000,0000,,Cock a doodle once! I shall not deny him. Twice! I shall not. Thrice!{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}鸡鸣一次 我不会不承认他！ 鸡鸣两次 我不会！ 三次！
+Dialogue: 0,1:13:31.65,1:13:33.24,Default,NTP,0000,0000,0000,,I deny him.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}我不承认他
+Dialogue: 0,1:13:33.65,1:13:35.09,Default,NTP,0000,0000,0000,,Thrice he denied him!{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}三次他不承认他
+Dialogue: 0,1:13:41.30,1:13:42.79,Default,NTP,0000,0000,0000,,No Adhemar.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}阿德玛没参加
+Dialogue: 0,1:13:44.53,1:13:45.73,Default,NTP,0000,0000,0000,,No Adhemar.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}阿德玛没参加
+Dialogue: 0,1:13:51.41,1:13:52.57,Default,NTP,0000,0000,0000,,Wat.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}华特
+Dialogue: 0,1:13:55.64,1:13:58.74,Default,NTP,0000,0000,0000,,Tell me,did you see her? Did she read the letter?{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}告诉我 你见到了她吗？ 她看了信吗？
+Dialogue: 0,1:13:59.05,1:14:01.04,Default,NTP,0000,0000,0000,,Yes,and yes.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}是的 有的
+Dialogue: 0,1:14:01.98,1:14:02.88,Default,NTP,0000,0000,0000,,And?{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}然后？
+Dialogue: 0,1:14:08.99,1:14:10.48,Default,NTP,0000,0000,0000,,She's coming to Paris!{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}她要来巴黎！
+Dialogue: 0,1:14:14.06,1:14:18.73,Default,NTP,0000,0000,0000,,Did she give you anything for me in return? A letter? A token?{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}她要你带什么回来给我吗？ 一封信？ 一个信物？
+Dialogue: 0,1:14:19.33,1:14:21.56,Default,NTP,0000,0000,0000,,Did she give me a token? She did.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}她要给我一个信物？ 她有
+Dialogue: 0,1:14:24.00,1:14:25.34,Default,NTP,0000,0000,0000,,Uh,I mean,um.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}我是说 嗯
+Dialogue: 0,1:14:25.91,1:14:28.57,Default,NTP,0000,0000,0000,,Well,what is it? Give it to me.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}是什么？ 快给我
+Dialogue: 0,1:14:37.42,1:14:38.75,Default,NTP,0000,0000,0000,,Yes!{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}好耶！
+Dialogue: 0,1:14:41.09,1:14:42.75,Default,NTP,0000,0000,0000,,Hell,yes!{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}太好了！
+Dialogue: 0,1:14:44.09,1:14:47.93,Default,NTP,0000,0000,0000,,She-- Because she's-- That means she-- Yeah!{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}她… 因为她… 那表示她… 太好了！
+Dialogue: 0,1:14:51.73,1:14:53.10,Default,NTP,0000,0000,0000,,Cinquante.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}五十
+Dialogue: 0,1:14:54.30,1:14:55.89,Default,NTP,0000,0000,0000,,That's a nice round number.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}那是个不错的整数
+Dialogue: 0,1:14:56.67,1:14:57.87,Default,NTP,0000,0000,0000,,Excuse- moi.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}借过
+Dialogue: 0,1:15:01.58,1:15:05.84,Default,NTP,0000,0000,0000,,They wager that a Frenchman,not Sir Ulrich,will win the tournament.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}他们赌法国人 而非乌瑞克爵士会赢得比赛
+Dialogue: 0,1:15:07.58,1:15:09.24,Default,NTP,0000,0000,0000,,But the amount is 50 florins.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}但赌注是五十个银币
+Dialogue: 0,1:15:09.52,1:15:12.42,Default,NTP,0000,0000,0000,,- That's all we got.  - If we had 60,it would be that.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}- 那是我们全部的钱  - 就是要赌我们所有的钱
+Dialogue: 0,1:15:12.69,1:15:15.18,Default,NTP,0000,0000,0000,,Ulrich against every Frenchman here?{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}乌瑞克对抗这里每个法国人？
+Dialogue: 0,1:15:15.42,1:15:19.09,Default,NTP,0000,0000,0000,,He's won four tournaments in a row. And Adhemar isn't here.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}他已经连续赢得四场比赛 而且阿德玛不在这里
+Dialogue: 0,1:15:19.36,1:15:22.35,Default,NTP,0000,0000,0000,,I check shields too. John Beaumont's here.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}我也查过盾牌了 约翰波蒙在这里
+Dialogue: 0,1:15:22.60,1:15:26.19,Default,NTP,0000,0000,0000,,Count Theobald,Philip of Burgundy all French champions.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}席德伯爵 勃艮地的菲力浦 都是法国的冠军
+Dialogue: 0,1:15:26.43,1:15:27.96,Default,NTP,0000,0000,0000,,Englishmen will not win{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}英国人无法赢得
+Dialogue: 0,1:15:28.17,1:15:30.00,Default,NTP,0000,0000,0000,,this French tournament.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}这场法国锦标赛
+Dialogue: 0,1:15:30.34,1:15:34.00,Default,NTP,0000,0000,0000,,English legs are unsteady on French soil.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}英国人的脚 在法国土地上站不稳
+Dialogue: 0,1:15:36.44,1:15:38.67,Default,NTP,0000,0000,0000,,Shut your mouth,all right?!{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}闭上你的嘴 可以吗？
+Dialogue: 0,1:15:40.35,1:15:44.68,Default,NTP,0000,0000,0000,,Come on,Roland. It's a good bet. Win and I can buy my own tavern.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}洛伦 赌吧 胜算很大 赢了我就可以买间酒馆
+Dialogue: 0,1:15:45.02,1:15:47.85,Default,NTP,0000,0000,0000,,- I could write full- time.  - A forge for me.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}- 我就可以专职写作 - 我可以买个炼炉
+Dialogue: 0,1:15:48.19,1:15:52.68,Default,NTP,0000,0000,0000,,And because French wine is too much for English bellies.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}而且法国酒 对英国人的胃来说也太烈了
+Dialogue: 0,1:15:53.03,1:15:57.96,Default,NTP,0000,0000,0000,,Listen,I'm about this fonging close,mate. I swear to God,Quasimodo!{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}听着 老兄 我就快揍人了 我对上帝发誓 真的！
+Dialogue: 0,1:15:58.53,1:16:02.87,Default,NTP,0000,0000,0000,,All I want is to go home,and I've enough for that trip a hundred times.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}我只想回家 而且我的钱 够我回家一百次了
+Dialogue: 0,1:16:03.20,1:16:07.70,Default,NTP,0000,0000,0000,,And most importantly,because the pope himself is French!{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}最重要的是 连教宗都是法国人！
+Dialogue: 0,1:16:10.38,1:16:13.64,Default,NTP,0000,0000,0000,,The pope may be French,but Jesus is English. You're on.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}教宗或许是法国人 但耶稣是英国人 赌了
+Dialogue: 0,1:16:14.72,1:16:17.21,Default,NTP,0000,0000,0000,,He won't lose with the princess watching him.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}有公主来看他 他不会输的
+Dialogue: 0,1:16:17.48,1:16:19.48,Default,NTP,0000,0000,0000,,He's blond! He's pissed!{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}他金发碧眼！ 他极度恼火！
+Dialogue: 0,1:16:19.72,1:16:24.39,Default,NTP,0000,0000,0000,,He'll see you in the lists! Lichtenstein! Lichtenstein!{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}他会上场的！ 利顿斯坦！ 利顿斯坦！
+Dialogue: 0,1:16:24.66,1:16:28.22,Default,NTP,0000,0000,0000,,He's blond! He's tan! He comes from Gelderland!{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}他金发碧眼！ 他黝黑健壮！ 他来自盖德兰！
+Dialogue: 0,1:16:28.56,1:16:30.55,Default,NTP,0000,0000,0000,,He comes from Gelderland!{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}他来自盖德兰！
+Dialogue: 0,1:16:30.90,1:16:33.73,Default,NTP,0000,0000,0000,,Gelderland!{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}盖德兰！
+Dialogue: 0,1:16:49.25,1:16:53.24,Default,NTP,0000,0000,0000,,- You think he will come?  - As sure as the sun will rise.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}- 你想他会来吗？  - 就像太阳会升起一样肯定
+Dialogue: 0,1:17:18.95,1:17:20.78,Default,NTP,0000,0000,0000,,You favor cathedrals.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}你喜欢大教堂
+Dialogue: 0,1:17:23.45,1:17:25.28,Default,NTP,0000,0000,0000,,I come for confession.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}我是来忏悔的
+Dialogue: 0,1:17:28.62,1:17:30.61,Default,NTP,0000,0000,0000,,And the glass.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}还有来欣赏玻璃
+Dialogue: 0,1:17:31.46,1:17:34.79,Default,NTP,0000,0000,0000,,A riot of color in a dreary,gray world.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}一个沉闷灰暗世界里的 缤纷色彩
+Dialogue: 0,1:17:35.96,1:17:37.45,Default,NTP,0000,0000,0000,,Don't you think?{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}你不认为吗？
+Dialogue: 0,1:17:38.47,1:17:40.13,Default,NTP,0000,0000,0000,,It's beautiful.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}真美
+Dialogue: 0,1:17:44.30,1:17:47.14,Default,NTP,0000,0000,0000,,I feel the same about the letter you sent.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}你送来的信 也让我有同样的感觉
+Dialogue: 0,1:17:49.98,1:17:51.64,Default,NTP,0000,0000,0000,,Speak to me.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}跟我说话
+Dialogue: 0,1:17:52.31,1:17:54.14,Default,NTP,0000,0000,0000,,Speak those words.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}说说那些话
+Dialogue: 0,1:17:56.32,1:17:58.58,Default,NTP,0000,0000,0000,,I will win this tournament for you.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}我会为你赢得这场锦标赛
+Dialogue: 0,1:17:59.42,1:18:00.41,Default,NTP,0000,0000,0000,,Excuse me?{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}什么？
+Dialogue: 0,1:18:00.66,1:18:05.65,Default,NTP,0000,0000,0000,,I'll win this tournament in your name. I'll defeat each knight for you.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}我会为你赢得这场锦标赛 我会为你打败每一个骑士
+Dialogue: 0,1:18:05.99,1:18:10.99,Default,NTP,0000,0000,0000,,Your beauty will be reflected in the power of my arm and my horse's flanks.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}你的美会反映在我手臂的力量 和我马儿的侧腹上
+Dialogue: 0,1:18:12.00,1:18:13.33,Default,NTP,0000,0000,0000,,Wow.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}哇
+Dialogue: 0,1:18:14.50,1:18:15.83,Default,NTP,0000,0000,0000,,Really?{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}真的？
+Dialogue: 0,1:18:16.34,1:18:18.67,Default,NTP,0000,0000,0000,,Really? Its flanks?{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}真的？ 它的侧腹？
+Dialogue: 0,1:18:22.01,1:18:24.50,Default,NTP,0000,0000,0000,,I wish to hear poetry,Ulrich.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}乌瑞克 我想听的是诗句
+Dialogue: 0,1:18:26.01,1:18:28.00,Default,NTP,0000,0000,0000,,Well,I'm not ready.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}我还没准备好
+Dialogue: 0,1:18:29.85,1:18:33.95,Default,NTP,0000,0000,0000,,I am. Why must everything for a woman be run on a man's schedule?{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}我准备好了 为什么女人 事事必须照男人的时间表来？
+Dialogue: 0,1:18:34.19,1:18:37.68,Default,NTP,0000,0000,0000,,Well,a man's day is fuller,and{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}男人要做的事比较多 而且
+Dialogue: 0,1:18:38.02,1:18:41.02,Default,NTP,0000,0000,0000,,he has more demands on his time.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}他的时间也比较宝贵
+Dialogue: 0,1:18:41.36,1:18:43.35,Default,NTP,0000,0000,0000,,- Is that so?  - Yes.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}- 是吗？  - 是的
+Dialogue: 0,1:18:44.03,1:18:45.19,Default,NTP,0000,0000,0000,,Maybe.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}或许吧
+Dialogue: 0,1:18:46.53,1:18:47.69,Default,NTP,0000,0000,0000,,No?{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}不是吗？
+Dialogue: 0,1:18:48.04,1:18:50.37,Default,NTP,0000,0000,0000,,I demand poetry{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}我要听诗句
+Dialogue: 0,1:18:51.21,1:18:53.87,Default,NTP,0000,0000,0000,,and when I want it. And I want it now.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}我要听 而且现在就要听
+Dialogue: 0,1:18:57.04,1:18:58.53,Default,NTP,0000,0000,0000,,Your breasts{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}你的双峰
+Dialogue: 0,1:18:59.88,1:19:02.37,Default,NTP,0000,0000,0000,,they're below your throat.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}在你的喉咙下方
+Dialogue: 0,1:19:03.55,1:19:07.71,Default,NTP,0000,0000,0000,,Jocelyn,how may I prove my love to you? How?{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}约瑟琳 我要怎么做才能证明 我对你的爱？ 怎么做？
+Dialogue: 0,1:19:10.16,1:19:13.72,Default,NTP,0000,0000,0000,,- Do you ask in earnest?  - Yes.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}- 你是认真在问？  - 是的
+Dialogue: 0,1:19:17.56,1:19:19.90,Default,NTP,0000,0000,0000,,If you would prove your love{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}如果你要证明你的爱
+Dialogue: 0,1:19:20.57,1:19:23.40,Default,NTP,0000,0000,0000,,- do your worst.  - My worst?{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}- 就做出你最差的表现  - 最差的表现？
+Dialogue: 0,1:19:25.07,1:19:26.40,Default,NTP,0000,0000,0000,,What do you mean?{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}什么意思？
+Dialogue: 0,1:19:26.91,1:19:31.74,Default,NTP,0000,0000,0000,,Instead of winning to honor me with your high reputation{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}不要用你高度的名望 为我赢得大赛
+Dialogue: 0,1:19:32.08,1:19:34.91,Default,NTP,0000,0000,0000,,act against your character and do badly.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}而是一反常态 表现走样
+Dialogue: 0,1:19:35.18,1:19:36.58,Default,NTP,0000,0000,0000,,- Do badly?  - Lose.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}- 表现走样？  - 输掉比赛
+Dialogue: 0,1:19:36.85,1:19:38.84,Default,NTP,0000,0000,0000,,Losing proves that I'm a loser.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}输掉只会证明我是窝囊废
+Dialogue: 0,1:19:39.09,1:19:42.58,Default,NTP,0000,0000,0000,,Wrong. Losing is a much keener test of your love.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}错 输了更能证明你的爱
+Dialogue: 0,1:19:42.92,1:19:45.41,Default,NTP,0000,0000,0000,,Losing would contradict your self- love.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}输会跟你的自怜相抵触
+Dialogue: 0,1:19:45.76,1:19:49.25,Default,NTP,0000,0000,0000,,It would show obedience to your lover and not yourself!{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}会显示你对爱人 而非对自己的顺从！
+Dialogue: 0,1:19:49.53,1:19:51.93,Default,NTP,0000,0000,0000,,- Really?  - Woman,shh!{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}- 真的？  - 女人 安静！
+Dialogue: 0,1:19:52.27,1:19:56.76,Default,NTP,0000,0000,0000,,Do not "shh" me and spare him! Now be gone! Go!{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}别叫我安静 而不骂他！ 你走！ 走啊！
+Dialogue: 0,1:19:59.87,1:20:01.21,Default,NTP,0000,0000,0000,,What is your answer?{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}你的答案是什么？
+Dialogue: 0,1:20:04.95,1:20:07.11,Default,NTP,0000,0000,0000,,I will not lose.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}我不会输的
+Dialogue: 0,1:20:11.89,1:20:13.62,Default,NTP,0000,0000,0000,,Then you do not love me.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}那么你就不爱我
+Dialogue: 0,1:20:27.30,1:20:29.56,Default,NTP,0000,0000,0000,,The Protector of Italian Virginity{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}意大利贞节的保护者
+Dialogue: 0,1:20:30.64,1:20:33.47,Default,NTP,0000,0000,0000,,the Lance that thrilled France{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}让法国群情激动的骑士
+Dialogue: 0,1:20:33.81,1:20:36.14,Default,NTP,0000,0000,0000,,the Harasser of Paraser!{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}男人中的男人！
+Dialogue: 0,1:20:36.48,1:20:39.14,Default,NTP,0000,0000,0000,,He gave them hell at La Rochelle!{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}在拉罗谢尔打败群敌！
+Dialogue: 0,1:20:39.81,1:20:42.65,Default,NTP,0000,0000,0000,,The Enforcer of our Lord God!{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}上帝旨意的执行者！
+Dialogue: 0,1:20:43.48,1:20:46.48,Default,NTP,0000,0000,0000,,The one,the only{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}独一无二的
+Dialogue: 0,1:20:47.32,1:20:49.65,Default,NTP,0000,0000,0000,,Sir Ulrich{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}乌瑞克
+Dialogue: 0,1:20:49.99,1:20:52.48,Default,NTP,0000,0000,0000,,von Lichtenstein!{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}冯利顿斯坦爵士！
+Dialogue: 0,1:20:59.27,1:21:00.70,Default,NTP,0000,0000,0000,,God,I'm good!{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}天啊 我真行！
+Dialogue: 0,1:21:05.94,1:21:08.27,Default,NTP,0000,0000,0000,,His horse's flanks.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}他马儿的侧腹
+Dialogue: 0,1:21:08.88,1:21:11.87,Default,NTP,0000,0000,0000,,Maybe where he comes from,it means love.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}也许在他家乡 那代表了爱
+Dialogue: 0,1:21:23.86,1:21:24.88,Default,NTP,0000,0000,0000,,What are you doing?{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}你在做什么？
+Dialogue: 0,1:21:25.29,1:21:27.45,Default,NTP,0000,0000,0000,,- Losing.  - I don't understand.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}- 输掉比赛  - 我不懂
+Dialogue: 0,1:21:28.23,1:21:29.29,Default,NTP,0000,0000,0000,,I don't understand.too{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}我也不懂
+Dialogue: 0,1:21:49.65,1:21:51.24,Default,NTP,0000,0000,0000,,He loves me.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}他爱我
+Dialogue: 0,1:21:54.32,1:21:55.58,Default,NTP,0000,0000,0000,,Are you blind?{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}你瞎了吗？
+Dialogue: 0,1:21:56.49,1:21:59.25,Default,NTP,0000,0000,0000,,- Did you see the flag?  - I saw it,okay?{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}- 你有看到旗子吗？  - 我看到了 可以吗？
+Dialogue: 0,1:22:00.16,1:22:01.82,Default,NTP,0000,0000,0000,,I know.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}我知道
+Dialogue: 0,1:22:02.16,1:22:05.33,Default,NTP,0000,0000,0000,,You're dropping behind for a more dramatic victory.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}你故意先落后 再来个戏剧性的胜利
+Dialogue: 0,1:22:07.67,1:22:10.83,Default,NTP,0000,0000,0000,,Look,Jocelyn told me to lose to prove my love.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}约瑟琳要我输掉比赛 来证明我的爱
+Dialogue: 0,1:22:13.51,1:22:16.27,Default,NTP,0000,0000,0000,,- I'd rather you were blind.  - Don't be foolish,Will.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}- 我宁可你是瞎掉  - 威廉 你别傻了
+Dialogue: 0,1:22:16.51,1:22:20.67,Default,NTP,0000,0000,0000,,- Each woman wants proof,that's all.  - Proof of what?{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}- 女人不过都想要证明罢了  - 证明什么？
+Dialogue: 0,1:22:21.45,1:22:23.61,Default,NTP,0000,0000,0000,,Her legs weren't uncrossed for nothing.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}她的腿不是平白无故地分开
+Dialogue: 0,1:22:23.85,1:22:28.35,Default,NTP,0000,0000,0000,,- I haven't uncrossed her legs.  - Then why are we doing this?!{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}- 我没有分开她的腿  - 那我们干嘛这么做？
+Dialogue: 0,1:22:28.69,1:22:29.95,Default,NTP,0000,0000,0000,,Because!{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}就是因为！
+Dialogue: 0,1:22:42.04,1:22:43.47,Default,NTP,0000,0000,0000,,Because{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}因为
+Dialogue: 0,1:22:45.04,1:22:46.37,Default,NTP,0000,0000,0000,,I love her.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}我爱她
+Dialogue: 0,1:23:28.35,1:23:32.18,Default,NTP,0000,0000,0000,,- I'm going to lose everything!  - That's why it's called gambling.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}- 我会输光光！  - 所以才叫赌博嘛
+Dialogue: 0,1:23:33.42,1:23:35.08,Default,NTP,0000,0000,0000,,Pain! Here's your pain!{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}痛吧！ 痛死你！
+Dialogue: 0,1:23:35.42,1:23:37.58,Default,NTP,0000,0000,0000,,It's very romantic,though.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}但是非常罗曼蒂克
+Dialogue: 0,1:23:38.09,1:23:40.36,Default,NTP,0000,0000,0000,,Are you a woman or a blacksmith?{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}你到底是女人还是铁匠？
+Dialogue: 0,1:23:40.76,1:23:42.35,Default,NTP,0000,0000,0000,,Sometimes I'm both.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}有时候我两者都是
+Dialogue: 0,1:23:42.60,1:23:44.43,Default,NTP,0000,0000,0000,,Ooh,that chafes!{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}好痛啊！ 可恶！
+Dialogue: 0,1:23:44.77,1:23:46.10,Default,NTP,0000,0000,0000,,Put him down.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}把他放下啦
+Dialogue: 0,1:23:49.60,1:23:52.60,Default,NTP,0000,0000,0000,,No knight has distanced himself with victories.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}没有骑士会故意输掉
+Dialogue: 0,1:23:52.94,1:23:57.60,Default,NTP,0000,0000,0000,,If you win your remaining matches and your opponents take key losses{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}如果你剩下的几场比赛都赢 而且你的对手都大败特败
+Dialogue: 0,1:23:57.88,1:24:00.37,Default,NTP,0000,0000,0000,,you could make the semis,or the finals.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}你就可以进入准决赛 或者决赛
+Dialogue: 0,1:24:00.61,1:24:04.38,Default,NTP,0000,0000,0000,,- At least the armor's proven itself. - And your love?{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}- 至少盔甲证明了它的能耐  - 那你的爱呢？
+Dialogue: 0,1:24:04.79,1:24:06.27,Default,NTP,0000,0000,0000,,Have you proven that?{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}你证明你的爱了吗？
+Dialogue: 0,1:24:09.79,1:24:14.12,Default,NTP,0000,0000,0000,,Wat,you remember church as a boy. The fear,the passion.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}华特 想想小时候对教堂的感觉 那份戒慎恐惧 那份热情
+Dialogue: 0,1:24:15.13,1:24:17.29,Default,NTP,0000,0000,0000,,That's what she makes me feel.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}那就是我对她的感觉
+Dialogue: 0,1:24:18.13,1:24:22.47,Default,NTP,0000,0000,0000,,And for that,I say my rosary to Jocelyn and no one else.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}因为如此 我的玫瑰经 只为约瑟琳一个人念
+Dialogue: 0,1:24:23.30,1:24:25.79,Default,NTP,0000,0000,0000,,William,that's blasphemous.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}威廉 那样说很不敬
+Dialogue: 0,1:24:32.31,1:24:34.14,Default,NTP,0000,0000,0000,,Then may I burn in hell.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}那就让我在地狱受苦吧
+Dialogue: 0,1:24:34.48,1:24:35.64,Default,NTP,0000,0000,0000,,Withdraw.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}退出比赛
+Dialogue: 0,1:24:36.08,1:24:38.31,Default,NTP,0000,0000,0000,,Lose that way. Take no more punishment.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}就这么输了算了 不要再撑下去了
+Dialogue: 0,1:24:38.82,1:24:40.48,Default,NTP,0000,0000,0000,,Oh,Roland.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}洛伦
+Dialogue: 0,1:24:46.33,1:24:49.66,Default,NTP,0000,0000,0000,,My lady sends this message. If you love her- -{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}我家小姐要我来传话 如果你爱她
+Dialogue: 0,1:24:50.00,1:24:53.33,Default,NTP,0000,0000,0000,,I know,I know. I must lose. Isn't she watching?{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}我知道 我知道 我必须输 她没在看吗？
+Dialogue: 0,1:24:53.67,1:24:56.66,Default,NTP,0000,0000,0000,,She says if you love her,you won't lose again.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}她说你若爱她 就不会再输了
+Dialogue: 0,1:24:57.17,1:25:00.66,Default,NTP,0000,0000,0000,,She says if you love her,you will win this tournament.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}她说你若爱她 就会赢得这场大赛
+Dialogue: 0,1:25:10.18,1:25:13.68,Default,NTP,0000,0000,0000,,There she is,the embodiment of love. Your Venus.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}她在那里 爱的化身 你的维纳斯
+Dialogue: 0,1:25:13.95,1:25:15.35,Default,NTP,0000,0000,0000,,And how I hate her.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}我真恨她
+Dialogue: 0,1:25:31.37,1:25:35.97,Default,NTP,0000,0000,0000,,- I don't understand women.  - Nor do I,but they understand us.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}- 我真不懂女人  - 我也不懂 但她们很懂我们
+Dialogue: 0,1:25:37.54,1:25:39.21,Default,NTP,0000,0000,0000,,Maybe not you.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}也许不包括你
+Dialogue: 0,1:25:51.33,1:25:52.69,Default,NTP,0000,0000,0000,,Yes!{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}好耶！
+Dialogue: 0,1:25:53.46,1:25:54.89,Default,NTP,0000,0000,0000,,Women,eh?{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}女人哪
+Dialogue: 0,1:26:18.48,1:26:20.15,Default,NTP,0000,0000,0000,,Forty eight{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}四十八
+Dialogue: 0,1:26:20.49,1:26:21.82,Default,NTP,0000,0000,0000,,forty nine{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}四十九
+Dialogue: 0,1:26:22.16,1:26:23.82,Default,NTP,0000,0000,0000,,and fifty.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}五十
+Dialogue: 0,1:26:24.09,1:26:27.65,Default,NTP,0000,0000,0000,,Thank you,gentlemen. A pleasure doing business with you.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}谢谢各位了 很高兴跟你们做生意
+Dialogue: 0,1:26:28.00,1:26:31.76,Default,NTP,0000,0000,0000,,Look us up if you're in London,the world championships,maybe.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}到伦敦记得来找我们 也许在世界冠军赛时
+Dialogue: 0,1:26:32.00,1:26:36.16,Default,NTP,0000,0000,0000,,Don't look too sad. Here,have a drink on me.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}别那么沮丧嘛 拿去 我请你们喝一杯
+Dialogue: 0,1:26:36.44,1:26:41.43,Default,NTP,0000,0000,0000,,He's quick,he's funny and makes lots of money,Lichtenstein!{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}他身手敏捷 他幽默风趣 他还很会赚钱 利顿斯坦！
+Dialogue: 0,1:26:59.69,1:27:01.85,Default,NTP,0000,0000,0000,,Guinevere comes to Lancelot.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}格温娜维尔走向蓝斯洛
+Dialogue: 0,1:27:07.87,1:27:09.86,Default,NTP,0000,0000,0000,,Bed him well,my lady.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}小姐 好好服侍他睡
+Dialogue: 0,1:27:10.37,1:27:11.86,Default,NTP,0000,0000,0000,,Bed him well.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}好好服侍他
+Dialogue: 0,1:27:18.47,1:27:20.13,Default,NTP,0000,0000,0000,,We missed you at banquet.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}我们在庆祝会上很想你
+Dialogue: 0,1:27:21.74,1:27:22.64,Default,NTP,0000,0000,0000,,"We"?{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}“我们”？
+Dialogue: 0,1:27:27.32,1:27:28.65,Default,NTP,0000,0000,0000,,I.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}我
+Dialogue: 0,1:27:30.15,1:27:31.48,Default,NTP,0000,0000,0000,,Jocelyn.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}约瑟琳
+Dialogue: 0,1:27:32.32,1:27:33.98,Default,NTP,0000,0000,0000,,Your prize.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}你的奖赏
+Dialogue: 0,1:27:35.99,1:27:37.58,Default,NTP,0000,0000,0000,,My prize.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}我的奖赏
+Dialogue: 0,1:27:39.83,1:27:41.49,Default,NTP,0000,0000,0000,,I am not worthy of a prize.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}我不配得奖
+Dialogue: 0,1:27:43.50,1:27:45.19,Default,NTP,0000,0000,0000,,Then who is?{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}那么谁有资格？
+Dialogue: 0,1:27:46.84,1:27:50.17,Default,NTP,0000,0000,0000,,My maid tells me that sometimes your varlets{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}我的女仆告诉我 有时候你的属下
+Dialogue: 0,1:27:51.34,1:27:52.67,Default,NTP,0000,0000,0000,,call you William.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}叫你威廉
+Dialogue: 0,1:27:56.18,1:27:57.77,Default,NTP,0000,0000,0000,,Is this so,Sir Ulrich?{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}是不是 乌瑞克爵士？
+Dialogue: 0,1:28:01.18,1:28:02.34,Default,NTP,0000,0000,0000,,Yes.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}是的
+Dialogue: 0,1:28:04.19,1:28:05.18,Default,NTP,0000,0000,0000,,It is so.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}的确如此
+Dialogue: 0,1:28:19.20,1:28:22.03,Default,NTP,0000,0000,0000,,Your name makes no matter to me.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}你叫什么名字对我不重要
+Dialogue: 0,1:28:24.04,1:28:26.53,Default,NTP,0000,0000,0000,,Just so I can call you my own.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}只要你是我的
+Dialogue: 0,1:28:27.81,1:28:30.47,Default,NTP,0000,0000,0000,,But Jocelyn,I am your own.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}但约瑟琳 我的确是你的呀
+Dialogue: 0,1:28:37.89,1:28:39.55,Default,NTP,0000,0000,0000,,Damn,girl.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}该死
+Dialogue: 0,1:28:40.39,1:28:41.72,Default,NTP,0000,0000,0000,,You need a surgeon.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}你需要看医生
+Dialogue: 0,1:28:42.06,1:28:46.15,Default,NTP,0000,0000,0000,,He's been. He says I will live,though it doesn't feel that way.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}他来过了 他说我死不了 虽然不觉的这样
+Dialogue: 0,1:28:47.73,1:28:50.72,Default,NTP,0000,0000,0000,,Oh,William. This pain is my doing.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}威廉 这疼痛都是我害的
+Dialogue: 0,1:28:51.07,1:28:52.73,Default,NTP,0000,0000,0000,,Yes,it is.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}的确是
+Dialogue: 0,1:28:56.57,1:28:57.90,Default,NTP,0000,0000,0000,,Although{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}尽管
+Dialogue: 0,1:28:58.74,1:29:00.07,Default,NTP,0000,0000,0000,,my father{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}我父亲
+Dialogue: 0,1:29:02.58,1:29:04.74,Default,NTP,0000,0000,0000,,taught me to take the bad{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}教我要把苦果
+Dialogue: 0,1:29:05.75,1:29:07.24,Default,NTP,0000,0000,0000,,with the good.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}当良药吃
+Dialogue: 0,1:29:14.59,1:29:16.58,Default,NTP,0000,0000,0000,,This good you speak of.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}你所说的良药
+Dialogue: 0,1:29:19.43,1:29:21.76,Default,NTP,0000,0000,0000,,It will be my doing as well.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}也同样会来自于我
+Dialogue: 0,1:29:38.76,1:29:43.16,Default,NTP,0000,0000,0000,,How long since any of you have been back? I've only been gone 6 months.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}你们上次回来是何时？ 我只离开了六个月
+Dialogue: 0,1:29:43.50,1:29:45.33,Default,NTP,0000,0000,0000,,Two years for me.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}我两年
+Dialogue: 0,1:29:46.17,1:29:47.50,Default,NTP,0000,0000,0000,,Three years.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}我三年
+Dialogue: 0,1:29:48.61,1:29:52.17,Default,NTP,0000,0000,0000,,Five. Five long years.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}五年 漫长的五年
+Dialogue: 0,1:29:54.84,1:29:56.17,Default,NTP,0000,0000,0000,,William?{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}威廉？
+Dialogue: 0,1:29:58.18,1:29:59.34,Default,NTP,0000,0000,0000,,Twelve.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}十二
+Dialogue: 0,1:30:01.18,1:30:02.67,Default,NTP,0000,0000,0000,,Twelve years.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}十二年
+Dialogue: 0,1:30:05.29,1:30:06.85,Default,NTP,0000,0000,0000,,He's to be an apprentice?{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}他要去当学徒？
+Dialogue: 0,1:30:11.69,1:30:12.79,Default,NTP,0000,0000,0000,,How long for?{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}多久？
+Dialogue: 0,1:30:14.36,1:30:15.69,Default,NTP,0000,0000,0000,,Seven years.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}七年
+Dialogue: 0,1:30:49.67,1:30:50.56,Default,NTP,0000,0000,0000,,Sir Ector?{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}艾克特爵士？
+Dialogue: 0,1:30:52.74,1:30:56.23,Default,NTP,0000,0000,0000,,I'm the thatcher. I spoke to you outside London Stadium.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}我就是在伦敦赛场外 跟您说过话的补屋顶工匠
+Dialogue: 0,1:30:56.57,1:30:58.40,Default,NTP,0000,0000,0000,,Oh,yes. I remember.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}是的 我记得
+Dialogue: 0,1:30:58.91,1:31:00.40,Default,NTP,0000,0000,0000,,Is this the boy?{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}就是这男孩？
+Dialogue: 0,1:31:03.75,1:31:06.24,Default,NTP,0000,0000,0000,,Step forward,son. Let me look at you.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}孩子 过来让我看看
+Dialogue: 0,1:31:06.75,1:31:08.74,Default,NTP,0000,0000,0000,,Careful with that,Roland!{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}洛伦 小心点！
+Dialogue: 0,1:31:14.26,1:31:16.42,Default,NTP,0000,0000,0000,,Are you afraid of me,boy?{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}孩子 你怕我吗？
+Dialogue: 0,1:31:26.77,1:31:29.03,Default,NTP,0000,0000,0000,,Have you got most of your teeth?{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}你的牙齿长齐了吗？
+Dialogue: 0,1:31:34.78,1:31:36.94,Default,NTP,0000,0000,0000,,Show me your arm. Is it strong?{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}让我看看你的手臂够壮吗？
+Dialogue: 0,1:31:47.12,1:31:50.29,Default,NTP,0000,0000,0000,,Well,he's a half- starved little scarecrow.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}他饿得瘦巴巴的
+Dialogue: 0,1:31:51.63,1:31:53.46,Default,NTP,0000,0000,0000,,But he has spirit.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}但他很有个性
+Dialogue: 0,1:31:57.30,1:32:01.79,Default,NTP,0000,0000,0000,,I can show you a great wide world full of adventure{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}我可以领你见识一个广阔 充满冒险的世界
+Dialogue: 0,1:32:02.64,1:32:05.63,Default,NTP,0000,0000,0000,,and marvels you do not yet dream of.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}还有你不曾梦想过的 奇人异事
+Dialogue: 0,1:32:08.31,1:32:11.14,Default,NTP,0000,0000,0000,,Can you pack my horse and lead it?{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}可以帮我把东西装上马吗？
+Dialogue: 0,1:32:17.99,1:32:21.15,Default,NTP,0000,0000,0000,,Well,come on. Say goodbye to your father.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}去吧 跟你父亲道别
+Dialogue: 0,1:32:22.82,1:32:27.32,Default,NTP,0000,0000,0000,,He's a real knight,William. Watch and learn all you can.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}威廉 他是真正的骑士 尽你所能的观察和学习
+Dialogue: 0,1:32:33.00,1:32:35.33,Default,NTP,0000,0000,0000,,It's all I can do for you,son.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}我只能为你做到这样了
+Dialogue: 0,1:32:35.84,1:32:39.83,Default,NTP,0000,0000,0000,,Now go change your stars and live a better life than I have.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}去改变你的命运 过比我好的生活
+Dialogue: 0,1:32:50.69,1:32:53.68,Default,NTP,0000,0000,0000,,Roland,show the boy his duties.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}洛伦 告诉这孩子该做些什么
+Dialogue: 0,1:32:57.36,1:33:01.13,Default,NTP,0000,0000,0000,,- Father? I'm afraid.  - Of what?{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}- 父亲？ 我怕  - 怕什么？
+Dialogue: 0,1:33:01.46,1:33:03.45,Default,NTP,0000,0000,0000,,I won't know the way home.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}我会不知道回家的路
+Dialogue: 0,1:33:03.97,1:33:07.80,Default,NTP,0000,0000,0000,,Don't be foolish,William. You just follow your feet.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}别傻了 威廉 跟随你的脚步就行了
+Dialogue: 0,1:33:26.99,1:33:28.15,Default,NTP,0000,0000,0000,,London.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}伦敦
+Dialogue: 0,1:33:38.27,1:33:40.10,Default,NTP,0000,0000,0000,,London.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}伦敦
+Dialogue: 0,1:33:40.44,1:33:42.93,Default,NTP,0000,0000,0000,,{\fn华文楷体\fs16\1c&HE0E0E0&}世界冠军赛
+Dialogue: 0,1:33:48.15,1:33:51.30,Default,NTP,0000,0000,0000,,# Guess who just got back today? #{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}# 猜猜今天谁回来了？ #
+Dialogue: 0,1:33:51.72,1:33:54.50,Default,NTP,0000,0000,0000,,# Them wild-eyed boys that had been away #{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}# 已经离开的那些狂野的男孩子们 #
+Dialogue: 0,1:33:55.18,1:33:56.93,Default,NTP,0000,0000,0000,,# Haven't changed,haven't much to say #{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}# 没有变化，没有什么太多要说的 #
+Dialogue: 0,1:33:57.54,1:34:00.50,Default,NTP,0000,0000,0000,,# But man,I still think them cats are crazy #{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}# 但是男子汉，我依然觉得爵士迷们很疯狂 #
+Dialogue: 0,1:34:00.60,1:34:02.68,Default,NTP,0000,0000,0000,,# They were asking if you were around #{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}# 他们会问你你是否在周围 #
+Dialogue: 0,1:34:03.00,1:34:05.53,Default,NTP,0000,0000,0000,,# How you was,where you could be found #{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}# 你过的怎么样，你在哪里被发现的 #
+Dialogue: 0,1:34:06.65,1:34:08.58,Default,NTP,0000,0000,0000,,# Told them you were living downtown #{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}# 告诉他们你住在市中心 #
+Dialogue: 0,1:34:09.65,1:34:11.57,Default,NTP,0000,0000,0000,,# Driving all the old men crazy #{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}# 让所有的老男人们都很疯狂 #
+Dialogue: 0,1:34:12.41,1:34:13.41,Default,NTP,0000,0000,0000,,# The boys are back in town #{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}# 男孩子们回到镇上 #
+Dialogue: 0,1:34:13.86,1:34:14.86,Default,NTP,0000,0000,0000,,# The boys are back in town #{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}# 男孩子们回到镇上 #
+Dialogue: 0,1:34:15.54,1:34:17.87,Default,NTP,0000,0000,0000,,Give us a shout out,London!{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}为我们欢呼吧 伦敦！
+Dialogue: 0,1:34:17.90,1:34:18.20,Default,NTP,0000,0000,0000,,# I said #{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}# 我说 #
+Dialogue: 0,1:34:18.40,1:34:20.50,Default,NTP,0000,0000,0000,,# The boys are back in town #{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}# 男孩子们回到镇上 #
+Dialogue: 0,1:34:21.00,1:34:23.50,Default,NTP,0000,0000,0000,,# The boys are back in town #{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}# 男孩子们回到镇上 #
+Dialogue: 0,1:34:24.10,1:34:25.10,Default,NTP,0000,0000,0000,,# The boys are back in town #{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}# 男孩子们回到镇上 #
+Dialogue: 0,1:34:25.20,1:34:26.20,Default,NTP,0000,0000,0000,,# The boys are back in town #{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}# 男孩子们回到镇上 #
+Dialogue: 0,1:34:26.25,1:34:27.10,Default,NTP,0000,0000,0000,,# The boys are back in town #{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}# 男孩子们回到镇上 #
+Dialogue: 0,1:34:27.15,1:34:30.85,Default,NTP,0000,0000,0000,,# The boys are back in town #{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}# 男孩子们回到镇上 #
+Dialogue: 0,1:34:39.90,1:34:43.56,Default,NTP,0000,0000,0000,,Ulrich! Ulrich! Ulrich! Ulrich!{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}乌瑞克！ 乌瑞克！
+Dialogue: 0,1:34:45.82,1:34:47.55,Default,NTP,0000,0000,0000,,# Spread the word around #{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}# 把这件事传的沸沸扬扬 #
+Dialogue: 0,1:34:48.40,1:34:49.84,Default,NTP,0000,0000,0000,,# Guess who's back in town #{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}# 猜猜谁回到镇上了 #
+Dialogue: 0,1:34:52.38,1:34:54.65,Default,NTP,0000,0000,0000,,# Friday night they'll be dressed to kill #{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}# 星期五晚上他们打扮的很时尚 #
+Dialogue: 0,1:34:55.61,1:34:57.62,Default,NTP,0000,0000,0000,,# Down at Dino's bar and grill #{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}# 在恐龙酒吧里烧烤 #
+Dialogue: 0,1:34:58.16,1:35:00.20,Default,NTP,0000,0000,0000,,# The drink will flow and blood will spill #{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}# 酒会流出，血会溢出 #
+Dialogue: 0,1:35:01.21,1:35:02.98,Default,NTP,0000,0000,0000,,# And if the boys want to fight,you'd better let them #{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}# 如果男孩子想打架，你最好让他们做 #
+Dialogue: 0,1:35:04.28,1:35:05.34,Default,NTP,0000,0000,0000,,# The boys are back in town #{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}# 男孩子们回到镇上 #
+Dialogue: 0,1:35:05.65,1:35:06.65,Default,NTP,0000,0000,0000,,# The boys are back in town #{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}# 男孩子们回到镇上 #
+Dialogue: 0,1:35:10.11,1:35:12.51,Default,NTP,0000,0000,0000,,# The boys are back in town #{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}# 男孩子们回到镇上 #
+Dialogue: 0,1:35:13.18,1:35:14.34,Default,NTP,0000,0000,0000,,# The boys are back in town #{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}# 男孩子们回到镇上 #
+Dialogue: 0,1:35:16.12,1:35:17.34,Default,NTP,0000,0000,0000,,# The boys are back in town #{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}# 男孩子们回到镇上 #
+Dialogue: 0,1:35:17.68,1:35:19.28,Default,NTP,0000,0000,0000,,# The boys are back in town #{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}# 男孩子们回到镇上 #
+Dialogue: 0,1:35:20.94,1:35:26.03,Default,NTP,0000,0000,0000,,- Adhemar's here. He's entered.  - Must have grown bored with war.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}- 阿德玛在这里 他报名了  - 一定是打仗打烦了
+Dialogue: 0,1:35:26.28,1:35:30.27,Default,NTP,0000,0000,0000,,No,the Black Prince commanded it. He had to disband his army.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}不 是黑王子下的令 他必须解散他的军队
+Dialogue: 0,1:35:30.55,1:35:33.54,Default,NTP,0000,0000,0000,,They were reveling,pillaging town after town.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}他们每到一个地方 尽会闹事掠夺
+Dialogue: 0,1:35:33.78,1:35:36.62,Default,NTP,0000,0000,0000,,Robbing,murdering,ransacking churches.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}抢劫、杀人、洗劫教堂
+Dialogue: 0,1:35:36.95,1:35:41.12,Default,NTP,0000,0000,0000,,Committing the oldest sins in the newest ways.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}用最新的方法 犯下最古老的罪
+Dialogue: 0,1:35:43.13,1:35:46.12,Default,NTP,0000,0000,0000,,At last we will face each other again,Sir Ulrich.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}我们终将再遭遇 乌瑞克爵士
+Dialogue: 0,1:35:46.46,1:35:48.22,Default,NTP,0000,0000,0000,,And at the World Championship.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}在这世界冠军赛
+Dialogue: 0,1:35:48.46,1:35:50.45,Default,NTP,0000,0000,0000,,And as I promised you before{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}正如我跟你保证过的
+Dialogue: 0,1:35:50.80,1:35:53.46,Default,NTP,0000,0000,0000,,you will look up at me from the flat of your back.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}你会躺在地上仰望着我
+Dialogue: 0,1:35:59.31,1:36:00.97,Default,NTP,0000,0000,0000,,Let the past die.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}忘掉过去吧
+Dialogue: 0,1:36:01.98,1:36:05.74,Default,NTP,0000,0000,0000,,You've done well in my absence,on the field and off,I'm told.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}据说我不在时 你表现极佳 无论在场内或场外
+Dialogue: 0,1:36:06.48,1:36:09.97,Default,NTP,0000,0000,0000,,Winning trophies,horses,women.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}赢得奖品、马匹、女人
+Dialogue: 0,1:36:11.25,1:36:12.95,Default,NTP,0000,0000,0000,,You put them in that order?{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}你都是这样排顺序的？
+Dialogue: 0,1:36:13.66,1:36:16.39,Default,NTP,0000,0000,0000,,Generally,with a few exceptions.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}通常是 但有一些例外
+Dialogue: 0,1:36:23.33,1:36:24.99,Default,NTP,0000,0000,0000,,Beautiful,isn't she?{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}她很美吧？
+Dialogue: 0,1:36:25.67,1:36:28.83,Default,NTP,0000,0000,0000,,A real thoroughbred trophy,don't you think?{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}一项品质精纯的奖品 你不觉得吗？
+Dialogue: 0,1:36:30.01,1:36:33.91,Default,NTP,0000,0000,0000,,- You speak of her like a target.  - Isn't she?{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}- 你说得好像她是箭靶  - 不是吗？
+Dialogue: 0,1:36:34.68,1:36:35.84,Default,NTP,0000,0000,0000,,No.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}不
+Dialogue: 0,1:36:39.95,1:36:41.44,Default,NTP,0000,0000,0000,,She is the arrow.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}她是箭
+Dialogue: 0,1:36:45.52,1:36:48.35,Default,NTP,0000,0000,0000,,I've begun negotiations with her father.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}我已经跟她父亲展开商议了
+Dialogue: 0,1:36:52.03,1:36:53.86,Default,NTP,0000,0000,0000,,I'm to make her my bride.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}我要她当我的新娘
+Dialogue: 0,1:36:55.03,1:36:57.52,Default,NTP,0000,0000,0000,,She'll be saddled{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}她会被上好鞍
+Dialogue: 0,1:36:58.13,1:37:00.36,Default,NTP,0000,0000,0000,,and placed on my mantle.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}摆设在我的火炉顶上
+Dialogue: 0,1:37:01.37,1:37:03.46,Default,NTP,0000,0000,0000,,Target or arrow,it doesn't matter.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}是箭靶或箭并不重要
+Dialogue: 0,1:37:04.37,1:37:06.03,Default,NTP,0000,0000,0000,,I will have her.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}我将会拥有她
+Dialogue: 0,1:37:11.48,1:37:13.81,Default,NTP,0000,0000,0000,,Ulrich! Ulrich! Ulrich!{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}乌瑞克！ 乌瑞克！ 乌瑞克！
+Dialogue: 0,1:37:50.92,1:37:54.86,Default,NTP,0000,0000,0000,,- How would you beat him?  - With a sticK,while he slept.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}- 你会怎么击倒他？  - 用棍子 趁他熟睡时
+Dialogue: 0,1:37:55.42,1:37:58.09,Default,NTP,0000,0000,0000,,But on a horse? With a lance?{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}但在马上呢？ 用长枪呢？
+Dialogue: 0,1:37:58.93,1:38:01.26,Default,NTP,0000,0000,0000,,That man is unbeatable.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}那个人所向无敌
+Dialogue: 0,1:38:29.63,1:38:30.78,Default,NTP,0000,0000,0000,,Hello there.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}你好
+Dialogue: 0,1:38:33.96,1:38:38.26,Default,NTP,0000,0000,0000,,- You're Sir Ulrich von Lichtenstein.  - Yes.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}- 你是乌瑞克爵士  - 是的
+Dialogue: 0,1:38:38.83,1:38:43.17,Default,NTP,0000,0000,0000,,You're my favorite knight. When we joust,I always say I'm you.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}你是我最喜欢的骑士 我们比长枪时 我都说我是你
+Dialogue: 0,1:38:44.34,1:38:48.00,Default,NTP,0000,0000,0000,,What are you doing in Cheapside? There's no parade today.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}你怎么会来奇普塞？ 今天没有游行啊
+Dialogue: 0,1:38:52.58,1:38:54.21,Default,NTP,0000,0000,0000,,Can you keep a secret?{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}你可以保守秘密吗？
+Dialogue: 0,1:39:09.76,1:39:13.93,Default,NTP,0000,0000,0000,,I was born in Cheapside,just around the corner there.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}我在奇普塞出生 就在那边的转角
+Dialogue: 0,1:39:14.27,1:39:17.21,Default,NTP,0000,0000,0000,,- Truly,Sir Ulrich?  - Truly.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}- 真的吗 爵爷？  - 真的
+Dialogue: 0,1:39:17.44,1:39:19.77,Default,NTP,0000,0000,0000,,I only live just there.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}我就住在那里
+Dialogue: 0,1:39:21.54,1:39:22.87,Default,NTP,0000,0000,0000,,How old are you?{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}你几岁了？
+Dialogue: 0,1:39:23.11,1:39:26.34,Default,NTP,0000,0000,0000,,- Nine and one half.  - Nine and one half.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}- 九岁半  - 九岁半啊
+Dialogue: 0,1:39:26.95,1:39:31.04,Default,NTP,0000,0000,0000,,I wonder if you remember a man,though he may have died long ago.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}不知道你是否记得一个人 虽然他可能早就死了
+Dialogue: 0,1:39:31.29,1:39:34.95,Default,NTP,0000,0000,0000,,He was as tall as a knight. His name was John Thatcher.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}他长得跟骑士一样高大 名字叫约翰柴契尔
+Dialogue: 0,1:39:35.29,1:39:37.92,Default,NTP,0000,0000,0000,,- Of course I remember him.  - You do?{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}- 我当然记得他  - 真的？
+Dialogue: 0,1:39:38.13,1:39:40.29,Default,NTP,0000,0000,0000,,Yes. He lives there still.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}是啊 他还住在那里
+Dialogue: 0,1:39:44.97,1:39:48.96,Default,NTP,0000,0000,0000,,Sometimes we see him sitting at the window,but no one knows why.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}有时候我们会看到他坐在窗边 但没有人知道为什么
+Dialogue: 0,1:39:52.81,1:39:53.90,Default,NTP,0000,0000,0000,,What do you mean?{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}什么意思？
+Dialogue: 0,1:39:54.48,1:39:55.91,Default,NTP,0000,0000,0000,,He's blind,sir.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}他是瞎子 爵爷
+Dialogue: 0,1:40:42.19,1:40:43.78,Default,NTP,0000,0000,0000,,Is someone there?{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}有人来了吗？
+Dialogue: 0,1:40:48.53,1:40:52.90,Default,NTP,0000,0000,0000,,If you're here for the net,I'm not done yet. Come tomorrow.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}如果你是来拿渔网的 我还没修补好 明天再来吧
+Dialogue: 0,1:40:57.21,1:40:58.19,Default,NTP,0000,0000,0000,,Who are you?{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}你是谁？
+Dialogue: 0,1:41:01.21,1:41:02.37,Default,NTP,0000,0000,0000,,A knight.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}一个骑士
+Dialogue: 0,1:41:05.31,1:41:08.48,Default,NTP,0000,0000,0000,,My nameis Ulrich.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}我名叫乌瑞克
+Dialogue: 0,1:41:09.72,1:41:13.88,Default,NTP,0000,0000,0000,,Ulrich? I hear that name being chanted from the stadium.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}乌瑞克？ 我听过人们 在赛场上高叫这个名字
+Dialogue: 0,1:41:14.32,1:41:16.22,Default,NTP,0000,0000,0000,,What business have you here?{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}有何贵干？
+Dialogue: 0,1:41:16.73,1:41:19.39,Default,NTP,0000,0000,0000,,I have word,Master Thatcher.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}我有消息 补屋顶师傅
+Dialogue: 0,1:41:21.90,1:41:22.99,Default,NTP,0000,0000,0000,,Word of your son.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}令公子的消息
+Dialogue: 0,1:41:24.23,1:41:27.23,Default,NTP,0000,0000,0000,,Of my William? Well,come in,sir.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}我的威廉？ 爵爷 快请进
+Dialogue: 0,1:41:33.24,1:41:36.57,Default,NTP,0000,0000,0000,,What word? Does he live?{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}什么消息？ 他活着吗？
+Dialogue: 0,1:41:39.01,1:41:40.67,Default,NTP,0000,0000,0000,,Aye. He lives.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}是的 他活着
+Dialogue: 0,1:41:42.75,1:41:44.41,Default,NTP,0000,0000,0000,,He is very well.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}他很好
+Dialogue: 0,1:41:46.09,1:41:47.92,Default,NTP,0000,0000,0000,,He wanted you to know{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}他希望你知道
+Dialogue: 0,1:41:49.76,1:41:52.19,Default,NTP,0000,0000,0000,,that he changed his stars after all.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}他终究改变了他的命运
+Dialogue: 0,1:42:02.10,1:42:04.44,Default,NTP,0000,0000,0000,,And has he followed his feet?{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}他跟随了他的脚步吗？
+Dialogue: 0,1:42:08.11,1:42:10.70,Default,NTP,0000,0000,0000,,Has he found his way home at last?{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}他终于找到回家的路了吗？
+Dialogue: 0,1:42:12.21,1:42:13.20,Default,NTP,0000,0000,0000,,Yes.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}是的
+Dialogue: 0,1:42:21.29,1:42:22.45,Default,NTP,0000,0000,0000,,Father.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}父亲
+Dialogue: 0,1:42:22.79,1:42:25.62,Default,NTP,0000,0000,0000,,Oh,William. Oh,my boy.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}威廉 我的孩子
+Dialogue: 0,1:42:36.57,1:42:39.90,Default,NTP,0000,0000,0000,,I should like to meet this Wat. And Roland too.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}我真想见见这个华特 还有洛伦
+Dialogue: 0,1:42:40.14,1:42:42.13,Default,NTP,0000,0000,0000,,You will,Father.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}你会见到的
+Dialogue: 0,1:42:45.15,1:42:48.98,Default,NTP,0000,0000,0000,,And what of women? Is there a certain one or many?{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}女人呢？ 你有特定对像 还是很多个？
+Dialogue: 0,1:42:50.82,1:42:52.48,Default,NTP,0000,0000,0000,,There is a certain one.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}我有一个心仪的对象
+Dialogue: 0,1:42:54.32,1:42:56.31,Default,NTP,0000,0000,0000,,I should like to meet her too.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}我也想见见她
+Dialogue: 0,1:43:02.83,1:43:05.16,Default,NTP,0000,0000,0000,,This leak won't do,Father.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}漏水成这样不行
+Dialogue: 0,1:43:05.77,1:43:10.50,Default,NTP,0000,0000,0000,,- Not in a thatcher's chamber.  - It's quite fitting for a blind one.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}- 尤其在补屋顶工匠家中  - 这对瞎眼人来说不成问题
+Dialogue: 0,1:43:12.84,1:43:14.67,Default,NTP,0000,0000,0000,,Well,a thatcher I am.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}我是补屋顶的
+Dialogue: 0,1:43:16.34,1:43:17.68,Default,NTP,0000,0000,0000,,I'll fix it.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}我会帮你修好
+Dialogue: 0,1:44:02.19,1:44:05.22,Default,NTP,0000,0000,0000,,Alive. I thought he was dead,which is mad{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}活着 我以为他死了 我真是疯了
+Dialogue: 0,1:44:05.49,1:44:08.73,Default,NTP,0000,0000,0000,,because he was also so strong. Very strong.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}因为他仍那么强壮 非常强壮
+Dialogue: 0,1:44:09.40,1:44:11.39,Default,NTP,0000,0000,0000,,- Geoff.  - Jocelyn.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}- 杰夫  - 约瑟琳
+Dialogue: 0,1:44:11.73,1:44:14.17,Default,NTP,0000,0000,0000,,This day just gets better and better.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}今天真是愈来愈精采
+Dialogue: 0,1:44:17.17,1:44:18.33,Default,NTP,0000,0000,0000,,Somebody die?{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}有人死了吗？
+Dialogue: 0,1:44:21.58,1:44:23.57,Default,NTP,0000,0000,0000,,Sir Ulrich von Lichtenstein.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}乌瑞克冯利顿斯坦爵士
+Dialogue: 0,1:44:27.25,1:44:28.58,Default,NTP,0000,0000,0000,,Adhemar{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}阿德玛
+Dialogue: 0,1:44:29.59,1:44:33.08,Default,NTP,0000,0000,0000,,followed you last night. To Cheapside.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}昨晚跟踪你到奇普塞
+Dialogue: 0,1:44:33.86,1:44:35.19,Default,NTP,0000,0000,0000,,He saw your father.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}他看到你父亲
+Dialogue: 0,1:44:36.42,1:44:39.19,Default,NTP,0000,0000,0000,,Will,they asked me for your patents.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}威廉 他们跟我要你的证明书
+Dialogue: 0,1:44:43.76,1:44:47.03,Default,NTP,0000,0000,0000,,They're waiting for you in the lists to arrest you.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}他们在场上等着逮捕你
+Dialogue: 0,1:44:47.94,1:44:49.60,Default,NTP,0000,0000,0000,,A dozen royal guards.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}十二个皇家侍卫
+Dialogue: 0,1:44:50.77,1:44:55.77,Default,NTP,0000,0000,0000,,- They'll put you in the stocks.  - But I face Adhemar in five minutes.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}- 他们会把你抓上示众台  - 但我马上就要跟阿德玛交手
+Dialogue: 0,1:44:57.28,1:45:01.11,Default,NTP,0000,0000,0000,,No,you forfeit. They've already marked it down.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}不 你丧失了比赛权 他们已经记下了
+Dialogue: 0,1:45:02.28,1:45:05.62,Default,NTP,0000,0000,0000,,Saddle the horses. They can arrest your baggage,not you.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}把马上鞍 他们可以逮捕你的行李而非你
+Dialogue: 0,1:45:11.79,1:45:13.28,Default,NTP,0000,0000,0000,,Halt.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}站住
+Dialogue: 0,1:45:18.63,1:45:20.29,Default,NTP,0000,0000,0000,,So,what do you think{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}你有何感想
+Dialogue: 0,1:45:22.80,1:45:24.74,Default,NTP,0000,0000,0000,,now that you know what I am?{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}既然你知道了我是谁？
+Dialogue: 0,1:45:26.14,1:45:30.30,Default,NTP,0000,0000,0000,,To know what you are,William,would take a lifetime.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}威廉 要知道你是谁 必须花上一辈子的时间
+Dialogue: 0,1:45:30.98,1:45:33.81,Default,NTP,0000,0000,0000,,One I am willing to give. But now you must run.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}我很愿意这么做 但你现在必须快点跑
+Dialogue: 0,1:45:35.65,1:45:37.98,Default,NTP,0000,0000,0000,,Run,and I will run with you.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}快跑吧 我会跟你一起跑
+Dialogue: 0,1:45:38.32,1:45:40.31,Default,NTP,0000,0000,0000,,Jocelyn,I cannot run.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}约瑟琳 我不能跑
+Dialogue: 0,1:45:40.66,1:45:44.15,Default,NTP,0000,0000,0000,,I am a knight,and I will put myself to the hazard!{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}我是个骑士 我要排除万难！
+Dialogue: 0,1:45:44.49,1:45:48.33,Default,NTP,0000,0000,0000,,In your heart,not on paper. And paper's what matters to them!{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}在你心中 不是在文件上 而他们在乎的只有文件！
+Dialogue: 0,1:45:51.50,1:45:53.63,Default,NTP,0000,0000,0000,,William,I love you.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}威廉 我爱你
+Dialogue: 0,1:45:55.67,1:45:58.00,Default,NTP,0000,0000,0000,,I love you. You.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}我爱你 只有你
+Dialogue: 0,1:46:00.51,1:46:05.11,Default,NTP,0000,0000,0000,,- I won't see you led to the stocks.  - But you'll see me run? No!{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}- 我不要看你上示众台  - 但要看我逃跑？ 不！
+Dialogue: 0,1:46:06.35,1:46:08.34,Default,NTP,0000,0000,0000,,Damn your pride,William.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}去你的自尊 威廉
+Dialogue: 0,1:46:08.85,1:46:11.68,Default,NTP,0000,0000,0000,,It is only you that will not see you run.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}是你不愿意见到自己逃跑
+Dialogue: 0,1:46:11.95,1:46:14.18,Default,NTP,0000,0000,0000,,Pride's the one thing they can't take!{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}自尊是他们夺不走的！
+Dialogue: 0,1:46:14.46,1:46:17.95,Default,NTP,0000,0000,0000,,But they can take it from you. They can and they will.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}但他们可以践踏你的自尊 他们可以 也会这么做
+Dialogue: 0,1:46:18.69,1:46:20.18,Default,NTP,0000,0000,0000,,Oh,they will.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}他们绝对会这么做
+Dialogue: 0,1:46:21.03,1:46:23.36,Default,NTP,0000,0000,0000,,But love they cannot take.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}但他们夺不走爱
+Dialogue: 0,1:46:28.70,1:46:31.04,Default,NTP,0000,0000,0000,,And where will we live?{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}那我们要住在哪里？
+Dialogue: 0,1:46:32.21,1:46:33.70,Default,NTP,0000,0000,0000,,In my hovel?{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}我的破房子吗？
+Dialogue: 0,1:46:35.38,1:46:40.71,Default,NTP,0000,0000,0000,,- With the pigs inside in winter?  - Yes,William,with the pigs.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}- 在冬天里跟猪共处一室？  - 是的 跟猪共处一室
+Dialogue: 0,1:46:40.95,1:46:42.31,Default,NTP,0000,0000,0000,,With the pigs.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}跟猪共处一室
+Dialogue: 0,1:46:45.39,1:46:47.05,Default,NTP,0000,0000,0000,,The poor can marry for love.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}穷人可以为爱结婚
+Dialogue: 0,1:46:48.89,1:46:51.72,Default,NTP,0000,0000,0000,,Jocelyn,you speak of what you do not know!{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}约瑟琳 你不懂！
+Dialogue: 0,1:46:55.56,1:46:57.55,Default,NTP,0000,0000,0000,,William,I beg you.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}威廉 我求你
+Dialogue: 0,1:46:58.40,1:46:59.73,Default,NTP,0000,0000,0000,,Please.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}求求你
+Dialogue: 0,1:47:02.24,1:47:04.00,Default,NTP,0000,0000,0000,,Run. Do it for love.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}跑吧 为了爱
+Dialogue: 0,1:47:12.01,1:47:13.74,Default,NTP,0000,0000,0000,,Roland,you would see me run?{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}洛伦 你要我跑吗？
+Dialogue: 0,1:47:20.76,1:47:21.92,Default,NTP,0000,0000,0000,,And you,Geoff?{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}你呢 杰夫？
+Dialogue: 0,1:47:22.76,1:47:25.59,Default,NTP,0000,0000,0000,,I wish it too,with all the pieces of my heart.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}我也希望你这么做 衷心这么希望
+Dialogue: 0,1:47:31.93,1:47:35.10,Default,NTP,0000,0000,0000,,Wat? You and l? We aren't runners.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}华特？ 你跟我？ 我们不轻易逃跑的
+Dialogue: 0,1:47:39.77,1:47:40.94,Default,NTP,0000,0000,0000,,Yes.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}跑吧
+Dialogue: 0,1:47:42.94,1:47:44.71,Default,NTP,0000,0000,0000,,William,today we are.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}威廉 今天我们得跑
+Dialogue: 0,1:47:48.12,1:47:49.45,Default,NTP,0000,0000,0000,,Run,William.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}威廉 跑吧
+Dialogue: 0,1:47:56.29,1:47:58.28,Default,NTP,0000,0000,0000,,I will not run!{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}我不会逃的！
+Dialogue: 0,1:48:05.63,1:48:07.12,Default,NTP,0000,0000,0000,,I am a knight.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}我是个骑士
+Dialogue: 0,1:48:20.15,1:48:21.48,Default,NTP,0000,0000,0000,,Well,boys{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}各位
+Dialogue: 0,1:48:22.08,1:48:24.48,Default,NTP,0000,0000,0000,,all good things must come to an end.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}好事终难长久
+Dialogue: 0,1:48:25.42,1:48:27.32,Default,NTP,0000,0000,0000,,Let's end them together.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}我们就一起做个结束吧
+Dialogue: 0,1:49:04.53,1:49:08.19,Default,NTP,0000,0000,0000,,You will remove yourself from this position of honor.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}你自愿退出吧
+Dialogue: 0,1:49:10.30,1:49:11.63,Default,NTP,0000,0000,0000,,I am here to compete.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}我是来参赛的
+Dialogue: 0,1:49:12.03,1:49:14.36,Default,NTP,0000,0000,0000,,You are here to be arrested.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}你是来被逮捕就范的
+Dialogue: 0,1:49:21.88,1:49:23.21,Default,NTP,0000,0000,0000,,All right!{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}好！
+Dialogue: 0,1:49:51.57,1:49:54.23,Default,NTP,0000,0000,0000,,He that strives to touch a star{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}一心想摘星的人
+Dialogue: 0,1:49:55.08,1:49:56.74,Default,NTP,0000,0000,0000,,oft stumbles{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}往往会失足于
+Dialogue: 0,1:49:57.08,1:49:58.74,Default,NTP,0000,0000,0000,,at a simple straw.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}一个枝微末节
+Dialogue: 0,1:50:09.76,1:50:11.42,Default,NTP,0000,0000,0000,,You have been weighed.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}你打也打了
+Dialogue: 0,1:50:19.10,1:50:20.76,Default,NTP,0000,0000,0000,,You have been measured.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}比也比了
+Dialogue: 0,1:50:23.77,1:50:25.53,Default,NTP,0000,0000,0000,,And you have been found wanting.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}而且发现你能力不足
+Dialogue: 0,1:50:31.11,1:50:34.10,Default,NTP,0000,0000,0000,,It's one loss or anotherWilliam.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}世事古难全啊威廉
+Dialogue: 0,1:50:40.22,1:50:43.95,Default,NTP,0000,0000,0000,,In what world could you have ever beaten me?{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}你在哪方面能击败我？
+Dialogue: 0,1:51:22.23,1:51:23.72,Default,NTP,0000,0000,0000,,Leave,Roland.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}洛伦 你走吧
+Dialogue: 0,1:51:24.80,1:51:26.13,Default,NTP,0000,0000,0000,,Let them have me.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}随他们高兴吧
+Dialogue: 0,1:51:27.13,1:51:28.97,Default,NTP,0000,0000,0000,,God love you,William.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}威廉 上帝爱你
+Dialogue: 0,1:51:29.30,1:51:30.74,Default,NTP,0000,0000,0000,,So do l.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}我也是
+Dialogue: 0,1:51:31.31,1:51:33.47,Default,NTP,0000,0000,0000,,Go! Disperse!{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}走！ 快走开！
+Dialogue: 0,1:51:35.74,1:51:37.40,Default,NTP,0000,0000,0000,,Or I will fong you!{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}不然我要你们好看！
+Dialogue: 0,1:51:37.98,1:51:40.91,Default,NTP,0000,0000,0000,,As Jesus Christ the Nazarene and his holy mother{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}我以拿撒勒的耶稣基督
+Dialogue: 0,1:51:41.15,1:51:44.74,Default,NTP,0000,0000,0000,,the Virgin Mary are my witnesses,I will fong you!{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}和圣母玛丽亚做我的见证 我会要你们好看！
+Dialogue: 0,1:51:45.65,1:51:48.32,Default,NTP,0000,0000,0000,,I will rip you! Fist! Pain!{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}我会揍扁你们！ 痛死你们！
+Dialogue: 0,1:51:48.72,1:51:52.89,Default,NTP,0000,0000,0000,,I'll stick my fist and break you! Pain! Lots of pain!{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}我会打烂你们！ 要你们痛苦！ 非常痛苦！
+Dialogue: 0,1:51:59.17,1:52:00.60,Default,NTP,0000,0000,0000,,We're in trouble.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}我们麻烦大了
+Dialogue: 0,1:52:04.34,1:52:06.00,Default,NTP,0000,0000,0000,,Listen to me.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}听我说
+Dialogue: 0,1:52:10.68,1:52:12.67,Default,NTP,0000,0000,0000,,Listen to me.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}听我说
+Dialogue: 0,1:52:45.38,1:52:47.71,Default,NTP,0000,0000,0000,,What a pair we make,huh?{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}我们真是哥俩好
+Dialogue: 0,1:52:51.22,1:52:53.38,Default,NTP,0000,0000,0000,,Both trying to hide who we are.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}都试着隐藏真实身份
+Dialogue: 0,1:52:54.72,1:52:56.05,Default,NTP,0000,0000,0000,,Both unable to do so.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}却也都失败了
+Dialogue: 0,1:53:05.07,1:53:06.90,Default,NTP,0000,0000,0000,,Your men love you.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}你的同伴爱你
+Dialogue: 0,1:53:09.07,1:53:12.23,Default,NTP,0000,0000,0000,,If I knew nothing else about you,that would be enough.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}即使我不了解你 知道这点也就够了
+Dialogue: 0,1:53:13.74,1:53:17.58,Default,NTP,0000,0000,0000,,But you also tilt when you should withdraw.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}但你在你应该退出的时候 勇敢不屈
+Dialogue: 0,1:53:20.08,1:53:22.01,Default,NTP,0000,0000,0000,,That is knightly too.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}那也是骑士精神
+Dialogue: 0,1:53:30.26,1:53:31.42,Default,NTP,0000,0000,0000,,Release him.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}放了他
+Dialogue: 0,1:53:41.44,1:53:44.43,Default,NTP,0000,0000,0000,,He may appear to be of humble origins{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}他或许看来出身低微
+Dialogue: 0,1:53:45.71,1:53:48.77,Default,NTP,0000,0000,0000,,but my personal historians have discovered{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}但我私人的史学家发现
+Dialogue: 0,1:53:49.11,1:53:52.71,Default,NTP,0000,0000,0000,,that he descends from an ancient royal line.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}他的远祖是皇室成员
+Dialogue: 0,1:53:56.12,1:53:57.78,Default,NTP,0000,0000,0000,,This is my word.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}这是我说的
+Dialogue: 0,1:53:59.29,1:54:02.78,Default,NTP,0000,0000,0000,,And as such,is beyond contestation.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}因此 你们不得争辩
+Dialogue: 0,1:54:08.13,1:54:09.06,Default,NTP,0000,0000,0000,,Now{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}现在
+Dialogue: 0,1:54:10.47,1:54:13.80,Default,NTP,0000,0000,0000,,if I may repay the kindness you once showed me.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}让我回报 你曾经对我展露的情谊
+Dialogue: 0,1:54:15.14,1:54:16.13,Default,NTP,0000,0000,0000,,Take a knee.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}屈膝跪下吧
+Dialogue: 0,1:54:33.15,1:54:37.15,Default,NTP,0000,0000,0000,,By the power vested in me by my father,King Edward{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}谨以我父王爱德华国王 赋予我的权力
+Dialogue: 0,1:54:38.33,1:54:40.82,Default,NTP,0000,0000,0000,,and by all the witnesses here{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}并在这里所有人的见证下
+Dialogue: 0,1:54:44.00,1:54:45.33,Default,NTP,0000,0000,0000,,I dub thee{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}我封你为
+Dialogue: 0,1:54:48.00,1:54:49.33,Default,NTP,0000,0000,0000,,Sir William.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}威廉爵士
+Dialogue: 0,1:55:01.62,1:55:04.18,Default,NTP,0000,0000,0000,,AriseSir William.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}起身吧威廉爵士
+Dialogue: 0,1:55:11.53,1:55:12.86,Default,NTP,0000,0000,0000,,Can you joust?{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}你能上场吗？
+Dialogue: 0,1:55:14.53,1:55:16.52,Default,NTP,0000,0000,0000,,There's my tournament to finish.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}我还有比赛要完成呢
+Dialogue: 0,1:55:17.03,1:55:21.52,Default,NTP,0000,0000,0000,,Now,are you fit to compete,or shall the forfeit stand?{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}你可以上场比赛 或者还是要弃权？
+Dialogue: 0,1:55:22.37,1:55:23.30,Default,NTP,0000,0000,0000,,I'm fit.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}我没问题
+Dialogue: 0,1:55:24.71,1:55:29.64,Default,NTP,0000,0000,0000,,I shall have your opponent informed. Look for his shield on the lists.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}我会找人通知你的对手 去场上找他的盾牌吧
+Dialogue: 0,1:55:30.21,1:55:31.54,Default,NTP,0000,0000,0000,,At once.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}马上去
+Dialogue: 0,1:55:32.21,1:55:33.65,Default,NTP,0000,0000,0000,,Thank you,my lord.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}谢谢你 殿下
+Dialogue: 0,1:55:44.06,1:55:46.55,Default,NTP,0000,0000,0000,,All hail Prince Edward!{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}爱德华王子万岁！
+Dialogue: 0,1:55:51.57,1:55:53.90,Default,NTP,0000,0000,0000,,My lords,my ladies{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}各位大人、女士
+Dialogue: 0,1:55:54.74,1:55:57.23,Default,NTP,0000,0000,0000,,and all you other people.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}和其他人民
+Dialogue: 0,1:55:58.07,1:56:02.74,Default,NTP,0000,0000,0000,,I give you the son of Philippe de Vitry,son of Gilles.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}请欢迎菲利浦德维崔之子 吉列之孙
+Dialogue: 0,1:56:05.41,1:56:07.40,Default,NTP,0000,0000,0000,,- Are you sure?  - Yes.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}- 你确定吗？  - 确定
+Dialogue: 0,1:56:08.08,1:56:11.07,Default,NTP,0000,0000,0000,,It's nothing but spun sugar and boot black.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}这不过是漆了黑漆的糖衣
+Dialogue: 0,1:56:20.09,1:56:21.69,Default,NTP,0000,0000,0000,,It's a small target{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}目标虽然小
+Dialogue: 0,1:56:23.43,1:56:25.09,Default,NTP,0000,0000,0000,,but aim for his heart.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}瞄准他的心脏
+Dialogue: 0,1:56:31.27,1:56:33.50,Default,NTP,0000,0000,0000,,doer of daring deeds{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}功勋彪炳
+Dialogue: 0,1:56:34.78,1:56:38.11,Default,NTP,0000,0000,0000,,conqueror of countless kingdoms,Count{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}所向披靡的伯爵
+Dialogue: 0,1:56:41.95,1:56:43.61,Default,NTP,0000,0000,0000,,Adhemar!{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}阿德玛！
+Dialogue: 0,1:58:28.72,1:58:30.71,Default,NTP,0000,0000,0000,,Oh,God. I'll get the surgeon.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}天啊 我去找医生
+Dialogue: 0,1:58:31.06,1:58:32.05,Default,NTP,0000,0000,0000,,Roland!{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}洛伦！
+Dialogue: 0,1:58:32.66,1:58:33.82,Default,NTP,0000,0000,0000,,You're the surgeon.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}你就是医生
+Dialogue: 0,1:58:36.23,1:58:37.39,Default,NTP,0000,0000,0000,,Come on.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}快点
+Dialogue: 0,1:58:45.17,1:58:46.23,Default,NTP,0000,0000,0000,,He tipped it.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}他装了尖头
+Dialogue: 0,1:58:49.08,1:58:51.24,Default,NTP,0000,0000,0000,,Kate,get me back to one.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}凯蒂 快领我回起点
+Dialogue: 0,1:58:51.58,1:58:53.57,Default,NTP,0000,0000,0000,,Otherwise we forfeit.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}否则我们就得弃权
+Dialogue: 0,1:59:00.76,1:59:02.92,Default,NTP,0000,0000,0000,,Dirty son of a bitch!{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}那个黑心的浑蛋！
+Dialogue: 0,2:00:13.16,2:00:16.49,Default,NTP,0000,0000,0000,,Kate,I can't breathe. I can't breathe.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}凯蒂 我没办法呼吸
+Dialogue: 0,2:00:23.17,2:00:25.33,Default,NTP,0000,0000,0000,,As I said,thatcher.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}正如我说的 补屋顶工匠
+Dialogue: 0,2:00:27.51,2:00:30.50,Default,NTP,0000,0000,0000,,In what world could you have ever beaten me?{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}你在哪方面能击败我？
+Dialogue: 0,2:00:31.18,2:00:33.11,Default,NTP,0000,0000,0000,,Such a place does not exist.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}那方面是不存在的
+Dialogue: 0,2:00:35.55,2:00:36.45,Default,NTP,0000,0000,0000,,She's here.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}她来了
+Dialogue: 0,2:00:39.45,2:00:40.51,Default,NTP,0000,0000,0000,,With your father.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}和你的父亲一起来了
+Dialogue: 0,2:00:45.03,2:00:46.62,Default,NTP,0000,0000,0000,,Change your stars.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}改变命运
+Dialogue: 0,2:00:51.63,2:00:53.46,Default,NTP,0000,0000,0000,,Let's dance,you and l.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}你我好好比一场吧
+Dialogue: 0,2:00:57.21,2:00:58.87,Default,NTP,0000,0000,0000,,It's two lances to none.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}目前是二比零
+Dialogue: 0,2:00:59.21,2:01:02.87,Default,NTP,0000,0000,0000,,You must unhorse him or kill him. It's the only way to win.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}你得让他落马或杀了他 才能获胜
+Dialogue: 0,2:01:12.89,2:01:15.72,Default,NTP,0000,0000,0000,,- You need more padding.  - No,leave it off.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}- 你需要多加些衬垫  - 不了 我不穿了
+Dialogue: 0,2:01:16.39,2:01:18.05,Default,NTP,0000,0000,0000,,I can't breathe with it on.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}穿着我会无法呼吸
+Dialogue: 0,2:01:23.73,2:01:24.82,Default,NTP,0000,0000,0000,,Lance.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}长枪给我
+Dialogue: 0,2:01:30.24,2:01:31.83,Default,NTP,0000,0000,0000,,I can barely grip it.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}我抓都抓不稳
+Dialogue: 0,2:01:32.07,2:01:33.40,Default,NTP,0000,0000,0000,,Damn.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}可恶
+Dialogue: 0,2:01:40.08,2:01:41.41,Default,NTP,0000,0000,0000,,Lash it to my arm.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}把枪绑在我手臂上
+Dialogue: 0,2:01:45.59,2:01:46.75,Default,NTP,0000,0000,0000,,Wat{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}华特
+Dialogue: 0,2:01:47.52,2:01:49.01,Default,NTP,0000,0000,0000,,Iash it to me arm.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}把枪绑在我手臂上
+Dialogue: 0,2:01:52.19,2:01:53.25,Default,NTP,0000,0000,0000,,Do it.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}照他说的做
+Dialogue: 0,2:02:11.55,2:02:13.03,Default,NTP,0000,0000,0000,,Good people!{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}各位！
+Dialogue: 0,2:02:14.11,2:02:15.45,Default,NTP,0000,0000,0000,,I missed my introduction!{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}我忘了说介绍词！
+Dialogue: 0,2:02:26.63,2:02:28.29,Default,NTP,0000,0000,0000,,But please{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}但请你们
+Dialogue: 0,2:02:28.63,2:02:30.29,Default,NTP,0000,0000,0000,,please,I pray you.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}请你们 请求你们
+Dialogue: 0,2:02:30.80,2:02:32.29,Default,NTP,0000,0000,0000,,Hear it now.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}现在好好倾听
+Dialogue: 0,2:02:33.63,2:02:35.63,Default,NTP,0000,0000,0000,,For I would lay rest{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}因为我接下来
+Dialogue: 0,2:02:35.97,2:02:38.30,Default,NTP,0000,0000,0000,,the grace in my tongue{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}放下花言巧语
+Dialogue: 0,2:02:38.64,2:02:40.30,Default,NTP,0000,0000,0000,,and speak plain.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}只说简单的
+Dialogue: 0,2:02:41.47,2:02:43.31,Default,NTP,0000,0000,0000,,Days like these{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}像今天这种罕见的机会
+Dialogue: 0,2:02:43.64,2:02:47.31,Default,NTP,0000,0000,0000,,are far too rare to cheapen with heavy- handed words.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}不该让拙劣的言词 贬损了它的价值
+Dialogue: 0,2:02:48.65,2:02:52.48,Default,NTP,0000,0000,0000,,And so,I'm afraid,without any ado whatsoever{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}因此 我想 我就不再无事自扰
+Dialogue: 0,2:02:53.15,2:02:54.48,Default,NTP,0000,0000,0000,,Excuse me,my lord.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}大人 抱歉
+Dialogue: 0,2:02:54.99,2:02:58.32,Default,NTP,0000,0000,0000,,Here he is! One of your own!{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}他就在那里！ 你们的同胞！
+Dialogue: 0,2:02:59.29,2:03:02.23,Default,NTP,0000,0000,0000,,Born a stone's throw from this very stadium{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}在这个场上诞生的璞石
+Dialogue: 0,2:03:02.56,2:03:04.39,Default,NTP,0000,0000,0000,,and here before you now.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}现在就在你们的面前
+Dialogue: 0,2:03:04.73,2:03:06.72,Default,NTP,0000,0000,0000,,The son of John Thatcher{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}约翰柴契尔之子
+Dialogue: 0,2:03:07.73,2:03:10.73,Default,NTP,0000,0000,0000,,Sir William Thatcher!{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}威廉柴契尔爵士！
+Dialogue: 0,2:03:21.85,2:03:22.94,Default,NTP,0000,0000,0000,,That's your name.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}那是你的名字
+Dialogue: 0,2:03:25.85,2:03:27.84,Default,NTP,0000,0000,0000,,Sir William Thatcher.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}威廉柴契尔爵士
+Dialogue: 0,2:03:28.69,2:03:30.12,Default,NTP,0000,0000,0000,,Your father heard that.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}你父亲听到了
+Dialogue: 0,2:03:48.21,2:03:49.87,Default,NTP,0000,0000,0000,,Godspeed,William.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}威廉 祝你成功
+Dialogue: 0,2:05:01.85,2:05:04.61,Default,NTP,0000,0000,0000,,William!{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}威廉！
+Dialogue: 0,2:05:25.64,2:05:27.63,Default,NTP,0000,0000,0000,,You have been weighed.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}你打也打了
+Dialogue: 0,2:05:29.08,2:05:30.30,Default,NTP,0000,0000,0000,,You've been measured.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}比也比了
+Dialogue: 0,2:05:33.48,2:05:35.64,Default,NTP,0000,0000,0000,,And you absolutely{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}而且绝对的
+Dialogue: 0,2:05:36.32,2:05:37.98,Default,NTP,0000,0000,0000,,have been found wanting.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}能力不足
+Dialogue: 0,2:05:42.16,2:05:43.99,Default,NTP,0000,0000,0000,,Welcome to the new world.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}欢迎来到新世界
+Dialogue: 0,2:05:44.49,2:05:47.98,Default,NTP,0000,0000,0000,,God save you,if it is right that he should do so.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}愿上帝保全你 如果他这么做是对的
+Dialogue: 0,2:05:54.64,2:05:56.76,Default,NTP,0000,0000,0000,,William!{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}威廉！
+Dialogue: 0,2:06:10.89,2:06:12.55,Default,NTP,0000,0000,0000,,Yes!{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}太好了！
+Dialogue: 0,2:06:13.95,2:06:15.61,Default,NTP,0000,0000,0000,,He's won! He's won!{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}他赢了！ 他赢了！
+Dialogue: 0,2:06:50.66,2:06:52.32,Default,NTP,0000,0000,0000,,You beat him,Will!{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}威廉 你打败了他！
+Dialogue: 0,2:06:56.96,2:06:58.40,Default,NTP,0000,0000,0000,,Oh,William.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}威廉
+Dialogue: 0,2:07:19.02,2:07:21.01,Default,NTP,0000,0000,0000,,I'm going to write this story.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}我要写下这个故事
+Dialogue: 0,2:07:21.29,2:07:23.28,Default,NTP,0000,0000,0000,,About the prince and the knights?{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}王子和骑士的故事？
+Dialogue: 0,2:07:23.52,2:07:28.52,Default,NTP,0000,0000,0000,,No,all of it. All human activity lies within the artist's scope.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}不 全部 一个艺术家要写尽人事
+Dialogue: 0,2:07:31.03,2:07:32.86,Default,NTP,0000,0000,0000,,Maybe not yours.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}你的就免了
+Dialogue: 0,2:07:59.08,2:08:01.08,Default,NTP,0000,0000,0000,,# She was a fast machine,#{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}# 她其实就是一台高速运转的机器 #
+Dialogue: 0,2:08:01.12,2:08:03.08,Default,NTP,0000,0000,0000,,# She kept her motor clean,#{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}# 只不过让自己的发动机永葆清洁 #
+Dialogue: 0,2:08:03.12,2:08:07.08,Default,NTP,0000,0000,0000,,# She was the best damn woman that I ever seen,#{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}# 她也许是我见过最好的女人 #
+Dialogue: 0,2:08:07.12,2:08:09.08,Default,NTP,0000,0000,0000,,# She had sightless eyes,#{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}# 因为她有一双不明晰的眼睛  #
+Dialogue: 0,2:08:09.12,2:08:10.48,Default,NTP,0000,0000,0000,,# Telling me no lies,#{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}# 而且她从不撒谎 #
+Dialogue: 0,2:08:10.92,2:08:14.48,Default,NTP,0000,0000,0000,,# Knocking me out with those American thighs,#{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}# 用那美国式的胴体诱惑把我制服 #
+Dialogue: 0,2:08:14.62,2:08:16.08,Default,NTP,0000,0000,0000,,# Taking more than her share,#{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}# 我试图索取更多 #
+Dialogue: 0,2:08:16.12,2:08:18.08,Default,NTP,0000,0000,0000,,# Had me fighting for air,#{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}# 结果我却不堪重负 #
+Dialogue: 0,2:08:18.12,2:08:22.08,Default,NTP,0000,0000,0000,,# She told me to come,but I was already there,#{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}# 她说来吧 事实上我已经在那了 #
+Dialogue: 0,2:08:22.12,2:08:24.08,Default,NTP,0000,0000,0000,,# Cause the walls started shaking,#{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}# 然后墙就开始抖动 #
+Dialogue: 0,2:08:24.12,2:08:26.08,Default,NTP,0000,0000,0000,,# The earth was quaking,#{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}# 大地也在晃动 #
+Dialogue: 0,2:08:26.12,2:08:28.08,Default,NTP,0000,0000,0000,,# My mind was aching,#{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}# 我的思想已经极度疼痛 #
+Dialogue: 0,2:08:28.12,2:08:30.08,Default,NTP,0000,0000,0000,,# And we were making it and you #{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}# 你知道我们在干什么 因为你 #
+Dialogue: 0,2:08:30.12,2:08:34.08,Default,NTP,0000,0000,0000,,# Shook me all night long,#{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}# 整晚的折磨我 #
+Dialogue: 0,2:08:34.12,2:08:38.08,Default,NTP,0000,0000,0000,,# All night long #{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}# 整晚的折磨我 #
+Dialogue: 0,2:08:44.08,2:08:47.08,Default,NTP,0000,0000,0000,,# I've paid my dues #{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}# 我已付出了代价 #
+Dialogue: 0,2:08:49.08,2:08:51.08,Default,NTP,0000,0000,0000,,# Time after time #{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}# 一次又一次 #
+Dialogue: 0,2:08:52.08,2:08:55.08,Default,NTP,0000,0000,0000,,# I've done my sentence #{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}# 我服了刑 #
+Dialogue: 0,2:08:55.18,2:08:58.08,Default,NTP,0000,0000,0000,,# But committed no crime #{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}# 但没有犯罪 #
+Dialogue: 0,2:09:00.08,2:09:03.08,Default,NTP,0000,0000,0000,,# And bad mistakes #{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}# 我犯过了一些 #
+Dialogue: 0,2:09:04.08,2:09:06.08,Default,NTP,0000,0000,0000,,# I've made a few #{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}# 严重的错误 #
+Dialogue: 0,2:09:08.08,2:09:12.28,Default,NTP,0000,0000,0000,,# I've had my share of sand,kicked in my face #{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}# 我自作自受 #
+Dialogue: 0,2:09:12.38,2:09:14.08,Default,NTP,0000,0000,0000,,# But I've come through #{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}# 但我都熬过来了 #
+Dialogue: 0,2:09:14.12,2:09:19.08,Default,NTP,0000,0000,0000,,# And I need to go on and on and on and on #{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}# 我要继续 #
+Dialogue: 0,2:09:19.12,2:09:24.68,Default,NTP,0000,0000,0000,,# We are the champions,my friends #{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}# 我们是冠军 我的朋友们 #
+Dialogue: 0,2:09:26.08,2:09:33.08,Default,NTP,0000,0000,0000,,# And we'll keep on fighting till the end #{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}# 我们会一直战斗到最后 #
+Dialogue: 0,2:09:34.08,2:09:38.08,Default,NTP,0000,0000,0000,,# We are the champions #{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}# 我们是冠军 #
+Dialogue: 0,2:09:39.08,2:09:42.08,Default,NTP,0000,0000,0000,,# We are the champions #{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}# 我们是冠军 #
+Dialogue: 0,2:09:42.12,2:09:46.08,Default,NTP,0000,0000,0000,,# No time for losers #{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}# 这世界不属于失败者 #
+Dialogue: 0,2:09:46.12,2:09:59.08,Default,NTP,0000,0000,0000,,# 'Cause we are the champions of the world #{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}# 因为我们是世界冠军 #
+Dialogue: 0,2:10:03.08,2:10:05.08,Default,NTP,0000,0000,0000,,# I've taken my bows #{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}# 我鞠躬谢幕 #
+Dialogue: 0,2:10:07.08,2:10:09.08,Default,NTP,0000,0000,0000,,# And my curtain calls #{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}# 将落下帷幕 #
+Dialogue: 0,2:10:11.08,2:10:13.08,Default,NTP,0000,0000,0000,,# You've bought me fame and fortune #{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}# 你们给我带来名誉和财富 #
+Dialogue: 0,2:10:13.14,2:10:14.08,Default,NTP,0000,0000,0000,,# And everything that goes with it #{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}# 和随之而来的一切 #
+Dialogue: 0,2:10:15.08,2:10:16.48,Default,NTP,0000,0000,0000,,# I thank you all #{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}# 我感谢你们 #
+Dialogue: 0,2:10:18.08,2:10:21.08,Default,NTP,0000,0000,0000,,# But it's been no bed of roses there #{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}# 但没有任何游乐 #
+Dialogue: 0,2:10:22.08,2:10:25.08,Default,NTP,0000,0000,0000,,# No pleasure cruise #{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}# 也不是欢乐的海洋 #
+Dialogue: 0,2:10:26.08,2:10:30.08,Default,NTP,0000,0000,0000,,# I consider it a challenge before the whole human race #{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}# 我认为这是一个摆在全人类面前的挑战 #
+Dialogue: 0,2:10:30.12,2:10:33.08,Default,NTP,0000,0000,0000,,# And I ain't gonna lose #{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}# 而我绝不会输 #
+Dialogue: 0,2:10:33.12,2:10:38.08,Default,NTP,0000,0000,0000,,# And I need to go on and on and on and on #{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}# 我要继续 #
+Dialogue: 0,2:10:38.12,2:10:43.08,Default,NTP,0000,0000,0000,,# We are the champions,my friends #{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}# 我们是冠军 我的朋友们 #
+Dialogue: 0,2:10:45.08,2:10:51.08,Default,NTP,0000,0000,0000,,# And we'll keep on fighting till the end #{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}# 我们会一直战斗到最后 #
+Dialogue: 0,2:10:53.08,2:10:57.08,Default,NTP,0000,0000,0000,,# We are the champions #{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}# 我们是冠军 #
+Dialogue: 0,2:10:57.12,2:11:00.08,Default,NTP,0000,0000,0000,,# We are the champions #{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}# 我们是冠军 #
+Dialogue: 0,2:11:01.08,2:11:04.08,Default,NTP,0000,0000,0000,,# No time for losers #{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}# 这世界不属于失败者 #
+Dialogue: 0,2:11:04.12,2:11:08.08,Default,NTP,0000,0000,0000,,# 'Cause we are the champions #{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}# 因为我们是世界冠军 #
+Dialogue: 0,2:11:19.08,2:11:22.08,Default,NTP,0000,0000,0000,,# We are the champions #{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}# 我们是冠军 #
+Dialogue: 0,2:11:23.08,2:11:26.08,Default,NTP,0000,0000,0000,,# We are the champions #{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}# 我们是冠军 #
+Dialogue: 0,2:11:26.12,2:11:30.08,Default,NTP,0000,0000,0000,,# No time for losers #{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}# 这世界不属于失败者 #
+Dialogue: 0,2:11:30.12,2:11:35.08,Default,NTP,0000,0000,0000,,# 'Cause we are the champions #{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}# 因为我们是冠军 #
+Dialogue: 0,2:12:05.74,2:12:06.90,Default,NTP,0000,0000,0000,,Your round.{\r}\N{\fn华文楷体\fs16\1c&HE0E0E0&}你输了
