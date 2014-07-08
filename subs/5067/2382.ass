@@ -1,0 +1,743 @@
+﻿[Script Info]
+; // 此字幕由CMCT AutoASS生成
+; // 欢迎访问CMCT http://cmct.cc
+Title:cmct
+Original Script:cmct
+Synch Point:1
+ScriptType:v4.00+
+Collisions:Normal
+Timer:100.0000
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,StrikeOut,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: 中上英下,华文楷体,20,&H00E0E0E0,&HF0000000,&H000D0500,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,0,0,1,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:48.60,0:00:50.15,中上英下,NTP,0000,0000,0008,,{\an8}搜索"海德克"
+Dialogue: 0,0:07:22.58,0:07:25.72,中上英下,NTP,0000,0000,0008,,{\an8}普里什蒂纳 科索沃
+Dialogue: 0,0:00:05.77,0:00:07.62,中上英下,NTP,0000,0000,0000,,{\blur3}尼基塔 快走\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Oh, Nikita, just go.
+Dialogue: 0,0:00:09.15,0:00:10.68,中上英下,NTP,0000,0000,0000,,{\blur3}不 油箱就要爆炸了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}No! The tank's gonna blow!
+Dialogue: 0,0:00:10.68,0:00:12.45,中上英下,NTP,0000,0000,0000,,{\blur3}我知道 我要你活着 快走吧 求你了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I know. I want you to live. Just go. Please.
+Dialogue: 0,0:00:12.45,0:00:13.46,中上英下,NTP,0000,0000,0000,,{\blur3}我不走\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I'm not going.
+Dialogue: 0,0:00:13.85,0:00:15.95,中上英下,NTP,0000,0000,0000,,{\blur3}我爱你 该死的 快走\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I love you! Damn it, just go!
+Dialogue: 0,0:00:17.87,0:00:19.17,中上英下,NTP,0000,0000,0000,,{\blur3}我也爱你\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I love you, too.
+Dialogue: 0,0:00:58.14,0:00:59.71,中上英下,NTP,0000,0000,0000,,{\blur3}海德格查的怎么样了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Where are we on Heidegger?
+Dialogue: 0,0:00:59.80,0:01:01.06,中上英下,NTP,0000,0000,0000,,{\blur3}是海德克\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Heidecker.
+Dialogue: 0,0:01:02.18,0:01:04.84,中上英下,NTP,0000,0000,0000,,{\blur3}伯克霍夫 求你告诉我\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Birkhoff, where are we on our best chance
+Dialogue: 0,0:01:04.84,0:01:06.55,中上英下,NTP,0000,0000,0000,,{\blur3}迈克尔的手有多大可能复原\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}at fixing Michael's hand, please?
+Dialogue: 0,0:01:06.55,0:01:08.06,中上英下,NTP,0000,0000,0000,,{\blur3}你以为我在这里干什么\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}What do you think I've been doing here?
+Dialogue: 0,0:01:08.06,0:01:09.29,中上英下,NTP,0000,0000,0000,,{\blur3}我又在查看海德格\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I've been going back over all
+Dialogue: 0,0:01:09.29,0:01:11.14,中上英下,NTP,0000,0000,0000,,{\blur3}为"组织"提供的所有东西\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the stuff Heidecker gave division.
+Dialogue: 0,0:01:11.47,0:01:14.92,中上英下,NTP,0000,0000,0000,,{\blur3}夺命芯片 聚合物面具 药物\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Kill chips, polymer masks, pharmaceuticals,
+Dialogue: 0,0:01:15.03,0:01:16.46,中上英下,NTP,0000,0000,0000,,{\blur3}任何与间谍有关的东西\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}anything spy-fi.
+Dialogue: 0,0:01:17.10,0:01:18.37,中上英下,NTP,0000,0000,0000,,{\blur3}有发现吗\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And you found something?
+Dialogue: 0,0:01:18.83,0:01:19.78,中上英下,NTP,0000,0000,0000,,{\blur3}没有\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}No.
+Dialogue: 0,0:01:21.55,0:01:23.13,中上英下,NTP,0000,0000,0000,,{\blur3}但我记起了一件事\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I remembered something.
+Dialogue: 0,0:01:24.56,0:01:27.68,中上英下,NTP,0000,0000,0000,,{\blur3}海德克以前会来做跟进访问\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Heidecker used to come in for follow-up visits.
+Dialogue: 0,0:01:28.28,0:01:30.24,中上英下,NTP,0000,0000,0000,,{\blur3}他过来和医生们交流\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}He'd stop by, talk to the doctors,
+Dialogue: 0,0:01:30.25,0:01:32.48,中上英下,NTP,0000,0000,0000,,{\blur3}收集他们记录的临床数据\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}pick up any clinical data they recorded.
+Dialogue: 0,0:01:32.60,0:01:35.66,中上英下,NTP,0000,0000,0000,,{\blur3}这些人利用"组织"做进一步实体试验\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}These guys used division for advanced field testing.
+Dialogue: 0,0:01:36.36,0:01:38.64,中上英下,NTP,0000,0000,0000,,{\blur3}珀西视我们为棋子\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}To Percy, we were pawns.
+Dialogue: 0,0:01:38.94,0:01:41.75,中上英下,NTP,0000,0000,0000,,{\blur3}而海德克视我们为小白鼠\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}To Heidecker, we were lab rats.
+Dialogue: 0,0:01:43.87,0:01:45.38,中上英下,NTP,0000,0000,0000,,{\blur3}所以我开始思考\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And that made me wonder.
+Dialogue: 0,0:01:46.41,0:01:48.56,中上英下,NTP,0000,0000,0000,,{\blur3}海德克现在的小白鼠是谁\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Who are Heidecker's lab rats now?
+Dialogue: 0,0:01:51.41,0:01:55.11,中上英下,NTP,0000,0000,0000,,{\blur3}见见科斯塔·波齐莱\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Meet Kosta Beciraj.
+Dialogue: 0,0:01:55.79,0:01:57.96,中上英下,NTP,0000,0000,0000,,{\blur3}他是科索沃的副总理\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Deputy prime minister of Kosovo
+Dialogue: 0,0:01:57.96,0:02:00.24,中上英下,NTP,0000,0000,0000,,{\blur3}也是海德克最新的实验对象之一\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and one of Heidecker's newest test subjects.
+Dialogue: 0,0:02:00.93,0:02:04.12,中上英下,NTP,0000,0000,0000,,{\blur3}表面上 科斯塔和其他政治家一样\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}On the surface, Kosta looks like any other politician,
+Dialogue: 0,0:02:05.13,0:02:06.39,中上英下,NTP,0000,0000,0000,,{\blur3}但是深入发掘\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but scratch the surface
+Dialogue: 0,0:02:06.39,0:02:08.94,中上英下,NTP,0000,0000,0000,,{\blur3}就会发现一个复杂的犯罪轴心\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and there's a chewy criminal center.
+Dialogue: 0,0:02:09.12,0:02:11.42,中上英下,NTP,0000,0000,0000,,{\blur3}犯罪集团 毒品交易\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Ties to organized crime, drug trade,
+Dialogue: 0,0:02:11.42,0:02:13.08,中上英下,NTP,0000,0000,0000,,{\blur3}贩卖人口 无恶不作\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}human trafficking, you name it.
+Dialogue: 0,0:02:13.42,0:02:15.89,中上英下,NTP,0000,0000,0000,,{\blur3}为什么这样的人会同意当别人的小白鼠\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Why would a guy like this agree to be somebody's lab rat?
+Dialogue: 0,0:02:15.89,0:02:18.63,中上英下,NTP,0000,0000,0000,,{\blur3}一年前 科斯塔秘密被送往医院\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}About a year ago, Kosta was secretly rushed to the hospital
+Dialogue: 0,0:02:18.63,0:02:20.31,中上英下,NTP,0000,0000,0000,,{\blur3}做急诊手术\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}for emergency surgery.
+Dialogue: 0,0:02:20.72,0:02:21.43,中上英下,NTP,0000,0000,0000,,{\blur3}官方说法是\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The official story is,
+Dialogue: 0,0:02:21.43,0:02:23.82,中上英下,NTP,0000,0000,0000,,{\blur3}他被宠物老虎咬成轻伤\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}he was receiving treatment for minor injuries
+Dialogue: 0,0:02:23.82,0:02:26.34,中上英下,NTP,0000,0000,0000,,{\blur3}所以被送去医院接受治疗\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}after being attacked by his pet tiger.
+Dialogue: 0,0:02:27.73,0:02:29.68,中上英下,NTP,0000,0000,0000,,{\blur3}他是007电影里的反派吗\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Who is this guy, a Bond villain?
+Dialogue: 0,0:02:29.83,0:02:31.78,中上英下,NTP,0000,0000,0000,,{\blur3}别激动 还有哦\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Keep your shirt on, double oh hottie.
+Dialogue: 0,0:02:32.57,0:02:34.08,中上英下,NTP,0000,0000,0000,,{\blur3}他让人杀了老虎\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}He had the tiger put down,
+Dialogue: 0,0:02:34.32,0:02:36.43,中上英下,NTP,0000,0000,0000,,{\blur3}闭不出门\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}walled himself up inside his house.
+Dialogue: 0,0:02:36.62,0:02:38.50,中上英下,NTP,0000,0000,0000,,{\blur3}他不想任何人知道真相\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}He didn't want anyone to know the truth.
+Dialogue: 0,0:02:38.98,0:02:40.34,中上英下,NTP,0000,0000,0000,,{\blur3}其实并不是老虎\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It wasn't a tiger.
+Dialogue: 0,0:02:40.62,0:02:42.35,中上英下,NTP,0000,0000,0000,,{\blur3}而是中情局的人想杀他\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The CIA tried to kill him.
+Dialogue: 0,0:02:42.53,0:02:44.72,中上英下,NTP,0000,0000,0000,,{\blur3}他们失败了 但…\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Now, they failed, but...
+Dialogue: 0,0:02:44.97,0:02:46.43,中上英下,NTP,0000,0000,0000,,{\blur3}他失去了一条腿\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}He lost his leg.
+Dialogue: 0,0:02:46.52,0:02:48.72,中上英下,NTP,0000,0000,0000,,{\blur3}经胫骨截肢\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Transtibial amputation.
+Dialogue: 0,0:02:49.56,0:02:51.15,中上英下,NTP,0000,0000,0000,,{\blur3}看看这个\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Now, check this out.
+Dialogue: 0,0:02:51.86,0:02:54.97,中上英下,NTP,0000,0000,0000,,{\blur3}这些照片是几周前拍的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}These were taken just a few weeks ago.
+Dialogue: 0,0:03:01.24,0:03:02.33,中上英下,NTP,0000,0000,0000,,{\blur3}怎么回事\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}What the hell?
+Dialogue: 0,0:03:03.15,0:03:04.42,中上英下,NTP,0000,0000,0000,,{\blur3}他和魔鬼做了交易\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Deal with the devil.
+Dialogue: 0,0:03:05.53,0:03:06.74,中上英下,NTP,0000,0000,0000,,{\blur3}海德克\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Heidecker.
+Dialogue: 0,0:03:07.63,0:03:08.87,中上英下,NTP,0000,0000,0000,,{\blur3}科技间谍\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Spyfi.
+Dialogue: 0,0:03:10.14,0:03:11.29,中上英下,NTP,0000,0000,0000,,{\blur3}我们怎么抓住他\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}How do we get him?
+Dialogue: 0,0:03:11.86,0:03:13.04,中上英下,NTP,0000,0000,0000,,{\blur3}我做了调查\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Did some digging.
+Dialogue: 0,0:03:13.18,0:03:16.03,中上英下,NTP,0000,0000,0000,,{\blur3}海德克大约一个月来一次科索沃\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Heidecker's been visiting Kosovo about once a month.
+Dialogue: 0,0:03:17.51,0:03:19.58,中上英下,NTP,0000,0000,0000,,{\blur3}他的第一站是科斯塔家\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}His first stop is Kosta's house.
+Dialogue: 0,0:03:19.74,0:03:20.73,中上英下,NTP,0000,0000,0000,,{\blur3}我猜是给以假乱真的腿\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}My guess would be some kind of maintenance
+Dialogue: 0,0:03:20.74,0:03:21.90,中上英下,NTP,0000,0000,0000,,{\blur3}做点维护\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}on the wonder leg.
+Dialogue: 0,0:03:22.08,0:03:24.18,中上英下,NTP,0000,0000,0000,,{\blur3}没准还糟蹋几个黄花大闺女\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}That, and maybe the sacrifice of a virgin or two.
+Dialogue: 0,0:03:25.20,0:03:26.53,中上英下,NTP,0000,0000,0000,,{\blur3}他待三天\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}He stays for three days
+Dialogue: 0,0:03:26.54,0:03:28.60,中上英下,NTP,0000,0000,0000,,{\blur3}然后飞回不明之地\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and then flies back out for parts unknown.
+Dialogue: 0,0:03:31.24,0:03:33.06,中上英下,NTP,0000,0000,0000,,{\blur3}你知道他下次是什么时候来吗\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Do we know when his next trip is?
+Dialogue: 0,0:03:33.28,0:03:35.27,中上英下,NTP,0000,0000,0000,,{\blur3}他每个月一号过去\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}He flies in every month on the first.
+Dialogue: 0,0:03:35.74,0:03:36.85,中上英下,NTP,0000,0000,0000,,{\blur3}就是今天\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}That's today.
+Dialogue: 0,0:03:37.37,0:03:38.58,中上英下,NTP,0000,0000,0000,,{\blur3}我只有两天时间过去\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I have two days to get there,
+Dialogue: 0,0:03:38.58,0:03:40.32,中上英下,NTP,0000,0000,0000,,{\blur3}抓住海德克 然后带他回来吗\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}grab Heidecker, and bring him back?
+Dialogue: 0,0:03:40.32,0:03:41.68,中上英下,NTP,0000,0000,0000,,{\blur3}你说"抓住"他是什么意思\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}What do you mean, "Grab" Him?
+Dialogue: 0,0:03:42.19,0:03:43.81,中上英下,NTP,0000,0000,0000,,{\blur3}和我平常的意思一样\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Same thing I usually mean.
+Dialogue: 0,0:03:44.15,0:03:45.39,中上英下,NTP,0000,0000,0000,,{\blur3}"跟我来 我不会伤害你\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}"Come with me. I'm not gonna hurt you.
+Dialogue: 0,0:03:45.39,0:03:46.55,中上英下,NTP,0000,0000,0000,,{\blur3}我们得走了"\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We gotta go."
+Dialogue: 0,0:03:47.32,0:03:48.79,中上英下,NTP,0000,0000,0000,,{\blur3}我把他带回来\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So, I get him back here,
+Dialogue: 0,0:03:49.29,0:03:51.23,中上英下,NTP,0000,0000,0000,,{\blur3}他告诉我们怎么给迈克尔装上新手\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and he shows us how to give Michael a new hand.
+Dialogue: 0,0:03:52.09,0:03:53.98,中上英下,NTP,0000,0000,0000,,{\blur3}你觉得瑞安会同意吗\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}You think Ryan's gonna okay that?
+Dialogue: 0,0:03:53.99,0:03:55.78,中上英下,NTP,0000,0000,0000,,{\blur3}这不是"组织"行动 而是私事\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}This is not a division op. It's personal.
+Dialogue: 0,0:03:55.78,0:03:58.10,中上英下,NTP,0000,0000,0000,,{\blur3}天知地知 你知我知\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The only people who need to know are you, me, and...
+Dialogue: 0,0:03:59.75,0:04:00.80,中上英下,NTP,0000,0000,0000,,{\blur3}还有迈克尔知道\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Michael.
+Dialogue: 0,0:04:01.72,0:04:02.85,中上英下,NTP,0000,0000,0000,,{\blur3}我得告诉他\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I gotta tell him.
+Dialogue: 0,0:04:04.37,0:04:05.34,中上英下,NTP,0000,0000,0000,,{\blur3}尼基塔\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Nikita.
+Dialogue: 0,0:04:09.31,0:04:12.32,中上英下,NTP,0000,0000,0000,,{\blur3}你和总统的会议如何\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Hey, how'd your meeting with the President go?
+Dialogue: 0,0:04:13.58,0:04:16.52,中上英下,NTP,0000,0000,0000,,{\blur3}我们安然地站在这儿 说明挺顺利的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We're still standing here, so I think it went fine.
+Dialogue: 0,0:04:18.19,0:04:21.36,中上英下,NTP,0000,0000,0000,,{\blur3}又回到我和迈克尔刚在讨论的事\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Which brings me to what Michael and I were discussing.
+Dialogue: 0,0:04:21.75,0:04:24.09,中上英下,NTP,0000,0000,0000,,{\blur3}鉴于我在华盛顿时 他运筹帷幄\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Given how well he ran ops while I was in D.C.,
+Dialogue: 0,0:04:24.09,0:04:28.33,中上英下,NTP,0000,0000,0000,,{\blur3}我邀请他接下这份工作\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I've asked him to assume that role permanently.
+Dialogue: 0,0:04:30.14,0:04:31.64,中上英下,NTP,0000,0000,0000,,{\blur3}就跟珀西掌权时\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Yeah, it's like the job I used to have
+Dialogue: 0,0:04:31.64,0:04:33.42,中上英下,NTP,0000,0000,0000,,{\blur3}我的任务一样\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}when Percy was running the place.
+Dialogue: 0,0:04:33.67,0:04:36.46,中上英下,NTP,0000,0000,0000,,{\blur3}只不过瑞安保证不会杀我\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Only Ryan promised that he won't try and kill me,
+Dialogue: 0,0:04:36.67,0:04:38.05,中上英下,NTP,0000,0000,0000,,{\blur3}还是有些区别\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}so that's a little different.
+Dialogue: 0,0:04:38.05,0:04:39.24,中上英下,NTP,0000,0000,0000,,{\blur3}虽然提拔了你\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Well, it's the least I could do
+Dialogue: 0,0:04:39.25,0:04:42.17,中上英下,NTP,0000,0000,0000,,{\blur3}但是没加薪水 这样聊表心意吧\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}since the promotion doesn't come with a raise, huh?
+Dialogue: 0,0:04:42.17,0:04:43.12,中上英下,NTP,0000,0000,0000,,{\blur3}没错\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Right.
+Dialogue: 0,0:04:46.84,0:04:49.96,中上英下,NTP,0000,0000,0000,,{\blur3}真是太好了 恭喜\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}That's great news. Congratulations.
+Dialogue: 0,0:04:50.63,0:04:51.63,中上英下,NTP,0000,0000,0000,,{\blur3}谢谢\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Thanks.
+Dialogue: 0,0:04:54.43,0:04:55.53,中上英下,NTP,0000,0000,0000,,{\blur3}我得先过去了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I should probably get down there.
+Dialogue: 0,0:04:55.53,0:04:59.16,中上英下,NTP,0000,0000,0000,,{\blur3}你是来找我还是瑞安的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Uh, did you need me or Ryan?
+Dialogue: 0,0:04:59.66,0:05:00.82,中上英下,NTP,0000,0000,0000,,{\blur3}瑞安\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Uh, Ryan.
+Dialogue: 0,0:05:02.35,0:05:03.34,中上英下,NTP,0000,0000,0000,,{\blur3}好的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Okay.
+Dialogue: 0,0:05:10.69,0:05:11.99,中上英下,NTP,0000,0000,0000,,{\blur3}他看上去好多了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}He seems better.
+Dialogue: 0,0:05:14.39,0:05:15.46,中上英下,NTP,0000,0000,0000,,{\blur3}你怎么样\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}How are you doing?
+Dialogue: 0,0:05:16.27,0:05:17.81,中上英下,NTP,0000,0000,0000,,{\blur3}我还在调整\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I'm still adjusting.
+Dialogue: 0,0:05:19.23,0:05:21.64,中上英下,NTP,0000,0000,0000,,{\blur3}可能没他调整得那么快\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Although not as fast as he is, I guess.
+Dialogue: 0,0:05:25.53,0:05:28.07,中上英下,NTP,0000,0000,0000,,{\blur3}我知道这对你来说很困难\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Look, I know this can't be easy on you.
+Dialogue: 0,0:05:29.06,0:05:31.31,中上英下,NTP,0000,0000,0000,,{\blur3}我希望我能帮上忙\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I wish there was something I could do to help.
+Dialogue: 0,0:05:33.47,0:05:35.55,中上英下,NTP,0000,0000,0000,,{\blur3}事实上 我可能需要休息几天\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Actually, I could use some time off.
+Dialogue: 0,0:05:39.91,0:05:41.87,中上英下,NTP,0000,0000,0000,,{\blur3}我们需要确认那条腿是真的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We need to confirm that that leg is real.
+Dialogue: 0,0:05:41.87,0:05:43.17,中上英下,NTP,0000,0000,0000,,{\blur3}这个仪器能检测出来 是吗\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}This'll do it, right?
+Dialogue: 0,0:05:43.17,0:05:44.37,中上英下,NTP,0000,0000,0000,,{\blur3}让我们确认一下吧\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Let's make sure.
+Dialogue: 0,0:05:44.54,0:05:46.03,中上英下,NTP,0000,0000,0000,,{\blur3}看来你有些脑损伤\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Why don't I use it to examine your head since you seem
+Dialogue: 0,0:05:46.03,0:05:48.82,中上英下,NTP,0000,0000,0000,,{\blur3}可以试试用它检测一下你的脑子\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to be suffering from some sort of brain damage?
+Dialogue: 0,0:05:49.73,0:05:52.00,中上英下,NTP,0000,0000,0000,,{\blur3}我以前也单独行动过的 呆子\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I've been on solo missions before, nerd.
+Dialogue: 0,0:05:52.53,0:05:54.89,中上英下,NTP,0000,0000,0000,,{\blur3}你就不能找艾丽克斯 欧文\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Can't you call Alex or Owen
+Dialogue: 0,0:05:54.89,0:05:56.88,中上英下,NTP,0000,0000,0000,,{\blur3}或其他什么人给你支援\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}or someone? Just have some backup?
+Dialogue: 0,0:05:56.88,0:06:00.06,中上英下,NTP,0000,0000,0000,,{\blur3}不行 欧文的肋骨还没有恢复好\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}No, Owen is still recovering from his broken ribs,
+Dialogue: 0,0:06:00.06,0:06:01.85,中上英下,NTP,0000,0000,0000,,{\blur3}艾丽克斯和肖恩出城去了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and Alex has gone out of town with Sean,
+Dialogue: 0,0:06:01.85,0:06:03.54,中上英下,NTP,0000,0000,0000,,{\blur3}去见家人之类的事情吧\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}some sort of meet-the-family thing.
+Dialogue: 0,0:06:03.54,0:06:05.28,中上英下,NTP,0000,0000,0000,,{\blur3}我不能把她叫回来\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I can't pull her away from that.
+Dialogue: 0,0:06:05.28,0:06:05.92,中上英下,NTP,0000,0000,0000,,{\blur3}那迈克尔呢\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}What about Mikey?
+Dialogue: 0,0:06:05.92,0:06:07.68,中上英下,NTP,0000,0000,0000,,{\blur3}你本来要去告诉他的 发生什么了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}You were gonna tell him. What happened?
+Dialogue: 0,0:06:07.79,0:06:09.09,中上英下,NTP,0000,0000,0000,,{\blur3}他升职了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}He got a promotion.
+Dialogue: 0,0:06:09.83,0:06:11.96,中上英下,NTP,0000,0000,0000,,{\blur3}他已经好多了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}He's doing better.
+Dialogue: 0,0:06:13.40,0:06:14.29,中上英下,NTP,0000,0000,0000,,{\blur3}他在自我调整\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}He...he's adjusting.
+Dialogue: 0,0:06:14.29,0:06:15.86,中上英下,NTP,0000,0000,0000,,{\blur3}他早上甚至开了个玩笑\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}He even made a joke this morning.
+Dialogue: 0,0:06:16.37,0:06:17.40,中上英下,NTP,0000,0000,0000,,{\blur3}好笑吗\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Was it funny?
+Dialogue: 0,0:06:18.36,0:06:20.00,中上英下,NTP,0000,0000,0000,,{\blur3}这些听上去都是好消息\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Look, that all sounds like good news.
+Dialogue: 0,0:06:20.00,0:06:23.05,中上英下,NTP,0000,0000,0000,,{\blur3}的确 他在重塑他的生活\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It is. He's rebuilding his life.
+Dialogue: 0,0:06:23.30,0:06:25.71,中上英下,NTP,0000,0000,0000,,{\blur3}所以如果我去告诉他 可以接上新的手\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So, if I go in there and tell him about this new hand
+Dialogue: 0,0:06:25.71,0:06:27.20,中上英下,NTP,0000,0000,0000,,{\blur3}但一切却落空了呢\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and nothing comes of it?
+Dialogue: 0,0:06:28.38,0:06:29.96,中上英下,NTP,0000,0000,0000,,{\blur3}发生了那么多事情\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I can't give him false hope,
+Dialogue: 0,0:06:29.96,0:06:32.76,中上英下,NTP,0000,0000,0000,,{\blur3}我不能再让他失望了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}not after...everything.
+Dialogue: 0,0:06:33.27,0:06:34.85,中上英下,NTP,0000,0000,0000,,{\blur3}这家伙接上了新的腿\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Dude's got a new leg.
+Dialogue: 0,0:06:35.41,0:06:37.19,中上英下,NTP,0000,0000,0000,,{\blur3}希望不会落空的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}That hope is not false.
+Dialogue: 0,0:06:38.52,0:06:39.99,中上英下,NTP,0000,0000,0000,,{\blur3}但危险却是真真切切的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Neither is the danger.
+Dialogue: 0,0:06:40.10,0:06:42.42,中上英下,NTP,0000,0000,0000,,{\blur3}为什么你这么怕这个海德克\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Why are you so afraid of this Heidecker guy?
+Dialogue: 0,0:06:42.74,0:06:44.10,中上英下,NTP,0000,0000,0000,,{\blur3}他受雇于那些\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}He works for people who spend their days
+Dialogue: 0,0:06:44.11,0:06:47.98,中上英下,NTP,0000,0000,0000,,{\blur3}整天想着用新奇有趣的方式杀人的人们\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}dreaming up new and interesting ways to commit murder.
+Dialogue: 0,0:06:48.02,0:06:50.39,中上英下,NTP,0000,0000,0000,,{\blur3}死亡芯片 用牙齿做成子弹\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Kill chips. Bullets made of teeth.
+Dialogue: 0,0:06:50.39,0:06:52.17,中上英下,NTP,0000,0000,0000,,{\blur3}可以溶解胃的东西\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}That stuff that liquefies your stomach.
+Dialogue: 0,0:06:52.17,0:06:54.68,中上英下,NTP,0000,0000,0000,,{\blur3}他们可不是善类 相信我\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}They're not nice folks. Trust me.
+Dialogue: 0,0:06:54.93,0:06:57.16,中上英下,NTP,0000,0000,0000,,{\blur3}我可不怕一帮科学家\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I am not afraid of a bunch of scientists.
+Dialogue: 0,0:06:57.22,0:06:58.41,中上英下,NTP,0000,0000,0000,,{\blur3}他们很可怕\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}You should be.
+Dialogue: 0,0:06:58.91,0:06:59.99,中上英下,NTP,0000,0000,0000,,{\blur3}伯克霍夫\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Birkhoff,
+Dialogue: 0,0:07:01.33,0:07:03.71,中上英下,NTP,0000,0000,0000,,{\blur3}他们有我需要的东西\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}they have something that I need.
+Dialogue: 0,0:07:03.99,0:07:05.64,中上英下,NTP,0000,0000,0000,,{\blur3}如果他们是我修复迈克尔手的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}If they are the only thing standing in the way
+Dialogue: 0,0:07:05.64,0:07:07.61,中上英下,NTP,0000,0000,0000,,{\blur3}唯一绊脚石\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}of me and fixing Michael's hand,
+Dialogue: 0,0:07:07.95,0:07:10.25,中上英下,NTP,0000,0000,0000,,{\blur3}他们才应该害怕\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}they are the ones who should be afraid.
+Dialogue: 0,0:07:23.09,0:07:26.09,中上英下,NTP,0000,0000,0000,,{\blur3}尼基 根据中情局档案\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Okay, Nikki... According to CIA files,
+Dialogue: 0,0:07:26.09,0:07:29.44,中上英下,NTP,0000,0000,0000,,{\blur3}阁楼属于一个叫贝蒂娜·法斯的人\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the penthouse is home to one Bettina Fath.
+Dialogue: 0,0:07:29.73,0:07:34.13,中上英下,NTP,0000,0000,0000,,{\blur3}曾经是模特 现在是科斯塔·波齐莱的情人\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Former model and current mistress of Kosta Beciraj.
+Dialogue: 0,0:07:34.24,0:07:35.41,中上英下,NTP,0000,0000,0000,,{\blur3}谁啊\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Yes?
+Dialogue: 0,0:07:37.13,0:07:38.28,中上英下,NTP,0000,0000,0000,,{\blur3}送花的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Flowers.
+Dialogue: 0,0:07:39.52,0:07:41.65,中上英下,NTP,0000,0000,0000,,{\blur3}放在桌上就行了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Just put it on the table, please.
+Dialogue: 0,0:07:49.67,0:07:50.89,中上英下,NTP,0000,0000,0000,,{\blur3}没有卡片吗\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}No card?
+Dialogue: 0,0:07:51.97,0:07:53.08,中上英下,NTP,0000,0000,0000,,{\blur3}没有小费吗\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}No tip?
+Dialogue: 0,0:07:53.50,0:07:55.40,中上英下,NTP,0000,0000,0000,,{\blur3}科斯塔刚离开他的办公室\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Kosta just left his office.
+Dialogue: 0,0:07:55.48,0:07:57.15,中上英下,NTP,0000,0000,0000,,{\blur3}他在过来的路上了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}He's on his way to you now.
+Dialogue: 0,0:07:59.10,0:08:02.35,中上英下,NTP,0000,0000,0000,,{\blur3}我知道你很害怕 但我不是来伤害你的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I know you're scared, but I'm not here to hurt you.
+Dialogue: 0,0:08:02.55,0:08:04.51,中上英下,NTP,0000,0000,0000,,{\blur3}你是来杀科斯塔的吗\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}You are here to kill Kosta?
+Dialogue: 0,0:08:05.46,0:08:06.89,中上英下,NTP,0000,0000,0000,,{\blur3}我需要从他那得到些东西\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I need something from him,
+Dialogue: 0,0:08:07.52,0:08:08.60,中上英下,NTP,0000,0000,0000,,{\blur3}但是我不想杀了他\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but I don't want to kill him.
+Dialogue: 0,0:08:08.60,0:08:09.64,中上英下,NTP,0000,0000,0000,,{\blur3}为什么不杀他\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Why not?
+Dialogue: 0,0:08:10.05,0:08:11.31,中上英下,NTP,0000,0000,0000,,{\blur3}他就是个混蛋\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}He is a pig.
+Dialogue: 0,0:08:11.32,0:08:12.88,中上英下,NTP,0000,0000,0000,,{\blur3}他不得好死\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}He deserves to die.
+Dialogue: 0,0:08:13.17,0:08:15.66,中上英下,NTP,0000,0000,0000,,{\blur3}你有枪 为什么不杀了他\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}You have a gun. Why not shoot him?
+Dialogue: 0,0:08:17.08,0:08:19.29,中上英下,NTP,0000,0000,0000,,{\blur3}我需要留着他的小命\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Uh, well, I need him alive.
+Dialogue: 0,0:08:19.92,0:08:23.00,中上英下,NTP,0000,0000,0000,,{\blur3}但是如果你能帮我 我也能帮你\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But if you can help me, I can help you.
+Dialogue: 0,0:08:42.37,0:08:43.78,中上英下,NTP,0000,0000,0000,,{\blur3}贝蒂娜 你在哪儿\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Bettina, where are you?
+Dialogue: 0,0:08:50.80,0:08:52.58,中上英下,NTP,0000,0000,0000,,{\blur3}你看上去好疲惫\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}You look tired.
+Dialogue: 0,0:08:58.10,0:09:01.40,中上英下,NTP,0000,0000,0000,,{\blur3}你需要放松放松 让我伺候你吧\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}You need to relax and let me take care of you.
+Dialogue: 0,0:09:15.47,0:09:17.58,中上英下,NTP,0000,0000,0000,,{\blur3}你想到了什么花样\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So, what did you have in mind, huh?
+Dialogue: 0,0:09:18.82,0:09:20.45,中上英下,NTP,0000,0000,0000,,{\blur3}一剂镇定剂\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}A sedative.
+Dialogue: 0,0:09:23.90,0:09:24.54,中上英下,NTP,0000,0000,0000,,{\blur3}王八蛋\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Pig.
+Dialogue: 0,0:09:24.55,0:09:26.51,中上英下,NTP,0000,0000,0000,,{\blur3}机场有架飞机在等你\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}There's a ticket waiting for you at the airport.
+Dialogue: 0,0:09:26.51,0:09:28.14,中上英下,NTP,0000,0000,0000,,{\blur3}你降落之后 去宾馆入住\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}When you land, check into the hotel.
+Dialogue: 0,0:09:28.14,0:09:29.27,中上英下,NTP,0000,0000,0000,,{\blur3}那儿会有个包裹\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}There'll be a packet there,
+Dialogue: 0,0:09:29.27,0:09:31.20,中上英下,NTP,0000,0000,0000,,{\blur3}你新人生所需的东西都在里面\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}everything you need to start your life over.
+Dialogue: 0,0:09:31.21,0:09:32.38,中上英下,NTP,0000,0000,0000,,{\blur3}谢谢你\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Thank you.
+Dialogue: 0,0:09:51.58,0:09:54.24,中上英下,NTP,0000,0000,0000,,{\blur3}保持超声波稳定\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Okay. Hold the ultrasound steady.
+Dialogue: 0,0:09:54.36,0:09:57.23,中上英下,NTP,0000,0000,0000,,{\blur3}我需要精确的测量数据来计算\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I need accurate measurements to calculate this.
+Dialogue: 0,0:09:57.23,0:09:58.76,中上英下,NTP,0000,0000,0000,,{\blur3}我们可不想害死他\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We don't want to kill him.
+Dialogue: 0,0:09:59.61,0:10:01.23,中上英下,NTP,0000,0000,0000,,{\blur3}这真是活体组织\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It really is live tissue.
+Dialogue: 0,0:10:01.23,0:10:03.57,中上英下,NTP,0000,0000,0000,,{\blur3}内骨骼是金属的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Over a metal endoskeleton.
+Dialogue: 0,0:10:04.55,0:10:08.80,中上英下,NTP,0000,0000,0000,,{\blur3}事实上 他的骨头好像是碳纤维的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Actually, it looks like his bones are made of carbon fiber.
+Dialogue: 0,0:10:09.19,0:10:10.69,中上英下,NTP,0000,0000,0000,,{\blur3}有点失望啊\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's a little disappointing.
+Dialogue: 0,0:10:11.06,0:10:12.31,中上英下,NTP,0000,0000,0000,,{\blur3}太棒了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's awesome.
+Dialogue: 0,0:10:14.07,0:10:18.65,中上英下,NTP,0000,0000,0000,,{\blur3}给他注射3毫升的NSM- 26\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Okay, give him three ccs of the NSM-26.
+Dialogue: 0,0:10:38.43,0:10:41.30,中上英下,NTP,0000,0000,0000,,{\blur3}这药多久才起作用\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}How long till this drug does its job?
+Dialogue: 0,0:10:41.62,0:10:45.34,中上英下,NTP,0000,0000,0000,,{\blur3}他一醒来 就会觉得暖暖的有刺痛感\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}As soon as he wakes up, he'll feel warm and tingly.
+Dialogue: 0,0:10:45.34,0:10:46.88,中上英下,NTP,0000,0000,0000,,{\blur3}然后就是肿痛\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Then pain and swelling.
+Dialogue: 0,0:10:47.15,0:10:49.78,中上英下,NTP,0000,0000,0000,,{\blur3}很快他就会叫海德克出诊\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}He'll be begging Heidecker for a house call before you know it.
+Dialogue: 0,0:11:02.89,0:11:04.82,中上英下,NTP,0000,0000,0000,,{\blur3}我们在机场找到了贝蒂娜的车\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We found Bettina's car at the airport.
+Dialogue: 0,0:11:04.82,0:11:06.17,中上英下,NTP,0000,0000,0000,,{\blur3}她飞去柏林了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}She flew to Berlin.
+Dialogue: 0,0:11:06.98,0:11:08.26,中上英下,NTP,0000,0000,0000,,{\blur3}接着就不知所踪了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}No idea where she went from there.
+Dialogue: 0,0:11:08.26,0:11:08.92,中上英下,NTP,0000,0000,0000,,{\blur3}继续找\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Keep looking.
+Dialogue: 0,0:11:08.92,0:11:11.93,中上英下,NTP,0000,0000,0000,,{\blur3}她无权离开我 明白吗\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}She does not get to leave me, understand?
+Dialogue: 0,0:11:14.85,0:11:16.23,中上英下,NTP,0000,0000,0000,,{\blur3}我的腿\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}My leg has, uh,
+Dialogue: 0,0:11:16.23,0:11:18.28,中上英下,NTP,0000,0000,0000,,{\blur3}醒来后就一直隐隐作痛\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}it's been bothering me ever since I woke up.
+Dialogue: 0,0:11:18.68,0:11:19.93,中上英下,NTP,0000,0000,0000,,{\blur3}海德克呢\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Where is Heidecker?
+Dialogue: 0,0:11:20.51,0:11:22.21,中上英下,NTP,0000,0000,0000,,{\blur3}司机已经去机场\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Our driver is on his way to
+Dialogue: 0,0:11:22.21,0:11:24.15,中上英下,NTP,0000,0000,0000,,{\blur3}给海德克送酬金了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}meet Heidecker now to deliver the payment.
+Dialogue: 0,0:11:27.77,0:11:29.70,中上英下,NTP,0000,0000,0000,,{\blur3}波齐莱先生给的酬金很慷慨\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I find Mr. Beciraj's payment acceptable.
+Dialogue: 0,0:11:29.70,0:11:30.68,中上英下,NTP,0000,0000,0000,,{\blur3}谢谢\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Thank you.
+Dialogue: 0,0:11:31.05,0:11:32.51,中上英下,NTP,0000,0000,0000,,{\blur3}准备起飞\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}All right, load the plane.
+Dialogue: 0,0:11:46.22,0:11:47.92,中上英下,NTP,0000,0000,0000,,{\blur3}波齐莱先生要见你\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Mr. Beciraj needs to see you.
+Dialogue: 0,0:11:47.92,0:11:49.21,中上英下,NTP,0000,0000,0000,,{\blur3}不是吧 我们准备起飞了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Oh, no. We're about to take off.
+Dialogue: 0,0:11:49.21,0:11:51.39,中上英下,NTP,0000,0000,0000,,{\blur3}我有其他计划 要准时飞去\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I have a schedule that must be adhered to.
+Dialogue: 0,0:11:51.39,0:11:52.75,中上英下,NTP,0000,0000,0000,,{\blur3}那你得迟到了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}You will have to be late.
+Dialogue: 0,0:11:55.88,0:11:58.43,中上英下,NTP,0000,0000,0000,,{\blur3}知道尼基塔上哪去了吗\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Hey, do you know where Nikita went?
+Dialogue: 0,0:11:58.43,0:12:00.41,中上英下,NTP,0000,0000,0000,,{\blur3}瑞安说她请了几天假\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Ryan said she took a few days off.
+Dialogue: 0,0:12:00.41,0:12:02.56,中上英下,NTP,0000,0000,0000,,{\blur3}不知道\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Uh, I'm not sure.
+Dialogue: 0,0:12:02.56,0:12:04.33,中上英下,NTP,0000,0000,0000,,{\blur3}可能跟艾丽克斯出门了吧\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I think she went somewhere with Alex.
+Dialogue: 0,0:12:04.34,0:12:05.73,中上英下,NTP,0000,0000,0000,,{\blur3}去做水疗还是什么的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Like a spa or something.
+Dialogue: 0,0:12:05.73,0:12:07.19,中上英下,NTP,0000,0000,0000,,{\blur3}不是吧\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Or maybe not.
+Dialogue: 0,0:12:11.51,0:12:13.47,中上英下,NTP,0000,0000,0000,,{\blur3}你不是跟男朋友出城了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}You're supposed to be out of town with your boyfriend.
+Dialogue: 0,0:12:13.47,0:12:15.94,中上英下,NTP,0000,0000,0000,,{\blur3}抱歉揭穿你的谎话\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Uh, sorry to expose your web of lies,
+Dialogue: 0,0:12:15.94,0:12:17.55,中上英下,NTP,0000,0000,0000,,{\blur3}但他姐姐取消了见面\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but his sister canceled.
+Dialogue: 0,0:12:17.55,0:12:18.58,中上英下,NTP,0000,0000,0000,,{\blur3}她的孩子生病了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Her kids are sick.
+Dialogue: 0,0:12:18.59,0:12:19.75,中上英下,NTP,0000,0000,0000,,{\blur3}再问你一次\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Okay, let's try this again.
+Dialogue: 0,0:12:19.75,0:12:20.94,中上英下,NTP,0000,0000,0000,,{\blur3}尼基塔在哪\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Where's Nikita?
+Dialogue: 0,0:12:20.94,0:12:23.34,中上英下,NTP,0000,0000,0000,,{\blur3}也许你该自己打电话问她\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Look, maybe you should call her and ask her yourself.
+Dialogue: 0,0:12:23.34,0:12:24.53,中上英下,NTP,0000,0000,0000,,{\blur3}别让我夹在中间难做人\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I don't want to be in the middle of this.
+Dialogue: 0,0:12:24.53,0:12:26.36,中上英下,NTP,0000,0000,0000,,{\blur3}这事你肯定有份参与\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}You're up to your neck in this.
+Dialogue: 0,0:12:26.53,0:12:28.32,中上英下,NTP,0000,0000,0000,,{\blur3}不管是什么事\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Whatever "this" is.
+Dialogue: 0,0:12:29.97,0:12:31.12,中上英下,NTP,0000,0000,0000,,{\blur3}这都是什么\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}What is all this?
+Dialogue: 0,0:12:31.15,0:12:31.86,中上英下,NTP,0000,0000,0000,,{\blur3}你做了什么\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}What did you do?
+Dialogue: 0,0:12:31.86,0:12:33.04,中上英下,NTP,0000,0000,0000,,{\blur3}我重载了你的热键程序\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I overrode your hotkey app
+Dialogue: 0,0:12:33.04,0:12:34.79,中上英下,NTP,0000,0000,0000,,{\blur3}恢复了所有隐藏窗口\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and restored all the hidden windows.
+Dialogue: 0,0:12:42.57,0:12:44.40,中上英下,NTP,0000,0000,0000,,{\blur3}这上面的时间信息都是错的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The timestamps on these are wrong.
+Dialogue: 0,0:12:45.12,0:12:46.76,中上英下,NTP,0000,0000,0000,,{\blur3}不 没有错\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}No, they're not.
+Dialogue: 0,0:12:48.49,0:12:49.69,中上英下,NTP,0000,0000,0000,,{\blur3}肯定是错的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}They have to be.
+Dialogue: 0,0:12:49.74,0:12:51.09,中上英下,NTP,0000,0000,0000,,{\blur3}这家伙一年前失去了一条腿\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}If this guy lost his leg a year ago,
+Dialogue: 0,0:12:51.09,0:12:52.72,中上英下,NTP,0000,0000,0000,,{\blur3}怎么还能到处走呢\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}he can't be walking around.
+Dialogue: 0,0:12:56.46,0:12:58.63,中上英下,NTP,0000,0000,0000,,{\blur3}我只知道 这不是假肢\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}As far as we can tell, it's not a prosthetic.
+Dialogue: 0,0:12:59.87,0:13:03.94,中上英下,NTP,0000,0000,0000,,{\blur3}是碳纤维做的骨头 但血肉都是真的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's real flesh and blood grown over carbon fiber bone.
+Dialogue: 0,0:13:05.15,0:13:08.10,中上英下,NTP,0000,0000,0000,,{\blur3}天哪 迈克尔\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Oh, my God. Michael.
+Dialogue: 0,0:13:37.40,0:13:39.68,中上英下,NTP,0000,0000,0000,,{\blur3}我的腿在抽痛\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}My leg is throbbing.
+Dialogue: 0,0:13:40.38,0:13:41.94,中上英下,NTP,0000,0000,0000,,{\blur3}走路就会痛\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It hurts to walk.
+Dialogue: 0,0:13:42.09,0:13:43.43,中上英下,NTP,0000,0000,0000,,{\blur3}还肿起来了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}There's swelling.
+Dialogue: 0,0:13:43.82,0:13:47.16,中上英下,NTP,0000,0000,0000,,{\blur3}一定是那一针\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It must be that shot.
+Dialogue: 0,0:13:47.69,0:13:50.13,中上英下,NTP,0000,0000,0000,,{\blur3}怎么 也许是你给我注射的药物不对劲\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}What, you give me bad medicine, maybe?
+Dialogue: 0,0:13:50.22,0:13:52.80,中上英下,NTP,0000,0000,0000,,{\blur3}药物没什么不妥\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}There is nothing wrong with the medication.
+Dialogue: 0,0:13:52.90,0:13:55.83,中上英下,NTP,0000,0000,0000,,{\blur3}听起来像是被虫咬了 引发了过敏反应\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}This sounds like a bug bite, some kind of allergic reaction.
+Dialogue: 0,0:13:55.83,0:13:56.45,中上英下,NTP,0000,0000,0000,,{\blur3}去找医生\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Call a doctor.
+Dialogue: 0,0:13:56.45,0:13:57.59,中上英下,NTP,0000,0000,0000,,{\blur3}我找了你\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I called you.
+Dialogue: 0,0:13:57.88,0:13:58.73,中上英下,NTP,0000,0000,0000,,{\blur3}你来搞定\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}You fix it.
+Dialogue: 0,0:13:58.74,0:14:00.68,中上英下,NTP,0000,0000,0000,,{\blur3}我又不是医生\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I'm not a doctor.
+Dialogue: 0,0:14:01.27,0:14:03.18,中上英下,NTP,0000,0000,0000,,{\blur3}我的职责只是观察实验对象\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}My function is merely to observe
+Dialogue: 0,0:14:03.18,0:14:04.49,中上英下,NTP,0000,0000,0000,,{\blur3}获取数据资料而已\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and gather data from the test subjects.
+Dialogue: 0,0:14:04.49,0:14:07.39,中上英下,NTP,0000,0000,0000,,{\blur3}我可不是你的小白鼠\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I am not one of your lab rats.
+Dialogue: 0,0:14:08.11,0:14:09.84,中上英下,NTP,0000,0000,0000,,{\blur3}我是吗\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Or am I?
+Dialogue: 0,0:14:10.20,0:14:11.98,中上英下,NTP,0000,0000,0000,,{\blur3}你的小实验完成了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Is your little experiment done?
+Dialogue: 0,0:14:12.22,0:14:14.82,中上英下,NTP,0000,0000,0000,,{\blur3}你决定是时候弄死实验对象了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Have you decided it's time to put down the test subject?
+Dialogue: 0,0:14:14.82,0:14:16.23,中上英下,NTP,0000,0000,0000,,{\blur3}没人要弄死你\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}No one is trying to kill you.
+Dialogue: 0,0:14:16.23,0:14:18.15,中上英下,NTP,0000,0000,0000,,{\blur3}美国特工早就试过杀死我\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}American agents already try and kill me.
+Dialogue: 0,0:14:18.15,0:14:20.02,中上英下,NTP,0000,0000,0000,,{\blur3}所以我才失去了一条腿\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}That's how I lost my leg.
+Dialogue: 0,0:14:20.30,0:14:21.96,中上英下,NTP,0000,0000,0000,,{\blur3}也许他们又想来一次\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Maybe they try again, hmm?
+Dialogue: 0,0:14:23.05,0:14:24.55,中上英下,NTP,0000,0000,0000,,{\blur3}怎么 他们找过你\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}What, they get to you?
+Dialogue: 0,0:14:25.03,0:14:27.12,中上英下,NTP,0000,0000,0000,,{\blur3}说服你玩阴的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Convince you to do the dirty work?
+Dialogue: 0,0:14:27.33,0:14:30.12,中上英下,NTP,0000,0000,0000,,{\blur3}我可没时间听你说疯话\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I don't have time to indulge your paranoia.
+Dialogue: 0,0:14:30.40,0:14:31.55,中上英下,NTP,0000,0000,0000,,{\blur3}我的朋友\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}My friend.
+Dialogue: 0,0:14:32.99,0:14:36.29,中上英下,NTP,0000,0000,0000,,{\blur3}你哪都别想去\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}You are not going anywhere.
+Dialogue: 0,0:14:37.32,0:14:38.71,中上英下,NTP,0000,0000,0000,,{\blur3}伯克霍夫 出事了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Birkhoff, we have a problem.
+Dialogue: 0,0:14:38.71,0:14:40.98,中上英下,NTP,0000,0000,0000,,{\blur3}科斯塔可能比我们想象的还要疯狂\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I think Kosta may be crazier than we thought.
+Dialogue: 0,0:14:41.02,0:14:41.79,中上英下,NTP,0000,0000,0000,,{\blur3}我得进去了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I gotta go in.
+Dialogue: 0,0:14:41.79,0:14:43.73,中上英下,NTP,0000,0000,0000,,{\blur3}不 尼基塔 你快出来\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}No, Nikita, you need to get out.
+Dialogue: 0,0:14:45.08,0:14:46.39,中上英下,NTP,0000,0000,0000,,{\blur3}- 迈克尔 你怎么… - 撤退\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}- Michael, what are you... - Pull out.
+Dialogue: 0,0:14:46.39,0:14:48.48,中上英下,NTP,0000,0000,0000,,{\blur3}太危险了 你还孤身一人\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's too dangerous, and you're alone in there.
+Dialogue: 0,0:14:49.29,0:14:50.93,中上英下,NTP,0000,0000,0000,,{\blur3}我不能让他们杀了海德克\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I can't let them kill Heidecker.
+Dialogue: 0,0:14:50.93,0:14:52.30,中上英下,NTP,0000,0000,0000,,{\blur3}可恶 尼基塔\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Damn it. Nikita!
+Dialogue: 0,0:14:53.84,0:14:55.20,中上英下,NTP,0000,0000,0000,,{\blur3}怎么回事\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}What the hell is going on here?
+Dialogue: 0,0:15:00.53,0:15:02.30,中上英下,NTP,0000,0000,0000,,{\blur3}你得先治好我的腿\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}You're going to fix my leg.
+Dialogue: 0,0:15:03.26,0:15:05.91,中上英下,NTP,0000,0000,0000,,{\blur3}然后把我需要的药全都开给我\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And you're going to give me all the wonder medicine
+Dialogue: 0,0:15:05.91,0:15:08.10,中上英下,NTP,0000,0000,0000,,{\blur3}凡是能让它强壮健康的药都给我\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I could ever need to make it strong and healthy.
+Dialogue: 0,0:15:08.10,0:15:12.45,中上英下,NTP,0000,0000,0000,,{\blur3}在那之前 你哪儿都别想去\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Until then, you will stay right here with me.
+Dialogue: 0,0:15:18.60,0:15:19.56,中上英下,NTP,0000,0000,0000,,{\blur3}看到什么了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}What?
+Dialogue: 0,0:15:20.79,0:15:22.34,中上英下,NTP,0000,0000,0000,,{\blur3}你的枪让我很难集中注意力\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The gun makes it very difficult
+Dialogue: 0,0:15:22.34,0:15:24.20,中上英下,NTP,0000,0000,0000,,{\blur3}解决你的问题\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}for me to focus on your problem.
+Dialogue: 0,0:15:24.20,0:15:25.81,中上英下,NTP,0000,0000,0000,,{\blur3}那干脆给你一枪 怎么样\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Well, maybe I shoot you, huh?
+Dialogue: 0,0:15:25.81,0:15:26.90,中上英下,NTP,0000,0000,0000,,{\blur3}一腿换一腿\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}A leg for a leg.
+Dialogue: 0,0:15:26.90,0:15:28.47,中上英下,NTP,0000,0000,0000,,{\blur3}说不定你就能集中了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Maybe you'd focus then.
+Dialogue: 0,0:15:28.69,0:15:30.70,中上英下,NTP,0000,0000,0000,,{\blur3}你可不想这会儿威胁我\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Now, you don't want to threaten me.
+Dialogue: 0,0:15:30.87,0:15:32.12,中上英下,NTP,0000,0000,0000,,{\blur3}为什么\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And why is that?
+Dialogue: 0,0:15:35.99,0:15:37.39,中上英下,NTP,0000,0000,0000,,{\blur3}快走\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Come on, let's go.
+Dialogue: 0,0:15:58.91,0:16:00.28,中上英下,NTP,0000,0000,0000,,{\blur3}找他吧\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Looking for this?
+Dialogue: 0,0:16:09.07,0:16:10.05,中上英下,NTP,0000,0000,0000,,{\blur3}科索沃\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Kosovo?
+Dialogue: 0,0:16:10.05,0:16:11.68,中上英下,NTP,0000,0000,0000,,{\blur3}你知不知道那儿的政治局势\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Do you have any idea how delicate
+Dialogue: 0,0:16:11.68,0:16:13.20,中上英下,NTP,0000,0000,0000,,{\blur3}有多微妙\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the political situation is there?
+Dialogue: 0,0:16:13.20,0:16:14.92,中上英下,NTP,0000,0000,0000,,{\blur3}你为什么不阻止她\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Why the hell didn't you stop her?
+Dialogue: 0,0:16:14.92,0:16:16.10,中上英下,NTP,0000,0000,0000,,{\blur3}你能告诉我上次\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Please remind me of the last time
+Dialogue: 0,0:16:16.10,0:16:18.77,中上英下,NTP,0000,0000,0000,,{\blur3}有人成功阻止尼基行动是什么时候吗\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}someone successfully stopped Nikki from doing anything...ever.
+Dialogue: 0,0:16:18.77,0:16:20.49,中上英下,NTP,0000,0000,0000,,{\blur3}他没说错\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}He has a point.
+Dialogue: 0,0:16:21.04,0:16:22.91,中上英下,NTP,0000,0000,0000,,{\blur3}现在我们面临着一场国际政治危机\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And we have an international crisis.
+Dialogue: 0,0:16:22.91,0:16:25.42,中上英下,NTP,0000,0000,0000,,{\blur3}尼基塔袭击了一国副总理\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Nikita just assaulted the deputy prime minister
+Dialogue: 0,0:16:25.42,0:16:26.52,中上英下,NTP,0000,0000,0000,,{\blur3}而且还是联合国成员国\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}of a U.N. Recognized...
+Dialogue: 0,0:16:26.52,0:16:28.58,中上英下,NTP,0000,0000,0000,,{\blur3}科斯塔·波齐莱就是个罪犯\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Kosta Beciraj is a criminal.
+Dialogue: 0,0:16:28.58,0:16:29.86,中上英下,NTP,0000,0000,0000,,{\blur3}这一点大家都知道\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Everyone knows that.
+Dialogue: 0,0:16:29.86,0:16:32.35,中上英下,NTP,0000,0000,0000,,{\blur3}他同时也是一名正式的政府官员\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}He's a duly appointed government official.
+Dialogue: 0,0:16:32.35,0:16:33.13,中上英下,NTP,0000,0000,0000,,{\blur3}这才是重点\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}That's what matters.
+Dialogue: 0,0:16:33.13,0:16:35.10,中上英下,NTP,0000,0000,0000,,{\blur3}不 重点是她被俘虏了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}No, what matters is, she's captured.
+Dialogue: 0,0:16:35.10,0:16:36.16,中上英下,NTP,0000,0000,0000,,{\blur3}等等 等等 都闭嘴\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Wait, wait, wait, wait. Shut up, everyone.
+Dialogue: 0,0:16:36.16,0:16:37.37,中上英下,NTP,0000,0000,0000,,{\blur3}闭嘴 有尼基的信号\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Shut up. I got Nikki.
+Dialogue: 0,0:16:37.37,0:16:38.81,中上英下,NTP,0000,0000,0000,,{\blur3}她离通讯设备不远\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}She's close to her comm.
+Dialogue: 0,0:16:40.62,0:16:43.89,中上英下,NTP,0000,0000,0000,,{\blur3}我会把你的头装在盒子里送给他们\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I will send them your head in a box.
+Dialogue: 0,0:16:44.45,0:16:46.74,中上英下,NTP,0000,0000,0000,,{\blur3}估计他们还能让你重新长出身体来\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Maybe they can grow you a new body.
+Dialogue: 0,0:16:47.94,0:16:49.30,中上英下,NTP,0000,0000,0000,,{\blur3}这是误会\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}This is a misunderstanding.
+Dialogue: 0,0:16:49.30,0:16:52.75,中上英下,NTP,0000,0000,0000,,{\blur3}不 我为这条腿出了大价钱 而你出卖我\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}No! I paid you for this leg and you double-cross me?
+Dialogue: 0,0:16:53.42,0:16:55.06,中上英下,NTP,0000,0000,0000,,{\blur3}现在该你付出代价了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Now it's you who will pay.
+Dialogue: 0,0:16:55.78,0:16:58.29,中上英下,NTP,0000,0000,0000,,{\blur3}但得先把你造成的问题解决了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}After you undo what you did to me.
+Dialogue: 0,0:16:58.94,0:17:00.84,中上英下,NTP,0000,0000,0000,,{\blur3}我给你造成什么问题了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And what did I do to you, hmm?
+Dialogue: 0,0:17:01.28,0:17:02.30,中上英下,NTP,0000,0000,0000,,{\blur3}你附加我的罪名一直都在变\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Your accusations keep changing.
+Dialogue: 0,0:17:02.30,0:17:05.22,中上英下,NTP,0000,0000,0000,,{\blur3}又是疯子科学家 又是CIA派来暗杀你的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Am I a mad scientist? Am I a CIA assassin?
+Dialogue: 0,0:17:05.23,0:17:08.23,中上英下,NTP,0000,0000,0000,,{\blur3}你喜欢当独行侠\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Oh, you travel alone
+Dialogue: 0,0:17:08.73,0:17:10.65,中上英下,NTP,0000,0000,0000,,{\blur3}假装毫无畏惧\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and pretend to feel no fear.
+Dialogue: 0,0:17:13.11,0:17:14.25,中上英下,NTP,0000,0000,0000,,{\blur3}但她\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But she...
+Dialogue: 0,0:17:15.48,0:17:17.44,中上英下,NTP,0000,0000,0000,,{\blur3}她证明了那都是假象\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}she proves this is not so true.
+Dialogue: 0,0:17:19.39,0:17:22.43,中上英下,NTP,0000,0000,0000,,{\blur3}好好看看当你保镖的下场\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Pay close attention to what happens to your bodyguard.
+Dialogue: 0,0:17:22.79,0:17:25.14,中上英下,NTP,0000,0000,0000,,{\blur3}这个过程对你来说 会更漫长\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It will happen much more slowly to you.
+Dialogue: 0,0:17:27.19,0:17:29.77,中上英下,NTP,0000,0000,0000,,{\blur3}你要动她 就别想我帮你\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}If you harm her, I won't help you.
+Dialogue: 0,0:17:33.85,0:17:35.13,中上英下,NTP,0000,0000,0000,,{\blur3}他为什么要护着尼基塔\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Why would he protect her?
+Dialogue: 0,0:17:35.36,0:17:36.88,中上英下,NTP,0000,0000,0000,,{\blur3}想多争取点时间\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}He's buying some time.
+Dialogue: 0,0:17:36.88,0:17:39.19,中上英下,NTP,0000,0000,0000,,{\blur3}你可能是感情丰富了点儿\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Maybe you're warm-blooded after all.
+Dialogue: 0,0:17:40.19,0:17:41.32,中上英下,NTP,0000,0000,0000,,{\blur3}也许她根本不只是你的保镖\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}She's maybe more than your bodyguard.
+Dialogue: 0,0:17:41.32,0:17:43.93,中上英下,NTP,0000,0000,0000,,{\blur3}迈克尔 你不能毫无准备就去那儿\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Michael, you can't go in there blind.
+Dialogue: 0,0:17:43.93,0:17:45.44,中上英下,NTP,0000,0000,0000,,{\blur3}你们制定营救计划\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}You come up with the plan.
+Dialogue: 0,0:17:45.65,0:17:47.19,中上英下,NTP,0000,0000,0000,,{\blur3}我到了给你们电话\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I'll call you when I get there.
+Dialogue: 0,0:17:47.86,0:17:50.23,中上英下,NTP,0000,0000,0000,,{\blur3}他的计划估计是 首先飞去科索沃\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I gather his plan is, step one, fly to Kosovo,
+Dialogue: 0,0:17:50.23,0:17:51.48,中上英下,NTP,0000,0000,0000,,{\blur3}然后大开杀戒吧\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}step two, kick ass?
+Dialogue: 0,0:17:51.48,0:17:52.81,中上英下,NTP,0000,0000,0000,,{\blur3}我要跟他一起去\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I want to go with him.
+Dialogue: 0,0:17:53.93,0:17:55.54,中上英下,NTP,0000,0000,0000,,{\blur3}带上后援队\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Take backup with you.
+Dialogue: 0,0:18:03.20,0:18:05.79,中上英下,NTP,0000,0000,0000,,{\blur3}他每次出行都是你当影子武士吗\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}What, you shadow him every trip? Huh?
+Dialogue: 0,0:18:06.65,0:18:08.04,中上英下,NTP,0000,0000,0000,,{\blur3}医生已经到了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The medic is here.
+Dialogue: 0,0:18:09.87,0:18:11.62,中上英下,NTP,0000,0000,0000,,{\blur3}不在这儿 带去厨房\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Not here. The kitchen.
+Dialogue: 0,0:18:12.45,0:18:14.04,中上英下,NTP,0000,0000,0000,,{\blur3}把他们关到琪琪的房间去\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Take them to Kiki's room.
+Dialogue: 0,0:18:14.04,0:18:16.16,中上英下,NTP,0000,0000,0000,,{\blur3}等我收拾一下 再继续审问\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We'll continue this after I'm cleaned up.
+Dialogue: 0,0:18:17.17,0:18:18.16,中上英下,NTP,0000,0000,0000,,{\blur3}打给斯拉维萨\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And call Slavisa.
+Dialogue: 0,0:18:18.17,0:18:19.84,中上英下,NTP,0000,0000,0000,,{\blur3}告诉他 我要封锁边境\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Tell him I want the borders closed.
+Dialogue: 0,0:18:19.85,0:18:20.80,中上英下,NTP,0000,0000,0000,,{\blur3}副总理先生\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Sir?
+Dialogue: 0,0:18:21.23,0:18:22.97,中上英下,NTP,0000,0000,0000,,{\blur3}就说境内可能有其他叛国者\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We may have other conspirators in the country.
+Dialogue: 0,0:18:22.97,0:18:24.88,中上英下,NTP,0000,0000,0000,,{\blur3}他们一个都不能放过\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}They must not be allowed to escape.
+Dialogue: 0,0:18:26.20,0:18:27.70,中上英下,NTP,0000,0000,0000,,{\blur3}告诉国防部长\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Tell the minister of defense
+Dialogue: 0,0:18:27.70,0:18:31.53,中上英下,NTP,0000,0000,0000,,{\blur3}通知各个检查站封锁边境 马上去\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to radio the checkpoints and close the borders now!
+Dialogue: 0,0:18:32.75,0:18:34.93,中上英下,NTP,0000,0000,0000,,{\blur3}这件事没法掩盖\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}There's no way we can keep a lid on this.
+Dialogue: 0,0:18:34.93,0:18:36.74,中上英下,NTP,0000,0000,0000,,{\blur3}根本不可能阻止\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}No containment possible.
+Dialogue: 0,0:18:38.39,0:18:41.51,中上英下,NTP,0000,0000,0000,,{\blur3}即使科索沃因此抓狂\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Well, look, even if Kosovo flips out
+Dialogue: 0,0:18:41.72,0:18:42.52,中上英下,NTP,0000,0000,0000,,{\blur3}封锁边境\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and seals its borders,
+Dialogue: 0,0:18:42.52,0:18:43.51,中上英下,NTP,0000,0000,0000,,{\blur3}也不能说明\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}it doesn't necessarily mean
+Dialogue: 0,0:18:43.51,0:18:44.99,中上英下,NTP,0000,0000,0000,,{\blur3}"组织"与这件事有牵连\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Division had something to do with it.
+Dialogue: 0,0:18:44.99,0:18:46.85,中上英下,NTP,0000,0000,0000,,{\blur3}是不能 但如果被丹佛斯发现\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Yes, but if Danforth finds out
+Dialogue: 0,0:18:46.85,0:18:47.90,中上英下,NTP,0000,0000,0000,,{\blur3}再告诉总统\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and tells the President,
+Dialogue: 0,0:18:47.90,0:18:51.03,中上英下,NTP,0000,0000,0000,,{\blur3}我们就全都… 死路一条\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}then we are, all of us, dead.
+Dialogue: 0,0:18:53.08,0:18:55.95,中上英下,NTP,0000,0000,0000,,{\blur3}他们会让尼基塔背上叛逃特工的罪名\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}They will brand Nikita as a rogue assassin
+Dialogue: 0,0:18:55.95,0:18:57.59,中上英下,NTP,0000,0000,0000,,{\blur3}再毁掉这个地方以确保\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and they will burn this place down to make sure
+Dialogue: 0,0:18:57.60,0:18:59.68,中上英下,NTP,0000,0000,0000,,{\blur3}我们不会再次挑起类似的危机\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}we can't cause damage like this again.
+Dialogue: 0,0:19:01.46,0:19:02.35,中上英下,NTP,0000,0000,0000,,{\blur3}我开始理解\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I'm beginning to understand
+Dialogue: 0,0:19:02.35,0:19:04.37,中上英下,NTP,0000,0000,0000,,{\blur3}珀西为什么要制作那些黑盒了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}why Percy made the Black Boxes.
+Dialogue: 0,0:19:07.00,0:19:08.06,中上英下,NTP,0000,0000,0000,,{\blur3}政府攥着你的把柄\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Government has a trigger on you,
+Dialogue: 0,0:19:08.06,0:19:09.63,中上英下,NTP,0000,0000,0000,,{\blur3}你可以其人之道还治其人这身\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}you put a trigger on them.
+Dialogue: 0,0:19:13.56,0:19:14.65,中上英下,NTP,0000,0000,0000,,{\blur3}珀西\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Percy.
+Dialogue: 0,0:19:18.20,0:19:20.30,中上英下,NTP,0000,0000,0000,,{\blur3}珀西会如何应对这种情况呢\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}How would Percy deal with this kind of thing?
+Dialogue: 0,0:19:21.83,0:19:23.32,中上英下,NTP,0000,0000,0000,,{\blur3}他会努力占据先机\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}He'd try to get ahead of it,
+Dialogue: 0,0:19:23.46,0:19:24.67,中上英下,NTP,0000,0000,0000,,{\blur3}耍点手段\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}spin something.
+Dialogue: 0,0:19:25.26,0:19:27.91,中上英下,NTP,0000,0000,0000,,{\blur3}他把这叫做"控制命脉"\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}He called it "controlling the narrative."
+Dialogue: 0,0:19:35.58,0:19:36.34,中上英下,NTP,0000,0000,0000,,{\blur3}丹佛斯\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Danforth.
+Dialogue: 0,0:19:36.34,0:19:37.81,中上英下,NTP,0000,0000,0000,,{\blur3}长官 希望您不介意我\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Commander, I hope you don't mind me
+Dialogue: 0,0:19:37.81,0:19:39.35,中上英下,NTP,0000,0000,0000,,{\blur3}打你的安全专线\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}calling you on your secure line.
+Dialogue: 0,0:19:39.35,0:19:41.25,中上英下,NTP,0000,0000,0000,,{\blur3}专线就是用来打的 弗莱彻 什么事\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}That's what it's for, Fletcher. What's wrong?
+Dialogue: 0,0:19:41.25,0:19:42.02,中上英下,NTP,0000,0000,0000,,{\blur3}没什么\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Uh, nothing wrong.
+Dialogue: 0,0:19:42.03,0:19:45.30,中上英下,NTP,0000,0000,0000,,{\blur3}就是想知道目前科索沃国内的情况\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Just curious about the situation in Kosovo.
+Dialogue: 0,0:19:45.34,0:19:46.60,中上英下,NTP,0000,0000,0000,,{\blur3}什么情况\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}What situation?
+Dialogue: 0,0:19:47.06,0:19:48.70,中上英下,NTP,0000,0000,0000,,{\blur3}埃文 别这样\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Evan, please,
+Dialogue: 0,0:19:51.98,0:19:53.45,中上英下,NTP,0000,0000,0000,,{\blur3}他们听到传言\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}They've heard the rumors.
+Dialogue: 0,0:19:53.91,0:19:55.61,中上英下,NTP,0000,0000,0000,,{\blur3}我需要有确切消息回复他们\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I just need to know what to tell them.
+Dialogue: 0,0:19:56.27,0:19:58.14,中上英下,NTP,0000,0000,0000,,{\blur3}什么传言\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Rumors about what?
+Dialogue: 0,0:19:59.43,0:20:02.12,中上英下,NTP,0000,0000,0000,,{\blur3}科索沃准备封锁边境\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}That Kosovo is getting ready to close its borders.
+Dialogue: 0,0:20:03.17,0:20:03.88,中上英下,NTP,0000,0000,0000,,{\blur3}如果真有这种事\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}If there was something going on,
+Dialogue: 0,0:20:06.57,0:20:07.64,中上英下,NTP,0000,0000,0000,,{\blur3}但你没得到消息\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But you haven't.
+Dialogue: 0,0:20:11.28,0:20:13.09,中上英下,NTP,0000,0000,0000,,{\blur3}你想求证传言是吗 去问问TMZ[美国名人消息网]\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}You want to check rumors, call TMZ.
+Dialogue: 0,0:20:13.09,0:20:14.62,中上英下,NTP,0000,0000,0000,,{\blur3}我可没那么多时间管这个\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I don't have time for this.
+Dialogue: 0,0:20:19.78,0:20:21.63,中上英下,NTP,0000,0000,0000,,{\blur3}等着他打回来吧\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Now we just wait for him to call back.
+Dialogue: 0,0:20:24.90,0:20:28.37,中上英下,NTP,0000,0000,0000,,{\blur3}怎么 我看起来像说谎吗\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}What? Did it sound like I was lying?
+Dialogue: 0,0:20:29.63,0:20:30.69,中上英下,NTP,0000,0000,0000,,{\blur3}不是\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}No.
+Dialogue: 0,0:20:43.50,0:20:45.29,中上英下,NTP,0000,0000,0000,,{\blur3}这就是琪琪的房间\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So, this is Kiki's room?
+Dialogue: 0,0:20:45.29,0:20:48.20,中上英下,NTP,0000,0000,0000,,{\blur3}他的宠物老虎 不过已经死了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}His pet tiger. Now deceased.
+Dialogue: 0,0:20:57.24,0:20:59.26,中上英下,NTP,0000,0000,0000,,{\blur3}我们还没正式认识一下\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Well, we haven't been formally introduced.
+Dialogue: 0,0:20:59.37,0:21:00.50,中上英下,NTP,0000,0000,0000,,{\blur3}我知道你是谁\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I know who you are.
+Dialogue: 0,0:21:01.94,0:21:04.12,中上英下,NTP,0000,0000,0000,,{\blur3}我想知道刚才你为什么要救我\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}What I want to know is why you saved me back there.
+Dialogue: 0,0:21:04.62,0:21:06.32,中上英下,NTP,0000,0000,0000,,{\blur3}出于令人羞愧的利己主义\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Shameless self-interest.
+Dialogue: 0,0:21:07.27,0:21:08.89,中上英下,NTP,0000,0000,0000,,{\blur3}波齐莱先生要杀了我\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Mr. Beciraj is going to kill me.
+Dialogue: 0,0:21:09.24,0:21:10.49,中上英下,NTP,0000,0000,0000,,{\blur3}你那一身的本领\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Based on the skills you possess,
+Dialogue: 0,0:21:10.53,0:21:11.72,中上英下,NTP,0000,0000,0000,,{\blur3}肯定是"组织"培养出来的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}courtesy of your Division training,
+Dialogue: 0,0:21:11.74,0:21:13.30,中上英下,NTP,0000,0000,0000,,{\blur3}我认为你是我保住性命的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I decided that you afforded me
+Dialogue: 0,0:21:13.30,0:21:15.71,中上英下,NTP,0000,0000,0000,,{\blur3}最大筹码\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the greatest chance of escape.
+Dialogue: 0,0:21:15.85,0:21:16.87,中上英下,NTP,0000,0000,0000,,{\blur3}你怎么知道…\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}How do you know that...?
+Dialogue: 0,0:21:17.89,0:21:19.06,中上英下,NTP,0000,0000,0000,,{\blur3}你怎么知道我的身份\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}How do you know who I am?
+Dialogue: 0,0:21:19.12,0:21:20.66,中上英下,NTP,0000,0000,0000,,{\blur3}我认识"组织"里的所有特工\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I know every agent in Division.
+Dialogue: 0,0:21:20.97,0:21:23.42,中上英下,NTP,0000,0000,0000,,{\blur3}当然没交情 只是数据上的熟识\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Not personally, of course. Statistically.
+Dialogue: 0,0:21:23.63,0:21:25.27,中上英下,NTP,0000,0000,0000,,{\blur3}血型 体重 反应时间\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Blood type, body mass, response time.
+Dialogue: 0,0:21:25.27,0:21:26.15,中上英下,NTP,0000,0000,0000,,{\blur3}诸如此类的数据\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Things of this nature.
+Dialogue: 0,0:21:26.19,0:21:26.83,中上英下,NTP,0000,0000,0000,,{\blur3}没错\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Right.
+Dialogue: 0,0:21:27.73,0:21:29.58,中上英下,NTP,0000,0000,0000,,{\blur3}因为而你而言 我们都是有价值的工具\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Because we were just useful tools to you.
+Dialogue: 0,0:21:30.27,0:21:32.52,中上英下,NTP,0000,0000,0000,,{\blur3}希望这次也同样\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I hope so. In this case.
+Dialogue: 0,0:21:34.92,0:21:35.99,中上英下,NTP,0000,0000,0000,,{\blur3}当心点\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Be careful.
+Dialogue: 0,0:21:37.17,0:21:38.75,中上英下,NTP,0000,0000,0000,,{\blur3}兔子也是会咬人的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Some tools have a sharp edge.
+Dialogue: 0,0:21:39.19,0:21:40.80,中上英下,NTP,0000,0000,0000,,{\blur3}你费尽千辛万苦来找我\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Now, you went to a great deal of trouble to find me.
+Dialogue: 0,0:21:40.81,0:21:42.28,中上英下,NTP,0000,0000,0000,,{\blur3}肯定是想从我身上得到些什么\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I must have something that you need.
+Dialogue: 0,0:21:42.35,0:21:45.60,中上英下,NTP,0000,0000,0000,,{\blur3}我一向遵循公平交易的原则\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Well, I subscribe to the principle of fair exchange.
+Dialogue: 0,0:21:45.60,0:21:47.82,中上英下,NTP,0000,0000,0000,,{\blur3}如果你帮了我 那我很乐意还你的人情\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}If you help me, i would be happy to return the favor.
+Dialogue: 0,0:21:50.44,0:21:53.15,中上英下,NTP,0000,0000,0000,,{\blur3}只要你先说说要我做什么\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Assuming you tell me what that favor might be.
+Dialogue: 0,0:21:57.87,0:22:00.79,中上英下,NTP,0000,0000,0000,,{\blur3}我们有个同伴在战斗中受伤了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}One of our own was wounded...in combat.
+Dialogue: 0,0:22:00.80,0:22:02.02,中上英下,NTP,0000,0000,0000,,{\blur3}失去了右手\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}He lost his right hand.
+Dialogue: 0,0:22:03.47,0:22:04.30,中上英下,NTP,0000,0000,0000,,{\blur3}天呐\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Oh, dear.
+Dialogue: 0,0:22:05.47,0:22:06.95,中上英下,NTP,0000,0000,0000,,{\blur3}你都能给他做一条新腿\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}You made him a new leg.
+Dialogue: 0,0:22:07.40,0:22:09.22,中上英下,NTP,0000,0000,0000,,{\blur3}我想你也可以给我们做一只新手吧\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I thought you could make us a new hand.
+Dialogue: 0,0:22:10.40,0:22:12.98,中上英下,NTP,0000,0000,0000,,{\blur3}那条腿可不是我做的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Well, I didn't, uh, make the leg.
+Dialogue: 0,0:22:12.98,0:22:13.88,中上英下,NTP,0000,0000,0000,,{\blur3}是我上头的人做的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The men I work for did.
+Dialogue: 0,0:22:13.90,0:22:15.49,中上英下,NTP,0000,0000,0000,,{\blur3}我只是使用了那项技术\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I merely applied the technology
+Dialogue: 0,0:22:15.49,0:22:18.19,中上英下,NTP,0000,0000,0000,,{\blur3}时不时回来给它保养一下 收集下数据\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and occasionally returned to service it, collect data.
+Dialogue: 0,0:22:18.19,0:22:19.48,中上英下,NTP,0000,0000,0000,,{\blur3}跟我以前在"组织"做的工作一样\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Same as I used to do at Division.
+Dialogue: 0,0:22:19.48,0:22:21.49,中上英下,NTP,0000,0000,0000,,{\blur3}伯克霍夫说是你发明了这项技术\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Birkhoff told me you were the source of the tech.
+Dialogue: 0,0:22:21.49,0:22:23.16,中上英下,NTP,0000,0000,0000,,{\blur3}不不不 不是我发明的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}No, no, not the source.
+Dialogue: 0,0:22:23.62,0:22:27.54,中上英下,NTP,0000,0000,0000,,{\blur3}我只是发明者的销售代表\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The, uh, sales rep for the source.
+Dialogue: 0,0:22:28.79,0:22:30.87,中上英下,NTP,0000,0000,0000,,{\blur3}我看了那条腿 皮肤都是真的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I saw that leg. The skin was real.
+Dialogue: 0,0:22:31.09,0:22:32.88,中上英下,NTP,0000,0000,0000,,{\blur3}没错 基本都是真的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It was real. Yeah, most of it is.
+Dialogue: 0,0:22:33.12,0:22:35.70,中上英下,NTP,0000,0000,0000,,{\blur3}当然骨头是碳化纤维 不过组织嘛\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The bone is carbon fiber, of course, but the tissue...
+Dialogue: 0,0:22:36.41,0:22:39.70,中上英下,NTP,0000,0000,0000,,{\blur3}组织是利用他的DNA再生的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the tissue was regrown from his own DNA.
+Dialogue: 0,0:22:41.74,0:22:42.98,中上英下,NTP,0000,0000,0000,,{\blur3}不可能\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}That's not possible.
+Dialogue: 0,0:22:43.55,0:22:45.01,中上英下,NTP,0000,0000,0000,,{\blur3}你也见识过我们一些原版装置\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}You've worked with some of our prototypes.
+Dialogue: 0,0:22:45.08,0:22:47.03,中上英下,NTP,0000,0000,0000,,{\blur3}我想你对"可能"的定义范畴\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I would hope that your perspective on what's possible
+Dialogue: 0,0:22:47.03,0:22:48.59,中上英下,NTP,0000,0000,0000,,{\blur3}也扩大了不少吧\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}might have been expanded by now.
+Dialogue: 0,0:22:49.07,0:22:51.54,中上英下,NTP,0000,0000,0000,,{\blur3}夺命芯片这类装置没让我大开眼界\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I'm sorry if gadgets like the kill chip
+Dialogue: 0,0:22:51.54,0:22:52.93,中上英下,NTP,0000,0000,0000,,{\blur3}那可真是抱歉了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}don't fill me with a sense of wonder.
+Dialogue: 0,0:22:52.93,0:22:55.68,中上英下,NTP,0000,0000,0000,,{\blur3}我们开发这些不是用来杀人的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We didn't design them to kill.
+Dialogue: 0,0:22:55.72,0:22:58.05,中上英下,NTP,0000,0000,0000,,{\blur3}是珀西选择将这种技术作这个用途的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}That was simply how Percy chose to apply the technology.
+Dialogue: 0,0:22:58.06,0:22:59.38,中上英下,NTP,0000,0000,0000,,{\blur3}用在别的地方\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Used in other ways,
+Dialogue: 0,0:22:59.38,0:23:01.25,中上英下,NTP,0000,0000,0000,,{\blur3}这些芯片可以帮助千千万万的人\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}those chips could help millions of people.
+Dialogue: 0,0:23:01.49,0:23:04.17,中上英下,NTP,0000,0000,0000,,{\blur3}这样应用这种技术也是你首肯的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}You allowed your technology to be used in this way.
+Dialogue: 0,0:23:04.68,0:23:06.77,中上英下,NTP,0000,0000,0000,,{\blur3}你把它给了一个黑暗的机密组织\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}You gave it to a covert Black Ops group.
+Dialogue: 0,0:23:06.80,0:23:08.26,中上英下,NTP,0000,0000,0000,,{\blur3}军队对科研的赞助\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The military funding of science
+Dialogue: 0,0:23:08.26,0:23:09.65,中上英下,NTP,0000,0000,0000,,{\blur3}使得技术产生了巨大突破\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}has led to breakthroughs
+Dialogue: 0,0:23:09.82,0:23:11.48,中上英下,NTP,0000,0000,0000,,{\blur3}这种突破改变了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that have changed the lives
+Dialogue: 0,0:23:11.51,0:23:14.22,中上英下,NTP,0000,0000,0000,,{\blur3}全球每一个个体的生活\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}of every single human being in the world.
+Dialogue: 0,0:23:14.22,0:23:15.41,中上英下,NTP,0000,0000,0000,,{\blur3}你是说像原子弹一样\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Ah, you mean like the atom bomb.
+Dialogue: 0,0:23:15.41,0:23:16.63,中上英下,NTP,0000,0000,0000,,{\blur3}我说的是像原子能\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I mean, like atomic energy.
+Dialogue: 0,0:23:17.85,0:23:20.39,中上英下,NTP,0000,0000,0000,,{\blur3}像美国国防部高级研究计划局开发的互联网\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Like the Internet, developed by DARPA.
+Dialogue: 0,0:23:20.40,0:23:22.53,中上英下,NTP,0000,0000,0000,,{\blur3}海军发明的全球定位系统那样\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Like GPS, developed by the Navy.
+Dialogue: 0,0:23:22.53,0:23:23.60,中上英下,NTP,0000,0000,0000,,{\blur3}科学真是伟大\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Yay, science.
+Dialogue: 0,0:23:28.23,0:23:29.32,中上英下,NTP,0000,0000,0000,,{\blur3}答案是肯定的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The answer is yes.
+Dialogue: 0,0:23:29.56,0:23:33.17,中上英下,NTP,0000,0000,0000,,{\blur3}我们能帮你朋友做一只新手\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We can make your friend a new hand,
+Dialogue: 0,0:23:33.17,0:23:36.23,中上英下,NTP,0000,0000,0000,,{\blur3}一只与他失去的几乎一模一样的手\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}one indistinguishable from the one he lost.
+Dialogue: 0,0:23:36.23,0:23:38.79,中上英下,NTP,0000,0000,0000,,{\blur3}但在这个笼子里 可造不出来\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But it can't be built from inside this cage.
+Dialogue: 0,0:23:39.31,0:23:40.45,中上英下,NTP,0000,0000,0000,,{\blur3}那么你意下如何\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So, what do you say we, uh,
+Dialogue: 0,0:23:40.82,0:23:44.43,中上英下,NTP,0000,0000,0000,,{\blur3}把我弄出去呗\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}we get me out of here?
+Dialogue: 0,0:23:56.42,0:23:57.63,中上英下,NTP,0000,0000,0000,,{\blur3}现在\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Now...
+Dialogue: 0,0:24:03.40,0:24:06.73,中上英下,NTP,0000,0000,0000,,{\blur3}老实交代 你把我的腿怎么了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Tell me what you did to my leg.
+Dialogue: 0,0:24:08.61,0:24:10.26,中上英下,NTP,0000,0000,0000,,{\blur3}一种慢性毒素\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's a slow-acting poison.
+Dialogue: 0,0:24:11.23,0:24:12.51,中上英下,NTP,0000,0000,0000,,{\blur3}现在你所经历的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}What you're experiencing right now
+Dialogue: 0,0:24:12.55,0:24:13.63,中上英下,NTP,0000,0000,0000,,{\blur3}只是个开始\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}is just the beginning.
+Dialogue: 0,0:24:14.71,0:24:16.70,中上英下,NTP,0000,0000,0000,,{\blur3}明天 走路时会剧烈疼痛\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}By tomorrow, it'll be too painful to walk on,
+Dialogue: 0,0:24:16.70,0:24:19.28,中上英下,NTP,0000,0000,0000,,{\blur3}到了下周 你就没命了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and by next week, you'll be dead.
+Dialogue: 0,0:24:21.93,0:24:23.48,中上英下,NTP,0000,0000,0000,,{\blur3}给我解毒\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}You must fix it.
+Dialogue: 0,0:24:23.92,0:24:27.06,中上英下,NTP,0000,0000,0000,,{\blur3}可以 但你得保证\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We can, but we'll need some assurances.
+Dialogue: 0,0:24:30.85,0:24:32.34,中上英下,NTP,0000,0000,0000,,{\blur3}我们救了你\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}If we help you,
+Dialogue: 0,0:24:33.43,0:24:35.21,中上英下,NTP,0000,0000,0000,,{\blur3}你就得放我们走\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}you have to agree to let us go.
+Dialogue: 0,0:24:37.30,0:24:39.58,中上英下,NTP,0000,0000,0000,,{\blur3}那你们给我什么保证呢\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And what assurances do I have?
+Dialogue: 0,0:24:40.27,0:24:42.23,中上英下,NTP,0000,0000,0000,,{\blur3}你们都已经给我下毒了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}You already poisoned me once.
+Dialogue: 0,0:24:42.53,0:24:43.29,中上英下,NTP,0000,0000,0000,,{\blur3}我怎么知道\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}How do I know
+Dialogue: 0,0:24:43.30,0:24:45.57,中上英下,NTP,0000,0000,0000,,{\blur3}下一针会不会直接要我的命\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that the next shot's not going to make things worse?
+Dialogue: 0,0:24:46.11,0:24:49.21,中上英下,NTP,0000,0000,0000,,{\blur3}你可以先在你的手下身上试试\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}You can test it out on one of your many men.
+Dialogue: 0,0:24:49.95,0:24:52.25,中上英下,NTP,0000,0000,0000,,{\blur3}如果他没死 你也不会有事\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}If he survives, you're safe.
+Dialogue: 0,0:24:53.05,0:24:54.57,中上英下,NTP,0000,0000,0000,,{\blur3}你的腿一治好\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And once your leg is healed,
+Dialogue: 0,0:24:54.62,0:24:56.41,中上英下,NTP,0000,0000,0000,,{\blur3}就要送我们去指定的地点\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}you'll take us to a location of our choosing
+Dialogue: 0,0:24:56.44,0:24:59.06,中上英下,NTP,0000,0000,0000,,{\blur3}我会把所有的抗排斥药物都给你\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and I will give you all the anti-rejection medicine I have.
+Dialogue: 0,0:24:59.50,0:25:00.90,中上英下,NTP,0000,0000,0000,,{\blur3}然后我们就会离开\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We will leave.
+Dialogue: 0,0:25:01.49,0:25:02.85,中上英下,NTP,0000,0000,0000,,{\blur3}你再也不会见到我们了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}You'll never see us again.
+Dialogue: 0,0:25:07.22,0:25:08.71,中上英下,NTP,0000,0000,0000,,{\blur3}我同意\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I accept your terms.
+Dialogue: 0,0:25:09.44,0:25:11.11,中上英下,NTP,0000,0000,0000,,{\blur3}解毒剂在哪里 在你包里吗\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Where is the antidote? In your bag?
+Dialogue: 0,0:25:11.11,0:25:12.06,中上英下,NTP,0000,0000,0000,,{\blur3}没有\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}No, I'm afraid not.
+Dialogue: 0,0:25:12.24,0:25:14.42,中上英下,NTP,0000,0000,0000,,{\blur3}我们得在这里配置解毒剂\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We'll have to manufacture the antidote right here.
+Dialogue: 0,0:25:14.42,0:25:16.72,中上英下,NTP,0000,0000,0000,,{\blur3}要多久\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And how long will it take?
+Dialogue: 0,0:25:16.72,0:25:18.10,中上英下,NTP,0000,0000,0000,,{\blur3}几个小时吧\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Several hours.
+Dialogue: 0,0:25:18.10,0:25:18.96,中上英下,NTP,0000,0000,0000,,{\blur3}还有\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And...
+Dialogue: 0,0:25:21.96,0:25:23.25,中上英下,NTP,0000,0000,0000,,{\blur3}我们需要补给\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We need supplies.
+Dialogue: 0,0:25:30.36,0:25:31.31,中上英下,NTP,0000,0000,0000,,{\blur3}要的东西还真多\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}That's quite a list.
+Dialogue: 0,0:25:32.52,0:25:34.34,中上英下,NTP,0000,0000,0000,,{\blur3}要凑齐这些东西可得花不少时间\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It will take a while for my men to pull this all together.
+Dialogue: 0,0:25:36.76,0:25:37.60,中上英下,NTP,0000,0000,0000,,{\blur3}让你的人抓紧时间\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}You better hurry.
+Dialogue: 0,0:25:38.21,0:25:42.41,中上英下,NTP,0000,0000,0000,,{\blur3}谁都不希望 东西还没备齐\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We wouldn't want that beautiful, perfect leg to rot
+Dialogue: 0,0:25:42.42,0:25:44.21,中上英下,NTP,0000,0000,0000,,{\blur3}这条完美无缺的腿溃烂断掉\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and fall off while they're out shopping.
+Dialogue: 0,0:26:01.13,0:26:02.32,中上英下,NTP,0000,0000,0000,,{\blur3}我是弗莱彻\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}This is Fletcher.
+Dialogue: 0,0:26:02.82,0:26:04.48,中上英下,NTP,0000,0000,0000,,{\blur3}关闭边防的事 你说对了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}You were right about the borders.
+Dialogue: 0,0:26:05.35,0:26:07.22,中上英下,NTP,0000,0000,0000,,{\blur3}很明智通知我 没人得到信息\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Great call. No one else caught it.
+Dialogue: 0,0:26:09.72,0:26:11.17,中上英下,NTP,0000,0000,0000,,{\blur3}总统有何打算\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}What's the President's plan?
+Dialogue: 0,0:26:11.37,0:26:12.25,中上英下,NTP,0000,0000,0000,,{\blur3}先拖着\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Stall.
+Dialogue: 0,0:26:12.62,0:26:14.43,中上英下,NTP,0000,0000,0000,,{\blur3}直到我们想出对策\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Until we figure out how to handle this.
+Dialogue: 0,0:26:15.68,0:26:17.17,中上英下,NTP,0000,0000,0000,,{\blur3}去年科索沃警方试图接管北方岗位\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}You remember what happened last year
+Dialogue: 0,0:26:17.17,0:26:19.51,中上英下,NTP,0000,0000,0000,,{\blur3}还记得发生了什么吗\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}when the Kosovo police tried to take over the northern posts.
+Dialogue: 0,0:26:19.89,0:26:20.99,中上英下,NTP,0000,0000,0000,,{\blur3}长达六个月的暴力冲突\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Six months of violence
+Dialogue: 0,0:26:21.02,0:26:22.51,中上英下,NTP,0000,0000,0000,,{\blur3}双方边境都深受其害\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}on both sides of the border.
+Dialogue: 0,0:26:23.12,0:26:24.97,中上英下,NTP,0000,0000,0000,,{\blur3}安理会应该不希望\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I don't suppose the U.N. Security Council
+Dialogue: 0,0:26:24.98,0:26:27.38,中上英下,NTP,0000,0000,0000,,{\blur3}那段历史悲剧再次重演吧\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}wants to repeat that particular part of history.
+Dialogue: 0,0:26:28.13,0:26:29.65,中上英下,NTP,0000,0000,0000,,{\blur3}他们自己都手足无措\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}They aren't sure what to do.
+Dialogue: 0,0:26:30.23,0:26:32.20,中上英下,NTP,0000,0000,0000,,{\blur3}总理是很通情达理的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The prime minister can be reasoned with.
+Dialogue: 0,0:26:32.57,0:26:34.58,中上英下,NTP,0000,0000,0000,,{\blur3}可他身边的助手就难对付了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}His right hand man is a different story.
+Dialogue: 0,0:26:35.23,0:26:36.78,中上英下,NTP,0000,0000,0000,,{\blur3}所以中情局想要\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's why the CIA
+Dialogue: 0,0:26:36.78,0:26:38.43,中上英下,NTP,0000,0000,0000,,{\blur3}第一个除掉他 是吗\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}tried to take him out in the first place, right?
+Dialogue: 0,0:26:39.06,0:26:40.62,中上英下,NTP,0000,0000,0000,,{\blur3}他们应该不会再来第二次了吧\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I don't suppose they could try again.
+Dialogue: 0,0:26:41.16,0:26:44.39,中上英下,NTP,0000,0000,0000,,{\blur3}我不能再冒险搅黄中情局的任务了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I can't risk another botched CIA job.
+Dialogue: 0,0:26:45.05,0:26:46.97,中上英下,NTP,0000,0000,0000,,{\blur3}如果把他干掉 就扫清障碍了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}If we took him out, it would have to be clean.
+Dialogue: 0,0:26:50.47,0:26:51.97,中上英下,NTP,0000,0000,0000,,{\blur3}没有人会发觉的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Invisible, even.
+Dialogue: 0,0:26:54.37,0:26:55.66,中上英下,NTP,0000,0000,0000,,{\blur3}你该不会指的是…\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}You're not suggesting...
+Dialogue: 0,0:26:56.38,0:26:58.42,中上英下,NTP,0000,0000,0000,,{\blur3}这才是建立组织的初衷\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's why Division was created, right?
+Dialogue: 0,0:26:59.58,0:27:01.63,中上英下,NTP,0000,0000,0000,,{\blur3}你的人有办法接近波齐莱吗\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Do you think your people can get to Beciraj?
+Dialogue: 0,0:27:06.59,0:27:10.01,中上英下,NTP,0000,0000,0000,,{\blur3}应该有办法\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I believe we might have a way in.
+Dialogue: 0,0:27:13.82,0:27:15.96,中上英下,NTP,0000,0000,0000,,{\blur3}你不是说自己不是科学家吗\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I thought you said you weren't a scientist.
+Dialogue: 0,0:27:16.45,0:27:19.54,中上英下,NTP,0000,0000,0000,,{\blur3}对 我说过我不是那种\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}No, no, I said I wasn't the kind of a scientist
+Dialogue: 0,0:27:19.54,0:27:22.32,中上英下,NTP,0000,0000,0000,,{\blur3}可以让肢体再生的科学家\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}who could engineer a way to regenerate someone's limb.
+Dialogue: 0,0:27:23.75,0:27:25.78,中上英下,NTP,0000,0000,0000,,{\blur3}基本的化学实验 我还是能应付的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Basic chemistry, I can manage.
+Dialogue: 0,0:27:26.29,0:27:30.26,中上英下,NTP,0000,0000,0000,,{\blur3}他的那条腿你是怎么弄的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So, the leg. Tell me how it works.
+Dialogue: 0,0:27:30.27,0:27:32.80,中上英下,NTP,0000,0000,0000,,{\blur3}我只能和你解释最基础的原理\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I can only explain it in the most rudimentary way.
+Dialogue: 0,0:27:32.92,0:27:33.83,中上英下,NTP,0000,0000,0000,,{\blur3}好的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Good.
+Dialogue: 0,0:27:34.20,0:27:35.95,中上英下,NTP,0000,0000,0000,,{\blur3}我也只能理解最基本的原理了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}'Cause that's the only way I'll understand it.
+Dialogue: 0,0:27:36.30,0:27:37.08,中上英下,NTP,0000,0000,0000,,{\blur3}好吧\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}All right.
+Dialogue: 0,0:27:37.35,0:27:41.53,中上英下,NTP,0000,0000,0000,,{\blur3}人们都知道蝾螈和蜥蜴可以让断肢重生\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We know that newts and salamanders can regrow severed limbs.
+Dialogue: 0,0:27:41.71,0:27:44.63,中上英下,NTP,0000,0000,0000,,{\blur3}所以研究人员研制了一种化学混合物\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So, the researchers developed a chemical cocktail
+Dialogue: 0,0:27:44.63,0:27:47.25,中上英下,NTP,0000,0000,0000,,{\blur3}能产生多能干细胞\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that creates pluripotent stem cells...
+Dialogue: 0,0:27:47.25,0:27:50.02,中上英下,NTP,0000,0000,0000,,{\blur3}蜥蜴就是依靠那种东西让断肢再生的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the same thing salamanders use for regeneration.
+Dialogue: 0,0:27:51.10,0:27:53.74,中上英下,NTP,0000,0000,0000,,{\blur3}那种东西要花多少钱呢\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Do you know how much something like this costs?
+Dialogue: 0,0:27:54.54,0:27:56.53,中上英下,NTP,0000,0000,0000,,{\blur3}不知道你有没有写备忘\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I mean, I don't know if you got the memo,
+Dialogue: 0,0:27:56.53,0:27:58.58,中上英下,NTP,0000,0000,0000,,{\blur3}组织已经失去了大部分政府资助\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but Division lost most of its government funding.
+Dialogue: 0,0:27:58.88,0:28:00.66,中上英下,NTP,0000,0000,0000,,{\blur3}我们的机构对金钱不感兴趣\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Our organization isn't interested in money.
+Dialogue: 0,0:28:00.66,0:28:03.28,中上英下,NTP,0000,0000,0000,,{\blur3}我们资金充足 我们最需要的是数据\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We're very well funded. What we need is data.
+Dialogue: 0,0:28:03.58,0:28:07.16,中上英下,NTP,0000,0000,0000,,{\blur3}来自临床试验和真人实验的数据\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The kind that comes from clinical trials, real world testing.
+Dialogue: 0,0:28:09.80,0:28:11.48,中上英下,NTP,0000,0000,0000,,{\blur3}你朋友的手是怎么断的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}How did your friend lose his hand?
+Dialogue: 0,0:28:14.70,0:28:15.74,中上英下,NTP,0000,0000,0000,,{\blur3}我是想了解一下\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It would help me figure out
+Dialogue: 0,0:28:15.74,0:28:18.02,中上英下,NTP,0000,0000,0000,,{\blur3}他能否成为再生工程的合适人选\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}if he's a good candidate for the regeneration process.
+Dialogue: 0,0:28:20.40,0:28:23.84,中上英下,NTP,0000,0000,0000,,{\blur3}他被一辆着火的汽车压住了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}He was pinned under a burning car.
+Dialogue: 0,0:28:25.29,0:28:30.06,中上英下,NTP,0000,0000,0000,,{\blur3}不砍掉他的手 只能眼睁睁地看着他死\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It was either cut off his hand or watch him die.
+Dialogue: 0,0:28:30.50,0:28:31.48,中上英下,NTP,0000,0000,0000,,{\blur3}整齐的割伤\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}A clean cut.
+Dialogue: 0,0:28:31.62,0:28:33.44,中上英下,NTP,0000,0000,0000,,{\blur3}不是挤压伤 不错不错\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Not a crush injury. That's good, that's good.
+Dialogue: 0,0:28:34.03,0:28:36.79,中上英下,NTP,0000,0000,0000,,{\blur3}当场就截肢了 是吗\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I assume the amputation took place in the field, yes?
+Dialogue: 0,0:28:37.41,0:28:38.75,中上英下,NTP,0000,0000,0000,,{\blur3}有大量失血吗\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}A great deal of blood loss?
+Dialogue: 0,0:28:40.23,0:28:42.74,中上英下,NTP,0000,0000,0000,,{\blur3}流了好多好多血\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}There was a lot of blood.
+Dialogue: 0,0:28:44.17,0:28:45.17,中上英下,NTP,0000,0000,0000,,{\blur3}非常非常多\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Too much.
+Dialogue: 0,0:28:45.98,0:28:47.32,中上英下,NTP,0000,0000,0000,,{\blur3}医疗救援队要一个小时才能到\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Medical support was an hour away,
+Dialogue: 0,0:28:47.32,0:28:48.16,中上英下,NTP,0000,0000,0000,,{\blur3}而且…\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and, uh,
+Dialogue: 0,0:28:49.16,0:28:51.51,中上英下,NTP,0000,0000,0000,,{\blur3}幸运的是 有把尖刀\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Fortunately, there was a sharp blade
+Dialogue: 0,0:28:51.51,0:28:52.21,中上英下,NTP,0000,0000,0000,,{\blur3}还有一辆燃烧的车\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and a burning car,
+Dialogue: 0,0:28:52.22,0:28:55.47,中上英下,NTP,0000,0000,0000,,{\blur3}所以烧灼伤口不是什么难事儿\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So it only took a... a few tries to cauterize the wound.
+Dialogue: 0,0:28:58.61,0:28:59.82,中上英下,NTP,0000,0000,0000,,{\blur3}对不起\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I'm sorry.
+Dialogue: 0,0:29:00.56,0:29:02.95,中上英下,NTP,0000,0000,0000,,{\blur3}那一切对你来说\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It must have been very difficult for you to,
+Dialogue: 0,0:29:04.74,0:29:05.80,中上英下,NTP,0000,0000,0000,,{\blur3}一定很不容易\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}uh, do what you did.
+Dialogue: 0,0:29:10.74,0:29:13.20,中上英下,NTP,0000,0000,0000,,{\blur3}我觉得我永远都忘不了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I don't think I'll ever get the sound of his screams
+Dialogue: 0,0:29:13.22,0:29:14.14,中上英下,NTP,0000,0000,0000,,{\blur3}他那撕心裂肺的叫喊声\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}out of my head.
+Dialogue: 0,0:29:16.27,0:29:17.93,中上英下,NTP,0000,0000,0000,,{\blur3}当你看到他痊愈的时候\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}When you see him whole again,
+Dialogue: 0,0:29:19.85,0:29:20.67,中上英下,NTP,0000,0000,0000,,{\blur3}一定会忘记的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}you will.
+Dialogue: 0,0:29:44.68,0:29:46.27,中上英下,NTP,0000,0000,0000,,{\blur3}我们已经进来了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Okay, we're at the compound.
+Dialogue: 0,0:29:47.27,0:29:48.56,中上英下,NTP,0000,0000,0000,,{\blur3}你说要有一个计划\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}You told me to make a plan.
+Dialogue: 0,0:29:48.84,0:29:49.90,中上英下,NTP,0000,0000,0000,,{\blur3}我洗耳恭听\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I'm all ears.
+Dialogue: 0,0:29:50.52,0:29:53.13,中上英下,NTP,0000,0000,0000,,{\blur3}你得去杀死科斯塔·波齐莱\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I need you to kill Kosta Beciraj.
+Dialogue: 0,0:29:55.79,0:29:58.14,中上英下,NTP,0000,0000,0000,,{\blur3}这个指令是总统亲自下的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}This order has been sanctioned by the President.
+Dialogue: 0,0:29:58.30,0:30:01.02,中上英下,NTP,0000,0000,0000,,{\blur3}组织不是不再揽杀人的任务了吗\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Hey, I thought Division didn't do kill missions anymore.
+Dialogue: 0,0:30:01.74,0:30:04.75,中上英下,NTP,0000,0000,0000,,{\blur3}把这当做最后一次吧 祝你好运\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Consider this the last one. Good luck.
+Dialogue: 0,0:30:27.75,0:30:29.56,中上英下,NTP,0000,0000,0000,,{\blur3}我们已经就位\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Okay, we're in position.
+Dialogue: 0,0:30:30.12,0:30:31.58,中上英下,NTP,0000,0000,0000,,{\blur3}刚才在通信里监听到\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}From what we heard on the comm,
+Dialogue: 0,0:30:31.58,0:30:33.10,中上英下,NTP,0000,0000,0000,,{\blur3}他们被关在琪琪的房间\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}they're holding them in Kiki's room.
+Dialogue: 0,0:30:33.17,0:30:35.04,中上英下,NTP,0000,0000,0000,,{\blur3}在屋后的旧马棚里\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's behind the house in the old stables.
+Dialogue: 0,0:30:35.44,0:30:36.35,中上英下,NTP,0000,0000,0000,,{\blur3}你们移动时\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Once you start moving,
+Dialogue: 0,0:30:36.35,0:30:38.25,中上英下,NTP,0000,0000,0000,,{\blur3}你们和房子之间没有任何遮掩物\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}there's no cover between you and the house.
+Dialogue: 0,0:30:38.25,0:30:39.08,中上英下,NTP,0000,0000,0000,,{\blur3}好的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Okay.
+Dialogue: 0,0:30:39.22,0:30:41.76,中上英下,NTP,0000,0000,0000,,{\blur3}比尔 你们在房子这一侧对付守卫\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Bill, you guys keep the guards busy on this side of the house.
+Dialogue: 0,0:30:42.79,0:30:44.45,中上英下,NTP,0000,0000,0000,,{\blur3}待克里斯搞定守卫后\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And that'll be your position,
+Dialogue: 0,0:30:44.45,0:30:45.90,中上英下,NTP,0000,0000,0000,,{\blur3}你们在那里就位\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}once Chris takes care of the guards.
+Dialogue: 0,0:30:51.91,0:30:53.22,中上英下,NTP,0000,0000,0000,,{\blur3}冲 冲 冲\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Go! Go, go, go!
+Dialogue: 0,0:31:05.93,0:31:07.09,中上英下,NTP,0000,0000,0000,,{\blur3}是我们的人\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}This is our shot.
+Dialogue: 0,0:31:07.09,0:31:08.93,中上英下,NTP,0000,0000,0000,,{\blur3}我们也准备好了 快把火枪放好\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}All right, we're good. Go ahead and use the fire.
+Dialogue: 0,0:31:11.79,0:31:12.81,中上英下,NTP,0000,0000,0000,,{\blur3}命中火心\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Fire in the hole.
+Dialogue: 0,0:32:25.84,0:32:26.51,中上英下,NTP,0000,0000,0000,,{\blur3}我们走\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Let's go.
+Dialogue: 0,0:32:29.04,0:32:31.01,中上英下,NTP,0000,0000,0000,,{\blur3}迈克尔 你怎么来了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Michael? What are you doing?
+Dialogue: 0,0:32:33.63,0:32:35.07,中上英下,NTP,0000,0000,0000,,{\blur3}科尔特斯模型\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The keltrex prototype.
+Dialogue: 0,0:32:35.23,0:32:36.54,中上英下,NTP,0000,0000,0000,,{\blur3}多谢 但还是叫我"迈克尔"吧\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I prefer "Michael," but thanks.
+Dialogue: 0,0:32:36.54,0:32:38.14,中上英下,NTP,0000,0000,0000,,{\blur3}- 计划是什么 - 把你带离这里\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}- What's the plan? - To get you out of here.
+Dialogue: 0,0:32:38.14,0:32:39.26,中上英下,NTP,0000,0000,0000,,{\blur3}我在公路外一英里处有辆车\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I've got a car half a mile up the road.
+Dialogue: 0,0:32:39.28,0:32:40.44,中上英下,NTP,0000,0000,0000,,{\blur3}我们不可能走过去啊\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We won't make it on foot.
+Dialogue: 0,0:32:40.44,0:32:42.26,中上英下,NTP,0000,0000,0000,,{\blur3}我看见房子另一侧有一辆车\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I saw another car on the other side of the house.
+Dialogue: 0,0:32:42.78,0:32:45.85,中上英下,NTP,0000,0000,0000,,{\blur3}总部 我这儿有尼基塔和一个乘客\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Ops, I've got Nikita and a passenger.
+Dialogue: 0,0:32:46.04,0:32:47.93,中上英下,NTP,0000,0000,0000,,{\blur3}我们得换一辆交通工具了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We'll get another ride.
+Dialogue: 0,0:32:57.44,0:32:59.24,中上英下,NTP,0000,0000,0000,,{\blur3}尽量让他分心 但不要杀死他\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Keep him distracted, but don't kill him.
+Dialogue: 0,0:33:03.89,0:33:06.04,中上英下,NTP,0000,0000,0000,,{\blur3}艾丽克丝 目标在房子南边\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Alex, target is on the south side of the building.
+Dialogue: 0,0:33:19.20,0:33:23.26,中上英下,NTP,0000,0000,0000,,{\blur3}长官 我们得撤了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Sir, we must go!
+Dialogue: 0,0:33:30.01,0:33:30.75,中上英下,NTP,0000,0000,0000,,{\blur3}科斯塔\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Kosta!
+Dialogue: 0,0:33:37.52,0:33:38.35,中上英下,NTP,0000,0000,0000,,{\blur3}能登头条了吗\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Cover story?
+Dialogue: 0,0:33:39.10,0:33:40.53,中上英下,NTP,0000,0000,0000,,{\blur3}必须头条\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Yeah, cover story.
+Dialogue: 0,0:33:41.37,0:33:43.70,中上英下,NTP,0000,0000,0000,,{\blur3}目标歼灭\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Ops, target is eliminated.
+Dialogue: 0,0:33:44.06,0:33:45.93,中上英下,NTP,0000,0000,0000,,{\blur3}现场就像他们自己人误杀一样\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It'll look like his own man shot him.
+Dialogue: 0,0:33:53.32,0:33:54.00,中上英下,NTP,0000,0000,0000,,{\blur3}收到\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Copy that.
+Dialogue: 0,0:33:55.39,0:33:57.40,中上英下,NTP,0000,0000,0000,,{\blur3}A小队 撤离\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Alpha team, disengage.
+Dialogue: 0,0:33:57.71,0:34:00.42,中上英下,NTP,0000,0000,0000,,{\blur3}和艾丽克丝汇合 按计划准备收队\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Rendezvous with Alex and follow exfil route as planned.
+Dialogue: 0,0:34:02.96,0:34:04.46,中上英下,NTP,0000,0000,0000,,{\blur3}你抹掉安保视频监控了吗\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Did you erase the security footage?
+Dialogue: 0,0:34:05.29,0:34:06.27,中上英下,NTP,0000,0000,0000,,{\blur3}就像什么都没发生过一样\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Like we were never there.
+Dialogue: 0,0:34:07.70,0:34:09.38,中上英下,NTP,0000,0000,0000,,{\blur3}告诉总统任务完成\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Tell the President it's done.
+Dialogue: 0,0:34:11.27,0:34:14.43,中上英下,NTP,0000,0000,0000,,{\blur3}迈克尔 当地警察听到声音赶来了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Mikey, local fuzz got a call about all the noise.
+Dialogue: 0,0:34:14.43,0:34:15.68,中上英下,NTP,0000,0000,0000,,{\blur3}他们来搅局了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}They're coming to crash the party.
+Dialogue: 0,0:34:15.78,0:34:17.84,中上英下,NTP,0000,0000,0000,,{\blur3}你们要远离主干道\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}You need to stay off the main roads.
+Dialogue: 0,0:34:17.91,0:34:20.27,中上英下,NTP,0000,0000,0000,,{\blur3}好吧 艾丽克丝 带小队撤离\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}All right. Alex, take the team to the extraction point.
+Dialogue: 0,0:34:20.27,0:34:22.30,中上英下,NTP,0000,0000,0000,,{\blur3}我们再找一条路 赶紧离开\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We'll find another way. We gotta get going now.
+Dialogue: 0,0:34:22.35,0:34:24.09,中上英下,NTP,0000,0000,0000,,{\blur3}- 我有架飞机 - 我们走\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}- I have a plane. - Let's go.
+Dialogue: 0,0:34:46.30,0:34:47.30,中上英下,NTP,0000,0000,0000,,{\blur3}我是海德格\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's Heidecker.
+Dialogue: 0,0:34:47.39,0:34:48.52,中上英下,NTP,0000,0000,0000,,{\blur3}我们在路上了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I'm on my way now.
+Dialogue: 0,0:34:48.52,0:34:49.44,中上英下,NTP,0000,0000,0000,,{\blur3}准备好飞机\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Please ready the plane
+Dialogue: 0,0:34:49.44,0:34:51.80,中上英下,NTP,0000,0000,0000,,{\blur3}确保货物安全\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and make sure the cargo is secure.
+Dialogue: 0,0:34:54.66,0:34:58.48,中上英下,NTP,0000,0000,0000,,{\blur3}那模型太敏感了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Oh, yeah, that model always was twitchy.
+Dialogue: 0,0:34:59.04,0:35:01.38,中上英下,NTP,0000,0000,0000,,{\blur3}我们在校准生物传感器时 出了点问题\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We had trouble calibrating the biosensors.
+Dialogue: 0,0:35:01.88,0:35:03.38,中上英下,NTP,0000,0000,0000,,{\blur3}我们最后发现\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}What we came to realize was that
+Dialogue: 0,0:35:03.38,0:35:05.10,中上英下,NTP,0000,0000,0000,,{\blur3}由于信号穿越过多的传感器\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the myoelectric feedback had been weakened
+Dialogue: 0,0:35:05.10,0:35:07.40,中上英下,NTP,0000,0000,0000,,{\blur3}导致肌电反馈出现削减\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}because the signal was spread across too many sensors.
+Dialogue: 0,0:35:09.14,0:35:10.65,中上英下,NTP,0000,0000,0000,,{\blur3}不好意思 太高深了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I'm sorry. You lost us.
+Dialogue: 0,0:35:11.26,0:35:13.52,中上英下,NTP,0000,0000,0000,,{\blur3}西摩只需要持续发些反馈信息\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}All Seymour needs to do is clip a few of the returns.
+Dialogue: 0,0:35:13.52,0:35:15.48,中上英下,NTP,0000,0000,0000,,{\blur3}你们会陆续地接到测试结果\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}You'll get far more consistent results, although
+Dialogue: 0,0:35:15.48,0:35:19.04,中上英下,NTP,0000,0000,0000,,{\blur3}不过我觉得你没必要带着那假肢了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I doubt you'll be needing that prosthetic much longer.
+Dialogue: 0,0:35:20.14,0:35:22.38,中上英下,NTP,0000,0000,0000,,{\blur3}你真觉得肢体再生技术能管用吗\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Do you really think the limb regeneration's gonna work?
+Dialogue: 0,0:35:23.32,0:35:24.53,中上英下,NTP,0000,0000,0000,,{\blur3}从你对他伤口的形容\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Well, from what you tell me about his injury
+Dialogue: 0,0:35:24.53,0:35:27.39,中上英下,NTP,0000,0000,0000,,{\blur3}以及我在这昏暗灯光中的观察来看\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and from what I can see in this incredibly poor light,
+Dialogue: 0,0:35:27.90,0:35:30.09,中上英下,NTP,0000,0000,0000,,{\blur3}我觉得迈克尔是个非常合适的人选\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I believe Michael an excellent candidate.
+Dialogue: 0,0:35:32.25,0:35:34.14,中上英下,NTP,0000,0000,0000,,{\blur3}我们到了 就在前面\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We're here. Eh, just up ahead.
+Dialogue: 0,0:35:40.17,0:35:41.79,中上英下,NTP,0000,0000,0000,,{\blur3}那个身着黑色夹克的绅士\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Uh, that gentleman in the black jacket
+Dialogue: 0,0:35:41.94,0:35:43.42,中上英下,NTP,0000,0000,0000,,{\blur3}是科斯塔最后一个保镖\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}is the last of Kosta's thugs.
+Dialogue: 0,0:35:43.79,0:35:45.40,中上英下,NTP,0000,0000,0000,,{\blur3}在我飞机起飞前\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We're going to have to deal with him
+Dialogue: 0,0:35:45.65,0:35:47.26,中上英下,NTP,0000,0000,0000,,{\blur3}得先把他解决了 否则…\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}before my pilot can take off, otherwise...
+Dialogue: 0,0:35:47.26,0:35:47.90,中上英下,NTP,0000,0000,0000,,{\blur3}知道了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Got it.
+Dialogue: 0,0:35:58.17,0:35:59.39,中上英下,NTP,0000,0000,0000,,{\blur3}你们一定希望\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Well, I'm sure you'll want to get started
+Dialogue: 0,0:35:59.39,0:36:00.27,中上英下,NTP,0000,0000,0000,,{\blur3}越快开始手术越好\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}as soon as possible.
+Dialogue: 0,0:36:00.45,0:36:01.65,中上英下,NTP,0000,0000,0000,,{\blur3}但我们还需要几次测试\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We'll need to run a few tests.
+Dialogue: 0,0:36:01.65,0:36:04.26,中上英下,NTP,0000,0000,0000,,{\blur3}你需要尽快开始抗排斥药物疗程\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}You're gonna want to start on the anti-rejection meds immediately.
+Dialogue: 0,0:36:06.11,0:36:07.11,中上英下,NTP,0000,0000,0000,,{\blur3}迈克尔\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Michael.
+Dialogue: 0,0:36:11.20,0:36:12.72,中上英下,NTP,0000,0000,0000,,{\blur3}为什么飞机上有孩子\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Why are there kids on the plane?
+Dialogue: 0,0:36:16.13,0:36:18.87,中上英下,NTP,0000,0000,0000,,{\blur3}我叫你看好这些货物\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I told you to secure the cargo.
+Dialogue: 0,0:36:24.32,0:36:26.99,中上英下,NTP,0000,0000,0000,,{\blur3}就像我对尼基塔解释的那样\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}As I explained to Nikita,
+Dialogue: 0,0:36:28.23,0:36:29.72,中上英下,NTP,0000,0000,0000,,{\blur3}每个人都要尽他们所能回报我\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}everyone pays what they can.
+Dialogue: 0,0:36:29.72,0:36:31.29,中上英下,NTP,0000,0000,0000,,{\blur3}这些孩子是科斯塔给我的报酬\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The children are Kosta's payment.
+Dialogue: 0,0:36:32.33,0:36:35.19,中上英下,NTP,0000,0000,0000,,{\blur3}他们都是谁 是被绑架来的吗\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Who are they? Were they kidnapped?
+Dialogue: 0,0:36:35.36,0:36:37.16,中上英下,NTP,0000,0000,0000,,{\blur3}实话告诉你 我从来没问过\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Well, to be honest with you, it never occurred to me to ask.
+Dialogue: 0,0:36:37.16,0:36:38.05,中上英下,NTP,0000,0000,0000,,{\blur3}这一点关系也没有\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It was irrelevant.
+Dialogue: 0,0:36:38.71,0:36:40.95,中上英下,NTP,0000,0000,0000,,{\blur3}活体试验对我们的研究很重要\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Real world testing is important to our research,
+Dialogue: 0,0:36:40.95,0:36:43.54,中上英下,NTP,0000,0000,0000,,{\blur3}要找到条件合适的试验品是很难的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and it's very difficult to find able-bodied test subjects.
+Dialogue: 0,0:36:43.65,0:36:46.24,中上英下,NTP,0000,0000,0000,,{\blur3}他们是孩子 不是试验品\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}They're children, not guinea pigs.
+Dialogue: 0,0:36:46.24,0:36:48.90,中上英下,NTP,0000,0000,0000,,{\blur3}这些孩子都生活在极其贫困的地方\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}These children come from abject poverty.
+Dialogue: 0,0:36:49.00,0:36:50.88,中上英下,NTP,0000,0000,0000,,{\blur3}他们的寿命本来就非常短\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}They have extremely short life expectancies.
+Dialogue: 0,0:36:50.88,0:36:53.91,中上英下,NTP,0000,0000,0000,,{\blur3}至少现在他们的生命还有些意义\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}At least now, their lives will have some meaning.
+Dialogue: 0,0:36:55.05,0:36:57.71,中上英下,NTP,0000,0000,0000,,{\blur3}难怪你会和珀西狼狈为奸\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}No wonder you and Percy got along.
+Dialogue: 0,0:36:58.62,0:36:59.60,中上英下,NTP,0000,0000,0000,,{\blur3}你就是个禽兽\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}You're a monster.
+Dialogue: 0,0:37:00.35,0:37:01.81,中上英下,NTP,0000,0000,0000,,{\blur3}而你是组织的特工\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And you're Division agents.
+Dialogue: 0,0:37:02.84,0:37:04.36,中上英下,NTP,0000,0000,0000,,{\blur3}你们都杀过无数人\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}You've both killed plenty of people.
+Dialogue: 0,0:37:04.57,0:37:07.81,中上英下,NTP,0000,0000,0000,,{\blur3}你应该很熟悉这个世界的规则\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}You can't be surprised that this is how the world works.
+Dialogue: 0,0:37:07.81,0:37:09.16,中上英下,NTP,0000,0000,0000,,{\blur3}但这不意味着我们会袖手旁观\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It doesn't mean we're gonna stand by
+Dialogue: 0,0:37:09.16,0:37:10.16,中上英下,NTP,0000,0000,0000,,{\blur3}让你恣意妄为\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and let you get away with this.
+Dialogue: 0,0:37:12.39,0:37:13.14,中上英下,NTP,0000,0000,0000,,{\blur3}尼基塔\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Nikita.
+Dialogue: 0,0:37:42.32,0:37:43.89,中上英下,NTP,0000,0000,0000,,{\blur3}总统对你们在科索沃的行动\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The President was quite impressed
+Dialogue: 0,0:37:43.89,0:37:45.37,中上英下,NTP,0000,0000,0000,,{\blur3}非常满意\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}by what you did in Kosovo.
+Dialogue: 0,0:37:46.70,0:37:49.28,中上英下,NTP,0000,0000,0000,,{\blur3}说实话 我自己也是\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}To be honest, so was I.
+Dialogue: 0,0:37:51.65,0:37:54.55,中上英下,NTP,0000,0000,0000,,{\blur3}我知道这种情况 对总统而言有些微妙\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I know it was a delicate situation for the President.
+Dialogue: 0,0:37:55.09,0:37:57.01,中上英下,NTP,0000,0000,0000,,{\blur3}把它伪装成政变未遂吗\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Making it look like an attempted coup?
+Dialogue: 0,0:37:58.32,0:37:59.55,中上英下,NTP,0000,0000,0000,,{\blur3}真是神来之笔\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Stroke of genius.
+Dialogue: 0,0:38:03.25,0:38:05.88,中上英下,NTP,0000,0000,0000,,{\blur3}不是我不重视这些荣誉\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's not that I don't appreciate the kudos,
+Dialogue: 0,0:38:05.88,0:38:08.99,中上英下,NTP,0000,0000,0000,,{\blur3}但是这些话你完全可以直接在电话里说\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but you could have said this all over the phone.
+Dialogue: 0,0:38:09.97,0:38:11.14,中上英下,NTP,0000,0000,0000,,{\blur3}为什么你一定要见我\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Why'd you need to see me?
+Dialogue: 0,0:38:13.19,0:38:15.81,中上英下,NTP,0000,0000,0000,,{\blur3}我和总统认真斟酌了这件事\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The President and I have given this matter a lot of thought.
+Dialogue: 0,0:38:17.03,0:38:18.62,中上英下,NTP,0000,0000,0000,,{\blur3}我们想就组织的未来\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We'd like to have a serious conversation
+Dialogue: 0,0:38:18.62,0:38:19.84,中上英下,NTP,0000,0000,0000,,{\blur3}认真地探讨一下\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}about Division's future.
+Dialogue: 0,0:38:38.35,0:38:42.61,中上英下,NTP,0000,0000,0000,,{\blur3}我就知道伯克霍夫在夸大其词\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Well, I assumed Birkhoff was exaggerating, of course,
+Dialogue: 0,0:38:42.61,0:38:44.59,中上英下,NTP,0000,0000,0000,,{\blur3}但你真的占了他的所有地儿\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but you really did take over his whole space.
+Dialogue: 0,0:38:45.16,0:38:47.21,中上英下,NTP,0000,0000,0000,,{\blur3}是的 我想把这些都排开\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Yeah, I needed it to lay all of this out,
+Dialogue: 0,0:38:47.30,0:38:49.48,中上英下,NTP,0000,0000,0000,,{\blur3}但这些是在飞机上找到的所有东西\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but it's everything we found on that plane.
+Dialogue: 0,0:38:49.90,0:38:50.91,中上英下,NTP,0000,0000,0000,,{\blur3}海德克没办法说话了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Heidecker can't talk,
+Dialogue: 0,0:38:50.91,0:38:52.65,中上英下,NTP,0000,0000,0000,,{\blur3}但也许他的物品可以透露给我们一些讯息\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but maybe his stuff can tell us something.
+Dialogue: 0,0:38:55.37,0:38:57.07,中上英下,NTP,0000,0000,0000,,{\blur3}很抱歉搞砸了科索沃的那些事\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I'm so sorry about Kosovo.
+Dialogue: 0,0:38:57.07,0:38:58.87,中上英下,NTP,0000,0000,0000,,{\blur3}别道歉\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Don't apologize.
+Dialogue: 0,0:38:58.87,0:39:00.76,中上英下,NTP,0000,0000,0000,,{\blur3}我应该感谢你\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I should thank you.
+Dialogue: 0,0:39:01.51,0:39:03.29,中上英下,NTP,0000,0000,0000,,{\blur3}我本来已经准备好要放弃\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I was ready to give up and accept that this
+Dialogue: 0,0:39:03.29,0:39:04.51,中上英下,NTP,0000,0000,0000,,{\blur3}承认这是我达到的最好状态\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}was the best I was ever gonna have,
+Dialogue: 0,0:39:04.51,0:39:05.64,中上英下,NTP,0000,0000,0000,,{\blur3}但你证明了 我是错的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but you proved me wrong.
+Dialogue: 0,0:39:06.66,0:39:07.72,中上英下,NTP,0000,0000,0000,,{\blur3}你让我又燃起了希望\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}You gave me hope.
+Dialogue: 0,0:39:08.31,0:39:10.27,中上英下,NTP,0000,0000,0000,,{\blur3}怎么可能 我打死了海德克\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}How? I shot Heidecker.
+Dialogue: 0,0:39:10.27,0:39:11.51,中上英下,NTP,0000,0000,0000,,{\blur3}他死了 确实如此\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}He's dead. Yes.
+Dialogue: 0,0:39:11.51,0:39:13.16,中上英下,NTP,0000,0000,0000,,{\blur3}但是他效力的那些人还在\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But the people he works for aren't.
+Dialogue: 0,0:39:13.91,0:39:14.97,中上英下,NTP,0000,0000,0000,,{\blur3}他们还活着\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}They're still out there.
+Dialogue: 0,0:39:15.35,0:39:17.41,中上英下,NTP,0000,0000,0000,,{\blur3}他们可以解决 他们能给我一只新的手\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}They can fix this. They can give me a new hand.
+Dialogue: 0,0:39:17.41,0:39:18.85,中上英下,NTP,0000,0000,0000,,{\blur3}迈克尔 那些都不是什么好人\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Michael, these are not good people.
+Dialogue: 0,0:39:19.00,0:39:20.70,中上英下,NTP,0000,0000,0000,,{\blur3}伯克霍夫警告过我 他是对的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Birkhoff was right to warn me about them.
+Dialogue: 0,0:39:20.70,0:39:22.40,中上英下,NTP,0000,0000,0000,,{\blur3}你没理会他是对的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Yeah, and you were right to ignore him.
+Dialogue: 0,0:39:23.36,0:39:25.90,中上英下,NTP,0000,0000,0000,,{\blur3}这是我重获所失的机会\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}This is my chance to get back what I lost.
+Dialogue: 0,0:39:26.83,0:39:28.01,中上英下,NTP,0000,0000,0000,,{\blur3}我曾经连想都不敢想\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I mean, I didn't even think it was possible.
+Dialogue: 0,0:39:28.01,0:39:28.94,中上英下,NTP,0000,0000,0000,,{\blur3}但现在我知道这是可能的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Now that I know that it is,
+Dialogue: 0,0:39:28.94,0:39:30.30,中上英下,NTP,0000,0000,0000,,{\blur3}我不能放弃\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I can't give up on that.
+Dialogue: 0,0:39:30.95,0:39:32.75,中上英下,NTP,0000,0000,0000,,{\blur3}我们不能相信他们\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We can't trust them, and we certainly
+Dialogue: 0,0:39:32.75,0:39:33.92,中上英下,NTP,0000,0000,0000,,{\blur3}更不能和他们做交易\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}shouldn't be in business with them.
+Dialogue: 0,0:39:35.21,0:39:36.22,中上英下,NTP,0000,0000,0000,,{\blur3}我们不需要这样\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We won't be.
+Dialogue: 0,0:39:38.30,0:39:39.20,中上英下,NTP,0000,0000,0000,,{\blur3}我们去找到他们\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We'll find them,
+Dialogue: 0,0:39:40.47,0:39:41.66,中上英下,NTP,0000,0000,0000,,{\blur3}拿走我们所需要的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}we'll take what we need,
+Dialogue: 0,0:39:41.66,0:39:43.77,中上英下,NTP,0000,0000,0000,,{\blur3}然后销毁一切\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and we'll burn their house down.
+Dialogue: 0,0:39:46.35,0:39:47.32,中上英下,NTP,0000,0000,0000,,{\blur3}不计代价\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Whatever it takes.
+Dialogue: 0,0:39:53.87,0:39:54.86,中上英下,NTP,0000,0000,0000,,{\blur3}不计代价\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Whatever it takes.
+Dialogue: 0,0:40:00.17,0:40:01.69,中上英下,NTP,0000,0000,0000,,{\blur3}和总统女士谈得如何\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}How'd it go with the boss lady?
+Dialogue: 0,0:40:01.94,0:40:03.98,中上英下,NTP,0000,0000,0000,,{\blur3}她对我们在科索沃的行动很满意\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}She was pleased with the operation in Kosovo.
+Dialogue: 0,0:40:05.52,0:40:08.35,中上英下,NTP,0000,0000,0000,,{\blur3}也没人提要清算我们的财产\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}No one suggested liquidating our assets even once.
+Dialogue: 0,0:40:08.98,0:40:10.63,中上英下,NTP,0000,0000,0000,,{\blur3}这是好消息 对吧\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}That's good news, right?
+Dialogue: 0,0:40:14.09,0:40:15.26,中上英下,NTP,0000,0000,0000,,{\blur3}她还说了些什么\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}What else did she say?
+Dialogue: 0,0:40:18.42,0:40:20.17,中上英下,NTP,0000,0000,0000,,{\blur3}她非常满意\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}She was so impressed
+Dialogue: 0,0:40:21.72,0:40:24.74,中上英下,NTP,0000,0000,0000,,{\blur3}所以她让我们调查几件其它的案子\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that she's asked us to look into a few other matters.
+Dialogue: 0,0:40:26.74,0:40:27.88,中上英下,NTP,0000,0000,0000,,{\blur3}等等\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}All right, hold on.
+Dialogue: 0,0:40:27.99,0:40:29.20,中上英下,NTP,0000,0000,0000,,{\blur3}我们都同意\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We all agreed
+Dialogue: 0,0:40:29.23,0:40:30.75,中上英下,NTP,0000,0000,0000,,{\blur3}以后不会再有任何政府任务\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that there wouldn't be any government missions.
+Dialogue: 0,0:40:30.75,0:40:32.05,中上英下,NTP,0000,0000,0000,,{\blur3}我们找到那些离开组织的特工\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We'd find these rogue agents
+Dialogue: 0,0:40:32.06,0:40:33.62,中上英下,NTP,0000,0000,0000,,{\blur3}然后把这地方关掉\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and then we'd shut this place down.
+Dialogue: 0,0:40:33.70,0:40:35.22,中上英下,NTP,0000,0000,0000,,{\blur3}非常清楚的清扫任务\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Strictly clean-up duty,
+Dialogue: 0,0:40:35.29,0:40:37.25,中上英下,NTP,0000,0000,0000,,{\blur3}并在短时间内完成\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}with a real hard expiration date.
+Dialogue: 0,0:40:38.56,0:40:39.41,中上英下,NTP,0000,0000,0000,,{\blur3}我们要做什么\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}What do we do?
+Dialogue: 0,0:40:40.17,0:40:41.76,中上英下,NTP,0000,0000,0000,,{\blur3}我觉得我们已经做得够多了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I mean, I feel like I've done enough.
+Dialogue: 0,0:40:41.76,0:40:42.82,中上英下,NTP,0000,0000,0000,,{\blur3}这是四份文档\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's four files.
+Dialogue: 0,0:40:43.28,0:40:44.33,中上英下,NTP,0000,0000,0000,,{\blur3}我们解决了他们\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We take care of them,
+Dialogue: 0,0:40:45.20,0:40:46.36,中上英下,NTP,0000,0000,0000,,{\blur3}也许一切就结束了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}maybe that's the end of it.
+Dialogue: 0,0:40:48.17,0:40:49.84,中上英下,NTP,0000,0000,0000,,{\blur3}不 这不是结束\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}No, not the end.
+Dialogue: 0,0:40:50.79,0:40:52.10,中上英下,NTP,0000,0000,0000,,{\blur3}这只是个开始\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}This is how it begins.
+Dialogue: 0,0:40:56.17,0:41:11.70,中上英下,NTP,0000,0000,0000,,{\blur3}如需其它字幕 请登陆新浪微博（WEB蓝光版美剧专业户）或发邮件\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}lj20090303@163.com
