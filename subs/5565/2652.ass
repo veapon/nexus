@@ -1,0 +1,2299 @@
+﻿[Script Info]
+;SrtEdit 6.0.2011.1205
+;Copyright(C) 2005-2011 Yuan Weiguo
+
+Title: 
+Original Script: 
+Original Translation: 
+Original Timing: 
+Original Editing: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 1280
+PlayResY: 720
+Timer: 100.0000
+Synch Point: 0
+WrapStyle: 0
+ScaledBorderAndShadow: no
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: 中文,华文楷体,52,&H00E0E0E0,&H00000000,&H00000000,&H00000000,0,0,0,0,100,100,0,0,0,1,2,2,5,5,34,1
+Style: 英文,Cronos Pro Subhead,35,&H003CF1F3,&H00000000,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,2,2,5,5,2,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+
+Dialogue: 1,0:01:15.24,0:01:19.20,英文,,0000,0000,0000,,Pearl Harbor outer marker 30 minutes.
+Dialogue: 1,0:01:22.56,0:01:23.94,英文,,0000,0000,0000,,Hey Case!
+Dialogue: 1,0:01:23.97,0:01:25.28,英文,,0000,0000,0000,,What's happening?
+Dialogue: 1,0:01:25.32,0:01:27.60,英文,,0000,0000,0000,,Where's your whites? The Prez is coming.
+Dialogue: 1,0:01:27.63,0:01:29.24,英文,,0000,0000,0000,,He won't miss me.
+Dialogue: 1,0:01:29.28,0:01:33.24,英文,,0000,0000,0000,,What's this? You're in the Navy you've got to look good.
+Dialogue: 1,0:01:33.28,0:01:35.76,英文,,0000,0000,0000,,- Cue Ball! - Where's your whites?
+Dialogue: 1,0:01:35.80,0:01:41.88,英文,,0000,0000,0000,,- Poor boy doesn't have a dress uniform. - I've got the dress I forgot the pumps.
+Dialogue: 1,0:01:56.40,0:02:00.00,英文,,0000,0000,0000,,Tell him not to worry. Everything here is handled.
+Dialogue: 1,0:02:00.03,0:02:03.24,英文,,0000,0000,0000,,Oh my God.
+Dialogue: 1,0:02:03.28,0:02:07.60,英文,,0000,0000,0000,,No no that's okay. We'll take care of it.
+Dialogue: 1,0:02:08.04,0:02:11.20,英文,,0000,0000,0000,,Well it's going to be a zoo.
+Dialogue: 1,0:02:11.23,0:02:12.64,英文,,0000,0000,0000,,Chief Ryback.
+Dialogue: 1,0:02:12.67,0:02:15.28,英文,,0000,0000,0000,,Send him in.
+Dialogue: 1,0:02:19.68,0:02:21.60,英文,,0000,0000,0000,,Get in your dress uniform.
+Dialogue: 1,0:02:21.64,0:02:24.84,英文,,0000,0000,0000,,You know how I feel about ceremonies. I thought this time...
+Dialogue: 1,0:02:24.87,0:02:27.44,英文,,0000,0000,0000,,If I had your ribbons I'd wear them to bed.
+Dialogue: 1,0:02:27.47,0:02:28.64,英文,,0000,0000,0000,,Yes sir.
+Dialogue: 1,0:02:28.68,0:02:31.64,英文,,0000,0000,0000,,Get in your whites. I'll introduce you to the President.
+Dialogue: 1,0:02:31.68,0:02:35.32,英文,,0000,0000,0000,,- I appreciate that but... - That's not a good idea.
+Dialogue: 1,0:02:35.35,0:02:39.04,英文,,0000,0000,0000,,For once Commander Krill and I are in total agreement.
+Dialogue: 1,0:02:39.08,0:02:43.72,英文,,0000,0000,0000,,I have 50 gallons of bouillabaisse I need to prepare by tomorrow.
+Dialogue: 1,0:02:43.76,0:02:47.08,英文,,0000,0000,0000,,- My birthday? - I could do the cheeseburger routine.
+Dialogue: 1,0:02:47.11,0:02:52.16,英文,,0000,0000,0000,,It's not for me it's the crew. They really love that stuff.
+Dialogue: 1,0:02:52.19,0:02:56.40,英文,,0000,0000,0000,,Just don't show your face till after the ceremony.
+Dialogue: 1,0:02:56.43,0:02:58.72,英文,,0000,0000,0000,,You're a sorry - looking sailor.
+Dialogue: 1,0:02:58.75,0:03:02.84,英文,,0000,0000,0000,,That I am. Thank you sir.
+Dialogue: 1,0:03:07.48,0:03:09.04,英文,,0000,0000,0000,,Sir...
+Dialogue: 1,0:03:09.08,0:03:12.04,英文,,0000,0000,0000,,... why do you tolerate that clown?
+Dialogue: 1,0:03:12.07,0:03:13.68,英文,,0000,0000,0000,,I know he's a good cook...
+Dialogue: 1,0:03:13.72,0:03:18.84,英文,,0000,0000,0000,,He's more than a good cook. You have no idea. Now let him be XO.
+Dialogue: 1,0:03:18.87,0:03:21.68,英文,,0000,0000,0000,,Yes sir.
+Dialogue: 1,0:03:26.40,0:03:28.08,英文,,0000,0000,0000,,Fifty years ago today...
+Dialogue: 1,0:03:28.12,0:03:31.64,英文,,0000,0000,0000,,... the infamous Japanese attack destroyed the Pacific fleet...
+Dialogue: 1,0:03:31.67,0:03:33.16,英文,,0000,0000,0000,,... here in Pearl Harbor.
+Dialogue: 1,0:03:33.20,0:03:38.24,英文,,0000,0000,0000,,In honor of those who died the USS Missouri now returns.
+Dialogue: 1,0:03:38.27,0:03:41.04,英文,,0000,0000,0000,,Built to avenge Pearl Harbor she did.
+Dialogue: 1,0:03:41.08,0:03:43.92,英文,,0000,0000,0000,,Days after we dropped the bomb on Hiroshima...
+Dialogue: 1,0:03:43.95,0:03:46.76,英文,,0000,0000,0000,,... Japan surrendered on the Missouri's deck...
+Dialogue: 1,0:03:46.79,0:03:49.72,英文,,0000,0000,0000,,... ending World War II.
+Dialogue: 1,0:03:50.40,0:03:53.78,英文,,0000,0000,0000,,The Missouri fired the first shots of the Gulf War.
+Dialogue: 1,0:03:53.81,0:03:57.12,英文,,0000,0000,0000,,Her powerful 16 inch guns destroyed Iraqi bunkers.
+Dialogue: 1,0:03:57.16,0:04:01.24,英文,,0000,0000,0000,,Her Tomahawk missiles rocketed deep into the heart of Baghdad.
+Dialogue: 1,0:04:01.28,0:04:06.48,英文,,0000,0000,0000,,The fastest and most powerful dreadnought ever to sail the seas...
+Dialogue: 1,0:04:07.60,0:04:09.00,英文,,0000,0000,0000,,Where's your tattoo?
+Dialogue: 1,0:04:09.04,0:04:12.36,英文,,0000,0000,0000,,Where I got it you don't want to see.
+Dialogue: 1,0:04:12.39,0:04:15.64,英文,,0000,0000,0000,,Now the ship will be decommissioned.
+Dialogue: 1,0:04:15.68,0:04:18.88,英文,,0000,0000,0000,,President Bush is paying final tribute to the ship...
+Dialogue: 1,0:04:18.91,0:04:20.48,英文,,0000,0000,0000,,... and her great history.
+Dialogue: 1,0:04:20.52,0:04:26.08,英文,,0000,0000,0000,,Did you hear the joke about Andre and Beaudreau hunting on the bayou?
+Dialogue: 1,0:04:26.84,0:04:29.48,英文,,0000,0000,0000,,"Where're the guns Druillet? "
+Dialogue: 1,0:04:29.51,0:04:30.88,英文,,0000,0000,0000,,That's about right.
+Dialogue: 1,0:04:30.92,0:04:34.16,英文,,0000,0000,0000,,In the end this unity of purpose...
+Dialogue: 1,0:04:34.20,0:04:38.04,英文,,0000,0000,0000,,These ceremonies not only remember war they celebrate peace.
+Dialogue: 1,0:04:38.08,0:04:42.12,英文,,0000,0000,0000,,The President ordered the removal of all Tomahawk cruise missiles...
+Dialogue: 1,0:04:42.15,0:04:43.80,英文,,0000,0000,0000,,... from U.S. surface ships.
+Dialogue: 1,0:04:43.84,0:04:48.04,英文,,0000,0000,0000,,Tomorrow the ship embarks for San Francisco for her final voyage.
+Dialogue: 1,0:04:48.08,0:04:53.40,英文,,0000,0000,0000,,Her weaponry will be removed dismantled and never fired again.
+Dialogue: 1,0:04:53.43,0:04:57.68,英文,,0000,0000,0000,,The vessel will then take her place in naval history.
+Dialogue: 1,0:04:57.72,0:05:03.68,英文,,0000,0000,0000,,We will gain the inevitable triumph so help us God.
+Dialogue: 1,0:05:05.64,0:05:09.80,英文,,0000,0000,0000,,Look at the money spent on this photo opportunity.
+Dialogue: 1,0:05:10.88,0:05:13.32,英文,,0000,0000,0000,,Ready to go sir.
+Dialogue: 1,0:05:13.36,0:05:17.08,英文,,0000,0000,0000,,Very well let's single up.
+Dialogue: 1,0:05:17.11,0:05:20.80,英文,,0000,0000,0000,,Aye sir. Single up all lines.
+Dialogue: 1,0:05:49.00,0:05:54.48,英文,,0000,0000,0000,,- Captain you have clear water to port. - Very well.
+Dialogue: 1,0:05:54.96,0:05:57.88,英文,,0000,0000,0000,,Krill ain't running this ship.
+Dialogue: 1,0:05:57.92,0:06:01.04,英文,,0000,0000,0000,,The old man has to okay all helicopter landings.
+Dialogue: 1,0:06:01.08,0:06:05.84,英文,,0000,0000,0000,,How's the captain going to authorize a surprise party for himself?
+Dialogue: 1,0:06:05.87,0:06:08.16,英文,,0000,0000,0000,,We already stowed all the gear.
+Dialogue: 1,0:06:08.19,0:06:10.40,英文,,0000,0000,0000,,What's on this helicopter?
+Dialogue: 1,0:06:10.43,0:06:13.64,英文,,0000,0000,0000,,This little sweetheart.
+Dialogue: 1,0:06:13.68,0:06:16.72,英文,,0000,0000,0000,,- She's in the... - Yeah she's in the cake.
+Dialogue: 1,0:06:16.75,0:06:20.60,英文,,0000,0000,0000,,That is Miss July '89. Jordan Tate.
+Dialogue: 1,0:06:20.64,0:06:26.04,英文,,0000,0000,0000,,- We'll be ready for her. - Good. Go ahead and keep that.
+Dialogue: 1,0:06:26.07,0:06:31.80,英文,,0000,0000,0000,,Lieutenant we don't have time to talk about this now.
+Dialogue: 1,0:06:31.84,0:06:34.64,英文,,0000,0000,0000,,No time for the security of nuclear weapons?
+Dialogue: 1,0:06:34.67,0:06:36.92,英文,,0000,0000,0000,,Maybe I'm not being clear.
+Dialogue: 1,0:06:36.96,0:06:40.76,英文,,0000,0000,0000,,Any watches not crucial shall be secured during the party...
+Dialogue: 1,0:06:40.79,0:06:43.13,英文,,0000,0000,0000,,... including the Marine roving patrol.
+Dialogue: 1,0:06:43.17,0:06:45.48,英文,,0000,0000,0000,,We're operating on a skeleton crew.
+Dialogue: 1,0:06:45.51,0:06:46.88,英文,,0000,0000,0000,,This is an order.
+Dialogue: 1,0:06:46.92,0:06:51.40,英文,,0000,0000,0000,,The log will show I consider this unsafe and obeyed under protest.
+Dialogue: 1,0:06:51.43,0:06:54.08,英文,,0000,0000,0000,,Fine.
+Dialogue: 1,0:06:57.16,0:06:59.28,英文,,0000,0000,0000,,Hey Cue Ball.
+Dialogue: 1,0:06:59.32,0:07:01.48,英文,,0000,0000,0000,,Cue Ball in the house.
+Dialogue: 1,0:07:01.51,0:07:02.92,英文,,0000,0000,0000,,Show me a move!
+Dialogue: 1,0:07:02.96,0:07:06.60,英文,,0000,0000,0000,,Turn up the tunes! Turn up the tunes!
+Dialogue: 1,0:07:06.72,0:07:10.44,英文,,0000,0000,0000,,Come on show me some moves. Come on!
+Dialogue: 1,0:07:10.47,0:07:12.24,英文,,0000,0000,0000,,Go Cue Ball!
+Dialogue: 1,0:07:12.28,0:07:16.20,英文,,0000,0000,0000,,Go Cue Ball! Go Cue Ball go!
+Dialogue: 1,0:07:32.76,0:07:35.76,英文,,0000,0000,0000,,That was cute.
+Dialogue: 1,0:07:35.80,0:07:37.08,英文,,0000,0000,0000,,Petty Officer Ryback?
+Dialogue: 1,0:07:37.12,0:07:39.96,英文,,0000,0000,0000,,- Ensign Taylor. - Sir.
+Dialogue: 1,0:07:40.00,0:07:43.36,英文,,0000,0000,0000,,You don't have to "sir" me. We're casual in the galley.
+Dialogue: 1,0:07:43.39,0:07:46.28,英文,,0000,0000,0000,,I'd watch it. We still have a week together.
+Dialogue: 1,0:07:46.32,0:07:50.52,英文,,0000,0000,0000,,So I won't get to see you go through puberty.
+Dialogue: 1,0:07:52.12,0:07:53.40,英文,,0000,0000,0000,,What is it?
+Dialogue: 1,0:07:53.44,0:07:56.84,英文,,0000,0000,0000,,I have orders from the XO on the captain's birthday.
+Dialogue: 1,0:07:56.87,0:07:59.68,英文,,0000,0000,0000,,We're having dinner flown in from Hawaii.
+Dialogue: 1,0:07:59.71,0:08:02.24,英文,,0000,0000,0000,,This galley will be cleared by 1700.
+Dialogue: 1,0:08:02.28,0:08:07.00,英文,,0000,0000,0000,,You are to report to the mess deck prior to the helo's arrival.
+Dialogue: 1,0:08:07.03,0:08:08.29,英文,,0000,0000,0000,,Negative.
+Dialogue: 1,0:08:08.33,0:08:09.52,英文,,0000,0000,0000,,Excuse me?
+Dialogue: 1,0:08:09.56,0:08:13.76,英文,,0000,0000,0000,,Only I cook for the captain. You don't like that talk to him.
+Dialogue: 1,0:08:13.79,0:08:16.00,英文,,0000,0000,0000,,I don't believe you get it.
+Dialogue: 1,0:08:16.04,0:08:19.88,英文,,0000,0000,0000,,See this is a surprise party.
+Dialogue: 1,0:08:19.92,0:08:23.92,英文,,0000,0000,0000,,No one is going to talk to the captain about this.
+Dialogue: 1,0:08:23.95,0:08:26.48,英文,,0000,0000,0000,,You know something?
+Dialogue: 1,0:08:26.52,0:08:28.80,英文,,0000,0000,0000,,He don't like surprises. Neither do I.
+Dialogue: 1,0:08:28.84,0:08:34.04,英文,,0000,0000,0000,,Then I guess we'll just see what we'll see. Won't we?
+Dialogue: 1,0:08:41.80,0:08:46.08,英文,,0000,0000,0000,,"I guess we'll just see what we'll see. Won't we? "
+Dialogue: 1,0:08:46.11,0:08:48.52,英文,,0000,0000,0000,,Krill's going to skin you alive.
+Dialogue: 1,0:08:48.56,0:08:52.16,英文,,0000,0000,0000,,Why is it that I'm starting to shake so bad...
+Dialogue: 1,0:08:52.19,0:08:54.32,英文,,0000,0000,0000,,... and there's this deep fear in me...
+Dialogue: 1,0:08:54.36,0:09:00.72,英文,,0000,0000,0000,,... thinking about Mr. Krill and the horrible things he'll do to me?
+Dialogue: 1,0:09:04.28,0:09:06.28,英文,,0000,0000,0000,,Commander Krill.
+Dialogue: 1,0:09:06.31,0:09:08.92,英文,,0000,0000,0000,,Send him in.
+Dialogue: 1,0:09:16.84,0:09:19.48,英文,,0000,0000,0000,,You wanted to see me Captain?
+Dialogue: 1,0:09:19.51,0:09:20.72,英文,,0000,0000,0000,,Commander Krill...
+Dialogue: 1,0:09:20.76,0:09:24.94,英文,,0000,0000,0000,,... how'd you expect to land a helicopter without my authorization?
+Dialogue: 1,0:09:24.97,0:09:29.12,英文,,0000,0000,0000,,- It was a mistake to think... - It was a mistake to try.
+Dialogue: 1,0:09:29.15,0:09:32.04,英文,,0000,0000,0000,,Your actions are grossly insubordinate.
+Dialogue: 1,0:09:32.07,0:09:34.84,英文,,0000,0000,0000,,I want an explanation. Now.
+Dialogue: 1,0:09:34.88,0:09:39.72,英文,,0000,0000,0000,,Admiral Bates wants to thank you for how smoothly things went.
+Dialogue: 1,0:09:39.75,0:09:42.40,英文,,0000,0000,0000,,He has a surprise for your birthday.
+Dialogue: 1,0:09:42.43,0:09:45.48,英文,,0000,0000,0000,,He's flying in from Hawaii.
+Dialogue: 1,0:09:45.52,0:09:50.64,英文,,0000,0000,0000,,I see. If the admiral wants a party I guess we'll have one.
+Dialogue: 1,0:09:50.68,0:09:54.44,英文,,0000,0000,0000,,Let's keep it simple. Off - duty personnel can attend...
+Dialogue: 1,0:09:54.47,0:09:56.16,英文,,0000,0000,0000,,... but watches remain.
+Dialogue: 1,0:09:56.19,0:09:57.89,英文,,0000,0000,0000,,Yes sir.
+Dialogue: 1,0:09:57.93,0:09:59.56,英文,,0000,0000,0000,,Captain...
+Dialogue: 1,0:09:59.60,0:10:02.32,英文,,0000,0000,0000,,... since he wants this to be a surprise...
+Dialogue: 1,0:10:02.36,0:10:05.08,英文,,0000,0000,0000,,... if you could stay here till we come for you...
+Dialogue: 1,0:10:05.12,0:10:10.64,英文,,0000,0000,0000,,- I'll be engrossed in a novel. - Very good sir.
+Dialogue: 1,0:10:25.24,0:10:29.76,英文,,0000,0000,0000,,How's that bouillabaisse? Heads up!
+Dialogue: 1,0:10:41.64,0:10:43.16,英文,,0000,0000,0000,,If I'm not mistaken...
+Dialogue: 1,0:10:43.20,0:10:47.40,英文,,0000,0000,0000,,... every one of you has orders to report to the mess deck...
+Dialogue: 1,0:10:47.43,0:10:50.76,英文,,0000,0000,0000,,... for the party.
+Dialogue: 1,0:10:50.84,0:10:53.60,英文,,0000,0000,0000,,Stand fast.
+Dialogue: 1,0:10:55.12,0:10:57.92,英文,,0000,0000,0000,,Everyone else go! Now.
+Dialogue: 1,0:10:57.95,0:11:01.32,英文,,0000,0000,0000,,See you at the party.
+Dialogue: 1,0:11:03.08,0:11:04.40,英文,,0000,0000,0000,,You know...
+Dialogue: 1,0:11:04.44,0:11:07.80,英文,,0000,0000,0000,,... this does look delicious.
+Dialogue: 1,0:11:09.88,0:11:13.04,英文,,0000,0000,0000,,It smells like a lard omelet.
+Dialogue: 1,0:11:13.07,0:11:14.88,英文,,0000,0000,0000,,I put up with your shit...
+Dialogue: 1,0:11:14.92,0:11:17.84,英文,,0000,0000,0000,,... because the captain likes your cooking.
+Dialogue: 1,0:11:17.87,0:11:20.76,英文,,0000,0000,0000,,But this time he won't be here to save you.
+Dialogue: 1,0:11:20.79,0:11:24.36,英文,,0000,0000,0000,,Is that right?
+Dialogue: 1,0:11:27.44,0:11:30.32,英文,,0000,0000,0000,,Little flavor.
+Dialogue: 1,0:11:32.32,0:11:34.68,英文,,0000,0000,0000,,You like that?
+Dialogue: 1,0:11:34.72,0:11:37.20,英文,,0000,0000,0000,,That's striking an officer!
+Dialogue: 1,0:11:37.23,0:11:39.28,英文,,0000,0000,0000,,It is not!
+Dialogue: 1,0:11:39.32,0:11:42.68,英文,,0000,0000,0000,,That's striking an officer!
+Dialogue: 1,0:11:47.92,0:11:51.92,英文,,0000,0000,0000,,- Okay! All right! - Cuff him and throw him in the brig!
+Dialogue: 1,0:11:51.95,0:11:55.76,英文,,0000,0000,0000,,- In the brig! - You need the old man's signature.
+Dialogue: 1,0:11:55.79,0:11:57.20,英文,,0000,0000,0000,,Good point.
+Dialogue: 1,0:11:57.24,0:11:59.56,英文,,0000,0000,0000,,Secure him in the meat locker.
+Dialogue: 1,0:11:59.59,0:12:02.24,英文,,0000,0000,0000,,Now! Right now!
+Dialogue: 1,0:12:02.27,0:12:03.80,英文,,0000,0000,0000,,Let's go.
+Dialogue: 1,0:12:03.84,0:12:09.20,英文,,0000,0000,0000,,Now I know why you're a cook. You hit like a faggot.
+Dialogue: 1,0:12:09.23,0:12:11.84,英文,,0000,0000,0000,,Steel.
+Dialogue: 1,0:12:14.20,0:12:15.40,英文,,0000,0000,0000,,Private Nash...
+Dialogue: 1,0:12:15.44,0:12:18.24,英文,,0000,0000,0000,,- ... you came on board in Hawaii? - Yes sir.
+Dialogue: 1,0:12:18.27,0:12:21.80,英文,,0000,0000,0000,,Then you don't know about Ryback?
+Dialogue: 1,0:12:23.16,0:12:26.16,英文,,0000,0000,0000,,He is an extreme psychopath.
+Dialogue: 1,0:12:26.20,0:12:29.28,英文,,0000,0000,0000,,He hates officers. He hates America.
+Dialogue: 1,0:12:29.32,0:12:33.68,英文,,0000,0000,0000,,This is the captain's birthday. I don't want him ruining it.
+Dialogue: 1,0:12:33.71,0:12:37.39,英文,,0000,0000,0000,,No one speaks to him or lets him out.
+Dialogue: 1,0:12:37.43,0:12:41.08,英文,,0000,0000,0000,,If he tries to escape shoot him right here.
+Dialogue: 1,0:12:41.11,0:12:43.28,英文,,0000,0000,0000,,I'm counting on you.
+Dialogue: 1,0:12:43.31,0:12:45.85,英文,,0000,0000,0000,,Yes sir.
+Dialogue: 1,0:12:45.89,0:12:48.40,英文,,0000,0000,0000,,Let's go.
+Dialogue: 1,0:12:59.28,0:13:02.96,英文,,0000,0000,0000,,Another cold day in hell.
+Dialogue: 1,0:13:05.96,0:13:10.40,英文,,0000,0000,0000,,It speaks well for the Navy that we can entertain a ship at sea.
+Dialogue: 1,0:13:10.43,0:13:12.24,英文,,0000,0000,0000,,It's so human.
+Dialogue: 1,0:13:12.28,0:13:14.80,英文,,0000,0000,0000,,And I love that. Don't you?
+Dialogue: 1,0:13:14.84,0:13:18.28,英文,,0000,0000,0000,,I just hope I don't throw up.
+Dialogue: 1,0:13:18.31,0:13:21.04,英文,,0000,0000,0000,,You'll be fine.
+Dialogue: 1,0:13:36.16,0:13:39.68,英文,,0000,0000,0000,,I love it. I love it!
+Dialogue: 1,0:13:59.04,0:14:03.16,英文,,0000,0000,0000,,Welcome to the USS Missouri.
+Dialogue: 1,0:14:07.62,0:14:08.65,英文,,0000,0000,0000,,Are you OK?
+Dialogue: 1,0:14:12.56,0:14:15.64,英文,,0000,0000,0000,,Fantastic!
+Dialogue: 1,0:14:16.20,0:14:21.32,英文,,0000,0000,0000,,We're looking forward to a great time.
+Dialogue: 1,0:14:23.12,0:14:26.20,英文,,0000,0000,0000,,I love this business!
+Dialogue: 1,0:14:26.23,0:14:29.00,英文,,0000,0000,0000,,My future wife.
+Dialogue: 1,0:14:29.03,0:14:31.20,英文,,0000,0000,0000,,She's landed.
+Dialogue: 1,0:14:31.24,0:14:34.68,英文,,0000,0000,0000,,The Bunny's landed. See you.
+Dialogue: 1,0:14:34.71,0:14:36.80,英文,,0000,0000,0000,,Private!
+Dialogue: 1,0:14:36.84,0:14:40.44,英文,,0000,0000,0000,,Doesn't it seem strange that Krill put me in here?
+Dialogue: 1,0:14:40.47,0:14:42.24,英文,,0000,0000,0000,,I ain't listening to you.
+Dialogue: 1,0:14:42.27,0:14:43.56,英文,,0000,0000,0000,,Welcome aboard.
+Dialogue: 1,0:14:43.60,0:14:46.04,英文,,0000,0000,0000,,Guys make a hole.
+Dialogue: 1,0:14:46.08,0:14:49.80,英文,,0000,0000,0000,,Don't let them bother you. Been at sea too long. You okay?
+Dialogue: 1,0:14:49.83,0:14:52.72,英文,,0000,0000,0000,,I still feel really queasy.
+Dialogue: 1,0:14:52.76,0:14:57.36,英文,,0000,0000,0000,,We'll go to the wardroom where you can change.
+Dialogue: 1,0:14:57.39,0:15:00.96,英文,,0000,0000,0000,,Let the lady through!
+Dialogue: 1,0:15:05.24,0:15:09.92,英文,,0000,0000,0000,,Be careful with the cake. Make sure the wires are covered.
+Dialogue: 1,0:15:09.95,0:15:11.88,英文,,0000,0000,0000,,That's the way it goes.
+Dialogue: 1,0:15:11.92,0:15:14.84,英文,,0000,0000,0000,,- Are you lost? - No no. Where do you want us?
+Dialogue: 1,0:15:14.87,0:15:16.80,英文,,0000,0000,0000,,- Is the band ready? - Ready.
+Dialogue: 1,0:15:16.83,0:15:18.76,英文,,0000,0000,0000,,You're over here.
+Dialogue: 1,0:15:18.80,0:15:22.36,英文,,0000,0000,0000,,Starboard side right now.
+Dialogue: 1,0:15:24.08,0:15:27.48,英文,,0000,0000,0000,,You'll knock the captain off his feet. You're beautiful.
+Dialogue: 1,0:15:27.51,0:15:29.92,英文,,0000,0000,0000,,For motion sickness. Take two.
+Dialogue: 1,0:15:29.96,0:15:31.92,英文,,0000,0000,0000,,Thanks. What happened to your face?
+Dialogue: 1,0:15:31.96,0:15:34.88,英文,,0000,0000,0000,,Cut myself shaving. The cake's almost ready.
+Dialogue: 1,0:15:34.92,0:15:39.64,英文,,0000,0000,0000,,We have a room for you to change. You'll be safe from my men.
+Dialogue: 1,0:15:39.67,0:15:43.68,英文,,0000,0000,0000,,I'm going to go put on my party dress.
+Dialogue: 1,0:15:46.48,0:15:50.80,英文,,0000,0000,0000,,Don't worry. You can play this with your eyes shut.
+Dialogue: 1,0:15:57.28,0:15:58.84,英文,,0000,0000,0000,,Private!
+Dialogue: 1,0:15:58.88,0:16:00.88,英文,,0000,0000,0000,,Let me out!
+Dialogue: 1,0:16:00.92,0:16:06.72,英文,,0000,0000,0000,,You follow Krill's orders you'll go to the brig! Use your head!
+Dialogue: 1,0:16:07.04,0:16:10.44,英文,,0000,0000,0000,,Go get my pies out of the oven!
+Dialogue: 1,0:16:17.40,0:16:21.00,英文,,0000,0000,0000,,I must be nuts.
+Dialogue: 1,0:16:26.24,0:16:29.60,英文,,0000,0000,0000,,Very sick.
+Dialogue: 1,0:16:31.92,0:16:36.36,英文,,0000,0000,0000,,We want to give you a great big welcome...
+Dialogue: 1,0:16:36.40,0:16:41.16,英文,,0000,0000,0000,,... to the big beautiful Missouri lounge...
+Dialogue: 1,0:16:41.64,0:16:46.68,英文,,0000,0000,0000,,... out here in the middle of the big beautiful Pacific Ocean.
+Dialogue: 1,0:16:46.71,0:16:49.88,英文,,0000,0000,0000,,I'm Bad Billy.
+Dialogue: 1,0:16:49.92,0:16:54.84,英文,,0000,0000,0000,,And these are the fabulous Bail Jumpers!
+Dialogue: 1,0:16:55.20,0:16:58.84,英文,,0000,0000,0000,,I have orders not to talk to you. Understand? Orders.
+Dialogue: 1,0:16:58.87,0:17:01.51,英文,,0000,0000,0000,,You could be held accountable...
+Dialogue: 1,0:17:01.55,0:17:04.16,英文,,0000,0000,0000,,... keeping me in here like this.
+Dialogue: 1,0:17:04.19,0:17:06.24,英文,,0000,0000,0000,,You have to think about that.
+Dialogue: 1,0:17:06.27,0:17:08.12,英文,,0000,0000,0000,,Private?
+Dialogue: 1,0:17:08.16,0:17:10.92,英文,,0000,0000,0000,,He didn't say you can't talk to the captain.
+Dialogue: 1,0:17:10.95,0:17:15.00,英文,,0000,0000,0000,,Go ask him if he wants me in here.
+Dialogue: 1,0:17:15.92,0:17:19.56,英文,,0000,0000,0000,,You little E - 1 prick.
+Dialogue: 1,0:17:23.32,0:17:27.64,英文,,0000,0000,0000,,Lieutenant this is absolutely beautiful.
+Dialogue: 1,0:17:42.88,0:17:45.20,英文,,0000,0000,0000,,Old man says keep her level.
+Dialogue: 1,0:17:45.24,0:17:49.16,英文,,0000,0000,0000,,How about an hors d'oeuvre?
+Dialogue: 1,0:17:52.20,0:17:55.24,英文,,0000,0000,0000,,What have we here?
+Dialogue: 1,0:17:55.28,0:17:59.00,英文,,0000,0000,0000,,All right. There's the Twinkies. Where's Miss July?
+Dialogue: 1,0:17:59.03,0:18:00.44,英文,,0000,0000,0000,,And there she is.
+Dialogue: 1,0:18:00.48,0:18:03.96,英文,,0000,0000,0000,,Miss July 1989.
+Dialogue: 1,0:18:04.00,0:18:06.00,英文,,0000,0000,0000,,Wait a minute. Wait a minute.
+Dialogue: 1,0:18:06.03,0:18:08.08,英文,,0000,0000,0000,,That's not Miss July.
+Dialogue: 1,0:18:08.12,0:18:10.76,英文,,0000,0000,0000,,My God look at him.
+Dialogue: 1,0:18:10.79,0:18:14.56,英文,,0000,0000,0000,,Commander Krill.
+Dialogue: 1,0:18:20.60,0:18:23.68,英文,,0000,0000,0000,,Welcome to the revolution.
+Dialogue: 1,0:18:26.00,0:18:31.28,英文,,0000,0000,0000,,This party'll make history. No wonder he wanted everyone here.
+Dialogue: 1,0:18:35.20,0:18:39.04,英文,,0000,0000,0000,,Maybe Krill isn't such an asshole after all.
+Dialogue: 1,0:18:39.08,0:18:45.12,英文,,0000,0000,0000,,That's great. Go get the old man. He's been waiting on you now.
+Dialogue: 1,0:18:45.24,0:18:47.74,英文,,0000,0000,0000,,All right.
+Dialogue: 1,0:18:47.77,0:18:50.24,英文,,0000,0000,0000,,Miss July!
+Dialogue: 1,0:18:54.72,0:18:58.68,英文,,0000,0000,0000,,We're going to surprise the captain now.
+Dialogue: 1,0:18:58.71,0:19:03.16,英文,,0000,0000,0000,,- Have a good party! - Come on dear.
+Dialogue: 1,0:19:06.56,0:19:07.96,英文,,0000,0000,0000,,Where's the chief?
+Dialogue: 1,0:19:08.00,0:19:11.16,英文,,0000,0000,0000,,In the meat locker until after the party.
+Dialogue: 1,0:19:11.19,0:19:14.83,英文,,0000,0000,0000,,It's only like 40 degrees in there.
+Dialogue: 1,0:19:14.87,0:19:18.44,英文,,0000,0000,0000,,He'll be fine. He's got a guard.
+Dialogue: 1,0:19:18.48,0:19:22.76,英文,,0000,0000,0000,,Krill's a maniac. Tell the captain he spit in my soup.
+Dialogue: 1,0:19:22.79,0:19:25.64,英文,,0000,0000,0000,,You got a fire in here.
+Dialogue: 1,0:19:25.68,0:19:28.80,英文,,0000,0000,0000,,Get my pies out of the oven!
+Dialogue: 1,0:20:05.84,0:20:09.52,英文,,0000,0000,0000,,These pantyhose feel good!
+Dialogue: 1,0:20:10.92,0:20:14.48,英文,,0000,0000,0000,,It's okay. I'm here to escort the captain to the party.
+Dialogue: 1,0:20:14.51,0:20:17.48,英文,,0000,0000,0000,,Aye Commander.
+Dialogue: 1,0:20:17.52,0:20:21.76,英文,,0000,0000,0000,,- Commander Krill. - Send him in.
+Dialogue: 1,0:20:26.88,0:20:30.80,英文,,0000,0000,0000,,I'm your date tonight Captain.
+Dialogue: 1,0:20:41.96,0:20:46.52,英文,,0000,0000,0000,,Wait. Wait a minute!
+Dialogue: 1,0:20:47.72,0:20:49.96,英文,,0000,0000,0000,,Who is the highest ranking officer here?
+Dialogue: 1,0:20:50.00,0:20:53.80,英文,,0000,0000,0000,,Who is the highest ranking officer in this room?
+Dialogue: 1,0:20:53.83,0:20:55.92,英文,,0000,0000,0000,,Stand up.
+Dialogue: 1,0:20:55.96,0:20:59.32,英文,,0000,0000,0000,,Stand up and be recognized.
+Dialogue: 1,0:20:59.80,0:21:02.88,英文,,0000,0000,0000,,Part the waves there. Get out of the man's way.
+Dialogue: 1,0:21:02.91,0:21:04.84,英文,,0000,0000,0000,,Put a light on the man.
+Dialogue: 1,0:21:04.88,0:21:10.08,英文,,0000,0000,0000,,Now you sir are the highest ranking officer in this room?
+Dialogue: 1,0:21:10.11,0:21:13.87,英文,,0000,0000,0000,,Yes. Operations officer. Third in command.
+Dialogue: 1,0:21:13.91,0:21:17.64,英文,,0000,0000,0000,,It's a pleasure to meet you Commander Green.
+Dialogue: 1,0:21:20.32,0:21:23.16,英文,,0000,0000,0000,,Get down!
+Dialogue: 1,0:21:25.60,0:21:26.92,英文,,0000,0000,0000,,What's going on?
+Dialogue: 1,0:21:26.96,0:21:30.08,英文,,0000,0000,0000,,The party's just beginning.
+Dialogue: 1,0:21:30.68,0:21:32.60,英文,,0000,0000,0000,,Captain!
+Dialogue: 1,0:21:32.63,0:21:34.48,英文,,0000,0000,0000,,Good shot.
+Dialogue: 1,0:21:34.52,0:21:36.48,英文,,0000,0000,0000,,Lay down! Hands up!
+Dialogue: 1,0:21:36.51,0:21:37.72,英文,,0000,0000,0000,,Heads down!
+Dialogue: 1,0:21:37.76,0:21:40.88,英文,,0000,0000,0000,,What are you looking at? On the floor!
+Dialogue: 1,0:21:40.91,0:21:42.36,英文,,0000,0000,0000,,Put your head down.
+Dialogue: 1,0:21:42.40,0:21:44.50,英文,,0000,0000,0000,,You want to be good now?
+Dialogue: 1,0:21:44.53,0:21:46.60,英文,,0000,0000,0000,,What is this a joke?
+Dialogue: 1,0:21:46.63,0:21:49.56,英文,,0000,0000,0000,,No joke!
+Dialogue: 1,0:21:50.24,0:21:53.52,英文,,0000,0000,0000,,I hear gunfire. What's going on?
+Dialogue: 1,0:21:58.20,0:22:00.84,英文,,0000,0000,0000,,It's done.
+Dialogue: 1,0:22:04.84,0:22:08.68,英文,,0000,0000,0000,,Four minutes ahead of schedule.
+Dialogue: 1,0:22:13.80,0:22:18.68,英文,,0000,0000,0000,,Mother Goose the quails are in the nest.
+Dialogue: 1,0:22:21.80,0:22:23.12,英文,,0000,0000,0000,,It's just the music.
+Dialogue: 1,0:22:23.16,0:22:27.48,英文,,0000,0000,0000,,You got shit for brains. That's gunfire. Call the bridge.
+Dialogue: 1,0:22:27.52,0:22:31.20,英文,,0000,0000,0000,,I don't know who you're talking to. No one's listening.
+Dialogue: 1,0:22:31.23,0:22:33.68,英文,,0000,0000,0000,,I ain't asking you to listen to me.
+Dialogue: 1,0:22:33.71,0:22:37.76,英文,,0000,0000,0000,,Call the captain. Listen to him.
+Dialogue: 1,0:22:45.24,0:22:48.12,英文,,0000,0000,0000,,Seal it!
+Dialogue: 1,0:23:06.36,0:23:08.64,英文,,0000,0000,0000,,Eyes on the man in front of you!
+Dialogue: 1,0:23:08.68,0:23:13.48,英文,,0000,0000,0000,,Goddamn it that's the last time I'll tell you!
+Dialogue: 1,0:23:22.48,0:23:24.76,英文,,0000,0000,0000,,Let this be a learning experience.
+Dialogue: 1,0:23:24.80,0:23:28.00,英文,,0000,0000,0000,,If you resist we will kill you and the man next to you.
+Dialogue: 1,0:23:28.03,0:23:32.80,英文,,0000,0000,0000,,Now move out of here in an orderly fashion.
+Dialogue: 1,0:23:33.92,0:23:36.56,英文,,0000,0000,0000,,Now!
+Dialogue: 1,0:24:09.56,0:24:12.84,英文,,0000,0000,0000,,Turn around. Hands on your head.
+Dialogue: 1,0:24:34.44,0:24:37.44,英文,,0000,0000,0000,,Where is it?
+Dialogue: 1,0:24:37.47,0:24:40.40,英文,,0000,0000,0000,,Here it is.
+Dialogue: 1,0:24:40.44,0:24:44.76,英文,,0000,0000,0000,,Listen to the shit I've had to put up with.
+Dialogue: 1,0:24:45.60,0:24:49.62,英文,,0000,0000,0000,,"Commander Krill has become increasingly hostile to the crew...
+Dialogue: 1,0:24:49.65,0:24:53.64,英文,,0000,0000,0000,,... possibly due to anger over reviews of his performance.
+Dialogue: 1,0:24:53.68,0:25:00.36,英文,,0000,0000,0000,,I recommend psychological evaluation before his next assignment."
+Dialogue: 1,0:25:03.20,0:25:07.08,英文,,0000,0000,0000,,Do I look like I need a psychological evaluation?
+Dialogue: 1,0:25:07.11,0:25:10.24,英文,,0000,0000,0000,,Not at all.
+Dialogue: 1,0:25:11.28,0:25:14.36,英文,,0000,0000,0000,,I got to change.
+Dialogue: 1,0:25:22.16,0:25:25.24,英文,,0000,0000,0000,,Behind your head.
+Dialogue: 1,0:25:26.92,0:25:30.00,英文,,0000,0000,0000,,Up against the wall.
+Dialogue: 1,0:25:32.48,0:25:35.20,英文,,0000,0000,0000,,XO on the bridge.
+Dialogue: 1,0:25:35.23,0:25:36.84,英文,,0000,0000,0000,,Listen up.
+Dialogue: 1,0:25:36.88,0:25:41.40,英文,,0000,0000,0000,,Hands on your head and move to the counter right now.
+Dialogue: 1,0:25:41.76,0:25:48.48,英文,,0000,0000,0000,,Your destination is the fo'c's'le. Cooperate and you won't be harmed.
+Dialogue: 1,0:25:51.64,0:25:54.88,英文,,0000,0000,0000,,Change of watch.
+Dialogue: 1,0:25:56.32,0:26:00.76,英文,,0000,0000,0000,,You've done a good job but you're relieved of duty.
+Dialogue: 1,0:26:01.88,0:26:05.72,英文,,0000,0000,0000,,Get your hand off that console.
+Dialogue: 1,0:26:12.36,0:26:16.52,英文,,0000,0000,0000,,You're a cheeky bastard. Move out!
+Dialogue: 1,0:26:18.88,0:26:22.88,英文,,0000,0000,0000,,My God! Bunch of wussies.
+Dialogue: 1,0:26:28.52,0:26:32.32,英文,,0000,0000,0000,,The disk Mr. Pitt.
+Dialogue: 1,0:26:32.56,0:26:34.60,英文,,0000,0000,0000,,Guard it with your life.
+Dialogue: 1,0:26:34.63,0:26:36.60,英文,,0000,0000,0000,,Of course.
+Dialogue: 1,0:26:36.64,0:26:40.76,英文,,0000,0000,0000,,Bring up the layout if you will.
+Dialogue: 1,0:26:42.36,0:26:46.00,英文,,0000,0000,0000,,- We've overridden their systems. - We control crypto CIC...
+Dialogue: 1,0:26:46.03,0:26:49.96,英文,,0000,0000,0000,,... engine rooms boiler rooms bridge and all open decks.
+Dialogue: 1,0:26:49.99,0:26:52.68,英文,,0000,0000,0000,,We've welded shut the hatches.
+Dialogue: 1,0:26:52.72,0:26:55.80,英文,,0000,0000,0000,,A few loose sailors may be berthing...
+Dialogue: 1,0:26:55.84,0:26:59.08,英文,,0000,0000,0000,,... or they're caught in nonessential areas and can go nowhere.
+Dialogue: 1,0:26:59.11,0:27:02.80,英文,,0000,0000,0000,,- The rest are in the fo'c's'le. - Excellent.
+Dialogue: 1,0:27:02.83,0:27:06.08,英文,,0000,0000,0000,,Reactivate the weapons systems Mr. Pitt.
+Dialogue: 1,0:27:06.11,0:27:07.56,英文,,0000,0000,0000,,Mr. Daumer...
+Dialogue: 1,0:27:07.60,0:27:12.52,英文,,0000,0000,0000,,... you may deploy the welding crews and chop up broadway.
+Dialogue: 1,0:27:12.55,0:27:17.44,英文,,0000,0000,0000,,Commander Krill you're hereby promoted to captain.
+Dialogue: 1,0:27:17.47,0:27:21.44,英文,,0000,0000,0000,,Congratulations. The ship is yours.
+Dialogue: 1,0:27:21.47,0:27:24.16,英文,,0000,0000,0000,,The ship is mine.
+Dialogue: 1,0:27:24.20,0:27:26.84,英文,,0000,0000,0000,,Thank you Billy. All right!
+Dialogue: 1,0:27:26.88,0:27:31.40,英文,,0000,0000,0000,,Can we get something to eat in here?!
+Dialogue: 1,0:27:31.43,0:27:34.40,英文,,0000,0000,0000,,Get some food!
+Dialogue: 1,0:27:38.16,0:27:41.12,英文,,0000,0000,0000,,Krill warned me you were tricky.
+Dialogue: 1,0:27:41.16,0:27:45.28,英文,,0000,0000,0000,,I'm not tricky I'm just freezing. Something's going on here.
+Dialogue: 1,0:27:45.31,0:27:47.72,英文,,0000,0000,0000,,Call the bridge. No one'll yell at you.
+Dialogue: 1,0:27:47.75,0:27:50.36,英文,,0000,0000,0000,,It's just your job. Check right away.
+Dialogue: 1,0:27:50.39,0:27:53.32,英文,,0000,0000,0000,,All right. All right I'll check.
+Dialogue: 1,0:27:53.36,0:27:54.80,英文,,0000,0000,0000,,That's all.
+Dialogue: 1,0:27:54.84,0:27:58.12,英文,,0000,0000,0000,,Do that. And be careful.
+Dialogue: 1,0:28:00.72,0:28:03.96,英文,,0000,0000,0000,,'Tis a rare thing.
+Dialogue: 1,0:28:04.00,0:28:06.24,英文,,0000,0000,0000,,This is good. It'll work.
+Dialogue: 1,0:28:06.28,0:28:10.32,英文,,0000,0000,0000,,Got a call from Private Nash on guard duty in the kitchen.
+Dialogue: 1,0:28:10.35,0:28:13.20,英文,,0000,0000,0000,,Pitt pull it up.
+Dialogue: 1,0:28:13.24,0:28:17.88,英文,,0000,0000,0000,,That's an unsecured area. They can access the whole ship.
+Dialogue: 1,0:28:20.48,0:28:23.80,英文,,0000,0000,0000,,Ryback. A cook. A pain - in - the - ass cook.
+Dialogue: 1,0:28:23.83,0:28:26.28,英文,,0000,0000,0000,,Give me that.
+Dialogue: 1,0:28:26.32,0:28:28.52,英文,,0000,0000,0000,,Private Nash.
+Dialogue: 1,0:28:28.56,0:28:31.96,英文,,0000,0000,0000,,I'm glad you checked in. I've been with the captain.
+Dialogue: 1,0:28:31.99,0:28:34.96,英文,,0000,0000,0000,,Keep Ryback under control and don't open the door.
+Dialogue: 1,0:28:34.99,0:28:37.92,英文,,0000,0000,0000,,Tell him you're sending relief.
+Dialogue: 1,0:28:37.96,0:28:43.72,英文,,0000,0000,0000,,Tell him you are sending somebody to relieve him.
+Dialogue: 1,0:28:44.16,0:28:48.78,英文,,0000,0000,0000,,Stand your station fast. I'm sending someone to relieve you.
+Dialogue: 1,0:28:48.81,0:28:53.40,英文,,0000,0000,0000,,Is everything okay? We heard what sounded like gunshots.
+Dialogue: 1,0:28:53.43,0:28:55.72,英文,,0000,0000,0000,,Gunshots? Oh that.
+Dialogue: 1,0:28:55.76,0:28:58.44,英文,,0000,0000,0000,,Those are party poppers. Firecrackers.
+Dialogue: 1,0:28:58.47,0:28:59.92,英文,,0000,0000,0000,,Part of the party.
+Dialogue: 1,0:28:59.96,0:29:03.36,英文,,0000,0000,0000,,Stand firm until you're relieved.
+Dialogue: 1,0:29:03.39,0:29:06.76,英文,,0000,0000,0000,,- Yes sir. - Over and out.
+Dialogue: 1,0:29:09.40,0:29:11.32,英文,,0000,0000,0000,,Anything else you didn't tell us?
+Dialogue: 1,0:29:11.36,0:29:14.92,英文,,0000,0000,0000,,Any further memory lapses or oversights perhaps?
+Dialogue: 1,0:29:14.95,0:29:18.32,英文,,0000,0000,0000,,No other memory lapses or oversights perhaps.
+Dialogue: 1,0:29:18.36,0:29:23.44,英文,,0000,0000,0000,,There's two men. One's locked up. I'll take care of it.
+Dialogue: 1,0:29:23.48,0:29:27.96,英文,,0000,0000,0000,,We'll handle it. Secure the galley. Send Cates and Ziggs.
+Dialogue: 1,0:29:27.99,0:29:29.84,英文,,0000,0000,0000,,This Marine's armed.
+Dialogue: 1,0:29:29.88,0:29:32.28,英文,,0000,0000,0000,,We need more. I'll go.
+Dialogue: 1,0:29:32.32,0:29:35.00,英文,,0000,0000,0000,,Don't worry. They're professionals.
+Dialogue: 1,0:29:35.03,0:29:37.68,英文,,0000,0000,0000,,They can handle twenty Marines...
+Dialogue: 1,0:29:37.71,0:29:41.44,英文,,0000,0000,0000,,... and 100 cooks.
+Dialogue: 1,0:29:45.56,0:29:48.44,英文,,0000,0000,0000,,You're wrong Ryback. You're wrong.
+Dialogue: 1,0:29:48.48,0:29:51.96,英文,,0000,0000,0000,,- They were party poppers. - You got shit for brains.
+Dialogue: 1,0:29:52.00,0:29:56.84,英文,,0000,0000,0000,,I know they brainwashed you but you have to question authority.
+Dialogue: 1,0:29:56.87,0:29:58.76,英文,,0000,0000,0000,,Trust me boy.
+Dialogue: 1,0:29:58.80,0:30:02.44,英文,,0000,0000,0000,,That's gunfire. Free me and I'll take care of it.
+Dialogue: 1,0:30:02.48,0:30:07.04,英文,,0000,0000,0000,,I'll be relieved in a few minutes so just shut up and sit tight.
+Dialogue: 1,0:30:07.07,0:30:10.60,英文,,0000,0000,0000,,Something's going on. Use your head this time.
+Dialogue: 1,0:30:10.63,0:30:12.84,英文,,0000,0000,0000,,Do what you got to do. Let me out.
+Dialogue: 1,0:30:12.88,0:30:16.96,英文,,0000,0000,0000,,Or when I'm out I'll shoot you myself.
+Dialogue: 1,0:30:20.68,0:30:23.72,英文,,0000,0000,0000,,Commander Krill?
+Dialogue: 1,0:30:24.80,0:30:27.72,英文,,0000,0000,0000,,Is that you?
+Dialogue: 1,0:30:29.96,0:30:34.04,英文,,0000,0000,0000,,Get your hands on your head. Turn around.
+Dialogue: 1,0:30:34.07,0:30:36.45,英文,,0000,0000,0000,,Get down on your knees.
+Dialogue: 1,0:30:36.49,0:30:38.84,英文,,0000,0000,0000,,Cross your ankles.
+Dialogue: 1,0:30:43.28,0:30:45.16,英文,,0000,0000,0000,,Where's the cook?
+Dialogue: 1,0:30:45.19,0:30:47.57,英文,,0000,0000,0000,,In the reefer.
+Dialogue: 1,0:30:47.61,0:30:49.96,英文,,0000,0000,0000,,Which one?
+Dialogue: 1,0:31:19.28,0:31:22.72,英文,,0000,0000,0000,,Son of a bitch!
+Dialogue: 1,0:33:41.80,0:33:45.12,英文,,0000,0000,0000,,We've got an F - 18.
+Dialogue: 1,0:33:47.08,0:33:51.12,英文,,0000,0000,0000,,They sent an F - 18 to look for the chopper.
+Dialogue: 1,0:33:51.16,0:33:56.92,英文,,0000,0000,0000,,Heading 315 miles speed 430 approximately 8000.
+Dialogue: 1,0:33:58.96,0:34:03.04,英文,,0000,0000,0000,,207 61 miles now.
+Dialogue: 1,0:34:24.00,0:34:27.84,英文,,0000,0000,0000,,430. 5000 now into descent.
+Dialogue: 1,0:34:27.88,0:34:31.28,英文,,0000,0000,0000,,We're going down now.
+Dialogue: 1,0:35:07.56,0:35:11.64,英文,,0000,0000,0000,,Looks like one helo on deck.
+Dialogue: 1,0:35:15.00,0:35:18.04,英文,,0000,0000,0000,,Going in for a closer look.
+Dialogue: 1,0:35:21.92,0:35:25.60,英文,,0000,0000,0000,,31 to Missouri over.
+Dialogue: 1,0:35:25.63,0:35:28.52,英文,,0000,0000,0000,,Goodbye!
+Dialogue: 1,0:35:29.08,0:35:31.28,英文,,0000,0000,0000,,Are you tracking me?
+Dialogue: 1,0:35:31.31,0:35:33.80,英文,,0000,0000,0000,,Negative.
+Dialogue: 1,0:35:33.84,0:35:37.84,英文,,0000,0000,0000,,He's locked me up! Mayday.
+Dialogue: 1,0:35:48.12,0:35:51.76,英文,,0000,0000,0000,,Welcome to the revolution.
+Dialogue: 1,0:35:55.88,0:35:59.08,英文,,0000,0000,0000,,Better call the office.
+Dialogue: 1,0:36:20.96,0:36:22.96,英文,,0000,0000,0000,,You're in deep kimchi buddy.
+Dialogue: 1,0:36:23.00,0:36:26.36,英文,,0000,0000,0000,,Better have it all in one sock for this one.
+Dialogue: 1,0:36:26.40,0:36:29.44,英文,,0000,0000,0000,,Claims he was a company man who worked for you.
+Dialogue: 1,0:36:29.47,0:36:30.96,英文,,0000,0000,0000,,What's his name?
+Dialogue: 1,0:36:31.00,0:36:33.32,英文,,0000,0000,0000,,William Strannix.
+Dialogue: 1,0:36:33.35,0:36:36.92,英文,,0000,0000,0000,,Jesus Christ!
+Dialogue: 1,0:36:36.95,0:36:39.43,英文,,0000,0000,0000,,Not good.
+Dialogue: 1,0:36:39.47,0:36:41.92,英文,,0000,0000,0000,,Not good.
+Dialogue: 1,0:36:50.20,0:36:52.48,英文,,0000,0000,0000,,Mr. Breaker...
+Dialogue: 1,0:36:52.52,0:36:55.32,英文,,0000,0000,0000,,... you better be candid with us here tonight.
+Dialogue: 1,0:36:55.36,0:36:59.44,英文,,0000,0000,0000,,We need answers and we need them now.
+Dialogue: 1,0:37:00.08,0:37:05.16,英文,,0000,0000,0000,,Gentlemen if any ships or aircraft approach within 100 miles...
+Dialogue: 1,0:37:05.19,0:37:10.52,英文,,0000,0000,0000,,... we will kill the crew and retaliate using the ship's arsenal.
+Dialogue: 1,0:37:10.55,0:37:14.68,英文,,0000,0000,0000,,Bill this is Tom. What's going on?
+Dialogue: 1,0:37:14.72,0:37:17.68,英文,,0000,0000,0000,,I have 32 Tomahawks under my thumb...
+Dialogue: 1,0:37:17.71,0:37:20.64,英文,,0000,0000,0000,,... and all you can do is alert the media.
+Dialogue: 1,0:37:20.67,0:37:22.44,英文,,0000,0000,0000,,You don't have the launch codes.
+Dialogue: 1,0:37:22.47,0:37:25.20,英文,,0000,0000,0000,,Let me guess.
+Dialogue: 1,0:37:27.24,0:37:31.96,英文,,0000,0000,0000,,"5- 6- 6- 0- 4- 9- 9- 7- 8- 0? "
+Dialogue: 1,0:37:33.12,0:37:34.92,英文,,0000,0000,0000,,This is insane.
+Dialogue: 1,0:37:34.96,0:37:37.92,英文,,0000,0000,0000,,Be careful with that word Tom.
+Dialogue: 1,0:37:37.96,0:37:42.60,英文,,0000,0000,0000,,This is Admiral Bates speaking. Tell us why you're doing this.
+Dialogue: 1,0:37:42.63,0:37:43.84,英文,,0000,0000,0000,,Hi Admiral!
+Dialogue: 1,0:37:43.88,0:37:48.24,英文,,0000,0000,0000,,Six months ago Tom Breaker canceled Operation Cleopatra.
+Dialogue: 1,0:37:48.28,0:37:54.28,英文,,0000,0000,0000,,Shortly thereafter two young men from Langley tried to cancel me.
+Dialogue: 1,0:37:54.31,0:37:59.32,英文,,0000,0000,0000,,Didn't you receive each man's forefinger in the mail?
+Dialogue: 1,0:38:01.56,0:38:02.84,英文,,0000,0000,0000,,Yes.
+Dialogue: 1,0:38:02.88,0:38:06.92,英文,,0000,0000,0000,,Did you expect us to wait for you to try again?
+Dialogue: 1,0:38:06.95,0:38:10.12,英文,,0000,0000,0000,,I know things are a little...
+Dialogue: 1,0:38:10.16,0:38:13.08,英文,,0000,0000,0000,,... chaotic for you right now. - Chaotic!
+Dialogue: 1,0:38:13.11,0:38:15.92,英文,,0000,0000,0000,,Wake up!
+Dialogue: 1,0:38:15.96,0:38:20.64,英文,,0000,0000,0000,,You and I know that chaos and bedlam are consuming the entire world.
+Dialogue: 1,0:38:20.68,0:38:24.96,英文,,0000,0000,0000,,UV rays are only the beginning. We have an inch of topsoil left.
+Dialogue: 1,0:38:24.99,0:38:26.24,英文,,0000,0000,0000,,Topsoil?
+Dialogue: 1,0:38:26.28,0:38:31.36,英文,,0000,0000,0000,,Sexually transmitted diseases depletion of the gene pool.
+Dialogue: 1,0:38:31.39,0:38:32.92,英文,,0000,0000,0000,,It adds up to oblivion.
+Dialogue: 1,0:38:32.96,0:38:36.04,英文,,0000,0000,0000,,Governments will fall. Anarchy will reign.
+Dialogue: 1,0:38:36.07,0:38:39.16,英文,,0000,0000,0000,,It's a brave new world.
+Dialogue: 1,0:38:39.20,0:38:41.24,英文,,0000,0000,0000,,What are you planning to do?
+Dialogue: 1,0:38:41.28,0:38:46.96,英文,,0000,0000,0000,,Do you realize that whatever I do is inevitable? Can we agree on that?
+Dialogue: 1,0:38:46.99,0:38:48.60,英文,,0000,0000,0000,,Not necessarily.
+Dialogue: 1,0:38:48.64,0:38:50.08,英文,,0000,0000,0000,,There you go.
+Dialogue: 1,0:38:50.12,0:38:54.92,英文,,0000,0000,0000,,You can't argue with me or negotiate or attempt a ploy.
+Dialogue: 1,0:38:54.95,0:38:57.80,英文,,0000,0000,0000,,You have to reconsider your philosophy.
+Dialogue: 1,0:38:57.84,0:39:02.08,英文,,0000,0000,0000,,All right I'm sorry. Whatever you decide to do is inevitable.
+Dialogue: 1,0:39:02.11,0:39:03.36,英文,,0000,0000,0000,,Look at my life.
+Dialogue: 1,0:39:03.40,0:39:07.88,英文,,0000,0000,0000,,The life you tried to take. There was Annapolis Vietnam so on.
+Dialogue: 1,0:39:07.91,0:39:11.40,英文,,0000,0000,0000,,I missed the 60s and I believe if I had been there...
+Dialogue: 1,0:39:11.43,0:39:14.72,英文,,0000,0000,0000,,... to contribute everything would've been fine.
+Dialogue: 1,0:39:14.76,0:39:19.08,英文,,0000,0000,0000,,Bill if this is about reliving the 60s you can forget it.
+Dialogue: 1,0:39:19.11,0:39:20.83,英文,,0000,0000,0000,,The movement is dead.
+Dialogue: 1,0:39:20.87,0:39:22.52,英文,,0000,0000,0000,,Hence the name.
+Dialogue: 1,0:39:22.56,0:39:25.36,英文,,0000,0000,0000,,It moves a certain distance then it stops.
+Dialogue: 1,0:39:25.40,0:39:30.12,英文,,0000,0000,0000,,Revolution gets its name by always coming back around in your face.
+Dialogue: 1,0:39:30.15,0:39:33.28,英文,,0000,0000,0000,,You tried to kill me you son of a bitch.
+Dialogue: 1,0:39:33.31,0:39:36.04,英文,,0000,0000,0000,,So welcome to the revolution.
+Dialogue: 1,0:39:36.08,0:39:40.24,英文,,0000,0000,0000,,There's more to follow. I'll stay in touch.
+Dialogue: 1,0:39:42.80,0:39:45.64,英文,,0000,0000,0000,,He's flipped.
+Dialogue: 1,0:39:45.68,0:39:48.08,英文,,0000,0000,0000,,He's completely flipped.
+Dialogue: 1,0:39:48.12,0:39:52.76,英文,,0000,0000,0000,,I want a list of everything on that ship.
+Dialogue: 1,0:39:55.04,0:39:58.12,英文,,0000,0000,0000,,General here's what we know.
+Dialogue: 1,0:39:58.16,0:40:04.20,英文,,0000,0000,0000,,The threat is verifiable. It is real. I repeat it is real.
+Dialogue: 1,0:40:04.48,0:40:06.42,英文,,0000,0000,0000,,Shit! You son of a bitch.
+Dialogue: 1,0:40:06.45,0:40:08.32,英文,,0000,0000,0000,,Think they believe you?
+Dialogue: 1,0:40:08.36,0:40:11.88,英文,,0000,0000,0000,,They believe I'm crazy paranoid or something.
+Dialogue: 1,0:40:11.91,0:40:13.84,英文,,0000,0000,0000,,I have a harpoon locked on.
+Dialogue: 1,0:40:13.87,0:40:16.48,英文,,0000,0000,0000,,Fire when ready.
+Dialogue: 1,0:40:23.72,0:40:27.72,英文,,0000,0000,0000,,Pipe down men! Pipe down.
+Dialogue: 1,0:40:27.76,0:40:30.72,英文,,0000,0000,0000,,Missile away.
+Dialogue: 1,0:40:35.40,0:40:37.28,英文,,0000,0000,0000,,Missile away.
+Dialogue: 1,0:40:37.31,0:40:39.80,英文,,0000,0000,0000,,Oh boy.
+Dialogue: 1,0:40:39.84,0:40:43.24,英文,,0000,0000,0000,,Oh boy oh boy.
+Dialogue: 1,0:40:51.16,0:40:54.40,英文,,0000,0000,0000,,Bang! You're dead.
+Dialogue: 1,0:40:55.88,0:40:59.56,英文,,0000,0000,0000,,- He's taken out satellite relay. - What doesn't he want us to see?
+Dialogue: 1,0:40:59.59,0:41:01.04,英文,,0000,0000,0000,,He wants to blind us.
+Dialogue: 1,0:41:01.08,0:41:04.76,英文,,0000,0000,0000,,It's illogical. We can follow his movement from Pearl.
+Dialogue: 1,0:41:04.79,0:41:06.60,英文,,0000,0000,0000,,You can vector an AWACS.
+Dialogue: 1,0:41:06.64,0:41:11.04,英文,,0000,0000,0000,,- Or send E - 2C from Nimitz. - Do it.
+Dialogue: 1,0:41:11.07,0:41:14.40,英文,,0000,0000,0000,,Wake up the President.
+Dialogue: 1,0:41:16.68,0:41:19.62,英文,,0000,0000,0000,,Bring it in.
+Dialogue: 1,0:41:19.65,0:41:22.52,英文,,0000,0000,0000,,Keep it coming in.
+Dialogue: 1,0:41:22.56,0:41:27.48,英文,,0000,0000,0000,,Cut it fast. Time is money on this deal.
+Dialogue: 1,0:41:28.04,0:41:33.16,英文,,0000,0000,0000,,- They better be competent. - Get your ass up there!
+Dialogue: 1,0:41:33.19,0:41:36.00,英文,,0000,0000,0000,,Watch your heads.
+Dialogue: 1,0:41:40.88,0:41:44.56,英文,,0000,0000,0000,,Glad I sent you the blueprints.
+Dialogue: 1,0:41:45.28,0:41:48.48,英文,,0000,0000,0000,,I have 4 sections this way 7 sections this way.
+Dialogue: 1,0:41:48.51,0:41:52.88,英文,,0000,0000,0000,,I'll have it cut and up in an hour.
+Dialogue: 1,0:41:56.48,0:42:00.72,英文,,0000,0000,0000,,Time is money on this job!
+Dialogue: 1,0:42:02.36,0:42:05.28,英文,,0000,0000,0000,,Time is money.
+Dialogue: 1,0:42:05.32,0:42:10.72,英文,,0000,0000,0000,,This will cut them to the bone. Right to the bone.
+Dialogue: 1,0:42:12.80,0:42:15.36,英文,,0000,0000,0000,,What's that noise?
+Dialogue: 1,0:42:15.39,0:42:17.92,英文,,0000,0000,0000,,That's my beloved crew.
+Dialogue: 1,0:42:20.80,0:42:26.48,英文,,0000,0000,0000,,Keep trying. Keep pounding. Someone will hear us.
+Dialogue: 1,0:43:38.00,0:43:40.84,英文,,0000,0000,0000,,Shut the music off.
+Dialogue: 1,0:43:49.88,0:43:53.56,英文,,0000,0000,0000,,What the hell's going on?
+Dialogue: 1,0:43:53.84,0:43:57.16,英文,,0000,0000,0000,,What happened to them?
+Dialogue: 1,0:44:00.40,0:44:05.08,英文,,0000,0000,0000,,- Who are you and why are you here? - My name is Jordan Tate.
+Dialogue: 1,0:44:05.11,0:44:07.96,英文,,0000,0000,0000,,I'm Miss July '89.
+Dialogue: 1,0:44:08.00,0:44:10.88,英文,,0000,0000,0000,,I was hired to jump out of the cake...
+Dialogue: 1,0:44:10.92,0:44:14.44,英文,,0000,0000,0000,,... but I got airsick on the way here and so...
+Dialogue: 1,0:44:14.47,0:44:17.16,英文,,0000,0000,0000,,... this guy gave me these pills.
+Dialogue: 1,0:44:17.20,0:44:21.00,英文,,0000,0000,0000,,- I guess I fell asleep. - What kind of bullshit is this!
+Dialogue: 1,0:44:21.03,0:44:23.56,英文,,0000,0000,0000,,I am an actress okay?
+Dialogue: 1,0:44:23.60,0:44:26.56,英文,,0000,0000,0000,,I did a Hunter episode and a Wet 'n Wild video.
+Dialogue: 1,0:44:26.59,0:44:30.12,英文,,0000,0000,0000,,My agent said I was going to jump out of the cake.
+Dialogue: 1,0:44:30.15,0:44:32.44,英文,,0000,0000,0000,,How many on the chopper?
+Dialogue: 1,0:44:32.47,0:44:33.76,英文,,0000,0000,0000,,I don't know.
+Dialogue: 1,0:44:33.80,0:44:37.28,英文,,0000,0000,0000,,It was full. There was a band and caterers.
+Dialogue: 1,0:44:37.31,0:44:39.24,英文,,0000,0000,0000,,Where's the crew?
+Dialogue: 1,0:44:39.28,0:44:42.60,英文,,0000,0000,0000,,I don't know. I didn't see anything.
+Dialogue: 1,0:44:42.64,0:44:46.36,英文,,0000,0000,0000,,You didn't see or hear anything and don't remember anything?
+Dialogue: 1,0:44:46.39,0:44:48.96,英文,,0000,0000,0000,,I've done stupid things in my life...
+Dialogue: 1,0:44:49.00,0:44:53.24,英文,,0000,0000,0000,,... but believe me I don't know anything.
+Dialogue: 1,0:44:54.00,0:44:57.20,英文,,0000,0000,0000,,All right I believe you.
+Dialogue: 1,0:44:58.60,0:45:03.60,英文,,0000,0000,0000,,So who are you? Are you a special forces guy or something?
+Dialogue: 1,0:45:03.63,0:45:06.20,英文,,0000,0000,0000,,I'm just a cook.
+Dialogue: 1,0:45:06.23,0:45:07.52,英文,,0000,0000,0000,,A cook?
+Dialogue: 1,0:45:07.56,0:45:10.58,英文,,0000,0000,0000,,Just a lowly lowly cook.
+Dialogue: 1,0:45:10.61,0:45:13.56,英文,,0000,0000,0000,,My God we're going to die.
+Dialogue: 1,0:45:13.60,0:45:17.36,英文,,0000,0000,0000,,The ship contains 40 000 rounds of 20mm CWIZ.
+Dialogue: 1,0:45:17.39,0:45:19.60,英文,,0000,0000,0000,,Over 1000 16- inch projectiles.
+Dialogue: 1,0:45:19.64,0:45:24.60,英文,,0000,0000,0000,,We believe there's 15 harpoon cruise missiles still aboard...
+Dialogue: 1,0:45:24.63,0:45:26.69,英文,,0000,0000,0000,,... and 32 Tomahawks.
+Dialogue: 1,0:45:26.73,0:45:28.72,英文,,0000,0000,0000,,What kind of Tomahawks?
+Dialogue: 1,0:45:28.76,0:45:30.96,英文,,0000,0000,0000,,It's all right. It's okay.
+Dialogue: 1,0:45:31.00,0:45:32.60,英文,,0000,0000,0000,,Eight of them are specials.
+Dialogue: 1,0:45:32.64,0:45:36.28,英文,,0000,0000,0000,,Nuclear - tipped. 220 kilotons each.
+Dialogue: 1,0:45:36.32,0:45:40.40,英文,,0000,0000,0000,,Mr. Breaker would you explain how this nut could hold a top position...
+Dialogue: 1,0:45:40.43,0:45:42.40,英文,,0000,0000,0000,,... in an intelligence agency?
+Dialogue: 1,0:45:42.43,0:45:44.64,英文,,0000,0000,0000,,Would you answer that?
+Dialogue: 1,0:45:44.68,0:45:50.12,英文,,0000,0000,0000,,High - level covert operatives like Strannix are under great stress.
+Dialogue: 1,0:45:50.15,0:45:53.48,英文,,0000,0000,0000,,They're creative thinkers who by their very nature...
+Dialogue: 1,0:45:53.51,0:45:56.84,英文,,0000,0000,0000,,Tom trains everyone in the CIA who's crazy.
+Dialogue: 1,0:45:56.88,0:46:02.92,英文,,0000,0000,0000,,All we want to know is how he got our battleship.
+Dialogue: 1,0:46:02.95,0:46:06.12,英文,,0000,0000,0000,,That's his specialty.
+Dialogue: 1,0:46:06.96,0:46:11.16,英文,,0000,0000,0000,,North Korea was refitting a sub to fire antiship missiles...
+Dialogue: 1,0:46:11.19,0:46:12.68,英文,,0000,0000,0000,,... so we sent Strannix in.
+Dialogue: 1,0:46:12.72,0:46:16.48,英文,,0000,0000,0000,,You've been financing this maniac's private army?
+Dialogue: 1,0:46:16.51,0:46:19.52,英文,,0000,0000,0000,,You didn't think it might be a problem?
+Dialogue: 1,0:46:19.56,0:46:23.64,英文,,0000,0000,0000,,Once we realized we'd lost positive control...
+Dialogue: 1,0:46:23.67,0:46:28.44,英文,,0000,0000,0000,,... we tried to neutralize him. We missed.
+Dialogue: 1,0:46:28.47,0:46:29.84,英文,,0000,0000,0000,,Excuse me.
+Dialogue: 1,0:46:29.88,0:46:33.12,英文,,0000,0000,0000,,This North Korean sub...
+Dialogue: 1,0:46:33.16,0:46:36.56,英文,,0000,0000,0000,,How do you know he sunk it?
+Dialogue: 1,0:46:37.04,0:46:39.60,英文,,0000,0000,0000,,Oh we're positive he sunk it.
+Dialogue: 1,0:46:39.63,0:46:42.36,英文,,0000,0000,0000,,Positive.
+Dialogue: 1,0:46:48.96,0:46:53.08,英文,,0000,0000,0000,,Roadrunner to Tweety Bird. Do you read me? Come in.
+Dialogue: 1,0:46:53.11,0:46:55.88,英文,,0000,0000,0000,,Tweety Bird to Roadrunner. We're nearby.
+Dialogue: 1,0:46:55.91,0:46:58.48,英文,,0000,0000,0000,,- How's it going? - Sub's up.
+Dialogue: 1,0:46:58.52,0:47:02.12,英文,,0000,0000,0000,,- It's all rock and roll to me. - Any sign of Wile E. Coyote?
+Dialogue: 1,0:47:02.15,0:47:05.36,英文,,0000,0000,0000,,No. Meet at the birdcage. Roadrunner out.
+Dialogue: 1,0:47:05.39,0:47:07.08,英文,,0000,0000,0000,,You're the Roadrunner?
+Dialogue: 1,0:47:07.11,0:47:10.12,英文,,0000,0000,0000,,Never been caught.
+Dialogue: 1,0:47:10.92,0:47:14.02,英文,,0000,0000,0000,,Problem. Cates and Ziggs are missing.
+Dialogue: 1,0:47:14.05,0:47:17.12,英文,,0000,0000,0000,,I radioed them repeatedly. No response.
+Dialogue: 1,0:47:17.15,0:47:19.52,英文,,0000,0000,0000,,- The last location? - The galley.
+Dialogue: 1,0:47:19.56,0:47:22.92,英文,,0000,0000,0000,,I told you to send more men. I told you.
+Dialogue: 1,0:47:22.95,0:47:25.48,英文,,0000,0000,0000,,Please don't leave me here alone.
+Dialogue: 1,0:47:25.52,0:47:31.56,英文,,0000,0000,0000,,Believe me this is the safest place you can be. Understand?
+Dialogue: 1,0:47:31.92,0:47:35.08,英文,,0000,0000,0000,,Let me out of here!
+Dialogue: 1,0:47:39.00,0:47:41.16,英文,,0000,0000,0000,,Let me out!
+Dialogue: 1,0:47:41.20,0:47:44.40,英文,,0000,0000,0000,,Do you understand what'll happen if anybody hears you?
+Dialogue: 1,0:47:44.43,0:47:47.48,英文,,0000,0000,0000,,They'll try to kill us.
+Dialogue: 1,0:47:47.51,0:47:50.56,英文,,0000,0000,0000,,Now be quiet.
+Dialogue: 1,0:47:55.12,0:47:57.52,英文,,0000,0000,0000,,I hate being alone.
+Dialogue: 1,0:47:57.55,0:47:59.92,英文,,0000,0000,0000,,Do you hate being dead?
+Dialogue: 1,0:48:02.55,0:48:03.78,英文,,0000,0000,0000,,Check it
+Dialogue: 1,0:48:06.64,0:48:09.44,英文,,0000,0000,0000,,Clear!
+Dialogue: 1,0:48:19.08,0:48:22.12,英文,,0000,0000,0000,,Put those on.
+Dialogue: 1,0:48:31.00,0:48:34.16,英文,,0000,0000,0000,,You're coming with me you got to be invisible.
+Dialogue: 1,0:48:34.20,0:48:37.64,英文,,0000,0000,0000,,If you're by a hatch and see the enemy you become the hatch.
+Dialogue: 1,0:48:37.68,0:48:42.28,英文,,0000,0000,0000,,I'm giving you this rifle with a selector switch on it.
+Dialogue: 1,0:48:42.31,0:48:45.64,英文,,0000,0000,0000,,One is fully automatic one is semiautomatic.
+Dialogue: 1,0:48:45.68,0:48:49.48,英文,,0000,0000,0000,,The definition of semiautomatic is when you depress the trigger...
+Dialogue: 1,0:48:49.51,0:48:51.36,英文,,0000,0000,0000,,... one round will go off.
+Dialogue: 1,0:48:51.40,0:48:57.56,英文,,0000,0000,0000,,That's what I want to give you. Spend one round at a time.
+Dialogue: 1,0:48:57.68,0:48:59.00,英文,,0000,0000,0000,,Turn on the lights.
+Dialogue: 1,0:48:59.04,0:49:03.44,英文,,0000,0000,0000,,Check the breaker box. It's happened before.
+Dialogue: 1,0:49:05.76,0:49:09.08,英文,,0000,0000,0000,,Man who did this is a professional.
+Dialogue: 1,0:49:10.44,0:49:14.12,英文,,0000,0000,0000,,- Who is he and why is he on my ship? - Your ship?
+Dialogue: 1,0:49:14.15,0:49:17.52,英文,,0000,0000,0000,,You wouldn't be on this battleship if not for me.
+Dialogue: 1,0:49:17.56,0:49:19.88,英文,,0000,0000,0000,,He's a cook plain and simple.
+Dialogue: 1,0:49:19.92,0:49:23.12,英文,,0000,0000,0000,,- A cook didn't do this. - He came with the captain.
+Dialogue: 1,0:49:23.16,0:49:28.08,英文,,0000,0000,0000,,I know his routine front and back. He's good with cooking knives.
+Dialogue: 1,0:49:28.11,0:49:30.88,英文,,0000,0000,0000,,Cooking knives!
+Dialogue: 1,0:49:32.28,0:49:34.40,英文,,0000,0000,0000,,He got lucky.
+Dialogue: 1,0:49:34.44,0:49:37.52,英文,,0000,0000,0000,,In my professional opinion he is a military reject...
+Dialogue: 1,0:49:37.55,0:49:41.28,英文,,0000,0000,0000,,... in command of a galley.
+Dialogue: 1,0:49:41.31,0:49:43.92,英文,,0000,0000,0000,,Get down!
+Dialogue: 1,0:49:56.92,0:49:58.84,英文,,0000,0000,0000,,- What was that? - A bomb jackass.
+Dialogue: 1,0:49:58.87,0:50:01.52,英文,,0000,0000,0000,,He used the microwave as a detonator.
+Dialogue: 1,0:50:01.56,0:50:04.32,英文,,0000,0000,0000,,Secure everything between here and the CIC.
+Dialogue: 1,0:50:04.36,0:50:07.76,英文,,0000,0000,0000,,You see anything radio at once for backup. Understand?
+Dialogue: 1,0:50:07.79,0:50:11.28,英文,,0000,0000,0000,,Put these fires out!
+Dialogue: 1,0:50:12.68,0:50:17.88,英文,,0000,0000,0000,,I'd like to see the personnel file on this "simple cook."
+Dialogue: 1,0:50:17.91,0:50:21.32,英文,,0000,0000,0000,,Put out these goddamn fires!
+Dialogue: 1,0:50:22.84,0:50:26.80,英文,,0000,0000,0000,,SEAL Team 5 will launch from Nimitz aboard a CH - 53 Echo...
+Dialogue: 1,0:50:26.83,0:50:29.16,英文,,0000,0000,0000,,... with an Apache gunship in support.
+Dialogue: 1,0:50:29.20,0:50:33.12,英文,,0000,0000,0000,,At the objective area the Apache will take out the ship's radar...
+Dialogue: 1,0:50:33.15,0:50:35.68,英文,,0000,0000,0000,,... and her electronic warfare systems.
+Dialogue: 1,0:50:35.72,0:50:38.56,英文,,0000,0000,0000,,Then SEAL Team 5 will board and retake the ship.
+Dialogue: 1,0:50:38.59,0:50:41.16,英文,,0000,0000,0000,,And the odds of success?
+Dialogue: 1,0:50:41.20,0:50:44.32,英文,,0000,0000,0000,,If it's a lunatic who only partly controls the ship...
+Dialogue: 1,0:50:44.35,0:50:47.00,英文,,0000,0000,0000,,... the odds are good.
+Dialogue: 1,0:50:47.04,0:50:49.48,英文,,0000,0000,0000,,But if he's ready for us...
+Dialogue: 1,0:50:49.52,0:50:52.56,英文,,0000,0000,0000,,... if he's prepared to repel boarders...
+Dialogue: 1,0:50:52.59,0:50:54.36,英文,,0000,0000,0000,,... the odds are not good.
+Dialogue: 1,0:50:54.40,0:50:59.00,英文,,0000,0000,0000,,Bear in mind the operators from SEAL Team 5 are the best there are.
+Dialogue: 1,0:50:59.03,0:51:03.60,英文,,0000,0000,0000,,This is our only hope of saving the crew and retaking the ship.
+Dialogue: 1,0:51:03.63,0:51:07.84,英文,,0000,0000,0000,,Let me make one thing absolutely clear:
+Dialogue: 1,0:51:07.87,0:51:10.24,英文,,0000,0000,0000,,If the SEAL team fails...
+Dialogue: 1,0:51:10.28,0:51:15.24,英文,,0000,0000,0000,,... we will have no alternative but to launch an air strike...
+Dialogue: 1,0:51:15.27,0:51:19.04,英文,,0000,0000,0000,,... and destroy the Missouri.
+Dialogue: 1,0:51:19.40,0:51:21.88,英文,,0000,0000,0000,,You know what that means.
+Dialogue: 1,0:51:21.91,0:51:24.75,英文,,0000,0000,0000,,We'll get her back for you.
+Dialogue: 1,0:51:24.79,0:51:27.83,英文,,0000,0000,0000,,Make it happen. Make it happen.
+Dialogue: 1,0:51:27.87,0:51:30.84,英文,,0000,0000,0000,,22... 12... perfect.
+Dialogue: 1,0:51:30.88,0:51:34.44,英文,,0000,0000,0000,,It's 44 feet from the weather deck to the missile canisters.
+Dialogue: 1,0:51:34.48,0:51:38.96,英文,,0000,0000,0000,,It'll take a half hour to assemble that section of the crane.
+Dialogue: 1,0:51:39.00,0:51:44.44,英文,,0000,0000,0000,,Ryback's file was in the captain's private cabinet.
+Dialogue: 1,0:51:44.47,0:51:46.53,英文,,0000,0000,0000,,Ryback is an ex - SEAL.
+Dialogue: 1,0:51:46.57,0:51:48.56,英文,,0000,0000,0000,,The goddamn cook's a SEAL?
+Dialogue: 1,0:51:48.60,0:51:51.88,英文,,0000,0000,0000,,Shut up and listen. "Expert in martial arts...
+Dialogue: 1,0:51:51.91,0:51:54.28,英文,,0000,0000,0000,,... explosives weapons tactics.
+Dialogue: 1,0:51:54.32,0:51:58.48,英文,,0000,0000,0000,,Silver Star. Navy Cross. Purple Heart with cluster.
+Dialogue: 1,0:51:58.52,0:52:03.64,英文,,0000,0000,0000,,Security revoked after Panama." So he could only rate as a yeoman...
+Dialogue: 1,0:52:03.67,0:52:06.84,英文,,0000,0000,0000,,... or a cook. How little did I know.
+Dialogue: 1,0:52:06.87,0:52:09.48,英文,,0000,0000,0000,,We lost two men in the engine room.
+Dialogue: 1,0:52:09.52,0:52:12.64,英文,,0000,0000,0000,,You were told to review every crew member's file.
+Dialogue: 1,0:52:12.68,0:52:16.20,英文,,0000,0000,0000,,I know but I didn't have access to the captain's files!
+Dialogue: 1,0:52:16.24,0:52:19.56,英文,,0000,0000,0000,,- I'll get this fucker myself. - Oh no calm down.
+Dialogue: 1,0:52:19.59,0:52:21.88,英文,,0000,0000,0000,,- Want to get killed? - Are you an idiot?
+Dialogue: 1,0:52:21.91,0:52:24.16,英文,,0000,0000,0000,,- You're calling me an idiot? - Yes I am.
+Dialogue: 1,0:52:24.20,0:52:28.12,英文,,0000,0000,0000,,Calm down. Get me three roving patrols. Keep him below the weather deck.
+Dialogue: 1,0:52:28.15,0:52:31.28,英文,,0000,0000,0000,,- Move out! - Stay on schedule!
+Dialogue: 1,0:52:31.80,0:52:34.80,英文,,0000,0000,0000,,To the bridge!
+Dialogue: 1,0:52:35.60,0:52:38.80,英文,,0000,0000,0000,,I'm the girl. Why do I have to carry everything?
+Dialogue: 1,0:52:38.84,0:52:43.00,英文,,0000,0000,0000,,- I support women's lib don't you? - When it's in my favor.
+Dialogue: 1,0:52:43.03,0:52:45.68,英文,,0000,0000,0000,,- Hear this all personnel. - Move ahead.
+Dialogue: 1,0:52:45.71,0:52:47.92,英文,,0000,0000,0000,,Beware of booby traps.
+Dialogue: 1,0:52:47.96,0:52:52.00,英文,,0000,0000,0000,,Do not pursue hostile parties into unsecured areas.
+Dialogue: 1,0:52:52.04,0:52:56.88,英文,,0000,0000,0000,,Report to Daumer individually at 5- minute intervals and switch...
+Dialogue: 1,0:52:56.91,0:52:59.16,英文,,0000,0000,0000,,... to the alternate frequency.
+Dialogue: 1,0:52:59.19,0:53:01.92,英文,,0000,0000,0000,,Now.
+Dialogue: 1,0:53:04.00,0:53:06.88,英文,,0000,0000,0000,,Goddamn SEAL.
+Dialogue: 1,0:53:06.92,0:53:09.24,英文,,0000,0000,0000,,I'll carry everything...
+Dialogue: 1,0:53:09.28,0:53:12.88,英文,,0000,0000,0000,,... if you kill whoever we run into.
+Dialogue: 1,0:53:12.92,0:53:16.40,英文,,0000,0000,0000,,I have a rule about killing people.
+Dialogue: 1,0:53:16.52,0:53:19.04,英文,,0000,0000,0000,,Actually I have two rules. One:
+Dialogue: 1,0:53:19.08,0:53:22.52,英文,,0000,0000,0000,,I don't date musicians. And two I don't kill people.
+Dialogue: 1,0:53:22.55,0:53:25.12,英文,,0000,0000,0000,,I'm thrilled to death to hear that.
+Dialogue: 1,0:53:25.16,0:53:28.28,英文,,0000,0000,0000,,But it leaves a lot of open territory. Get up the ladder.
+Dialogue: 1,0:53:28.31,0:53:31.24,英文,,0000,0000,0000,,- Let's go. - God!
+Dialogue: 1,0:53:31.68,0:53:36.04,英文,,0000,0000,0000,,I think you've got the wrong partner.
+Dialogue: 1,0:53:38.08,0:53:41.24,英文,,0000,0000,0000,,Now wait here.
+Dialogue: 1,0:53:44.28,0:53:46.92,英文,,0000,0000,0000,,Sit down there.
+Dialogue: 1,0:53:46.96,0:53:50.48,英文,,0000,0000,0000,,I'll be back in a minute.
+Dialogue: 1,0:55:16.64,0:55:19.64,英文,,0000,0000,0000,,What's that?
+Dialogue: 1,0:55:20.72,0:55:22.68,英文,,0000,0000,0000,,What is that?
+Dialogue: 1,0:55:22.72,0:55:24.84,英文,,0000,0000,0000,,This is a SEAL magnaphone.
+Dialogue: 1,0:55:24.88,0:55:29.92,英文,,0000,0000,0000,,It's an MX 20- 20. It's a secure satellite uplink.
+Dialogue: 1,0:55:29.95,0:55:33.25,英文,,0000,0000,0000,,Like a car phone.
+Dialogue: 1,0:55:33.29,0:55:36.56,英文,,0000,0000,0000,,Yeah. Something like that.
+Dialogue: 1,0:55:42.40,0:55:45.64,英文,,0000,0000,0000,,Excuse me this is hot.
+Dialogue: 1,0:55:48.40,0:55:50.52,英文,,0000,0000,0000,,You know Casey Ryback?
+Dialogue: 1,0:55:50.55,0:55:52.04,英文,,0000,0000,0000,,Chief Ryback?
+Dialogue: 1,0:55:52.08,0:55:55.44,英文,,0000,0000,0000,,He's top hand in the Teams. Wish we had him here.
+Dialogue: 1,0:55:55.47,0:55:58.80,英文,,0000,0000,0000,,He's calling on a SEAL magnaphone from the ship.
+Dialogue: 1,0:55:58.83,0:56:01.04,英文,,0000,0000,0000,,What?
+Dialogue: 1,0:56:01.08,0:56:04.60,英文,,0000,0000,0000,,Listen. Everyone listen up.
+Dialogue: 1,0:56:04.63,0:56:06.48,英文,,0000,0000,0000,,Affirmative.
+Dialogue: 1,0:56:06.52,0:56:09.32,英文,,0000,0000,0000,,Can you estimate the size of the force?
+Dialogue: 1,0:56:09.35,0:56:11.64,英文,,0000,0000,0000,,I'd say about 30.
+Dialogue: 1,0:56:11.68,0:56:13.80,英文,,0000,0000,0000,,We'll connect you to Captain Garza.
+Dialogue: 1,0:56:13.83,0:56:15.48,英文,,0000,0000,0000,,Stand by.
+Dialogue: 1,0:56:15.52,0:56:18.08,英文,,0000,0000,0000,,What if he's working for them?
+Dialogue: 1,0:56:18.12,0:56:22.40,英文,,0000,0000,0000,,- I guarantee Ryback's a good guy. - Wait a minute.
+Dialogue: 1,0:56:22.43,0:56:26.96,英文,,0000,0000,0000,,We won't take the chance. Don't tell him our plan.
+Dialogue: 1,0:56:27.00,0:56:30.00,英文,,0000,0000,0000,,- Chief Ryback Captain Garza. - Glad you're there.
+Dialogue: 1,0:56:30.03,0:56:33.80,英文,,0000,0000,0000,,What we want you to do is just feed us on - site intel.
+Dialogue: 1,0:56:33.83,0:56:36.88,英文,,0000,0000,0000,,This man may be crazy but he's a professional.
+Dialogue: 1,0:56:36.92,0:56:41.44,英文,,0000,0000,0000,,They're manufacturing a railing system to offload the Tomahawks.
+Dialogue: 1,0:56:41.47,0:56:45.36,英文,,0000,0000,0000,,Believe it or not the X O's with them.
+Dialogue: 1,0:56:45.80,0:56:48.08,英文,,0000,0000,0000,,Commander Krill's involved?
+Dialogue: 1,0:56:48.11,0:56:49.96,英文,,0000,0000,0000,,Admiral...
+Dialogue: 1,0:56:50.00,0:56:52.56,英文,,0000,0000,0000,,... that means they control the ship.
+Dialogue: 1,0:56:52.59,0:56:54.84,英文,,0000,0000,0000,,Holy God.
+Dialogue: 1,0:56:54.88,0:56:59.20,英文,,0000,0000,0000,,Chief Ryback this is Admiral Bates speaking.
+Dialogue: 1,0:56:59.24,0:57:04.16,英文,,0000,0000,0000,,Coordinate your efforts with us. I want you to keep cool...
+Dialogue: 1,0:57:04.19,0:57:07.12,英文,,0000,0000,0000,,... and wait for the strike team. Do you understand?
+Dialogue: 1,0:57:07.15,0:57:09.72,英文,,0000,0000,0000,,I'll go before they pick up the signal.
+Dialogue: 1,0:57:09.76,0:57:12.60,英文,,0000,0000,0000,,- Call us in half an hour. - Roger that.
+Dialogue: 1,0:57:12.63,0:57:15.72,英文,,0000,0000,0000,,You're not a cook.
+Dialogue: 1,0:57:16.00,0:57:18.96,英文,,0000,0000,0000,,Yeah well...
+Dialogue: 1,0:57:20.04,0:57:21.92,英文,,0000,0000,0000,,... I also cook.
+Dialogue: 1,0:57:21.95,0:57:23.76,英文,,0000,0000,0000,,Get your stuff.
+Dialogue: 1,0:57:23.80,0:57:27.42,英文,,0000,0000,0000,,He had an extremely distinguished career until Panama...
+Dialogue: 1,0:57:27.45,0:57:31.04,英文,,0000,0000,0000,,... when most of his team died due to poor intelligence.
+Dialogue: 1,0:57:31.07,0:57:33.68,英文,,0000,0000,0000,,Ryback's a warrior. The best there is.
+Dialogue: 1,0:57:33.72,0:57:37.36,英文,,0000,0000,0000,,When he got back from Panama he punched his officer in charge.
+Dialogue: 1,0:57:37.39,0:57:41.12,英文,,0000,0000,0000,,Adams took him on as a cook so he could finish his 20.
+Dialogue: 1,0:57:41.15,0:57:43.20,英文,,0000,0000,0000,,Hold it. Just hold it.
+Dialogue: 1,0:57:43.24,0:57:47.42,英文,,0000,0000,0000,,What if this toad Zwieback or whatever his name is is right...
+Dialogue: 1,0:57:47.45,0:57:51.60,英文,,0000,0000,0000,,... and the missiles are offloaded before the SEAL team gets there?
+Dialogue: 1,0:57:51.63,0:57:56.00,英文,,0000,0000,0000,,There is no way for Mr. Strannix to get past us.
+Dialogue: 1,0:57:56.04,0:57:58.80,英文,,0000,0000,0000,,We have AWAC surveillance and SOSUS in Honolulu...
+Dialogue: 1,0:57:58.83,0:58:02.96,英文,,0000,0000,0000,,... tracking every ship and sub at sea.
+Dialogue: 1,0:58:03.00,0:58:04.96,英文,,0000,0000,0000,,They leave the Missouri they're ours.
+Dialogue: 1,0:58:05.00,0:58:09.64,英文,,0000,0000,0000,,How do we know that Honolulu isn't his next target?
+Dialogue: 1,0:58:09.67,0:58:12.76,英文,,0000,0000,0000,,Tell me that.
+Dialogue: 1,0:58:24.68,0:58:27.92,英文,,0000,0000,0000,,Take a look at this.
+Dialogue: 1,0:58:28.00,0:58:33.32,英文,,0000,0000,0000,,- Know what all those lights are for? - I've been trained.
+Dialogue: 1,0:58:36.28,0:58:38.80,英文,,0000,0000,0000,,You can fly that helicopter?
+Dialogue: 1,0:58:38.84,0:58:41.80,英文,,0000,0000,0000,,Then we can get out of here right?
+Dialogue: 1,0:58:41.83,0:58:44.36,英文,,0000,0000,0000,,Here's the MP5K.
+Dialogue: 1,0:58:44.40,0:58:47.24,英文,,0000,0000,0000,,When the dot's on target what you see is what you get.
+Dialogue: 1,0:58:47.28,0:58:52.04,英文,,0000,0000,0000,,- I told you I don't like guns. - I know. Neither do I.
+Dialogue: 1,0:58:52.07,0:58:55.44,英文,,0000,0000,0000,,Now get back under there.
+Dialogue: 1,0:59:23.16,0:59:26.96,英文,,0000,0000,0000,,These things are going to sell like hot cakes!
+Dialogue: 1,0:59:26.99,0:59:29.60,英文,,0000,0000,0000,,Absolutely.
+Dialogue: 1,0:59:29.64,0:59:32.44,英文,,0000,0000,0000,,What'll you do with the $200 million?
+Dialogue: 1,0:59:32.47,0:59:35.28,英文,,0000,0000,0000,,Buy the Presidency.
+Dialogue: 1,1:00:02.40,1:00:05.72,英文,,0000,0000,0000,,Someone's moving. Right there!
+Dialogue: 1,1:00:08.20,1:00:12.68,英文,,0000,0000,0000,,He's on the flight deck! Go! Go!
+Dialogue: 1,1:00:55.40,1:00:58.60,英文,,0000,0000,0000,,Come out of there!
+Dialogue: 1,1:01:11.28,1:01:17.96,英文,,0000,0000,0000,,Where are you taking me? I don't know anything!
+Dialogue: 1,1:01:19.08,1:01:21.44,英文,,0000,0000,0000,,Let go of me!
+Dialogue: 1,1:01:21.48,1:01:23.60,英文,,0000,0000,0000,,Get your hands off me!
+Dialogue: 1,1:01:23.63,1:01:26.36,英文,,0000,0000,0000,,Now!
+Dialogue: 1,1:01:34.92,1:01:37.80,英文,,0000,0000,0000,,Move!
+Dialogue: 1,1:01:47.12,1:01:50.04,英文,,0000,0000,0000,,Move!
+Dialogue: 1,1:01:50.88,1:01:54.40,英文,,0000,0000,0000,,Stand fast! Do not pursue that man!
+Dialogue: 1,1:02:00.00,1:02:04.04,英文,,0000,0000,0000,,- Secure missile battery three now! - Man that hatch!
+Dialogue: 1,1:02:04.07,1:02:05.60,英文,,0000,0000,0000,,This guy's a pain in the ass!
+Dialogue: 1,1:02:05.64,1:02:07.84,英文,,0000,0000,0000,,We got to do something about him.
+Dialogue: 1,1:02:07.87,1:02:11.00,英文,,0000,0000,0000,,I know what to do.
+Dialogue: 1,1:02:11.40,1:02:14.08,英文,,0000,0000,0000,,I do.
+Dialogue: 1,1:02:15.64,1:02:18.60,英文,,0000,0000,0000,,This insanity is so logical.
+Dialogue: 1,1:02:18.64,1:02:23.16,英文,,0000,0000,0000,,There's a sprinkler system where they're being held.
+Dialogue: 1,1:02:23.19,1:02:26.04,英文,,0000,0000,0000,,Mr. Pitt?
+Dialogue: 1,1:02:26.32,1:02:28.80,英文,,0000,0000,0000,,The fo'c's'le.
+Dialogue: 1,1:02:28.84,1:02:31.62,英文,,0000,0000,0000,,Hit a button it starts to flood.
+Dialogue: 1,1:02:31.65,1:02:34.40,英文,,0000,0000,0000,,In a short time they'll all drown.
+Dialogue: 1,1:02:34.44,1:02:38.24,英文,,0000,0000,0000,,Ryback'll kill himself to save them.
+Dialogue: 1,1:02:46.72,1:02:48.48,英文,,0000,0000,0000,,You're a maniac.
+Dialogue: 1,1:02:48.52,1:02:51.20,英文,,0000,0000,0000,,Drowning your own crew.
+Dialogue: 1,1:02:51.24,1:02:54.64,英文,,0000,0000,0000,,They never liked me anyway.
+Dialogue: 1,1:02:54.67,1:02:58.04,英文,,0000,0000,0000,,Bet they fucking love you now.
+Dialogue: 1,1:03:03.32,1:03:06.40,英文,,0000,0000,0000,,You see this? These are cut everywhere.
+Dialogue: 1,1:03:06.43,1:03:07.68,英文,,0000,0000,0000,,What is it?
+Dialogue: 1,1:03:07.72,1:03:12.12,英文,,0000,0000,0000,,They're for a railing system to offload the missiles onto a ship or sub...
+Dialogue: 1,1:03:12.15,1:03:15.60,英文,,0000,0000,0000,,... they'll rendezvous with.
+Dialogue: 1,1:03:16.40,1:03:19.34,英文,,0000,0000,0000,,What's that?
+Dialogue: 1,1:03:19.37,1:03:22.28,英文,,0000,0000,0000,,Morse code.
+Dialogue: 1,1:03:22.76,1:03:25.44,英文,,0000,0000,0000,,What're they saying?
+Dialogue: 1,1:03:26.08,1:03:30.12,英文,,0000,0000,0000,,"Get me the fuck out of here."
+Dialogue: 1,1:03:35.84,1:03:39.80,英文,,0000,0000,0000,,- What's that? - Get away from the hatch!
+Dialogue: 1,1:04:08.56,1:04:11.88,英文,,0000,0000,0000,,Guard the door. Shoot anyone who comes through.
+Dialogue: 1,1:04:11.91,1:04:14.41,英文,,0000,0000,0000,,You okay?
+Dialogue: 1,1:04:14.45,1:04:16.92,英文,,0000,0000,0000,,You okay?
+Dialogue: 1,1:04:17.64,1:04:19.48,英文,,0000,0000,0000,,Is this all of you?
+Dialogue: 1,1:04:19.52,1:04:22.00,英文,,0000,0000,0000,,Six of us got trapped. What's happening?
+Dialogue: 1,1:04:22.03,1:04:25.20,英文,,0000,0000,0000,,We got a problem. Who's this?
+Dialogue: 1,1:04:25.24,1:04:28.16,英文,,0000,0000,0000,,Calaway Gunner's mate 2nd class '44 '46.
+Dialogue: 1,1:04:28.20,1:04:33.00,英文,,0000,0000,0000,,This is Jordan. She's a casualty of the situation I'll brief you on.
+Dialogue: 1,1:04:33.03,1:04:36.00,英文,,0000,0000,0000,,Nice to see you. You too Case.
+Dialogue: 1,1:04:36.03,1:04:38.36,英文,,0000,0000,0000,,Granger you take this.
+Dialogue: 1,1:04:38.40,1:04:42.42,英文,,0000,0000,0000,,Get your tools. We've got work to do.
+Dialogue: 1,1:04:42.45,1:04:46.44,英文,,0000,0000,0000,,We're jumping into a shit storm here.
+Dialogue: 1,1:04:53.84,1:04:57.52,英文,,0000,0000,0000,,Must've been a power surge.
+Dialogue: 1,1:05:02.68,1:05:04.24,英文,,0000,0000,0000,,That's the last one.
+Dialogue: 1,1:05:04.28,1:05:08.12,英文,,0000,0000,0000,,This should disable their weapons systems within a half hour.
+Dialogue: 1,1:05:08.15,1:05:11.76,英文,,0000,0000,0000,,Mr. Ryback may I have your attention please?
+Dialogue: 1,1:05:11.79,1:05:15.60,英文,,0000,0000,0000,,This is Captain Krill speaking.
+Dialogue: 1,1:05:18.96,1:05:22.12,英文,,0000,0000,0000,,I'd like you to look at the monitors...
+Dialogue: 1,1:05:22.15,1:05:25.28,英文,,0000,0000,0000,,... where you are at this point in time.
+Dialogue: 1,1:05:25.60,1:05:27.68,英文,,0000,0000,0000,,Are you watching?
+Dialogue: 1,1:05:27.72,1:05:31.16,英文,,0000,0000,0000,,I prepared a special show for you.
+Dialogue: 1,1:05:32.76,1:05:35.40,英文,,0000,0000,0000,,Here it goes.
+Dialogue: 1,1:05:38.24,1:05:42.60,英文,,0000,0000,0000,,I want you to know there are no hard feelings.
+Dialogue: 1,1:05:42.80,1:05:45.22,英文,,0000,0000,0000,,I have no grudge against you...
+Dialogue: 1,1:05:45.25,1:05:47.64,英文,,0000,0000,0000,,... or the rest of the crew.
+Dialogue: 1,1:05:47.67,1:05:50.60,英文,,0000,0000,0000,,You did your best.
+Dialogue: 1,1:05:56.08,1:06:00.24,英文,,0000,0000,0000,,Discipline is right out the window here.
+Dialogue: 1,1:06:02.00,1:06:04.64,英文,,0000,0000,0000,,Turn it off.
+Dialogue: 1,1:06:04.68,1:06:06.00,英文,,0000,0000,0000,,We got to save them.
+Dialogue: 1,1:06:06.03,1:06:07.80,英文,,0000,0000,0000,,They'll have a trap.
+Dialogue: 1,1:06:07.84,1:06:11.64,英文,,0000,0000,0000,,But they're expecting me not all of us.
+Dialogue: 1,1:06:11.67,1:06:13.52,英文,,0000,0000,0000,,All of what? I do laundry.
+Dialogue: 1,1:06:13.56,1:06:16.76,英文,,0000,0000,0000,,I ironed during the Gulf War. I ain't cut out for this.
+Dialogue: 1,1:06:16.79,1:06:18.84,英文,,0000,0000,0000,,You're in the Navy remember?
+Dialogue: 1,1:06:18.88,1:06:21.32,英文,,0000,0000,0000,,"It's not a job it's an adventure."
+Dialogue: 1,1:06:21.36,1:06:24.08,英文,,0000,0000,0000,,To hell with that. I'm on the college program.
+Dialogue: 1,1:06:24.11,1:06:26.96,英文,,0000,0000,0000,,I'm in.
+Dialogue: 1,1:06:27.52,1:06:30.12,英文,,0000,0000,0000,,All right I'll stay and watch Miss July.
+Dialogue: 1,1:06:30.16,1:06:33.40,英文,,0000,0000,0000,,- Get the lights out in broadway. - I'm going.
+Dialogue: 1,1:06:33.43,1:06:36.64,英文,,0000,0000,0000,,Okay but the emergency lights will kick on soon.
+Dialogue: 1,1:06:36.67,1:06:41.32,英文,,0000,0000,0000,,All right what the hell. How does this work?
+Dialogue: 1,1:06:58.68,1:07:01.32,英文,,0000,0000,0000,,Go!
+Dialogue: 1,1:07:18.92,1:07:21.80,英文,,0000,0000,0000,,Take cover! Get down!
+Dialogue: 1,1:07:23.76,1:07:26.96,英文,,0000,0000,0000,,Turn it!
+Dialogue: 1,1:07:27.64,1:07:30.76,英文,,0000,0000,0000,,Turn the water off!
+Dialogue: 1,1:07:31.52,1:07:35.28,英文,,0000,0000,0000,,They're going to get us out!
+Dialogue: 1,1:07:38.64,1:07:43.36,英文,,0000,0000,0000,,Pull him out of there! Pull him out!
+Dialogue: 1,1:07:47.72,1:07:50.20,英文,,0000,0000,0000,,Come on buddy!
+Dialogue: 1,1:07:50.23,1:07:51.72,英文,,0000,0000,0000,,Breathe!
+Dialogue: 1,1:07:51.76,1:07:54.26,英文,,0000,0000,0000,,Listen to him!
+Dialogue: 1,1:07:54.29,1:07:56.76,英文,,0000,0000,0000,,Hang in there!
+Dialogue: 1,1:07:59.20,1:08:02.56,英文,,0000,0000,0000,,Listen he freed a few men and I think...
+Dialogue: 1,1:08:02.60,1:08:07.00,英文,,0000,0000,0000,,... they went into the fo'c's'le but we got them pinned down.
+Dialogue: 1,1:08:07.03,1:08:09.36,英文,,0000,0000,0000,,Kill them if you can't contain them.
+Dialogue: 1,1:08:09.40,1:08:11.08,英文,,0000,0000,0000,,It worked. They're trapped.
+Dialogue: 1,1:08:11.11,1:08:14.24,英文,,0000,0000,0000,,- Good. - Drop the anchor!
+Dialogue: 1,1:08:25.88,1:08:29.76,英文,,0000,0000,0000,,This is where it's going to happen.
+Dialogue: 1,1:08:36.44,1:08:40.14,英文,,0000,0000,0000,,- Who the hell's this? - Who the hell's this?
+Dialogue: 1,1:08:40.17,1:08:43.80,英文,,0000,0000,0000,,This is Admiral Bates. I'm trying to get ahold of Ryback.
+Dialogue: 1,1:08:43.84,1:08:47.24,英文,,0000,0000,0000,,He's in a gunfight. I'll have to take a message.
+Dialogue: 1,1:08:47.27,1:08:49.52,英文,,0000,0000,0000,,What's going on there?
+Dialogue: 1,1:08:49.55,1:08:53.48,英文,,0000,0000,0000,,Hold on. Here.
+Dialogue: 1,1:08:54.16,1:08:55.92,英文,,0000,0000,0000,,Yes sir.
+Dialogue: 1,1:08:55.96,1:08:59.00,英文,,0000,0000,0000,,Chief Ryback this is Admiral Bates.
+Dialogue: 1,1:08:59.04,1:09:02.46,英文,,0000,0000,0000,,I see that you completely disobeyed my orders. Correct?
+Dialogue: 1,1:09:02.49,1:09:05.88,英文,,0000,0000,0000,,Sorry. You can court - martial me if I live.
+Dialogue: 1,1:09:05.91,1:09:07.44,英文,,0000,0000,0000,,I see.
+Dialogue: 1,1:09:07.48,1:09:09.76,英文,,0000,0000,0000,,Listen to me carefully.
+Dialogue: 1,1:09:09.80,1:09:13.96,英文,,0000,0000,0000,,SEAL Team 5 is en route. You understand?
+Dialogue: 1,1:09:15.04,1:09:19.24,英文,,0000,0000,0000,,Nimitz air group is our backup. Understand?
+Dialogue: 1,1:09:20.88,1:09:24.40,英文,,0000,0000,0000,,Now since your ass is on the line I authorize you...
+Dialogue: 1,1:09:24.44,1:09:28.64,英文,,0000,0000,0000,,... to do whatever you can to aid the arrival of the SEALs.
+Dialogue: 1,1:09:28.67,1:09:31.69,英文,,0000,0000,0000,,Because if I goddamn can't control you...
+Dialogue: 1,1:09:31.73,1:09:34.72,英文,,0000,0000,0000,,... I might as well support you. Correct?
+Dialogue: 1,1:09:34.75,1:09:37.36,英文,,0000,0000,0000,,Affirmative.
+Dialogue: 1,1:09:38.16,1:09:42.18,英文,,0000,0000,0000,,Good luck there sailor. I'm out.
+Dialogue: 1,1:09:42.21,1:09:46.20,英文,,0000,0000,0000,,They got a lot of trouble on that ship.
+Dialogue: 1,1:09:50.36,1:09:53.00,英文,,0000,0000,0000,,Here I go.
+Dialogue: 1,1:10:07.12,1:10:08.92,英文,,0000,0000,0000,,I'm not staying here.
+Dialogue: 1,1:10:08.96,1:10:12.76,英文,,0000,0000,0000,,Where're you going? Get back here.
+Dialogue: 1,1:10:22.04,1:10:26.36,英文,,0000,0000,0000,,- What're you doing? - The safest place is behind you.
+Dialogue: 1,1:10:26.39,1:10:28.80,英文,,0000,0000,0000,,Hug the wall. Get out of the middle!
+Dialogue: 1,1:10:28.83,1:10:32.84,英文,,0000,0000,0000,,Miss July come back here!
+Dialogue: 1,1:12:07.36,1:12:11.60,英文,,0000,0000,0000,,TAG leader this is Cobra escort. We have you in our sights.
+Dialogue: 1,1:12:11.63,1:12:15.72,英文,,0000,0000,0000,,You should see us on your portside now.
+Dialogue: 1,1:12:21.84,1:12:27.40,英文,,0000,0000,0000,,Francois put the money in the Zurich bank now or nothing'll happen.
+Dialogue: 1,1:12:28.00,1:12:30.60,英文,,0000,0000,0000,,Sell what we got in MacGregor Aircraft.
+Dialogue: 1,1:12:30.64,1:12:34.44,英文,,0000,0000,0000,,It'll go to shit when they find out about this.
+Dialogue: 1,1:12:34.47,1:12:36.92,英文,,0000,0000,0000,,Two choppers trying to sneak in under our radar.
+Dialogue: 1,1:12:36.96,1:12:39.20,英文,,0000,0000,0000,,Strike team.
+Dialogue: 1,1:12:39.24,1:12:43.24,英文,,0000,0000,0000,,We drive a hard bargain for hard value.
+Dialogue: 1,1:12:45.80,1:12:50.52,英文,,0000,0000,0000,,You give me any more trouble I'll call Mohammed. Understand?
+Dialogue: 1,1:12:50.55,1:12:52.88,英文,,0000,0000,0000,,Strike team is in range and locked on.
+Dialogue: 1,1:12:52.91,1:12:54.12,英文,,0000,0000,0000,,Kill them.
+Dialogue: 1,1:12:54.16,1:12:57.56,英文,,0000,0000,0000,,Not you Francois. I'll put my accountant on the line...
+Dialogue: 1,1:12:57.59,1:13:01.56,英文,,0000,0000,0000,,... with my account number. Talk to that frog.
+Dialogue: 1,1:13:05.08,1:13:06.60,英文,,0000,0000,0000,,Something's wrong.
+Dialogue: 1,1:13:06.64,1:13:10.84,英文,,0000,0000,0000,,We've got a big problem here. Switch to auxiliary!
+Dialogue: 1,1:13:10.87,1:13:13.48,英文,,0000,0000,0000,,Nothing.
+Dialogue: 1,1:13:16.28,1:13:19.20,英文,,0000,0000,0000,,Shit I lost the phalanx. We're sitting ducks.
+Dialogue: 1,1:13:19.23,1:13:22.76,英文,,0000,0000,0000,,Get me secure to the sub.
+Dialogue: 1,1:13:27.36,1:13:28.88,英文,,0000,0000,0000,,Sub's up.
+Dialogue: 1,1:13:28.92,1:13:32.80,英文,,0000,0000,0000,,Coyote this is Roadrunner. Come in.
+Dialogue: 1,1:13:54.96,1:13:58.36,英文,,0000,0000,0000,,Here come the good guys.
+Dialogue: 1,1:14:03.20,1:14:04.92,英文,,0000,0000,0000,,One minute!
+Dialogue: 1,1:14:04.95,1:14:06.60,英文,,0000,0000,0000,,One minute!
+Dialogue: 1,1:14:06.64,1:14:12.16,英文,,0000,0000,0000,,The fantail's fouled up! We're going in on the bow.
+Dialogue: 1,1:14:17.76,1:14:21.48,英文,,0000,0000,0000,,What the hell was that?!
+Dialogue: 1,1:14:41.88,1:14:45.80,英文,,0000,0000,0000,,It's confirmed. We lost them all.
+Dialogue: 1,1:14:45.92,1:14:49.60,英文,,0000,0000,0000,,We have no choice now...
+Dialogue: 1,1:14:51.16,1:14:55.52,英文,,0000,0000,0000,,... but full air assault from the Nimitz.
+Dialogue: 1,1:14:55.64,1:15:00.72,英文,,0000,0000,0000,,Mr. Trenton would you please?
+Dialogue: 1,1:15:01.44,1:15:04.96,英文,,0000,0000,0000,,We need more hands on deck to help tie this sub up.
+Dialogue: 1,1:15:04.99,1:15:06.24,英文,,0000,0000,0000,,Start offloading.
+Dialogue: 1,1:15:06.28,1:15:10.84,英文,,0000,0000,0000,,The crane isn't finished. We got another problem below decks.
+Dialogue: 1,1:15:10.87,1:15:17.04,英文,,0000,0000,0000,,Pull four men off the welding crew to help tie up the sub.
+Dialogue: 1,1:15:30.44,1:15:33.80,英文,,0000,0000,0000,,My goodness!
+Dialogue: 1,1:15:35.32,1:15:40.40,英文,,0000,0000,0000,,Daumer Daumer Daumer. Why didn't you hire this person?
+Dialogue: 1,1:15:40.43,1:15:45.48,英文,,0000,0000,0000,,Whatever his price would've been it would've been worth it.
+Dialogue: 1,1:16:29.60,1:16:31.96,英文,,0000,0000,0000,,Bring it up!
+Dialogue: 1,1:16:32.00,1:16:36.04,英文,,0000,0000,0000,,Ease it over now.
+Dialogue: 1,1:18:10.36,1:18:13.96,英文,,0000,0000,0000,,There's someone in the water!
+Dialogue: 1,1:18:14.04,1:18:15.56,英文,,0000,0000,0000,,Behind you!
+Dialogue: 1,1:18:15.60,1:18:19.04,英文,,0000,0000,0000,,I saw someone in the water!
+Dialogue: 1,1:18:27.36,1:18:30.08,英文,,0000,0000,0000,,Hook him!
+Dialogue: 1,1:18:30.48,1:18:34.04,英文,,0000,0000,0000,,Hook that son of a bitch!
+Dialogue: 1,1:18:47.80,1:18:51.20,英文,,0000,0000,0000,,Check for a bomb!
+Dialogue: 1,1:19:05.80,1:19:09.56,英文,,0000,0000,0000,,Who saw him? Come on!
+Dialogue: 1,1:19:30.44,1:19:33.48,英文,,0000,0000,0000,,You're incredible.
+Dialogue: 1,1:19:33.80,1:19:38.12,英文,,0000,0000,0000,,It's a shame you're not cooking for us.
+Dialogue: 1,1:19:51.08,1:19:53.76,英文,,0000,0000,0000,,Next thing I know...
+Dialogue: 1,1:19:53.80,1:19:57.84,英文,,0000,0000,0000,,... you'll be dating musicians.
+Dialogue: 1,1:20:10.88,1:20:12.96,英文,,0000,0000,0000,,Where's Daumer?
+Dialogue: 1,1:20:12.99,1:20:15.00,英文,,0000,0000,0000,,Probably dead.
+Dialogue: 1,1:20:15.04,1:20:17.08,英文,,0000,0000,0000,,The bowplane is jammed.
+Dialogue: 1,1:20:17.11,1:20:19.84,英文,,0000,0000,0000,,We can't submerge.
+Dialogue: 1,1:20:21.24,1:20:24.44,英文,,0000,0000,0000,,I'll handle it. It'll be operational underway.
+Dialogue: 1,1:20:24.47,1:20:27.04,英文,,0000,0000,0000,,You fix it I'll make you an admiral.
+Dialogue: 1,1:20:27.07,1:20:29.60,英文,,0000,0000,0000,,Done. Where're you going?
+Dialogue: 1,1:20:29.64,1:20:33.48,英文,,0000,0000,0000,,- Make Honolulu glow in the dark. - Outstanding.
+Dialogue: 1,1:20:33.52,1:20:37.24,英文,,0000,0000,0000,,I'll meet you 15 miles due south in the captain's launch.
+Dialogue: 1,1:20:37.27,1:20:39.92,英文,,0000,0000,0000,,Rally your men here in zero one.
+Dialogue: 1,1:20:39.96,1:20:46.48,英文,,0000,0000,0000,,I need an acetylene torch an arc welder and a crowbar now!
+Dialogue: 1,1:20:47.36,1:20:49.44,英文,,0000,0000,0000,,- What'd he say? - He can't fix it.
+Dialogue: 1,1:20:49.47,1:20:53.08,英文,,0000,0000,0000,,I'll fix it! Go! Now!
+Dialogue: 1,1:20:53.12,1:20:56.24,英文,,0000,0000,0000,,Why can't you speak English?
+Dialogue: 1,1:21:00.12,1:21:03.44,英文,,0000,0000,0000,,Hang in there.
+Dialogue: 1,1:21:22.72,1:21:25.36,英文,,0000,0000,0000,,Talk to me.
+Dialogue: 1,1:21:25.40,1:21:27.94,英文,,0000,0000,0000,,There's nothing to say.
+Dialogue: 1,1:21:27.97,1:21:30.44,英文,,0000,0000,0000,,Whatever they did...
+Dialogue: 1,1:21:30.48,1:21:33.24,英文,,0000,0000,0000,,... they're smarter than I am.
+Dialogue: 1,1:21:33.27,1:21:35.48,英文,,0000,0000,0000,,Everything's dead.
+Dialogue: 1,1:21:35.51,1:21:36.72,英文,,0000,0000,0000,,It's hopeless.
+Dialogue: 1,1:21:36.76,1:21:41.00,英文,,0000,0000,0000,,Nothing is hopeless. Take heart.
+Dialogue: 1,1:21:43.92,1:21:47.34,英文,,0000,0000,0000,,Give me time I'll figure it out.
+Dialogue: 1,1:21:47.37,1:21:50.76,英文,,0000,0000,0000,,I like your attitude. Excellent.
+Dialogue: 1,1:21:53.60,1:21:56.48,英文,,0000,0000,0000,,It's clear.
+Dialogue: 1,1:22:00.12,1:22:03.48,英文,,0000,0000,0000,,What the hell..?
+Dialogue: 1,1:22:05.44,1:22:09.32,英文,,0000,0000,0000,,I'll put it to you in plain English. It is so simple.
+Dialogue: 1,1:22:09.35,1:22:11.56,英文,,0000,0000,0000,,Hammer that rod into place.
+Dialogue: 1,1:22:11.60,1:22:14.76,英文,,0000,0000,0000,,Weld it over the bowplane. Without it we can't survive.
+Dialogue: 1,1:22:14.79,1:22:18.44,英文,,0000,0000,0000,,Make him understand. Now!
+Dialogue: 1,1:22:27.68,1:22:30.04,英文,,0000,0000,0000,,Where's Johnson?
+Dialogue: 1,1:22:30.07,1:22:31.28,英文,,0000,0000,0000,,He's gone.
+Dialogue: 1,1:22:31.32,1:22:33.32,英文,,0000,0000,0000,,They can't get away with this!
+Dialogue: 1,1:22:33.35,1:22:35.28,英文,,0000,0000,0000,,What about the five - inch guns?
+Dialogue: 1,1:22:35.32,1:22:40.12,英文,,0000,0000,0000,,We offloaded all the armor - piercing rounds. We got starbursts.
+Dialogue: 1,1:22:40.15,1:22:43.44,英文,,0000,0000,0000,,Nothing that will penetrate.
+Dialogue: 1,1:22:48.32,1:22:50.76,英文,,0000,0000,0000,,Gunner's mate.
+Dialogue: 1,1:22:50.79,1:22:53.20,英文,,0000,0000,0000,,See those?
+Dialogue: 1,1:22:53.40,1:22:57.32,英文,,0000,0000,0000,,We still got shells for those.
+Dialogue: 1,1:23:09.16,1:23:10.92,英文,,0000,0000,0000,,I did it.
+Dialogue: 1,1:23:10.96,1:23:14.80,英文,,0000,0000,0000,,It's charging. In a few minutes we'll have power to fire.
+Dialogue: 1,1:23:14.83,1:23:17.52,英文,,0000,0000,0000,,Well done.
+Dialogue: 1,1:23:23.56,1:23:26.44,英文,,0000,0000,0000,,Let's go!
+Dialogue: 1,1:23:28.36,1:23:32.68,英文,,0000,0000,0000,,Get on those last three bags!
+Dialogue: 1,1:23:33.76,1:23:35.36,英文,,0000,0000,0000,,Out of line.
+Dialogue: 1,1:23:35.40,1:23:38.80,英文,,0000,0000,0000,,- Another one. - Watch my hand signals!
+Dialogue: 1,1:23:38.83,1:23:41.92,英文,,0000,0000,0000,,Stand clear!
+Dialogue: 1,1:23:45.48,1:23:48.80,英文,,0000,0000,0000,,Easy guys easy.
+Dialogue: 1,1:23:57.76,1:24:00.44,英文,,0000,0000,0000,,What's the sub's course and speed?
+Dialogue: 1,1:24:00.47,1:24:03.33,英文,,0000,0000,0000,,Course 172. Speed six knots.
+Dialogue: 1,1:24:03.37,1:24:06.16,英文,,0000,0000,0000,,Get down the five - inch guns!
+Dialogue: 1,1:24:06.20,1:24:09.80,英文,,0000,0000,0000,,- What do you want me to do? - See those black switches?
+Dialogue: 1,1:24:09.84,1:24:14.04,英文,,0000,0000,0000,,- Click them on one by one. - lf the sub blows won't the nukes go?
+Dialogue: 1,1:24:14.07,1:24:16.20,英文,,0000,0000,0000,,No. They won't detonate.
+Dialogue: 1,1:24:16.24,1:24:17.72,英文,,0000,0000,0000,,Just sink with the sub.
+Dialogue: 1,1:24:17.75,1:24:19.43,英文,,0000,0000,0000,,Lower the cradle.
+Dialogue: 1,1:24:19.47,1:24:21.08,英文,,0000,0000,0000,,Cradle lowered.
+Dialogue: 1,1:24:21.12,1:24:24.88,英文,,0000,0000,0000,,- Ram the projectile. - Easy.
+Dialogue: 1,1:24:24.91,1:24:27.00,英文,,0000,0000,0000,,Ram the powder easy.
+Dialogue: 1,1:24:27.03,1:24:29.16,英文,,0000,0000,0000,,Real easy!
+Dialogue: 1,1:24:29.20,1:24:30.76,英文,,0000,0000,0000,,Starbursts are ready.
+Dialogue: 1,1:24:30.79,1:24:33.60,英文,,0000,0000,0000,,Fire starburst!
+Dialogue: 1,1:24:34.12,1:24:35.44,英文,,0000,0000,0000,,All right.
+Dialogue: 1,1:24:35.48,1:24:40.40,英文,,0000,0000,0000,,You secure this room. Get back to work jack - off!
+Dialogue: 1,1:24:41.72,1:24:43.76,英文,,0000,0000,0000,,They're firing at us!
+Dialogue: 1,1:24:43.79,1:24:45.76,英文,,0000,0000,0000,,They're just desperate.
+Dialogue: 1,1:24:45.80,1:24:50.32,英文,,0000,0000,0000,,Those are starbursts. They don't have shells to hurt us.
+Dialogue: 1,1:24:50.35,1:24:53.76,英文,,0000,0000,0000,,204 degrees Calaway.
+Dialogue: 1,1:24:57.52,1:24:59.12,英文,,0000,0000,0000,,Elevate the barrel.
+Dialogue: 1,1:24:59.16,1:25:02.72,英文,,0000,0000,0000,,028 degrees.
+Dialogue: 1,1:25:10.28,1:25:13.08,英文,,0000,0000,0000,,Fire in the hole.
+Dialogue: 1,1:25:22.40,1:25:25.12,英文,,0000,0000,0000,,He's doing it! We're out of time!
+Dialogue: 1,1:25:25.15,1:25:27.79,英文,,0000,0000,0000,,They're reloading right now.
+Dialogue: 1,1:25:27.83,1:25:30.44,英文,,0000,0000,0000,,Granger Tackman! Reload!
+Dialogue: 1,1:25:32.92,1:25:34.56,英文,,0000,0000,0000,,Lowering cradle.
+Dialogue: 1,1:25:34.59,1:25:37.32,英文,,0000,0000,0000,,Scoot over!
+Dialogue: 1,1:25:39.08,1:25:40.60,英文,,0000,0000,0000,,Goddamn!
+Dialogue: 1,1:25:40.64,1:25:42.96,英文,,0000,0000,0000,,Close the breech.
+Dialogue: 1,1:25:43.00,1:25:47.40,英文,,0000,0000,0000,,Lower it. Lower the bowplane!
+Dialogue: 1,1:25:48.08,1:25:51.68,英文,,0000,0000,0000,,Pull! It's working! It's working! Come on let's go.
+Dialogue: 1,1:25:51.71,1:25:53.40,英文,,0000,0000,0000,,241 degrees.
+Dialogue: 1,1:25:53.44,1:25:55.52,英文,,0000,0000,0000,,241 degrees back.
+Dialogue: 1,1:25:55.55,1:25:58.48,英文,,0000,0000,0000,,Dive!
+Dialogue: 1,1:26:01.72,1:26:03.12,英文,,0000,0000,0000,,It's working!
+Dialogue: 1,1:26:03.16,1:26:06.60,英文,,0000,0000,0000,,- 204 degrees. - 204 degrees.
+Dialogue: 1,1:26:06.63,1:26:09.44,英文,,0000,0000,0000,,This is it.
+Dialogue: 1,1:26:11.04,1:26:14.68,英文,,0000,0000,0000,,Ryback is gone.
+Dialogue: 1,1:26:14.84,1:26:17.52,英文,,0000,0000,0000,,Let me look.
+Dialogue: 1,1:26:19.44,1:26:22.12,英文,,0000,0000,0000,,Fire in the hole!
+Dialogue: 1,1:26:36.96,1:26:40.68,英文,,0000,0000,0000,,- Direct hit! - We hit it!
+Dialogue: 1,1:26:44.68,1:26:48.68,英文,,0000,0000,0000,,What the hell is going on?
+Dialogue: 1,1:26:54.80,1:27:00.04,英文,,0000,0000,0000,,Porky pig. Little red fucker with the mustache.
+Dialogue: 1,1:27:04.20,1:27:06.16,英文,,0000,0000,0000,,All of my life...
+Dialogue: 1,1:27:06.20,1:27:08.68,英文,,0000,0000,0000,,... Saturday morning cartoons.
+Dialogue: 1,1:27:08.71,1:27:11.49,英文,,0000,0000,0000,,The best.
+Dialogue: 1,1:27:11.53,1:27:14.28,英文,,0000,0000,0000,,Shit.
+Dialogue: 1,1:27:15.76,1:27:17.36,英文,,0000,0000,0000,,For example...
+Dialogue: 1,1:27:17.40,1:27:22.08,英文,,0000,0000,0000,,... remember those two little shrimps coming in riding seahorses...
+Dialogue: 1,1:27:22.11,1:27:24.24,英文,,0000,0000,0000,,... little chaps little pistols?
+Dialogue: 1,1:27:24.27,1:27:27.17,英文,,0000,0000,0000,,Shooting over their shoulders.
+Dialogue: 1,1:27:27.21,1:27:30.08,英文,,0000,0000,0000,,Rescue that lobster from the...
+Dialogue: 1,1:27:30.11,1:27:31.84,英文,,0000,0000,0000,,... Swedish cook.
+Dialogue: 1,1:27:31.88,1:27:34.12,英文,,0000,0000,0000,,Funniest thing I ever saw!
+Dialogue: 1,1:27:34.16,1:27:36.28,英文,,0000,0000,0000,,- Splendid work by the way. - Strannix!
+Dialogue: 1,1:27:36.31,1:27:38.09,英文,,0000,0000,0000,,Splendid work!
+Dialogue: 1,1:27:38.13,1:27:39.84,英文,,0000,0000,0000,,My my my...
+Dialogue: 1,1:27:39.88,1:27:44.00,英文,,0000,0000,0000,,... how hell doth quicken the spirit.
+Dialogue: 1,1:27:44.04,1:27:46.40,英文,,0000,0000,0000,,- Tomahawks! - They're up and ready.
+Dialogue: 1,1:27:46.43,1:27:47.56,英文,,0000,0000,0000,,Where?
+Dialogue: 1,1:27:47.60,1:27:50.84,英文,,0000,0000,0000,,- Fire control. - Of course! The fire control.
+Dialogue: 1,1:27:50.87,1:27:54.59,英文,,0000,0000,0000,,Chips and dips on the weather deck.
+Dialogue: 1,1:27:54.63,1:27:58.32,英文,,0000,0000,0000,,Motor launch is waiting! All hands!
+Dialogue: 1,1:28:00.92,1:28:04.24,英文,,0000,0000,0000,,Clear out of here!
+Dialogue: 1,1:28:04.27,1:28:07.04,英文,,0000,0000,0000,,Let's go.
+Dialogue: 1,1:28:07.72,1:28:09.96,英文,,0000,0000,0000,,Four minutes.
+Dialogue: 1,1:28:10.00,1:28:12.36,英文,,0000,0000,0000,,Meet us at the motor launch.
+Dialogue: 1,1:28:12.39,1:28:15.64,英文,,0000,0000,0000,,Four little minutes.
+Dialogue: 1,1:28:16.52,1:28:19.28,英文,,0000,0000,0000,,Home run.
+Dialogue: 1,1:28:20.92,1:28:22.48,英文,,0000,0000,0000,,We did it!
+Dialogue: 1,1:28:22.52,1:28:25.72,英文,,0000,0000,0000,,This little piggy went to market.
+Dialogue: 1,1:28:25.75,1:28:28.92,英文,,0000,0000,0000,,This little piggy stayed home.
+Dialogue: 1,1:28:28.95,1:28:30.84,英文,,0000,0000,0000,,And this little piggy...
+Dialogue: 1,1:28:30.88,1:28:34.88,英文,,0000,0000,0000,,Oh mama. Oh mama.
+Dialogue: 1,1:28:36.80,1:28:40.56,英文,,0000,0000,0000,,All the way home!
+Dialogue: 1,1:29:03.04,1:29:06.08,英文,,0000,0000,0000,,Happy trails.
+Dialogue: 1,1:29:06.16,1:29:09.16,英文,,0000,0000,0000,,In the captain's launch there's the MX 20- 20...
+Dialogue: 1,1:29:09.20,1:29:12.56,英文,,0000,0000,0000,,... the SEAL magnaphone. Bring it here. Take her with you.
+Dialogue: 1,1:29:12.59,1:29:15.56,英文,,0000,0000,0000,,The car phone.
+Dialogue: 1,1:29:24.64,1:29:25.92,英文,,0000,0000,0000,,Admiral?
+Dialogue: 1,1:29:25.96,1:29:29.60,英文,,0000,0000,0000,,The Nimitz is tracking two Tomahawks launched from the ship.
+Dialogue: 1,1:29:29.63,1:29:31.36,英文,,0000,0000,0000,,- Where're they headed? - Honolulu.
+Dialogue: 1,1:29:31.39,1:29:32.96,英文,,0000,0000,0000,,Oh God.
+Dialogue: 1,1:29:33.00,1:29:36.96,英文,,0000,0000,0000,,- What's the flight time? - 24 minutes sir.
+Dialogue: 1,1:29:37.00,1:29:41.60,英文,,0000,0000,0000,,- Can we destroy them in the air? - Destruct codes are on the Missouri.
+Dialogue: 1,1:29:41.63,1:29:44.44,英文,,0000,0000,0000,,Scramble Navy and Air Force fighters from Pearl.
+Dialogue: 1,1:29:44.48,1:29:49.40,英文,,0000,0000,0000,,What are the consequences of missiles dropping on Honolulu?
+Dialogue: 1,1:29:49.44,1:29:53.88,英文,,0000,0000,0000,,About a million people will reach 10 000 degrees Fahrenheit...
+Dialogue: 1,1:29:53.91,1:29:57.20,英文,,0000,0000,0000,,... in less than a second.
+Dialogue: 1,1:30:00.24,1:30:02.20,英文,,0000,0000,0000,,Mr. Secretary...
+Dialogue: 1,1:30:02.24,1:30:06.12,英文,,0000,0000,0000,,We'll just blame it on the cook.
+Dialogue: 1,1:30:06.15,1:30:09.08,英文,,0000,0000,0000,,Absolutely.
+Dialogue: 1,1:30:12.56,1:30:14.96,英文,,0000,0000,0000,,Take it north.
+Dialogue: 1,1:30:15.00,1:30:18.44,英文,,0000,0000,0000,,Roger that. Heading north.
+Dialogue: 1,1:31:45.44,1:31:47.80,英文,,0000,0000,0000,,I'll take that weapon.
+Dialogue: 1,1:31:47.83,1:31:49.88,英文,,0000,0000,0000,,Quietly.
+Dialogue: 1,1:31:49.91,1:31:52.56,英文,,0000,0000,0000,,Now.
+Dialogue: 1,1:32:00.88,1:32:02.80,英文,,0000,0000,0000,,You look familiar.
+Dialogue: 1,1:32:02.84,1:32:04.72,英文,,0000,0000,0000,,I know you don't I?
+Dialogue: 1,1:32:04.75,1:32:08.00,英文,,0000,0000,0000,,I think you do.
+Dialogue: 1,1:32:09.28,1:32:10.88,英文,,0000,0000,0000,,Been a long time.
+Dialogue: 1,1:32:10.91,1:32:12.87,英文,,0000,0000,0000,,Yes sir. It has.
+Dialogue: 1,1:32:12.91,1:32:14.80,英文,,0000,0000,0000,,Turn around.
+Dialogue: 1,1:32:14.84,1:32:18.44,英文,,0000,0000,0000,,We'll have a tour. Step forward.
+Dialogue: 1,1:32:20.84,1:32:22.32,英文,,0000,0000,0000,,Here we have...
+Dialogue: 1,1:32:22.36,1:32:24.36,英文,,0000,0000,0000,,... our Tomahawks...
+Dialogue: 1,1:32:24.40,1:32:28.68,英文,,0000,0000,0000,,... speeding their way to the sunny Aloha State. Turn around.
+Dialogue: 1,1:32:28.71,1:32:31.08,英文,,0000,0000,0000,,As you see...
+Dialogue: 1,1:32:31.12,1:32:33.12,英文,,0000,0000,0000,,... there will be no return.
+Dialogue: 1,1:32:33.15,1:32:34.88,英文,,0000,0000,0000,,And I got the key.
+Dialogue: 1,1:32:34.92,1:32:37.56,英文,,0000,0000,0000,,The lock is broken. Step forward.
+Dialogue: 1,1:32:37.59,1:32:40.08,英文,,0000,0000,0000,,Sit over there.
+Dialogue: 1,1:32:40.12,1:32:44.20,英文,,0000,0000,0000,,You'll watch the end of the world on TV.
+Dialogue: 1,1:32:44.23,1:32:45.84,英文,,0000,0000,0000,,Put your feet up.
+Dialogue: 1,1:32:45.87,1:32:48.64,英文,,0000,0000,0000,,Relax.
+Dialogue: 1,1:32:50.28,1:32:52.60,英文,,0000,0000,0000,,You know you're good.
+Dialogue: 1,1:32:52.63,1:32:54.68,英文,,0000,0000,0000,,You are really good.
+Dialogue: 1,1:32:54.72,1:32:57.50,英文,,0000,0000,0000,,It's a shame to kill you.
+Dialogue: 1,1:32:57.53,1:33:00.24,英文,,0000,0000,0000,,Behold my finest work.
+Dialogue: 1,1:33:00.28,1:33:03.00,英文,,0000,0000,0000,,Do me a favor. Tell me something.
+Dialogue: 1,1:33:03.04,1:33:07.04,英文,,0000,0000,0000,,You really think blowing up a bunch of innocent people...
+Dialogue: 1,1:33:07.07,1:33:08.84,英文,,0000,0000,0000,,... will change anything?
+Dialogue: 1,1:33:08.88,1:33:10.64,英文,,0000,0000,0000,,What made you flip like this?
+Dialogue: 1,1:33:10.68,1:33:14.14,英文,,0000,0000,0000,,I got tired of coming up with desperate solutions...
+Dialogue: 1,1:33:14.17,1:33:17.56,英文,,0000,0000,0000,,... to impossible problems created by other people.
+Dialogue: 1,1:33:17.60,1:33:21.80,英文,,0000,0000,0000,,All your ridiculous pitiful antics won't change a thing.
+Dialogue: 1,1:33:21.83,1:33:23.84,英文,,0000,0000,0000,,You and I...
+Dialogue: 1,1:33:23.88,1:33:27.44,英文,,0000,0000,0000,,... we're puppets in the same sick play.
+Dialogue: 1,1:33:27.47,1:33:30.28,英文,,0000,0000,0000,,We serve the same master...
+Dialogue: 1,1:33:30.32,1:33:35.16,英文,,0000,0000,0000,,... and he's an ungrateful lunatic. There's nothing we can do about it.
+Dialogue: 1,1:33:35.19,1:33:36.76,英文,,0000,0000,0000,,You and I are the same.
+Dialogue: 1,1:33:36.80,1:33:40.88,英文,,0000,0000,0000,,No. There's a difference my man.
+Dialogue: 1,1:33:40.91,1:33:44.72,英文,,0000,0000,0000,,You have faith. I don't.
+Dialogue: 1,1:34:38.40,1:34:42.24,英文,,0000,0000,0000,,Keep the faith Strannix.
+Dialogue: 1,1:34:50.08,1:34:53.68,英文,,0000,0000,0000,,Locked on my nose 15 miles.
+Dialogue: 1,1:34:56.48,1:34:59.64,英文,,0000,0000,0000,,Five miles on target. Weapon status clear.
+Dialogue: 1,1:34:59.67,1:35:02.56,英文,,0000,0000,0000,,Roger.
+Dialogue: 1,1:35:06.96,1:35:09.60,英文,,0000,0000,0000,,Admiral...
+Dialogue: 1,1:35:10.56,1:35:12.88,英文,,0000,0000,0000,,They intercepted one missile.
+Dialogue: 1,1:35:12.91,1:35:15.13,英文,,0000,0000,0000,,And the other one?
+Dialogue: 1,1:35:15.17,1:35:17.36,英文,,0000,0000,0000,,It slipped through.
+Dialogue: 1,1:35:33.56,1:35:35.00,英文,,0000,0000,0000,,Chief...
+Dialogue: 1,1:35:35.04,1:35:40.32,英文,,0000,0000,0000,,... we've only got time for one shot. So we'll do it by the numbers.
+Dialogue: 1,1:35:40.35,1:35:42.18,英文,,0000,0000,0000,,Load the disk.
+Dialogue: 1,1:35:42.21,1:35:44.00,英文,,0000,0000,0000,,Now punch 4- 7.
+Dialogue: 1,1:35:44.04,1:35:47.40,英文,,0000,0000,0000,,You're now on KU.
+Dialogue: 1,1:35:48.96,1:35:51.96,英文,,0000,0000,0000,,Code is 6 4...
+Dialogue: 1,1:35:51.99,1:35:53.99,英文,,0000,0000,0000,,... 3 5...
+Dialogue: 1,1:35:54.03,1:35:55.96,英文,,0000,0000,0000,,... 0 0.
+Dialogue: 1,1:35:56.00,1:35:59.68,英文,,0000,0000,0000,,That's 643500. Is my read - back correct?
+Dialogue: 1,1:35:59.71,1:36:02.36,英文,,0000,0000,0000,,Affirmative.
+Dialogue: 1,1:36:11.76,1:36:14.40,英文,,0000,0000,0000,,Stand by.
+Dialogue: 1,1:36:35.12,1:36:39.20,英文,,0000,0000,0000,,Got it! Nimitz is no longer tracking.
+Dialogue: 1,1:36:39.48,1:36:42.44,英文,,0000,0000,0000,,Good man Ryback!
+Dialogue: 1,1:36:45.48,1:36:49.24,英文,,0000,0000,0000,,Sir call off your bombers. Call off your bombers.
+Dialogue: 1,1:36:49.28,1:36:52.84,英文,,0000,0000,0000,,We're calling off the aircraft. We're calling them off.
+Dialogue: 1,1:36:52.87,1:36:55.92,英文,,0000,0000,0000,,Thanks Ryback. Great job! Great job!
+Dialogue: 1,1:36:55.96,1:37:01.04,英文,,0000,0000,0000,,Want to go swimming? I got a Zodiac and some C - rays...
+Dialogue: 1,1:37:01.07,1:37:03.51,英文,,0000,0000,0000,,... a little umbrella...
+Dialogue: 1,1:37:03.55,1:37:05.96,英文,,0000,0000,0000,,I'll go with you.
+Dialogue: 1,1:37:07.56,1:37:11.80,英文,,0000,0000,0000,,She's all right! She's all right!
+Dialogue: 1,1:37:11.96,1:37:14.48,英文,,0000,0000,0000,,Good good all of you guys.
+Dialogue: 1,1:37:14.52,1:37:16.80,英文,,0000,0000,0000,,Great!
+Dialogue: 1,1:37:16.83,1:37:19.08,英文,,0000,0000,0000,,Good job!
+Dialogue: 1,1:37:22.16,1:37:26.52,英文,,0000,0000,0000,,Hold on in there we'll get you out in a minute!
+Dialogue: 1,1:37:42.40,1:37:45.84,英文,,0000,0000,0000,,What'd I miss chief?
+Dialogue: 1,1:37:53.36,1:37:57.36,英文,,0000,0000,0000,,You'll need 3 or 4 stitches. Come to the infirmary.
+Dialogue: 1,1:37:57.39,1:38:01.08,英文,,0000,0000,0000,,I'm afraid of needles you know.
+Dialogue: 1,1:38:01.24,1:38:06.60,英文,,0000,0000,0000,,- What's for breakfast Case? - Subs Tackman. Subs!
+Dialogue: 1,1:38:06.63,1:38:08.64,英文,,0000,0000,0000,,Case show me a move.
+Dialogue: 1,1:38:08.67,1:38:11.84,英文,,0000,0000,0000,,Here's one move.
+Dialogue: 1,1:38:40.96,1:38:45.28,英文,,0000,0000,0000,,Present arms!
+Dialogue: 0,0:01:03.08,0:01:08.52,中文,,0000,0000,0000,,潜  龙  轰  天  Ⅰ
+Dialogue: 0,0:01:15.24,0:01:19.20,中文,,0000,0000,0000,,三十分钟后抵达珍珠港
+Dialogue: 0,0:01:22.56,0:01:23.94,中文,,0000,0000,0000,,嗨  凯斯
+Dialogue: 0,0:01:23.97,0:01:25.28,中文,,0000,0000,0000,,什么？
+Dialogue: 0,0:01:25.32,0:01:27.60,中文,,0000,0000,0000,,制服呢？  老总快到了
+Dialogue: 0,0:01:27.63,0:01:29.24,中文,,0000,0000,0000,,不缺我一个的
+Dialogue: 0,0:01:29.28,0:01:33.24,中文,,0000,0000,0000,,这什么德性？  你是海军  耍帅
+Dialogue: 0,0:01:33.28,0:01:35.76,中文,,0000,0000,0000,,- 裘宝  你好  - 制服呢？
+Dialogue: 0,0:01:35.80,0:01:41.88,中文,,0000,0000,0000,,- 可怜你没有裙装  - 我有  忘了带啦啦球而已
+Dialogue: 0,0:01:56.40,0:02:00.00,中文,,0000,0000,0000,,叫他别耽心  没问题的
+Dialogue: 0,0:02:00.03,0:02:03.24,中文,,0000,0000,0000,,噢  我的天
+Dialogue: 0,0:02:03.28,0:02:07.60,中文,,0000,0000,0000,,没关系  我们会处理
+Dialogue: 0,0:02:08.04,0:02:11.20,中文,,0000,0000,0000,,嗯  场面可有得瞧了！
+Dialogue: 0,0:02:11.23,0:02:12.64,中文,,0000,0000,0000,,大厨雷白来了
+Dialogue: 0,0:02:12.67,0:02:15.28,中文,,0000,0000,0000,,请他进来
+Dialogue: 0,0:02:19.68,0:02:21.60,中文,,0000,0000,0000,,穿上你的制服吧
+Dialogue: 0,0:02:21.64,0:02:24.84,中文,,0000,0000,0000,,你知道我很在乎礼节  我想...
+Dialogue: 0,0:02:24.87,0:02:27.44,中文,,0000,0000,0000,,有你的杠和花的话  我一定穿
+Dialogue: 0,0:02:27.47,0:02:28.64,中文,,0000,0000,0000,,是  长官
+Dialogue: 0,0:02:28.68,0:02:31.64,中文,,0000,0000,0000,,换上制服我就带你去见总统
+Dialogue: 0,0:02:31.68,0:02:35.32,中文,,0000,0000,0000,,- 谢了  不过...  - 这不是一个好主意
+Dialogue: 0,0:02:35.35,0:02:39.04,中文,,0000,0000,0000,,我和副舰长总算看法一致
+Dialogue: 0,0:02:39.08,0:02:43.72,中文,,0000,0000,0000,,我得在明天以前做出50锅汤
+Dialogue: 0,0:02:43.76,0:02:47.08,中文,,0000,0000,0000,,- 是为我的生日？  - 是啊  不然要我做汉堡更简单
+Dialogue: 0,0:02:47.11,0:02:52.16,中文,,0000,0000,0000,,不  让弟兄们好好吃一顿
+Dialogue: 0,0:02:52.19,0:02:56.40,中文,,0000,0000,0000,,- 典礼完你再出现  - 是  长官
+Dialogue: 0,0:02:56.43,0:02:58.72,中文,,0000,0000,0000,,你是位服装不整的海军
+Dialogue: 0,0:02:58.75,0:03:02.84,中文,,0000,0000,0000,,我同意  谢谢长官指教
+Dialogue: 0,0:03:07.48,0:03:09.04,中文,,0000,0000,0000,,长官...
+Dialogue: 0,0:03:09.08,0:03:12.04,中文,,0000,0000,0000,,你为什么容忍那家伙？
+Dialogue: 0,0:03:12.07,0:03:13.68,中文,,0000,0000,0000,,就凭他烧一手好菜吗？
+Dialogue: 0,0:03:13.72,0:03:18.84,中文,,0000,0000,0000,,他是块料  你不懂的  随他去
+Dialogue: 0,0:03:18.87,0:03:21.68,中文,,0000,0000,0000,,是  长官
+Dialogue: 0,0:03:26.40,0:03:28.08,中文,,0000,0000,0000,,五十年前的今天
+Dialogue: 0,0:03:28.12,0:03:31.64,中文,,0000,0000,0000,,日本攻击并毁灭太平洋舰队
+Dialogue: 0,0:03:31.67,0:03:33.16,中文,,0000,0000,0000,,地点就在珍珠港
+Dialogue: 0,0:03:33.20,0:03:38.24,中文,,0000,0000,0000,,为向死者致敬  密舰重返旧地
+Dialogue: 0,0:03:38.27,0:03:41.04,中文,,0000,0000,0000,,它完成保卫珍珠港的使命
+Dialogue: 0,0:03:41.08,0:03:43.92,中文,,0000,0000,0000,,于广岛投下原子弹的数天后
+Dialogue: 0,0:03:43.95,0:03:46.76,中文,,0000,0000,0000,,日本于密舰甲板正式投降
+Dialogue: 0,0:03:46.79,0:03:49.72,中文,,0000,0000,0000,,结束了二次世界大战
+Dialogue: 0,0:03:50.40,0:03:53.78,中文,,0000,0000,0000,,密舰于波斯湾战争率先开炮
+Dialogue: 0,0:03:53.81,0:03:57.12,中文,,0000,0000,0000,,强有力的16口径摧毁国城堡
+Dialogue: 0,0:03:57.16,0:04:01.24,中文,,0000,0000,0000,,战斧飞弹更直捣巴格达
+Dialogue: 0,0:04:01.28,0:04:06.48,中文,,0000,0000,0000,,- 堪称最快捷强大的海上战舰  - 拿去
+Dialogue: 0,0:04:07.60,0:04:09.00,中文,,0000,0000,0000,,你的刺青在哪？
+Dialogue: 0,0:04:09.04,0:04:12.36,中文,,0000,0000,0000,,你可不会想知道
+Dialogue: 0,0:04:12.39,0:04:15.64,中文,,0000,0000,0000,,如今密舰即将退役
+Dialogue: 0,0:04:15.68,0:04:18.88,中文,,0000,0000,0000,,布什总统做最后巡礼
+Dialogue: 0,0:04:18.91,0:04:20.48,中文,,0000,0000,0000,,向密舰及其战史致敬
+Dialogue: 0,0:04:20.52,0:04:26.08,中文,,0000,0000,0000,,听说安德和碧打猎的笑话吧
+Dialogue: 0,0:04:26.84,0:04:29.48,中文,,0000,0000,0000,,"枪在哪里  卓利？  "
+Dialogue: 0,0:04:29.51,0:04:30.88,中文,,0000,0000,0000,,学得满像的
+Dialogue: 0,0:04:30.92,0:04:34.16,中文,,0000,0000,0000,,最后凭此坚毅
+Dialogue: 0,0:04:34.20,0:04:38.04,中文,,0000,0000,0000,,仪式不仅纪念战争也庆祝和平
+Dialogue: 0,0:04:38.08,0:04:42.12,中文,,0000,0000,0000,,总统并不令撤除所有战斧飞弹  撤除法兰克泰迪
+Dialogue: 0,0:04:42.15,0:04:43.80,中文,,0000,0000,0000,,使其不再存于美国军舰
+Dialogue: 0,0:04:43.84,0:04:48.04,中文,,0000,0000,0000,,明天密舰将最后航行至旧金山
+Dialogue: 0,0:04:48.08,0:04:53.40,中文,,0000,0000,0000,,舰上精密的武器将被彻除肢解  不再使用
+Dialogue: 0,0:04:53.43,0:04:57.68,中文,,0000,0000,0000,,退役的密舰将安享其历史地位
+Dialogue: 0,0:04:57.72,0:05:03.68,中文,,0000,0000,0000,,最终的胜利将属于我们...  天助吾等
+Dialogue: 0,0:05:05.64,0:05:09.80,中文,,0000,0000,0000,,多少纳税人的钱被花在拍照上
+Dialogue: 0,0:05:10.88,0:05:13.32,中文,,0000,0000,0000,,准备启动  长官
+Dialogue: 0,0:05:13.36,0:05:17.08,中文,,0000,0000,0000,,很好  拔锚吧
+Dialogue: 0,0:05:17.11,0:05:20.80,中文,,0000,0000,0000,,是  长官  收线
+Dialogue: 0,0:05:49.00,0:05:54.48,中文,,0000,0000,0000,,- 舰长  离水道已清  - 很好
+Dialogue: 0,0:05:54.96,0:05:57.88,中文,,0000,0000,0000,,圭尔又不是管事的
+Dialogue: 0,0:05:57.92,0:06:01.04,中文,,0000,0000,0000,,反正得老头答应让直升机降落
+Dialogue: 0,0:06:01.08,0:06:05.84,中文,,0000,0000,0000,,舰长会"准"他自己庆生会吗
+Dialogue: 0,0:06:05.87,0:06:08.16,中文,,0000,0000,0000,,滑轮都已经收走了
+Dialogue: 0,0:06:08.19,0:06:10.40,中文,,0000,0000,0000,,直升机装什么？
+Dialogue: 0,0:06:10.43,0:06:13.64,中文,,0000,0000,0000,,小甜心
+Dialogue: 0,0:06:13.68,0:06:16.72,中文,,0000,0000,0000,,- 她在...没错  - 在蛋糕里
+Dialogue: 0,0:06:16.75,0:06:20.60,中文,,0000,0000,0000,,89年七月小姐.娇登
+Dialogue: 0,0:06:20.64,0:06:26.04,中文,,0000,0000,0000,,- 要好好欢迎她  - 好！  那本送你
+Dialogue: 0,0:06:26.07,0:06:31.80,中文,,0000,0000,0000,,波莱上尉  现在没时间说这个
+Dialogue: 0,0:06:31.84,0:06:34.64,中文,,0000,0000,0000,,没时间说核子武器安全问题？
+Dialogue: 0,0:06:34.67,0:06:36.92,中文,,0000,0000,0000,,可能是我没讲清楚
+Dialogue: 0,0:06:36.96,0:06:40.76,中文,,0000,0000,0000,,派对时不重要的岗哨不必留人
+Dialogue: 0,0:06:40.79,0:06:43.13,中文,,0000,0000,0000,,军舰巡逻队也不用当班
+Dialogue: 0,0:06:43.17,0:06:45.48,中文,,0000,0000,0000,,现有编制已经小的可怜了
+Dialogue: 0,0:06:45.51,0:06:46.88,中文,,0000,0000,0000,,这是命令！
+Dialogue: 0,0:06:46.92,0:06:51.40,中文,,0000,0000,0000,,日志会证明我被迫执行命令
+Dialogue: 0,0:06:51.43,0:06:54.08,中文,,0000,0000,0000,,好
+Dialogue: 0,0:06:57.16,0:06:59.28,中文,,0000,0000,0000,,嗨  裘宝
+Dialogue: 0,0:06:59.32,0:07:01.48,中文,,0000,0000,0000,,裘宝来了
+Dialogue: 0,0:07:01.51,0:07:02.92,中文,,0000,0000,0000,,来段舞步吧
+Dialogue: 0,0:07:02.96,0:07:06.60,中文,,0000,0000,0000,,大声点  音量开大
+Dialogue: 0,0:07:06.72,0:07:10.44,中文,,0000,0000,0000,,来嘛  跳两步嘛
+Dialogue: 0,0:07:10.47,0:07:12.24,中文,,0000,0000,0000,,快  裘宝
+Dialogue: 0,0:07:12.28,0:07:16.20,中文,,0000,0000,0000,,跳  裘宝跳  跳  裘宝跳！
+Dialogue: 0,0:07:32.76,0:07:35.76,中文,,0000,0000,0000,,真有趣...
+Dialogue: 0,0:07:35.80,0:07:37.08,中文,,0000,0000,0000,,下士雷白
+Dialogue: 0,0:07:37.12,0:07:39.96,中文,,0000,0000,0000,,- 泰勒少尉  - 长官
+Dialogue: 0,0:07:40.00,0:07:43.36,中文,,0000,0000,0000,,不必称我长官嘛  我们在厨房都很随便的
+Dialogue: 0,0:07:43.39,0:07:46.28,中文,,0000,0000,0000,,我会盯你  大家还要共渡一周
+Dialogue: 0,0:07:46.32,0:07:50.52,中文,,0000,0000,0000,,我看不到你安渡思春期了
+Dialogue: 0,0:07:52.12,0:07:53.40,中文,,0000,0000,0000,,要什么？
+Dialogue: 0,0:07:53.44,0:07:56.84,中文,,0000,0000,0000,,有关于舰长庆生宴的指示
+Dialogue: 0,0:07:56.87,0:07:59.68,中文,,0000,0000,0000,,晚餐由夏威夷运来
+Dialogue: 0,0:07:59.71,0:08:02.24,中文,,0000,0000,0000,,厨房五点关闭
+Dialogue: 0,0:08:02.28,0:08:07.00,中文,,0000,0000,0000,,全体在直升机降落前到餐厅
+Dialogue: 0,0:08:07.03,0:08:08.29,中文,,0000,0000,0000,,少来
+Dialogue: 0,0:08:08.33,0:08:09.52,中文,,0000,0000,0000,,对不起？
+Dialogue: 0,0:08:09.56,0:08:13.76,中文,,0000,0000,0000,,只有我能掌厨  你不满意的  去跟舰长说
+Dialogue: 0,0:08:13.79,0:08:16.00,中文,,0000,0000,0000,,你不懂是吧？
+Dialogue: 0,0:08:16.04,0:08:19.88,中文,,0000,0000,0000,,瞧  这是给他的惊喜
+Dialogue: 0,0:08:19.92,0:08:23.92,中文,,0000,0000,0000,,不准任何人去跟他讲
+Dialogue: 0,0:08:23.95,0:08:26.48,中文,,0000,0000,0000,,你知道吗
+Dialogue: 0,0:08:26.52,0:08:28.80,中文,,0000,0000,0000,,舰长和我都不喜欢惊奇
+Dialogue: 0,0:08:28.84,0:08:34.04,中文,,0000,0000,0000,,那只好走着瞧了  对吧？
+Dialogue: 0,0:08:39.19,0:08:41.02,中文,,0000,0000,0000,,红头小子走罗
+Dialogue: 0,0:08:41.80,0:08:46.08,中文,,0000,0000,0000,,"那只好走着瞧了  是吧？  "
+Dialogue: 0,0:08:46.11,0:08:48.52,中文,,0000,0000,0000,,圭尔一定会整你
+Dialogue: 0,0:08:48.56,0:08:52.16,中文,,0000,0000,0000,,怪不得我现在浑身发抖？
+Dialogue: 0,0:08:52.19,0:08:54.32,中文,,0000,0000,0000,,一股深深的恐惧
+Dialogue: 0,0:08:54.36,0:09:00.72,中文,,0000,0000,0000,,想想圭尔所能整的手段
+Dialogue: 0,0:09:04.28,0:09:06.28,中文,,0000,0000,0000,,副舰长圭尔到了
+Dialogue: 0,0:09:06.31,0:09:08.92,中文,,0000,0000,0000,,请他进来
+Dialogue: 0,0:09:16.84,0:09:19.48,中文,,0000,0000,0000,,你要见我？
+Dialogue: 0,0:09:19.51,0:09:20.72,中文,,0000,0000,0000,,副舰长圭尔
+Dialogue: 0,0:09:20.76,0:09:24.94,中文,,0000,0000,0000,,直升机降落怎能没有我的允许
+Dialogue: 0,0:09:24.97,0:09:29.12,中文,,0000,0000,0000,,- 我不该以为...  - 不  你根本不该试
+Dialogue: 0,0:09:29.15,0:09:32.04,中文,,0000,0000,0000,,你的行为是以下犯上
+Dialogue: 0,0:09:32.07,0:09:34.84,中文,,0000,0000,0000,,马上说出理由
+Dialogue: 0,0:09:34.88,0:09:39.72,中文,,0000,0000,0000,,贝兹将军感谢你及弟兄们配合
+Dialogue: 0,0:09:39.75,0:09:42.40,中文,,0000,0000,0000,,所以给你安排了庆生会
+Dialogue: 0,0:09:42.43,0:09:45.48,中文,,0000,0000,0000,,他会从夏威夷飞来
+Dialogue: 0,0:09:45.52,0:09:50.64,中文,,0000,0000,0000,,贝兹...  如果将军要开庆生会
+Dialogue: 0,0:09:50.68,0:09:54.44,中文,,0000,0000,0000,,那我们就开吧  但尽量简单  不值班的弟兄可以参加
+Dialogue: 0,0:09:54.47,0:09:56.16,中文,,0000,0000,0000,,但值勤的照旧
+Dialogue: 0,0:09:56.19,0:09:57.89,中文,,0000,0000,0000,,是  长官
+Dialogue: 0,0:09:57.93,0:09:59.56,中文,,0000,0000,0000,,舰长
+Dialogue: 0,0:09:59.60,0:10:02.32,中文,,0000,0000,0000,,既然这是给你的惊喜
+Dialogue: 0,0:10:02.36,0:10:05.08,中文,,0000,0000,0000,,请待在船舱等我们来接你
+Dialogue: 0,0:10:05.12,0:10:10.64,中文,,0000,0000,0000,,- 我会专心读小说  - 很好  长官
+Dialogue: 0,0:10:25.24,0:10:29.76,中文,,0000,0000,0000,,鱼汤没问题吧？  当心
+Dialogue: 0,0:10:41.64,0:10:43.16,中文,,0000,0000,0000,,如果我没记错的话
+Dialogue: 0,0:10:43.20,0:10:47.40,中文,,0000,0000,0000,,你们通通要到主甲板报到
+Dialogue: 0,0:10:47.43,0:10:50.76,中文,,0000,0000,0000,,因为要开舞会
+Dialogue: 0,0:10:50.84,0:10:53.60,中文,,0000,0000,0000,,别动
+Dialogue: 0,0:10:55.12,0:10:57.92,中文,,0000,0000,0000,,其他人上！  立刻
+Dialogue: 0,0:10:57.95,0:11:01.32,中文,,0000,0000,0000,,舞会见
+Dialogue: 0,0:11:03.08,0:11:04.40,中文,,0000,0000,0000,,你知道...
+Dialogue: 0,0:11:04.44,0:11:07.80,中文,,0000,0000,0000,,看起来满可口的
+Dialogue: 0,0:11:09.88,0:11:13.04,中文,,0000,0000,0000,,闻起来像腌肉煎蛋卷
+Dialogue: 0,0:11:13.07,0:11:14.88,中文,,0000,0000,0000,,我忍受你的无礼
+Dialogue: 0,0:11:14.92,0:11:17.84,中文,,0000,0000,0000,,因为舰长喜欢你的菜
+Dialogue: 0,0:11:17.87,0:11:20.76,中文,,0000,0000,0000,,但这次他可救不了你
+Dialogue: 0,0:11:20.79,0:11:24.36,中文,,0000,0000,0000,,是吗？
+Dialogue: 0,0:11:27.44,0:11:30.32,中文,,0000,0000,0000,,加点料
+Dialogue: 0,0:11:32.32,0:11:34.68,中文,,0000,0000,0000,,喜不喜欢？
+Dialogue: 0,0:11:34.72,0:11:37.20,中文,,0000,0000,0000,,你做什么？
+Dialogue: 0,0:11:37.23,0:11:39.28,中文,,0000,0000,0000,,这是攻击上级长官
+Dialogue: 0,0:11:39.32,0:11:42.68,中文,,0000,0000,0000,,那不是  这才是攻击上级长官
+Dialogue: 0,0:11:47.92,0:11:51.92,中文,,0000,0000,0000,,- 够了！  好了！  - 铐上他把他丢进牢房！
+Dialogue: 0,0:11:51.95,0:11:55.76,中文,,0000,0000,0000,,- 丢进牢房  - 要有舰长签名才能关我
+Dialogue: 0,0:11:55.79,0:11:57.20,中文,,0000,0000,0000,,说的对
+Dialogue: 0,0:11:57.24,0:11:59.56,中文,,0000,0000,0000,,把他关在冷藏室
+Dialogue: 0,0:11:59.59,0:12:02.24,中文,,0000,0000,0000,,立刻
+Dialogue: 0,0:12:02.27,0:12:03.80,中文,,0000,0000,0000,,走吧
+Dialogue: 0,0:12:03.84,0:12:09.20,中文,,0000,0000,0000,,怪不得你当厨子  打起架来像同性恋
+Dialogue: 0,0:12:09.23,0:12:11.84,中文,,0000,0000,0000,,给我
+Dialogue: 0,0:12:14.20,0:12:15.40,中文,,0000,0000,0000,,纳许
+Dialogue: 0,0:12:15.44,0:12:18.24,中文,,0000,0000,0000,,- 你在夏威夷上舰的？  - 是  长官
+Dialogue: 0,0:12:18.27,0:12:21.80,中文,,0000,0000,0000,,那你没听说过雷白
+Dialogue: 0,0:12:23.16,0:12:26.16,中文,,0000,0000,0000,,他精神错乱
+Dialogue: 0,0:12:26.20,0:12:29.28,中文,,0000,0000,0000,,他恨长官  恨美国
+Dialogue: 0,0:12:29.32,0:12:33.68,中文,,0000,0000,0000,,今天是舰长生日  我可不希望他搅局
+Dialogue: 0,0:12:33.71,0:12:37.39,中文,,0000,0000,0000,,不准任何人和他讲话或释放他
+Dialogue: 0,0:12:37.43,0:12:41.08,中文,,0000,0000,0000,,他想跑的话  你就开枪
+Dialogue: 0,0:12:41.11,0:12:43.28,中文,,0000,0000,0000,,一切靠你了
+Dialogue: 0,0:12:43.31,0:12:45.85,中文,,0000,0000,0000,,是  长官
+Dialogue: 0,0:12:45.89,0:12:48.40,中文,,0000,0000,0000,,我们走
+Dialogue: 0,0:12:59.28,0:13:02.96,中文,,0000,0000,0000,,又是个地狱般的酷寒日了
+Dialogue: 0,0:13:05.96,0:13:10.40,中文,,0000,0000,0000,,能到海上战舰劳军真不错
+Dialogue: 0,0:13:10.43,0:13:12.24,中文,,0000,0000,0000,,感觉很温馨
+Dialogue: 0,0:13:12.28,0:13:14.80,中文,,0000,0000,0000,,我很喜欢  你呢
+Dialogue: 0,0:13:14.84,0:13:18.28,中文,,0000,0000,0000,,我只希望不要吐就好
+Dialogue: 0,0:13:18.31,0:13:21.04,中文,,0000,0000,0000,,你不会有事的
+Dialogue: 0,0:13:36.16,0:13:39.68,中文,,0000,0000,0000,,棒极了  我会爱死
+Dialogue: 0,0:13:59.04,0:14:03.16,中文,,0000,0000,0000,,- 欢迎光临密苏里舰  - 谢谢
+Dialogue: 0,0:14:07.62,0:14:08.65,中文,,0000,0000,0000,,没事吗？
+Dialogue: 0,0:14:12.56,0:14:15.64,中文,,0000,0000,0000,,太棒了
+Dialogue: 0,0:14:16.20,0:14:21.32,中文,,0000,0000,0000,,大家都很兴奋  等着大闹一场呢
+Dialogue: 0,0:14:23.12,0:14:26.20,中文,,0000,0000,0000,,我爱死了这一行
+Dialogue: 0,0:14:26.23,0:14:29.00,中文,,0000,0000,0000,,我未来的老婆
+Dialogue: 0,0:14:29.03,0:14:31.20,中文,,0000,0000,0000,,她来啦
+Dialogue: 0,0:14:31.24,0:14:34.68,中文,,0000,0000,0000,,兔女郎来了  待会见
+Dialogue: 0,0:14:34.71,0:14:36.80,中文,,0000,0000,0000,,二等兵
+Dialogue: 0,0:14:36.84,0:14:40.44,中文,,0000,0000,0000,,圭尔把我关在这不是很奇怪吗
+Dialogue: 0,0:14:40.47,0:14:42.24,中文,,0000,0000,0000,,我没听到你说的
+Dialogue: 0,0:14:42.27,0:14:43.56,中文,,0000,0000,0000,,欢迎加入
+Dialogue: 0,0:14:43.60,0:14:46.04,中文,,0000,0000,0000,,兄弟  开条路
+Dialogue: 0,0:14:46.08,0:14:49.80,中文,,0000,0000,0000,,别被他们吓到  海上待的太久了  你还好吧
+Dialogue: 0,0:14:49.83,0:14:52.72,中文,,0000,0000,0000,,还是想吐
+Dialogue: 0,0:14:52.76,0:14:57.36,中文,,0000,0000,0000,,我们到更衣室  你可以换秀服
+Dialogue: 0,0:14:57.39,0:15:00.96,中文,,0000,0000,0000,,让小姐过去
+Dialogue: 0,0:15:05.24,0:15:09.92,中文,,0000,0000,0000,,当心蛋糕  电线可要藏好
+Dialogue: 0,0:15:09.95,0:15:11.88,中文,,0000,0000,0000,,这才对
+Dialogue: 0,0:15:11.92,0:15:14.84,中文,,0000,0000,0000,,- 你找不到路  - 不  长官  你要我们处哪儿？
+Dialogue: 0,0:15:14.87,0:15:16.80,中文,,0000,0000,0000,,- 乐队准备好了  - 好了
+Dialogue: 0,0:15:16.83,0:15:18.76,中文,,0000,0000,0000,,你  过去
+Dialogue: 0,0:15:18.80,0:15:22.36,中文,,0000,0000,0000,,台边  靠右边  快点
+Dialogue: 0,0:15:24.08,0:15:27.48,中文,,0000,0000,0000,,你可会把舰长迷死  你很漂亮
+Dialogue: 0,0:15:27.51,0:15:29.92,中文,,0000,0000,0000,,晕车晕船  请服两粒
+Dialogue: 0,0:15:29.96,0:15:31.92,中文,,0000,0000,0000,,这可救了我  你脸上怎么搞的
+Dialogue: 0,0:15:31.96,0:15:34.88,中文,,0000,0000,0000,,刮胡子刮到的  蛋糕马上就会装好
+Dialogue: 0,0:15:34.92,0:15:39.64,中文,,0000,0000,0000,,给你准备了一间更衣室  让你绝不会被男人骚扰
+Dialogue: 0,0:15:39.67,0:15:43.68,中文,,0000,0000,0000,,我也要去换秀服了  一会儿见
+Dialogue: 0,0:15:46.48,0:15:50.80,中文,,0000,0000,0000,,别耽心  你闭着眼睛都跳的出来
+Dialogue: 0,0:15:57.28,0:15:58.84,中文,,0000,0000,0000,,二等兵
+Dialogue: 0,0:15:58.88,0:16:00.88,中文,,0000,0000,0000,,放我出去
+Dialogue: 0,0:16:00.92,0:16:06.72,中文,,0000,0000,0000,,听圭尔命令的话  你会坐牢  用大脑想想
+Dialogue: 0,0:16:07.04,0:16:10.44,中文,,0000,0000,0000,,把派从烤箱拿出来
+Dialogue: 0,0:16:17.40,0:16:21.00,中文,,0000,0000,0000,,我一定疯了...
+Dialogue: 0,0:16:26.24,0:16:29.60,中文,,0000,0000,0000,,还很严重
+Dialogue: 0,0:16:31.92,0:16:36.36,中文,,0000,0000,0000,,我们要热烈欢迎各位
+Dialogue: 0,0:16:36.40,0:16:41.16,中文,,0000,0000,0000,,莅临壮观美丽的密舰大厅
+Dialogue: 0,0:16:41.64,0:16:46.68,中文,,0000,0000,0000,,在此优美的太平洋中
+Dialogue: 0,0:16:46.71,0:16:49.88,中文,,0000,0000,0000,,我是坏蛋比利
+Dialogue: 0,0:16:49.92,0:16:54.84,中文,,0000,0000,0000,,他们是帅呆了的"越狱高手"
+Dialogue: 0,0:16:55.20,0:16:58.84,中文,,0000,0000,0000,,我奉命令不准和你讲话  懂吗？  是命令
+Dialogue: 0,0:16:58.87,0:17:01.51,中文,,0000,0000,0000,,你要负责任的...
+Dialogue: 0,0:17:01.55,0:17:04.16,中文,,0000,0000,0000,,把我这样关在这里
+Dialogue: 0,0:17:04.19,0:17:06.24,中文,,0000,0000,0000,,你要想清楚
+Dialogue: 0,0:17:06.27,0:17:08.12,中文,,0000,0000,0000,,二等兵？
+Dialogue: 0,0:17:08.16,0:17:10.92,中文,,0000,0000,0000,,他没说不准和舰长讲话
+Dialogue: 0,0:17:10.95,0:17:15.00,中文,,0000,0000,0000,,去问他要不要把我关在这
+Dialogue: 0,0:17:15.92,0:17:19.56,中文,,0000,0000,0000,,你这个头号大脓包
+Dialogue: 0,0:17:23.32,0:17:27.64,中文,,0000,0000,0000,,上尉  弄的太好了
+Dialogue: 0,0:17:42.88,0:17:45.20,中文,,0000,0000,0000,,保持档次
+Dialogue: 0,0:17:45.24,0:17:49.16,中文,,0000,0000,0000,,来客法式开胃菜吧？
+Dialogue: 0,0:17:52.20,0:17:55.24,中文,,0000,0000,0000,,咱们有些什么
+Dialogue: 0,0:17:55.28,0:17:59.00,中文,,0000,0000,0000,,来  你的夹心卷  七月小姐呢
+Dialogue: 0,0:17:59.03,0:18:00.44,中文,,0000,0000,0000,,她来了
+Dialogue: 0,0:18:00.48,0:18:03.96,中文,,0000,0000,0000,,一九八九年七月号小姐
+Dialogue: 0,0:18:04.00,0:18:06.00,中文,,0000,0000,0000,,慢着...等等
+Dialogue: 0,0:18:06.03,0:18:08.08,中文,,0000,0000,0000,,她不是七月小姐
+Dialogue: 0,0:18:08.12,0:18:10.76,中文,,0000,0000,0000,,老天爷  看他那付德性
+Dialogue: 0,0:18:10.79,0:18:14.56,中文,,0000,0000,0000,,副舰长圭尔
+Dialogue: 0,0:18:20.60,0:18:23.68,中文,,0000,0000,0000,,欢迎光临革命现场
+Dialogue: 0,0:18:26.00,0:18:31.28,中文,,0000,0000,0000,,这场派对可要破海军纪录了  难怪他叫每个人都来
+Dialogue: 0,0:18:35.20,0:18:39.04,中文,,0000,0000,0000,,圭尔其实还不算是鸟人
+Dialogue: 0,0:18:39.08,0:18:45.12,中文,,0000,0000,0000,,很好  去请老头下来吧  他等很久了
+Dialogue: 0,0:18:45.24,0:18:47.74,中文,,0000,0000,0000,,好的
+Dialogue: 0,0:18:47.77,0:18:50.24,中文,,0000,0000,0000,,七月小姐
+Dialogue: 0,0:18:54.72,0:18:58.68,中文,,0000,0000,0000,,来吧  我们会使舰长大为惊奇
+Dialogue: 0,0:18:58.71,0:19:03.16,中文,,0000,0000,0000,,- 宴会愉快  - 来
+Dialogue: 0,0:19:06.56,0:19:07.96,中文,,0000,0000,0000,,大厨呢
+Dialogue: 0,0:19:08.00,0:19:11.16,中文,,0000,0000,0000,,被关在冷冻室  直到派对结束
+Dialogue: 0,0:19:11.19,0:19:14.83,中文,,0000,0000,0000,,里面只有摄氏几度
+Dialogue: 0,0:19:14.87,0:19:18.44,中文,,0000,0000,0000,,他不会有事的  有卫兵站岗
+Dialogue: 0,0:19:18.48,0:19:22.76,中文,,0000,0000,0000,,圭尔是疯子  去告诉舰长  他吐唾液于汤里？
+Dialogue: 0,0:19:22.79,0:19:25.64,中文,,0000,0000,0000,,厨房着火了
+Dialogue: 0,0:19:25.68,0:19:28.80,中文,,0000,0000,0000,,把派从烤箱拿出来
+Dialogue: 0,0:20:05.84,0:20:09.52,中文,,0000,0000,0000,,这内衣感觉真好
+Dialogue: 0,0:20:10.92,0:20:14.48,中文,,0000,0000,0000,,没问题  我来护送舰长进会场
+Dialogue: 0,0:20:14.51,0:20:17.48,中文,,0000,0000,0000,,好的
+Dialogue: 0,0:20:17.52,0:20:21.76,中文,,0000,0000,0000,,- 副舰长圭尔来了  - 请他进来
+Dialogue: 0,0:20:26.88,0:20:30.80,中文,,0000,0000,0000,,今晚我当你的女伴
+Dialogue: 0,0:20:41.96,0:20:46.52,中文,,0000,0000,0000,,慢着  等等
+Dialogue: 0,0:20:47.72,0:20:49.96,中文,,0000,0000,0000,,谁的官阶最高
+Dialogue: 0,0:20:50.00,0:20:53.80,中文,,0000,0000,0000,,现场谁的官阶最高
+Dialogue: 0,0:20:53.83,0:20:55.92,中文,,0000,0000,0000,,起立
+Dialogue: 0,0:20:55.96,0:20:59.32,中文,,0000,0000,0000,,请起立和上台发言
+Dialogue: 0,0:20:59.80,0:21:02.88,中文,,0000,0000,0000,,让开路  别挡路
+Dialogue: 0,0:21:02.91,0:21:04.84,中文,,0000,0000,0000,,灯往他身上打
+Dialogue: 0,0:21:04.88,0:21:10.08,中文,,0000,0000,0000,,你  长官  你官阶最高？
+Dialogue: 0,0:21:10.11,0:21:13.87,中文,,0000,0000,0000,,对  指挥官  第三顺位
+Dialogue: 0,0:21:13.91,0:21:17.64,中文,,0000,0000,0000,,幸会  格林指挥官
+Dialogue: 0,0:21:20.32,0:21:23.16,中文,,0000,0000,0000,,卧倒
+Dialogue: 0,0:21:25.60,0:21:26.92,中文,,0000,0000,0000,,怎么回事
+Dialogue: 0,0:21:26.96,0:21:30.08,中文,,0000,0000,0000,,舞会刚开始
+Dialogue: 0,0:21:30.68,0:21:32.60,中文,,0000,0000,0000,,舰长
+Dialogue: 0,0:21:32.63,0:21:34.48,中文,,0000,0000,0000,,好枪法
+Dialogue: 0,0:21:34.52,0:21:36.48,中文,,0000,0000,0000,,蹲下  双手举起了
+Dialogue: 0,0:21:36.51,0:21:37.72,中文,,0000,0000,0000,,头低下
+Dialogue: 0,0:21:37.76,0:21:40.88,中文,,0000,0000,0000,,你看什么？  卧在地板上
+Dialogue: 0,0:21:40.91,0:21:42.36,中文,,0000,0000,0000,,头放低
+Dialogue: 0,0:21:42.40,0:21:44.50,中文,,0000,0000,0000,,学乖了吧
+Dialogue: 0,0:21:44.53,0:21:46.60,中文,,0000,0000,0000,,这是开玩笑吗？
+Dialogue: 0,0:21:46.63,0:21:49.56,中文,,0000,0000,0000,,不是
+Dialogue: 0,0:21:50.24,0:21:53.52,中文,,0000,0000,0000,,有枪声  怎么回事
+Dialogue: 0,0:21:55.22,0:21:56.21,中文,,0000,0000,0000,,料理他
+Dialogue: 0,0:21:58.20,0:22:00.84,中文,,0000,0000,0000,,好了
+Dialogue: 0,0:22:04.84,0:22:08.68,中文,,0000,0000,0000,,超前四分钟  我好棒
+Dialogue: 0,0:22:10.50,0:22:12.77,中文,,0000,0000,0000,,快走  走啊
+Dialogue: 0,0:22:13.80,0:22:18.68,中文,,0000,0000,0000,,老母鹅  小鹅都进窝了
+Dialogue: 0,0:22:21.80,0:22:23.12,中文,,0000,0000,0000,,是音乐
+Dialogue: 0,0:22:23.16,0:22:27.48,中文,,0000,0000,0000,,你没脑袋  快呼叫舰桥
+Dialogue: 0,0:22:27.52,0:22:31.20,中文,,0000,0000,0000,,我不知道你在跟谁讲话  没人在听
+Dialogue: 0,0:22:31.23,0:22:33.68,中文,,0000,0000,0000,,我不是叫你听我的
+Dialogue: 0,0:22:33.71,0:22:37.76,中文,,0000,0000,0000,,快呼叫舰长
+Dialogue: 0,0:22:38.00,0:22:41.76,中文,,0000,0000,0000,,快走...走啊
+Dialogue: 0,0:22:45.24,0:22:48.12,中文,,0000,0000,0000,,封死
+Dialogue: 0,0:22:51.34,0:22:53.97,中文,,0000,0000,0000,,走...移动脚
+Dialogue: 0,0:22:54.18,0:22:57.81,中文,,0000,0000,0000,,走  走啊  移动脚
+Dialogue: 0,0:22:58.69,0:23:00.59,中文,,0000,0000,0000,,快走
+Dialogue: 0,0:23:00.62,0:23:04.82,中文,,0000,0000,0000,,往前走  往前走...
+Dialogue: 0,0:23:06.36,0:23:08.64,中文,,0000,0000,0000,,看好前排的那个
+Dialogue: 0,0:23:08.68,0:23:13.48,中文,,0000,0000,0000,,妈的！  这是我最后一次警告你
+Dialogue: 0,0:23:22.48,0:23:24.76,中文,,0000,0000,0000,,学着点
+Dialogue: 0,0:23:24.80,0:23:28.00,中文,,0000,0000,0000,,反抗的话就杀你和前后左右
+Dialogue: 0,0:23:28.03,0:23:32.80,中文,,0000,0000,0000,,现在  依次离开这里
+Dialogue: 0,0:23:33.92,0:23:36.56,中文,,0000,0000,0000,,立刻
+Dialogue: 0,0:24:02.32,0:24:03.41,中文,,0000,0000,0000,,怎么了？
+Dialogue: 0,0:24:07.89,0:24:09.55,中文,,0000,0000,0000,,士官！  双手举起
+Dialogue: 0,0:24:09.56,0:24:12.84,中文,,0000,0000,0000,,转身  手放头上
+Dialogue: 0,0:24:34.44,0:24:37.44,中文,,0000,0000,0000,,在哪里呢
+Dialogue: 0,0:24:37.47,0:24:40.40,中文,,0000,0000,0000,,找到了
+Dialogue: 0,0:24:40.44,0:24:44.76,中文,,0000,0000,0000,,听听这段说我的烂话
+Dialogue: 0,0:24:45.60,0:24:49.62,中文,,0000,0000,0000,,数周来圭尔待人更形恶劣
+Dialogue: 0,0:24:49.65,0:24:53.64,中文,,0000,0000,0000,,可能兴我上次对其的评鉴有关
+Dialogue: 0,0:24:53.68,0:25:00.36,中文,,0000,0000,0000,,建议于其调动前做心理测验
+Dialogue: 0,0:25:03.20,0:25:07.08,中文,,0000,0000,0000,,我看起来需要心理测验吗
+Dialogue: 0,0:25:07.11,0:25:10.24,中文,,0000,0000,0000,,一点也不
+Dialogue: 0,0:25:11.28,0:25:14.36,中文,,0000,0000,0000,,我要换衣服了
+Dialogue: 0,0:25:22.16,0:25:25.24,中文,,0000,0000,0000,,手放在头后
+Dialogue: 0,0:25:26.92,0:25:30.00,中文,,0000,0000,0000,,举起来靠墙
+Dialogue: 0,0:25:32.48,0:25:35.20,中文,,0000,0000,0000,,值星官已到舰桥了
+Dialogue: 0,0:25:35.23,0:25:36.84,中文,,0000,0000,0000,,听着
+Dialogue: 0,0:25:36.88,0:25:41.40,中文,,0000,0000,0000,,手放头上  立刻移向前台前
+Dialogue: 0,0:25:41.76,0:25:48.48,中文,,0000,0000,0000,,你们的目标是前甲板舱  只要合作就不会有事
+Dialogue: 0,0:25:51.64,0:25:54.88,中文,,0000,0000,0000,,换岗  屁股挪过来！  快点
+Dialogue: 0,0:25:56.32,0:26:00.76,中文,,0000,0000,0000,,你们干的很好  今天不必值勤  快点  你聋了  出去
+Dialogue: 0,0:26:01.88,0:26:05.72,中文,,0000,0000,0000,,手别碰控制盘  全部的人  出去
+Dialogue: 0,0:26:12.36,0:26:16.52,中文,,0000,0000,0000,,不要脸的小混混  出去！
+Dialogue: 0,0:26:18.88,0:26:22.88,中文,,0000,0000,0000,,我的天  娘儿们
+Dialogue: 0,0:26:28.52,0:26:32.32,中文,,0000,0000,0000,,磁碟片  皮特先生
+Dialogue: 0,0:26:32.56,0:26:34.60,中文,,0000,0000,0000,,看好
+Dialogue: 0,0:26:34.63,0:26:36.60,中文,,0000,0000,0000,,一定
+Dialogue: 0,0:26:36.64,0:26:40.76,中文,,0000,0000,0000,,船舱图带过来
+Dialogue: 0,0:26:42.36,0:26:46.00,中文,,0000,0000,0000,,- 已经停摆了他们系统  - 也掌握了密码和作战中心
+Dialogue: 0,0:26:46.03,0:26:49.96,中文,,0000,0000,0000,,引擎室  机房  舰桥及各甲板
+Dialogue: 0,0:26:49.99,0:26:52.68,中文,,0000,0000,0000,,通道的门也都封死了
+Dialogue: 0,0:26:52.72,0:26:55.80,中文,,0000,0000,0000,,裘宝少数几个水手还在晃荡
+Dialogue: 0,0:26:55.84,0:26:59.08,中文,,0000,0000,0000,,反正不会阻止我们的计划
+Dialogue: 0,0:26:59.11,0:27:02.80,中文,,0000,0000,0000,,- 其他的都在前甲板舱  - 好极了
+Dialogue: 0,0:27:02.83,0:27:06.08,中文,,0000,0000,0000,,重新启动武器系统  皮特
+Dialogue: 0,0:27:06.11,0:27:07.56,中文,,0000,0000,0000,,多玛先生...
+Dialogue: 0,0:27:07.60,0:27:12.52,中文,,0000,0000,0000,,焊接队可以在通道作业了
+Dialogue: 0,0:27:12.55,0:27:17.44,中文,,0000,0000,0000,,副舰长圭尔  现在你是舰长了
+Dialogue: 0,0:27:17.47,0:27:21.44,中文,,0000,0000,0000,,恭喜  船是你的了
+Dialogue: 0,0:27:21.47,0:27:24.16,中文,,0000,0000,0000,,船是我的
+Dialogue: 0,0:27:24.20,0:27:26.84,中文,,0000,0000,0000,,谢谢  好棒
+Dialogue: 0,0:27:26.88,0:27:31.40,中文,,0000,0000,0000,,有没有吃的
+Dialogue: 0,0:27:31.43,0:27:34.40,中文,,0000,0000,0000,,拿点吃的来
+Dialogue: 0,0:27:38.16,0:27:41.12,中文,,0000,0000,0000,,圭尔说你很狡猾
+Dialogue: 0,0:27:41.16,0:27:45.28,中文,,0000,0000,0000,,我不是狡猾  是快冻僵了  事有问题
+Dialogue: 0,0:27:45.31,0:27:47.72,中文,,0000,0000,0000,,呼叫舰桥  他们不会骂你的
+Dialogue: 0,0:27:47.75,0:27:50.36,中文,,0000,0000,0000,,你在尽责而已  快查
+Dialogue: 0,0:27:50.39,0:27:53.32,中文,,0000,0000,0000,,好吧  我查一下
+Dialogue: 0,0:27:53.36,0:27:54.80,中文,,0000,0000,0000,,别的少来
+Dialogue: 0,0:27:54.84,0:27:58.12,中文,,0000,0000,0000,,快查  小心点
+Dialogue: 0,0:28:00.72,0:28:03.96,中文,,0000,0000,0000,,满不赖的嘛
+Dialogue: 0,0:28:04.00,0:28:06.24,中文,,0000,0000,0000,,很好  会有帮助
+Dialogue: 0,0:28:06.28,0:28:10.32,中文,,0000,0000,0000,,纳许在呼叫  说他在厨房值勤
+Dialogue: 0,0:28:10.35,0:28:13.20,中文,,0000,0000,0000,,皮特  找出厨房所在位置
+Dialogue: 0,0:28:13.24,0:28:17.88,中文,,0000,0000,0000,,还没清查过...从那可通全舰
+Dialogue: 0,0:28:20.48,0:28:23.80,中文,,0000,0000,0000,,雷白  厨子  难缠的要死
+Dialogue: 0,0:28:23.83,0:28:26.28,中文,,0000,0000,0000,,电话给我
+Dialogue: 0,0:28:26.32,0:28:28.52,中文,,0000,0000,0000,,二等兵纳许  长官！
+Dialogue: 0,0:28:28.56,0:28:31.96,中文,,0000,0000,0000,,我很高兴你呼叫了  我和舰长在一起
+Dialogue: 0,0:28:31.99,0:28:34.96,中文,,0000,0000,0000,,看好雷白  千万别开门
+Dialogue: 0,0:28:34.99,0:28:37.92,中文,,0000,0000,0000,,说你派人去换班
+Dialogue: 0,0:28:37.96,0:28:43.72,中文,,0000,0000,0000,,说你派人去换班
+Dialogue: 0,0:28:44.16,0:28:48.78,中文,,0000,0000,0000,,好好站岗  我派人去换班
+Dialogue: 0,0:28:48.81,0:28:53.40,中文,,0000,0000,0000,,没事吧？  我们好像听到枪声
+Dialogue: 0,0:28:53.43,0:28:55.72,中文,,0000,0000,0000,,枪声？  噢  那个啊...
+Dialogue: 0,0:28:55.76,0:28:58.44,中文,,0000,0000,0000,,是派对爆竹  烟火...
+Dialogue: 0,0:28:58.47,0:28:59.92,中文,,0000,0000,0000,,生日派对的部分活动
+Dialogue: 0,0:28:59.96,0:29:03.36,中文,,0000,0000,0000,,好好站岗
+Dialogue: 0,0:29:03.39,0:29:06.76,中文,,0000,0000,0000,,- 是  长官  - 完毕
+Dialogue: 0,0:29:09.40,0:29:11.32,中文,,0000,0000,0000,,还有你没讲的？  什么
+Dialogue: 0,0:29:11.36,0:29:14.92,中文,,0000,0000,0000,,一时间忘记的...
+Dialogue: 0,0:29:14.95,0:29:18.32,中文,,0000,0000,0000,,之类的
+Dialogue: 0,0:29:18.36,0:29:23.44,中文,,0000,0000,0000,,两个人  一个关起来了  我会处理他
+Dialogue: 0,0:29:23.48,0:29:27.96,中文,,0000,0000,0000,,我们来弄  扫荡厨房  派凯斯和齐格下去
+Dialogue: 0,0:29:27.99,0:29:29.84,中文,,0000,0000,0000,,卫兵有武器
+Dialogue: 0,0:29:29.88,0:29:32.28,中文,,0000,0000,0000,,人手要多  我去
+Dialogue: 0,0:29:32.32,0:29:35.00,中文,,0000,0000,0000,,放心  他们有专业水准
+Dialogue: 0,0:29:35.03,0:29:37.68,中文,,0000,0000,0000,,能摆平二十个海军...
+Dialogue: 0,0:29:37.71,0:29:41.44,中文,,0000,0000,0000,,和一百个厨子
+Dialogue: 0,0:29:45.56,0:29:48.44,中文,,0000,0000,0000,,你错了  雷白  你错了
+Dialogue: 0,0:29:48.48,0:29:51.96,中文,,0000,0000,0000,,- 根本是派对爆竹  - 你没脑子
+Dialogue: 0,0:29:52.00,0:29:56.84,中文,,0000,0000,0000,,在新兵训练营给洗脑了  你一定要对上级质疑
+Dialogue: 0,0:29:56.87,0:29:58.76,中文,,0000,0000,0000,,相信我  小老弟
+Dialogue: 0,0:29:58.80,0:30:02.44,中文,,0000,0000,0000,,那是枪声  放我出去我来解决
+Dialogue: 0,0:30:02.48,0:30:07.04,中文,,0000,0000,0000,,几分钟内我就交班了  你最好给我闭嘴坐好
+Dialogue: 0,0:30:07.07,0:30:10.60,中文,,0000,0000,0000,,一定是出事了  这次用用你的脑子
+Dialogue: 0,0:30:10.63,0:30:12.84,中文,,0000,0000,0000,,做你该做的  放我出去
+Dialogue: 0,0:30:12.88,0:30:16.96,中文,,0000,0000,0000,,不然等我出来了  一定宰你
+Dialogue: 0,0:30:20.68,0:30:23.72,中文,,0000,0000,0000,,副舰长圭尔
+Dialogue: 0,0:30:24.80,0:30:27.72,中文,,0000,0000,0000,,是你吗？
+Dialogue: 0,0:30:29.96,0:30:34.04,中文,,0000,0000,0000,,手放头上...头上  转过身来
+Dialogue: 0,0:30:34.07,0:30:36.45,中文,,0000,0000,0000,,跪下
+Dialogue: 0,0:30:36.49,0:30:38.84,中文,,0000,0000,0000,,两脚交叉
+Dialogue: 0,0:30:43.28,0:30:45.16,中文,,0000,0000,0000,,厨子呢？
+Dialogue: 0,0:30:45.19,0:30:47.57,中文,,0000,0000,0000,,冰库里
+Dialogue: 0,0:30:47.61,0:30:49.96,中文,,0000,0000,0000,,哪一座？
+Dialogue: 0,0:31:19.28,0:31:22.72,中文,,0000,0000,0000,,他妈的！
+Dialogue: 0,0:32:31.39,0:32:32.86,中文,,0000,0000,0000,,凯斯
+Dialogue: 0,0:33:41.80,0:33:45.12,中文,,0000,0000,0000,,发现一架战斗机F  - 18
+Dialogue: 0,0:33:47.08,0:33:51.12,中文,,0000,0000,0000,,多玛  他们派F  - 18来找直升机
+Dialogue: 0,0:33:51.16,0:33:56.92,中文,,0000,0000,0000,,行驶315英里  时速四百英里  标高约八千英尺
+Dialogue: 0,0:33:58.96,0:34:03.04,中文,,0000,0000,0000,,207号  只剩六十一英里
+Dialogue: 0,0:34:24.00,0:34:27.84,中文,,0000,0000,0000,,标高五千  开始下降
+Dialogue: 0,0:34:27.88,0:34:31.28,中文,,0000,0000,0000,,下降
+Dialogue: 0,0:35:07.56,0:35:11.64,中文,,0000,0000,0000,,似乎有架直升机在甲板上
+Dialogue: 0,0:35:12.92,0:35:14.11,中文,,0000,0000,0000,,零方位
+Dialogue: 0,0:35:15.00,0:35:18.04,中文,,0000,0000,0000,,飞近一看
+Dialogue: 0,0:35:21.92,0:35:25.60,中文,,0000,0000,0000,,31呼叫密苏里
+Dialogue: 0,0:35:25.63,0:35:28.52,中文,,0000,0000,0000,,再会了
+Dialogue: 0,0:35:29.08,0:35:31.28,中文,,0000,0000,0000,,你在侦测我？
+Dialogue: 0,0:35:31.31,0:35:33.80,中文,,0000,0000,0000,,不是
+Dialogue: 0,0:35:33.84,0:35:37.84,中文,,0000,0000,0000,,他锁定我了！  救命！
+Dialogue: 0,0:35:48.12,0:35:51.76,中文,,0000,0000,0000,,欢迎加入革命阵容
+Dialogue: 0,0:35:55.88,0:35:59.08,中文,,0000,0000,0000,,连络海军危机处理中心  好主意
+Dialogue: 0,0:36:20.96,0:36:22.96,中文,,0000,0000,0000,,你的麻烦大了
+Dialogue: 0,0:36:23.00,0:36:26.36,中文,,0000,0000,0000,,最好一次解决掉
+Dialogue: 0,0:36:26.40,0:36:29.44,中文,,0000,0000,0000,,自称以前在中情局是你手下
+Dialogue: 0,0:36:29.47,0:36:30.96,中文,,0000,0000,0000,,叫什么
+Dialogue: 0,0:36:31.00,0:36:33.32,中文,,0000,0000,0000,,威廉  史传尼
+Dialogue: 0,0:36:33.35,0:36:36.92,中文,,0000,0000,0000,,我的天哪！
+Dialogue: 0,0:36:36.95,0:36:39.43,中文,,0000,0000,0000,,不妙
+Dialogue: 0,0:36:39.47,0:36:41.92,中文,,0000,0000,0000,,不妙.
+Dialogue: 0,0:36:50.20,0:36:52.48,中文,,0000,0000,0000,,贝克先生
+Dialogue: 0,0:36:52.52,0:36:55.32,中文,,0000,0000,0000,,今晚你最好坦白一点
+Dialogue: 0,0:36:55.36,0:36:59.44,中文,,0000,0000,0000,,我们立刻需要知道答案
+Dialogue: 0,0:37:00.08,0:37:05.16,中文,,0000,0000,0000,,听好  诸位  如有飞机军艇迫近一百英里内
+Dialogue: 0,0:37:05.19,0:37:10.52,中文,,0000,0000,0000,,我们就枪杀船员  以示报复
+Dialogue: 0,0:37:10.55,0:37:14.68,中文,,0000,0000,0000,,比尔  我是汤姆  怎么回事
+Dialogue: 0,0:37:14.72,0:37:17.68,中文,,0000,0000,0000,,汤姆  有32枚战斧飞弹在我手中
+Dialogue: 0,0:37:17.71,0:37:20.64,中文,,0000,0000,0000,,你唯一能做的就是知会新闻界
+Dialogue: 0,0:37:20.67,0:37:22.44,中文,,0000,0000,0000,,你没有发射密码
+Dialogue: 0,0:37:22.47,0:37:25.20,中文,,0000,0000,0000,,让我猜猜...
+Dialogue: 0,0:37:25.35,0:37:27.18,中文,,0000,0000,0000,,弹指令密码
+Dialogue: 0,0:37:27.24,0:37:31.96,中文,,0000,0000,0000,,五  - 六  - 六  - 零  - 四  - 九  - 九  - 七  - 八  - 零？
+Dialogue: 0,0:37:33.12,0:37:34.92,中文,,0000,0000,0000,,你疯了
+Dialogue: 0,0:37:34.96,0:37:37.92,中文,,0000,0000,0000,,小心你的用词遣字  汤姆
+Dialogue: 0,0:37:37.96,0:37:42.60,中文,,0000,0000,0000,,史传尼先生  我是贝兹上将  为什么你要这么做呢
+Dialogue: 0,0:37:42.63,0:37:43.84,中文,,0000,0000,0000,,嗨  将军！
+Dialogue: 0,0:37:43.88,0:37:48.24,中文,,0000,0000,0000,,半年前汤姆取消艳后行动
+Dialogue: 0,0:37:48.28,0:37:54.28,中文,,0000,0000,0000,,之后  很短时间内  两个总部派来的人又要干掉我
+Dialogue: 0,0:37:54.31,0:37:59.32,中文,,0000,0000,0000,,你没收到他们的食指吗？
+Dialogue: 0,0:37:59.85,0:38:01.01,中文,,0000,0000,0000,,汤姆？
+Dialogue: 0,0:38:01.56,0:38:02.84,中文,,0000,0000,0000,,收到了
+Dialogue: 0,0:38:02.88,0:38:06.92,中文,,0000,0000,0000,,你以为我们会坐以待毙
+Dialogue: 0,0:38:06.95,0:38:10.12,中文,,0000,0000,0000,,我知道事情现在对你来说...
+Dialogue: 0,0:38:10.16,0:38:13.08,中文,,0000,0000,0000,,- 有点混乱  - 混乱！
+Dialogue: 0,0:38:13.11,0:38:15.92,中文,,0000,0000,0000,,你醒醒！  汤姆
+Dialogue: 0,0:38:15.96,0:38:20.64,中文,,0000,0000,0000,,你和我都知道  混乱和骚动已然盘据整个世界
+Dialogue: 0,0:38:20.68,0:38:24.96,中文,,0000,0000,0000,,大气层的被破坏只是开始  我们所有的土地只剩一英寸厚
+Dialogue: 0,0:38:24.99,0:38:26.24,中文,,0000,0000,0000,,土地表层
+Dialogue: 0,0:38:26.28,0:38:31.36,中文,,0000,0000,0000,,性病  森林滥砍  基因乱配
+Dialogue: 0,0:38:31.39,0:38:32.92,中文,,0000,0000,0000,,一切都将为人遗忘
+Dialogue: 0,0:38:32.96,0:38:36.04,中文,,0000,0000,0000,,政府会垮台  无政府统治
+Dialogue: 0,0:38:36.07,0:38:39.16,中文,,0000,0000,0000,,美丽新世界
+Dialogue: 0,0:38:39.20,0:38:41.24,中文,,0000,0000,0000,,你打算怎么做
+Dialogue: 0,0:38:41.28,0:38:46.96,中文,,0000,0000,0000,,不管我做什么都是势在必行  你同意吧
+Dialogue: 0,0:38:46.99,0:38:48.60,中文,,0000,0000,0000,,未必
+Dialogue: 0,0:38:48.64,0:38:50.08,中文,,0000,0000,0000,,又来了
+Dialogue: 0,0:38:50.12,0:38:54.92,中文,,0000,0000,0000,,不要跟我争论  商议或使诈
+Dialogue: 0,0:38:54.95,0:38:57.80,中文,,0000,0000,0000,,要反省一下你的策略
+Dialogue: 0,0:38:57.84,0:39:02.08,中文,,0000,0000,0000,,好吧  抱歉  你做的都是势在必行的
+Dialogue: 0,0:39:02.11,0:39:03.36,中文,,0000,0000,0000,,拿我的一条命来说...
+Dialogue: 0,0:39:03.40,0:39:07.88,中文,,0000,0000,0000,,你们这些人就想要取  我进过军校  打过越战
+Dialogue: 0,0:39:07.91,0:39:11.40,中文,,0000,0000,0000,,我错过了六十年  我相信如果我能在美国贡献
+Dialogue: 0,0:39:11.43,0:39:14.72,中文,,0000,0000,0000,,所有事会因此改观
+Dialogue: 0,0:39:14.76,0:39:19.08,中文,,0000,0000,0000,,如果只为了要过60年代干瘾  我劝你还是算了
+Dialogue: 0,0:39:19.11,0:39:20.83,中文,,0000,0000,0000,,群众运动早死了
+Dialogue: 0,0:39:20.87,0:39:22.52,中文,,0000,0000,0000,,所以才被叫做"运动"
+Dialogue: 0,0:39:22.56,0:39:25.36,中文,,0000,0000,0000,,它只移动了一下就停了
+Dialogue: 0,0:39:25.40,0:39:30.12,中文,,0000,0000,0000,,革命则会永远卷土重来
+Dialogue: 0,0:39:30.15,0:39:33.28,中文,,0000,0000,0000,,你还想要杀我...臭婊子
+Dialogue: 0,0:39:33.31,0:39:36.04,中文,,0000,0000,0000,,欢迎加入革命阵容
+Dialogue: 0,0:39:36.08,0:39:40.24,中文,,0000,0000,0000,,稍后请继续  保持连络
+Dialogue: 0,0:39:42.80,0:39:45.64,中文,,0000,0000,0000,,他精神有病
+Dialogue: 0,0:39:45.68,0:39:48.08,中文,,0000,0000,0000,,完全疯了
+Dialogue: 0,0:39:48.12,0:39:52.76,中文,,0000,0000,0000,,- 我要一份密舰配备清单  - 是  长官
+Dialogue: 0,0:39:55.04,0:39:58.12,中文,,0000,0000,0000,,将军  给你报告
+Dialogue: 0,0:39:58.16,0:40:04.20,中文,,0000,0000,0000,,恐吓经查证属实  那是真的  我再重覆  是真的
+Dialogue: 0,0:40:04.48,0:40:06.42,中文,,0000,0000,0000,,见鬼  见鬼
+Dialogue: 0,0:40:06.45,0:40:08.32,中文,,0000,0000,0000,,他们相信你？
+Dialogue: 0,0:40:08.36,0:40:11.88,中文,,0000,0000,0000,,不知道  他们说我发疯  失常
+Dialogue: 0,0:40:11.91,0:40:13.84,中文,,0000,0000,0000,,鱼叉飞弹已经锁定
+Dialogue: 0,0:40:13.87,0:40:16.48,中文,,0000,0000,0000,,准备好就发射
+Dialogue: 0,0:40:23.72,0:40:27.72,中文,,0000,0000,0000,,安静  搞什么
+Dialogue: 0,0:40:27.76,0:40:30.72,中文,,0000,0000,0000,,飞弹升空
+Dialogue: 0,0:40:35.40,0:40:37.28,中文,,0000,0000,0000,,飞弹升空
+Dialogue: 0,0:40:37.31,0:40:39.80,中文,,0000,0000,0000,,好家伙
+Dialogue: 0,0:40:39.84,0:40:43.24,中文,,0000,0000,0000,,好家伙  好家伙
+Dialogue: 0,0:40:51.16,0:40:54.40,中文,,0000,0000,0000,,碰...！  你死定了
+Dialogue: 0,0:40:55.88,0:40:59.56,中文,,0000,0000,0000,,- 他已破坏卫星中继站  - 不让我们探知密舰所在位置
+Dialogue: 0,0:40:59.59,0:41:01.04,中文,,0000,0000,0000,,要让我们摸不透
+Dialogue: 0,0:41:01.08,0:41:04.76,中文,,0000,0000,0000,,不合逻辑反正我们能从  珍珠港雷达得知密舰动向
+Dialogue: 0,0:41:04.79,0:41:06.60,中文,,0000,0000,0000,,可使用警控系统去追踪
+Dialogue: 0,0:41:06.64,0:41:11.04,中文,,0000,0000,0000,,- 或从尼米兹舰  - 派遣E2C侦察机
+Dialogue: 0,0:41:11.07,0:41:14.40,中文,,0000,0000,0000,,去做  叫醒总统
+Dialogue: 0,0:41:16.68,0:41:19.62,中文,,0000,0000,0000,,拿焊枪来
+Dialogue: 0,0:41:19.65,0:41:22.52,中文,,0000,0000,0000,,来了
+Dialogue: 0,0:41:22.56,0:41:27.48,中文,,0000,0000,0000,,快烧  他火了  时间就是金钱
+Dialogue: 0,0:41:28.04,0:41:33.16,中文,,0000,0000,0000,,- 他们最好能办事  - 快上去！
+Dialogue: 0,0:41:33.19,0:41:36.00,中文,,0000,0000,0000,,小心头
+Dialogue: 0,0:41:40.88,0:41:44.56,中文,,0000,0000,0000,,幸好我给你舰图了  说吧
+Dialogue: 0,0:41:45.28,0:41:48.48,中文,,0000,0000,0000,,这边分四路  那边分七路
+Dialogue: 0,0:41:48.51,0:41:52.88,中文,,0000,0000,0000,,一个小时内会好
+Dialogue: 0,0:41:53.35,0:41:54.79,中文,,0000,0000,0000,,焊枪拿来
+Dialogue: 0,0:41:56.48,0:42:00.72,中文,,0000,0000,0000,,时间就是金钱
+Dialogue: 0,0:42:02.36,0:42:05.28,中文,,0000,0000,0000,,时间...就是金钱
+Dialogue: 0,0:42:05.32,0:42:10.72,中文,,0000,0000,0000,,这可会把他们打的稀烂  打得稀烂
+Dialogue: 0,0:42:12.80,0:42:15.36,中文,,0000,0000,0000,,那是什么声音？
+Dialogue: 0,0:42:15.39,0:42:17.92,中文,,0000,0000,0000,,我亲爱的船员
+Dialogue: 0,0:42:20.80,0:42:26.48,中文,,0000,0000,0000,,再试试  拼命敲  总有人会听到我们
+Dialogue: 0,0:43:38.00,0:43:40.84,中文,,0000,0000,0000,,把音乐关掉
+Dialogue: 0,0:43:49.88,0:43:53.56,中文,,0000,0000,0000,,到底怎么回事？
+Dialogue: 0,0:43:53.84,0:43:57.16,中文,,0000,0000,0000,,人呢？
+Dialogue: 0,0:44:00.40,0:44:05.08,中文,,0000,0000,0000,,- 你是谁？  怎么在这里？  - 我叫娇登  台特
+Dialogue: 0,0:44:05.11,0:44:07.96,中文,,0000,0000,0000,,一九八九年七月小姐
+Dialogue: 0,0:44:08.00,0:44:10.88,中文,,0000,0000,0000,,他们雇我来从蛋糕里跳出来
+Dialogue: 0,0:44:10.92,0:44:14.44,中文,,0000,0000,0000,,但是飞来的时候我晕机
+Dialogue: 0,0:44:14.47,0:44:17.16,中文,,0000,0000,0000,,有一个人拿药给我吃
+Dialogue: 0,0:44:17.20,0:44:21.00,中文,,0000,0000,0000,,- 我就睡着了  - 你说的是满篇鬼话
+Dialogue: 0,0:44:21.03,0:44:23.56,中文,,0000,0000,0000,,我是个演员
+Dialogue: 0,0:44:23.60,0:44:26.56,中文,,0000,0000,0000,,拍过一集"猎杀者"  和"又湿又野"录影带
+Dialogue: 0,0:44:26.59,0:44:30.12,中文,,0000,0000,0000,,经纪人说我只要跳出蛋糕就好
+Dialogue: 0,0:44:30.15,0:44:32.44,中文,,0000,0000,0000,,直升机上有几个人
+Dialogue: 0,0:44:32.47,0:44:33.76,中文,,0000,0000,0000,,不晓得
+Dialogue: 0,0:44:33.80,0:44:37.28,中文,,0000,0000,0000,,不过很满  有乐队和厨师
+Dialogue: 0,0:44:37.31,0:44:39.24,中文,,0000,0000,0000,,机员呢？
+Dialogue: 0,0:44:39.28,0:44:42.60,中文,,0000,0000,0000,,不知道  我什么也没看到
+Dialogue: 0,0:44:42.64,0:44:46.36,中文,,0000,0000,0000,,你没看到没听到也不记得了
+Dialogue: 0,0:44:46.39,0:44:48.96,中文,,0000,0000,0000,,我这一生是做过不少傻事
+Dialogue: 0,0:44:49.00,0:44:53.24,中文,,0000,0000,0000,,但是  我真的不知道
+Dialogue: 0,0:44:54.00,0:44:57.20,中文,,0000,0000,0000,,好  我相信你
+Dialogue: 0,0:44:58.60,0:45:03.60,中文,,0000,0000,0000,,你呢？  你是什么特种部队吧
+Dialogue: 0,0:45:03.63,0:45:06.20,中文,,0000,0000,0000,,我只是个厨子
+Dialogue: 0,0:45:06.23,0:45:07.52,中文,,0000,0000,0000,,厨子？
+Dialogue: 0,0:45:07.56,0:45:10.58,中文,,0000,0000,0000,,只是个微不足道的小厨子
+Dialogue: 0,0:45:10.61,0:45:13.56,中文,,0000,0000,0000,,老天！  我们死定了
+Dialogue: 0,0:45:13.60,0:45:17.36,中文,,0000,0000,0000,,舰上配有四万枚追踪飞弹
+Dialogue: 0,0:45:17.39,0:45:19.60,中文,,0000,0000,0000,,超过一千枚的十六英寸飞弹
+Dialogue: 0,0:45:19.64,0:45:24.60,中文,,0000,0000,0000,,相信该舰另有十五枚鱼叉飞弹
+Dialogue: 0,0:45:24.63,0:45:26.69,中文,,0000,0000,0000,,及三十二枚战斧
+Dialogue: 0,0:45:26.73,0:45:28.72,中文,,0000,0000,0000,,哪一种战斧
+Dialogue: 0,0:45:28.76,0:45:30.96,中文,,0000,0000,0000,,没关系  你可以说
+Dialogue: 0,0:45:31.00,0:45:32.60,中文,,0000,0000,0000,,八枚特种级
+Dialogue: 0,0:45:32.64,0:45:36.28,中文,,0000,0000,0000,,核子弹头  每枚含二十二万吨炸药
+Dialogue: 0,0:45:36.32,0:45:40.40,中文,,0000,0000,0000,,贝克先生  这样的疯子怎能任职
+Dialogue: 0,0:45:40.43,0:45:42.40,中文,,0000,0000,0000,,在中情局
+Dialogue: 0,0:45:42.43,0:45:44.64,中文,,0000,0000,0000,,你能回答吗？
+Dialogue: 0,0:45:44.68,0:45:50.12,中文,,0000,0000,0000,,高级探员像史传尼的压力很大
+Dialogue: 0,0:45:50.15,0:45:53.48,中文,,0000,0000,0000,,他们先天都很有创造力
+Dialogue: 0,0:45:53.51,0:45:56.84,中文,,0000,0000,0000,,汤姆在中情局专门训练疯子
+Dialogue: 0,0:45:56.88,0:46:02.92,中文,,0000,0000,0000,,我们想知道的是...  他怎么弄到战舰的
+Dialogue: 0,0:46:02.95,0:46:06.12,中文,,0000,0000,0000,,那是他的特长
+Dialogue: 0,0:46:06.96,0:46:11.16,中文,,0000,0000,0000,,最近北韩重装一艘潜艇  以发射反舰飞弹
+Dialogue: 0,0:46:11.19,0:46:12.68,中文,,0000,0000,0000,,所以我们叫史传尼去
+Dialogue: 0,0:46:12.72,0:46:16.48,中文,,0000,0000,0000,,你在支持这个疯狂计划
+Dialogue: 0,0:46:16.51,0:46:19.52,中文,,0000,0000,0000,,也不想想可能会出事
+Dialogue: 0,0:46:19.56,0:46:23.64,中文,,0000,0000,0000,,我们发现总统不认可此计划后
+Dialogue: 0,0:46:23.67,0:46:28.44,中文,,0000,0000,0000,,立刻要他停止  却失败了
+Dialogue: 0,0:46:28.47,0:46:29.84,中文,,0000,0000,0000,,恕我插嘴...
+Dialogue: 0,0:46:29.88,0:46:33.12,中文,,0000,0000,0000,,这艘北韩潜艇
+Dialogue: 0,0:46:33.16,0:46:36.56,中文,,0000,0000,0000,,你怎么知道他把它炸沉了
+Dialogue: 0,0:46:37.04,0:46:39.60,中文,,0000,0000,0000,,噢  我们肯定是他
+Dialogue: 0,0:46:39.63,0:46:42.36,中文,,0000,0000,0000,,肯定
+Dialogue: 0,0:46:48.96,0:46:53.08,中文,,0000,0000,0000,,"跑路者"叫"小鸣鸟"  听到我了吗？  请回答
+Dialogue: 0,0:46:53.11,0:46:55.88,中文,,0000,0000,0000,,"小鸣鸟"叫"跑路者"  我们很近
+Dialogue: 0,0:46:55.91,0:46:58.48,中文,,0000,0000,0000,,- 进行的如何  - 潜艇浮出海了
+Dialogue: 0,0:46:58.52,0:47:02.12,中文,,0000,0000,0000,,- 一切照进度  - 有没有看到惠利小子？
+Dialogue: 0,0:47:02.15,0:47:05.36,中文,,0000,0000,0000,,没有  照计划于鸟笼见  "跑路者"通话完毕
+Dialogue: 0,0:47:05.39,0:47:07.08,中文,,0000,0000,0000,,你是跑路者？
+Dialogue: 0,0:47:07.11,0:47:10.12,中文,,0000,0000,0000,,从没被抓过
+Dialogue: 0,0:47:10.92,0:47:14.02,中文,,0000,0000,0000,,出状况了  凯斯  齐格失踪
+Dialogue: 0,0:47:14.05,0:47:17.12,中文,,0000,0000,0000,,一直呼叫他们  却没回答
+Dialogue: 0,0:47:17.15,0:47:19.52,中文,,0000,0000,0000,,- 最后所在位置  - 厨房
+Dialogue: 0,0:47:19.56,0:47:22.92,中文,,0000,0000,0000,,告诉你要多派点人  告诉你
+Dialogue: 0,0:47:22.95,0:47:25.48,中文,,0000,0000,0000,,不要留我一个人在这儿
+Dialogue: 0,0:47:25.52,0:47:31.56,中文,,0000,0000,0000,,相信我  这里最安全  懂吗？
+Dialogue: 0,0:47:31.92,0:47:35.08,中文,,0000,0000,0000,,放我出去！
+Dialogue: 0,0:47:39.00,0:47:41.16,中文,,0000,0000,0000,,放我出去！
+Dialogue: 0,0:47:41.20,0:47:44.40,中文,,0000,0000,0000,,知道有人听到你叫会怎样吗？
+Dialogue: 0,0:47:44.43,0:47:47.48,中文,,0000,0000,0000,,会把我们杀了
+Dialogue: 0,0:47:47.51,0:47:50.56,中文,,0000,0000,0000,,安静点
+Dialogue: 0,0:47:55.12,0:47:57.52,中文,,0000,0000,0000,,我最怕一个人
+Dialogue: 0,0:47:57.55,0:47:59.92,中文,,0000,0000,0000,,怕不怕死？
+Dialogue: 0,0:48:02.55,0:48:03.78,中文,,0000,0000,0000,,检查一下
+Dialogue: 0,0:48:06.64,0:48:09.44,中文,,0000,0000,0000,,检查完毕
+Dialogue: 0,0:48:19.08,0:48:22.12,中文,,0000,0000,0000,,换上这些
+Dialogue: 0,0:48:31.00,0:48:34.16,中文,,0000,0000,0000,,你跟我来  但是要掩护好
+Dialogue: 0,0:48:34.20,0:48:37.64,中文,,0000,0000,0000,,如果碰到敌人时你正在舱口
+Dialogue: 0,0:48:37.68,0:48:42.28,中文,,0000,0000,0000,,那就站着扮成舱口  给你这把有选择开关的来福枪
+Dialogue: 0,0:48:42.31,0:48:45.64,中文,,0000,0000,0000,,一边是全自动  一边是半自动
+Dialogue: 0,0:48:45.68,0:48:49.48,中文,,0000,0000,0000,,半自动的定义是说  当你扣下扳机
+Dialogue: 0,0:48:49.51,0:48:51.36,中文,,0000,0000,0000,,就发射一枚子弹
+Dialogue: 0,0:48:51.40,0:48:57.56,中文,,0000,0000,0000,,这就是我要给你的  一次射一发  好吗？
+Dialogue: 0,0:48:57.68,0:48:59.00,中文,,0000,0000,0000,,开灯
+Dialogue: 0,0:48:59.04,0:49:03.44,中文,,0000,0000,0000,,检查线路板  以前也这样过
+Dialogue: 0,0:49:05.76,0:49:09.08,中文,,0000,0000,0000,,行家干的
+Dialogue: 0,0:49:10.44,0:49:14.12,中文,,0000,0000,0000,,- 是谁？  怎么会在我的船上？  - 你的船？
+Dialogue: 0,0:49:14.15,0:49:17.52,中文,,0000,0000,0000,,要不是我你根本不可能在船上
+Dialogue: 0,0:49:17.56,0:49:19.88,中文,,0000,0000,0000,,他是厨子  就这样
+Dialogue: 0,0:49:19.92,0:49:23.12,中文,,0000,0000,0000,,- 厨子做不出来的  - 他和舰长一起来
+Dialogue: 0,0:49:23.16,0:49:28.08,中文,,0000,0000,0000,,他的底细我摸的很熟  他专长耍菜刀
+Dialogue: 0,0:49:28.11,0:49:30.88,中文,,0000,0000,0000,,这不是菜刀
+Dialogue: 0,0:49:32.28,0:49:34.40,中文,,0000,0000,0000,,他运气好
+Dialogue: 0,0:49:34.44,0:49:37.52,中文,,0000,0000,0000,,据我看  是军队不要他
+Dialogue: 0,0:49:37.55,0:49:41.28,中文,,0000,0000,0000,,所以才来管厨房
+Dialogue: 0,0:49:41.31,0:49:43.92,中文,,0000,0000,0000,,趴下
+Dialogue: 0,0:49:56.92,0:49:58.84,中文,,0000,0000,0000,,- 是什么啊？  - 炸弹  笨蛋
+Dialogue: 0,0:49:58.87,0:50:01.52,中文,,0000,0000,0000,,他用微波炉当雷管
+Dialogue: 0,0:50:01.56,0:50:04.32,中文,,0000,0000,0000,,清查这里和作战指挥中心之间
+Dialogue: 0,0:50:04.36,0:50:07.76,中文,,0000,0000,0000,,一看到可疑情况就呼叫找帮手  懂吗
+Dialogue: 0,0:50:07.79,0:50:11.28,中文,,0000,0000,0000,,快灭火
+Dialogue: 0,0:50:12.68,0:50:17.88,中文,,0000,0000,0000,,我要瞧瞧这个大厨师的档案  舰长先生
+Dialogue: 0,0:50:17.91,0:50:21.32,中文,,0000,0000,0000,,灭他妈的火啊
+Dialogue: 0,0:50:22.84,0:50:26.80,中文,,0000,0000,0000,,尼米兹舰  乘坐CH  - 55乘直升机出发
+Dialogue: 0,0:50:26.83,0:50:29.16,中文,,0000,0000,0000,,另有阿帕契战斗直升机护航
+Dialogue: 0,0:50:29.20,0:50:33.12,中文,,0000,0000,0000,,在目标区内阿帕契会摧毁雷达
+Dialogue: 0,0:50:33.15,0:50:35.68,中文,,0000,0000,0000,,及电子作战系统
+Dialogue: 0,0:50:35.72,0:50:38.56,中文,,0000,0000,0000,,然后第五队上船收复失舰
+Dialogue: 0,0:50:38.59,0:50:41.16,中文,,0000,0000,0000,,成功的机率呢？
+Dialogue: 0,0:50:41.20,0:50:44.32,中文,,0000,0000,0000,,如果那个疯子只有部分控制...
+Dialogue: 0,0:50:44.35,0:50:47.00,中文,,0000,0000,0000,,机率便很大
+Dialogue: 0,0:50:47.04,0:50:49.48,中文,,0000,0000,0000,,但  如果他准备充分
+Dialogue: 0,0:50:49.52,0:50:52.56,中文,,0000,0000,0000,,如果他会击退登舰者...
+Dialogue: 0,0:50:52.59,0:50:54.36,中文,,0000,0000,0000,,机率便不大
+Dialogue: 0,0:50:54.40,0:50:59.00,中文,,0000,0000,0000,,话又说回来  第五队都是精锐
+Dialogue: 0,0:50:59.03,0:51:03.60,中文,,0000,0000,0000,,是我们唯一拯救舰员  收复失舰的机会
+Dialogue: 0,0:51:03.63,0:51:07.84,中文,,0000,0000,0000,,让我说明一件事
+Dialogue: 0,0:51:07.87,0:51:10.24,中文,,0000,0000,0000,,如果特种部队失败
+Dialogue: 0,0:51:10.28,0:51:15.24,中文,,0000,0000,0000,,我们就只有发动空中攻击
+Dialogue: 0,0:51:15.27,0:51:19.04,中文,,0000,0000,0000,,摧毁密舰
+Dialogue: 0,0:51:19.40,0:51:21.88,中文,,0000,0000,0000,,你们都明白此举严重性
+Dialogue: 0,0:51:21.91,0:51:24.75,中文,,0000,0000,0000,,我们会取回失舰
+Dialogue: 0,0:51:24.79,0:51:27.83,中文,,0000,0000,0000,,做给我看
+Dialogue: 0,0:51:27.87,0:51:30.84,中文,,0000,0000,0000,,22度  12度  太棒了
+Dialogue: 0,0:51:30.88,0:51:34.44,中文,,0000,0000,0000,,从甲板到飞弹有44英里
+Dialogue: 0,0:51:34.48,0:51:38.96,中文,,0000,0000,0000,,三十分钟装设该处的起重机
+Dialogue: 0,0:51:39.00,0:51:44.44,中文,,0000,0000,0000,,雷白的档案  不在人事档案室  在舰长保险柜里
+Dialogue: 0,0:51:44.47,0:51:46.53,中文,,0000,0000,0000,,他以前是三栖特种部队
+Dialogue: 0,0:51:46.57,0:51:48.56,中文,,0000,0000,0000,,厨子是特种部队？
+Dialogue: 0,0:51:48.60,0:51:51.88,中文,,0000,0000,0000,,你闭嘴听好  "国术专家"  精通
+Dialogue: 0,0:51:51.91,0:51:54.28,中文,,0000,0000,0000,,爆破  武器  战略
+Dialogue: 0,0:51:54.32,0:51:58.48,中文,,0000,0000,0000,,获银星奖  海军十字奖  紫心勋章加饰徽
+Dialogue: 0,0:51:58.52,0:52:03.64,中文,,0000,0000,0000,,巴拿马事件后特许证撤消  所以他不能有官阶
+Dialogue: 0,0:52:03.67,0:52:06.84,中文,,0000,0000,0000,,除了  小兵或厨子  我够孤陋寡闻了
+Dialogue: 0,0:52:06.87,0:52:09.48,中文,,0000,0000,0000,,引擎室又损失两名部下
+Dialogue: 0,0:52:09.52,0:52:12.64,中文,,0000,0000,0000,,告诉过你要每个船员档案
+Dialogue: 0,0:52:12.68,0:52:16.20,中文,,0000,0000,0000,,我知  但拿不到舰长私有档案
+Dialogue: 0,0:52:16.24,0:52:19.56,中文,,0000,0000,0000,,- 我来亲自收拾这家伙  - 安静点...
+Dialogue: 0,0:52:19.59,0:52:21.88,中文,,0000,0000,0000,,- 你想被杀吗？  - 你是笨蛋啊？
+Dialogue: 0,0:52:21.91,0:52:24.16,中文,,0000,0000,0000,,- 你叫我笨蛋  - 正是
+Dialogue: 0,0:52:24.20,0:52:28.12,中文,,0000,0000,0000,,镇静一点  给我三组巡逻队  把他卡在甲板下
+Dialogue: 0,0:52:28.15,0:52:31.28,中文,,0000,0000,0000,,- 快去！  - 照进度行事
+Dialogue: 0,0:52:31.80,0:52:34.80,中文,,0000,0000,0000,,我们去舰桥
+Dialogue: 0,0:52:35.60,0:52:38.80,中文,,0000,0000,0000,,我是女孩  为什么都要我拿
+Dialogue: 0,0:52:38.84,0:52:43.00,中文,,0000,0000,0000,,- 我支持妇女解放  你难道不  - 对我有好处时才支持
+Dialogue: 0,0:52:43.03,0:52:45.68,中文,,0000,0000,0000,,- 听好  全体舰员  - 往前走
+Dialogue: 0,0:52:45.71,0:52:47.92,中文,,0000,0000,0000,,"小心陷阱炸弹"
+Dialogue: 0,0:52:47.96,0:52:52.00,中文,,0000,0000,0000,,不要在没巡逻队区内接近敌人
+Dialogue: 0,0:52:52.04,0:52:56.88,中文,,0000,0000,0000,,个别于休息时向多玛报告
+Dialogue: 0,0:52:56.91,0:52:59.16,中文,,0000,0000,0000,,并改换无线电频率
+Dialogue: 0,0:52:59.19,0:53:01.92,中文,,0000,0000,0000,,立即执行
+Dialogue: 0,0:53:04.00,0:53:06.88,中文,,0000,0000,0000,,他妈的特种部队
+Dialogue: 0,0:53:06.92,0:53:09.24,中文,,0000,0000,0000,,我来拿东西
+Dialogue: 0,0:53:09.28,0:53:12.88,中文,,0000,0000,0000,,你来杀敌人
+Dialogue: 0,0:53:12.92,0:53:16.40,中文,,0000,0000,0000,,我有我杀人的原则
+Dialogue: 0,0:53:16.52,0:53:19.04,中文,,0000,0000,0000,,事实上  我有两个原则  第一
+Dialogue: 0,0:53:19.08,0:53:22.52,中文,,0000,0000,0000,,不和搞音乐的约会  第二  我不杀人
+Dialogue: 0,0:53:22.55,0:53:25.12,中文,,0000,0000,0000,,听到这个我可高兴死了
+Dialogue: 0,0:53:25.16,0:53:28.28,中文,,0000,0000,0000,,表示确实有许多事你会去做  爬上梯子
+Dialogue: 0,0:53:28.31,0:53:31.24,中文,,0000,0000,0000,,- 走啊  - 天啦
+Dialogue: 0,0:53:31.68,0:53:36.04,中文,,0000,0000,0000,,你找错拍档了
+Dialogue: 0,0:53:38.08,0:53:41.24,中文,,0000,0000,0000,,等着
+Dialogue: 0,0:53:44.28,0:53:46.92,中文,,0000,0000,0000,,坐在那儿
+Dialogue: 0,0:53:46.96,0:53:50.48,中文,,0000,0000,0000,,我马上回来
+Dialogue: 0,0:55:16.64,0:55:19.64,中文,,0000,0000,0000,,那是什么？
+Dialogue: 0,0:55:20.72,0:55:22.68,中文,,0000,0000,0000,,那是什么？
+Dialogue: 0,0:55:22.72,0:55:24.84,中文,,0000,0000,0000,,特种部队连线电话
+Dialogue: 0,0:55:24.88,0:55:29.92,中文,,0000,0000,0000,,MX20- 20  防窃听卫星电话
+Dialogue: 0,0:55:29.95,0:55:33.25,中文,,0000,0000,0000,,就像汽车电话一样
+Dialogue: 0,0:55:33.29,0:55:36.56,中文,,0000,0000,0000,,对  像那样
+Dialogue: 0,0:55:42.40,0:55:45.64,中文,,0000,0000,0000,,抱歉  上将  这是新消息
+Dialogue: 0,0:55:48.40,0:55:50.52,中文,,0000,0000,0000,,你认识凯兹  雷白
+Dialogue: 0,0:55:50.55,0:55:52.04,中文,,0000,0000,0000,,雷白队长
+Dialogue: 0,0:55:52.08,0:55:55.44,中文,,0000,0000,0000,,他是顶尖的  他在就好了
+Dialogue: 0,0:55:55.47,0:55:58.80,中文,,0000,0000,0000,,他从船上打卫星电话来
+Dialogue: 0,0:55:58.83,0:56:01.04,中文,,0000,0000,0000,,什么？
+Dialogue: 0,0:56:01.08,0:56:04.60,中文,,0000,0000,0000,,听好  诸位
+Dialogue: 0,0:56:04.63,0:56:06.48,中文,,0000,0000,0000,,正确
+Dialogue: 0,0:56:06.52,0:56:09.32,中文,,0000,0000,0000,,能估计的出对方兵力吗？
+Dialogue: 0,0:56:09.35,0:56:11.64,中文,,0000,0000,0000,,大约三十人
+Dialogue: 0,0:56:11.68,0:56:13.80,中文,,0000,0000,0000,,我们帮你接葛兹上校
+Dialogue: 0,0:56:13.83,0:56:15.48,中文,,0000,0000,0000,,请稍候
+Dialogue: 0,0:56:15.52,0:56:18.08,中文,,0000,0000,0000,,万一他替对方工作呢？
+Dialogue: 0,0:56:18.12,0:56:22.40,中文,,0000,0000,0000,,- 我来担保雷白  他是好人  - 等等
+Dialogue: 0,0:56:22.43,0:56:26.96,中文,,0000,0000,0000,,我们不该冒险  别把计划告诉他
+Dialogue: 0,0:56:27.00,0:56:30.00,中文,,0000,0000,0000,,- 大厨雷白  我是葛兹上校  - 很高兴你也在
+Dialogue: 0,0:56:30.03,0:56:33.80,中文,,0000,0000,0000,,现在要你做的是提供现场情报
+Dialogue: 0,0:56:33.83,0:56:36.88,中文,,0000,0000,0000,,他虽然很疯狂  但他很专业
+Dialogue: 0,0:56:36.92,0:56:41.44,中文,,0000,0000,0000,,他们装配栏杆要来拆战斧飞弹
+Dialogue: 0,0:56:41.47,0:56:45.36,中文,,0000,0000,0000,,副舰长也跟他们一伙
+Dialogue: 0,0:56:45.80,0:56:48.08,中文,,0000,0000,0000,,副舰长圭尔也涉及此事？
+Dialogue: 0,0:56:48.11,0:56:49.96,中文,,0000,0000,0000,,将军
+Dialogue: 0,0:56:50.00,0:56:52.56,中文,,0000,0000,0000,,他们占领了军舰
+Dialogue: 0,0:56:52.59,0:56:54.84,中文,,0000,0000,0000,,我的天
+Dialogue: 0,0:56:54.88,0:56:59.20,中文,,0000,0000,0000,,大厨雷白  我是贝兹上将
+Dialogue: 0,0:56:59.24,0:57:04.16,中文,,0000,0000,0000,,尽量配合我们  明白吧？  保持镇静
+Dialogue: 0,0:57:04.19,0:57:07.12,中文,,0000,0000,0000,,等待突击队  懂吗？
+Dialogue: 0,0:57:07.15,0:57:09.72,中文,,0000,0000,0000,,他们发现前我最好关机
+Dialogue: 0,0:57:09.76,0:57:12.60,中文,,0000,0000,0000,,- 三十分钟内再通话  - 知道了
+Dialogue: 0,0:57:12.63,0:57:15.72,中文,,0000,0000,0000,,你不是厨子
+Dialogue: 0,0:57:16.00,0:57:18.96,中文,,0000,0000,0000,,这个嘛
+Dialogue: 0,0:57:20.04,0:57:21.92,中文,,0000,0000,0000,,我也会做菜
+Dialogue: 0,0:57:21.95,0:57:23.76,中文,,0000,0000,0000,,拿好东西
+Dialogue: 0,0:57:23.80,0:57:27.42,中文,,0000,0000,0000,,他在巴拿马事件前一帆风顺
+Dialogue: 0,0:57:27.45,0:57:31.04,中文,,0000,0000,0000,,该役中由于情报不足队员全死
+Dialogue: 0,0:57:31.07,0:57:33.68,中文,,0000,0000,0000,,他是斗士  最好的那种
+Dialogue: 0,0:57:33.72,0:57:37.36,中文,,0000,0000,0000,,巴拿马回来后他把上司打一顿
+Dialogue: 0,0:57:37.39,0:57:41.12,中文,,0000,0000,0000,,亚当带他上船让他把兵役服完
+Dialogue: 0,0:57:41.15,0:57:43.20,中文,,0000,0000,0000,,慢着
+Dialogue: 0,0:57:43.24,0:57:47.42,中文,,0000,0000,0000,,要是"小白"或什么的讲实话
+Dialogue: 0,0:57:47.45,0:57:51.60,中文,,0000,0000,0000,,飞弹真的在突击队到前被拆呢
+Dialogue: 0,0:57:51.63,0:57:56.00,中文,,0000,0000,0000,,史传尼不可能办的到
+Dialogue: 0,0:57:56.04,0:57:58.80,中文,,0000,0000,0000,,我们有空中警控装置  及檀香山的安全防卫系统
+Dialogue: 0,0:57:58.83,0:58:02.96,中文,,0000,0000,0000,,能侦测海上每艘舰艇
+Dialogue: 0,0:58:03.00,0:58:04.96,中文,,0000,0000,0000,,一旦飞弹离舰  马上抓得到
+Dialogue: 0,0:58:05.00,0:58:09.64,中文,,0000,0000,0000,,怎么知道檀香山不是下个目标
+Dialogue: 0,0:58:09.67,0:58:12.76,中文,,0000,0000,0000,,你来告诉我
+Dialogue: 0,0:58:16.07,0:58:18.10,中文,,0000,0000,0000,,上来帮他一下
+Dialogue: 0,0:58:18.11,0:58:20.13,中文,,0000,0000,0000,,快滚上来
+Dialogue: 0,0:58:24.68,0:58:27.92,中文,,0000,0000,0000,,看看这个
+Dialogue: 0,0:58:28.00,0:58:33.32,中文,,0000,0000,0000,,- 这些小红灯是做什么的？  - 受过训
+Dialogue: 0,0:58:36.28,0:58:38.80,中文,,0000,0000,0000,,你会驾直升机？  对
+Dialogue: 0,0:58:38.84,0:58:41.80,中文,,0000,0000,0000,,那我们就能逃走了？  不
+Dialogue: 0,0:58:41.83,0:58:44.36,中文,,0000,0000,0000,,这枝是MP  - 5K
+Dialogue: 0,0:58:44.40,0:58:47.24,中文,,0000,0000,0000,,红灯瞄准以后  一定射中
+Dialogue: 0,0:58:47.28,0:58:52.04,中文,,0000,0000,0000,,- 告诉过你我不喜欢枪  - 我知道  我也不喜欢
+Dialogue: 0,0:58:52.07,0:58:55.44,中文,,0000,0000,0000,,现在回原位去
+Dialogue: 0,0:59:23.16,0:59:26.96,中文,,0000,0000,0000,,这些飞弹可卖的快了
+Dialogue: 0,0:59:26.99,0:59:29.60,中文,,0000,0000,0000,,一定的
+Dialogue: 0,0:59:29.64,0:59:32.44,中文,,0000,0000,0000,,二亿美金你要怎么花？
+Dialogue: 0,0:59:32.47,0:59:35.28,中文,,0000,0000,0000,,买个总统当一当
+Dialogue: 0,0:59:43.76,0:59:45.92,中文,,0000,0000,0000,,溶剂
+Dialogue: 0,1:00:02.40,1:00:05.72,中文,,0000,0000,0000,,有人影  那里！
+Dialogue: 0,1:00:08.20,1:00:12.68,中文,,0000,0000,0000,,他在起降甲板区
+Dialogue: 0,1:00:46.85,1:00:48.48,中文,,0000,0000,0000,,在那里？  油箱
+Dialogue: 0,1:00:55.40,1:00:58.60,中文,,0000,0000,0000,,出来
+Dialogue: 0,1:01:11.28,1:01:17.96,中文,,0000,0000,0000,,你要带我去哪儿？  我不知道任何事
+Dialogue: 0,1:01:19.08,1:01:21.44,中文,,0000,0000,0000,,让我走  放开我
+Dialogue: 0,1:01:21.48,1:01:23.60,中文,,0000,0000,0000,,别碰我  马上放我走
+Dialogue: 0,1:01:23.63,1:01:26.36,中文,,0000,0000,0000,,放手  该死
+Dialogue: 0,1:01:34.92,1:01:37.80,中文,,0000,0000,0000,,走
+Dialogue: 0,1:01:37.84,1:01:39.10,中文,,0000,0000,0000,,他在那边
+Dialogue: 0,1:01:47.12,1:01:50.04,中文,,0000,0000,0000,,退后
+Dialogue: 0,1:01:50.88,1:01:54.40,中文,,0000,0000,0000,,别靠近  别追那个人
+Dialogue: 0,1:02:00.00,1:02:04.04,中文,,0000,0000,0000,,- 检查第三号飞弹电池  立刻  - 站好岗哨
+Dialogue: 0,1:02:04.07,1:02:05.60,中文,,0000,0000,0000,,这家伙难缠
+Dialogue: 0,1:02:05.64,1:02:07.84,中文,,0000,0000,0000,,得想办法对付他
+Dialogue: 0,1:02:07.87,1:02:11.00,中文,,0000,0000,0000,,我知道怎么做
+Dialogue: 0,1:02:11.40,1:02:14.08,中文,,0000,0000,0000,,真的
+Dialogue: 0,1:02:15.64,1:02:18.60,中文,,0000,0000,0000,,计划虽疯狂却也合理
+Dialogue: 0,1:02:18.64,1:02:23.16,中文,,0000,0000,0000,,关船员的地方有消防系统
+Dialogue: 0,1:02:23.19,1:02:26.04,中文,,0000,0000,0000,,皮特先生
+Dialogue: 0,1:02:26.32,1:02:28.80,中文,,0000,0000,0000,,水手舱
+Dialogue: 0,1:02:28.84,1:02:31.62,中文,,0000,0000,0000,,按一下钮就开始进水
+Dialogue: 0,1:02:31.65,1:02:34.40,中文,,0000,0000,0000,,马上  他们就被淹死
+Dialogue: 0,1:02:34.44,1:02:38.24,中文,,0000,0000,0000,,雷白一定会来救他们
+Dialogue: 0,1:02:46.72,1:02:48.48,中文,,0000,0000,0000,,你真是头号疯子
+Dialogue: 0,1:02:48.52,1:02:51.20,中文,,0000,0000,0000,,淹死自己的船员
+Dialogue: 0,1:02:51.24,1:02:54.64,中文,,0000,0000,0000,,他们反正也不喜欢我
+Dialogue: 0,1:02:54.67,1:02:58.04,中文,,0000,0000,0000,,打赌现在一定爱死你
+Dialogue: 0,1:03:03.32,1:03:06.40,中文,,0000,0000,0000,,看到没有？  到处都有焊接痕迹
+Dialogue: 0,1:03:06.43,1:03:07.68,中文,,0000,0000,0000,,那是什么？
+Dialogue: 0,1:03:07.72,1:03:12.12,中文,,0000,0000,0000,,是拆除飞弹的铁栏杆系统
+Dialogue: 0,1:03:12.15,1:03:15.60,中文,,0000,0000,0000,,好把飞弹移往别舰或潜水艇
+Dialogue: 0,1:03:16.40,1:03:19.34,中文,,0000,0000,0000,,什么声音啊？
+Dialogue: 0,1:03:19.37,1:03:22.28,中文,,0000,0000,0000,,摩斯密码
+Dialogue: 0,1:03:22.76,1:03:25.44,中文,,0000,0000,0000,,说什么？
+Dialogue: 0,1:03:26.08,1:03:30.12,中文,,0000,0000,0000,,"他妈的放我出去"
+Dialogue: 0,1:03:35.84,1:03:39.80,中文,,0000,0000,0000,,- 那是什么声音？  - 别靠近舱门  又玩什么把戏
+Dialogue: 0,1:04:03.35,1:04:04.91,中文,,0000,0000,0000,,是雷白
+Dialogue: 0,1:04:08.56,1:04:11.88,中文,,0000,0000,0000,,看好门  人来就开枪
+Dialogue: 0,1:04:11.91,1:04:14.41,中文,,0000,0000,0000,,你还好吧
+Dialogue: 0,1:04:14.45,1:04:16.92,中文,,0000,0000,0000,,你呢
+Dialogue: 0,1:04:17.64,1:04:19.48,中文,,0000,0000,0000,,只有你们  是的
+Dialogue: 0,1:04:19.52,1:04:22.00,中文,,0000,0000,0000,,我们六个被困  发生了什么事
+Dialogue: 0,1:04:22.03,1:04:25.20,中文,,0000,0000,0000,,出问题了  他是哪位？
+Dialogue: 0,1:04:25.24,1:04:28.16,中文,,0000,0000,0000,,卡荣威  副炮手  二等兵
+Dialogue: 0,1:04:28.20,1:04:33.00,中文,,0000,0000,0000,,她是娇登  受害人  我马上会报告状况
+Dialogue: 0,1:04:33.03,1:04:36.00,中文,,0000,0000,0000,,幸会  见到你真好
+Dialogue: 0,1:04:36.03,1:04:38.36,中文,,0000,0000,0000,,贺杰  你拿这个
+Dialogue: 0,1:04:38.40,1:04:42.42,中文,,0000,0000,0000,,拿好工具  要干活了
+Dialogue: 0,1:04:42.45,1:04:46.44,中文,,0000,0000,0000,,马上要往暴风圈中跳了
+Dialogue: 0,1:04:53.84,1:04:57.52,中文,,0000,0000,0000,,一定是电流关系  对
+Dialogue: 0,1:05:02.68,1:05:04.24,中文,,0000,0000,0000,,最后一个了
+Dialogue: 0,1:05:04.28,1:05:08.12,中文,,0000,0000,0000,,武器系统会在半小时内停摆
+Dialogue: 0,1:05:08.15,1:05:11.76,中文,,0000,0000,0000,,雷白先生请注意好吗？
+Dialogue: 0,1:05:11.79,1:05:15.60,中文,,0000,0000,0000,,我是圭尔舰长
+Dialogue: 0,1:05:18.96,1:05:22.12,中文,,0000,0000,0000,,希望你看看电视荧幕
+Dialogue: 0,1:05:22.15,1:05:25.28,中文,,0000,0000,0000,,你在的地方就有
+Dialogue: 0,1:05:25.60,1:05:27.68,中文,,0000,0000,0000,,你在看吗？
+Dialogue: 0,1:05:27.72,1:05:31.16,中文,,0000,0000,0000,,为你特别准备了一场戏
+Dialogue: 0,1:05:32.76,1:05:35.40,中文,,0000,0000,0000,,开始啦
+Dialogue: 0,1:05:38.24,1:05:42.60,中文,,0000,0000,0000,,讲明白我们绝无恶意
+Dialogue: 0,1:05:42.80,1:05:45.22,中文,,0000,0000,0000,,我也不恨你
+Dialogue: 0,1:05:45.25,1:05:47.64,中文,,0000,0000,0000,,或其他船员
+Dialogue: 0,1:05:47.67,1:05:50.60,中文,,0000,0000,0000,,你尽了全力
+Dialogue: 0,1:05:56.08,1:06:00.24,中文,,0000,0000,0000,,所有训练都被抛到脑后
+Dialogue: 0,1:06:02.00,1:06:04.64,中文,,0000,0000,0000,,关掉,
+Dialogue: 0,1:06:04.68,1:06:06.00,中文,,0000,0000,0000,,我们一定要救他们
+Dialogue: 0,1:06:06.03,1:06:07.80,中文,,0000,0000,0000,,明知有陷阱
+Dialogue: 0,1:06:07.84,1:06:11.64,中文,,0000,0000,0000,,但他们要抓的是我  不是你们
+Dialogue: 0,1:06:11.67,1:06:13.52,中文,,0000,0000,0000,,什么我们？  我只管洗衣服啊
+Dialogue: 0,1:06:13.56,1:06:16.76,中文,,0000,0000,0000,,波湾战争时我也只管烫衣服  我可不是英雄
+Dialogue: 0,1:06:16.79,1:06:18.84,中文,,0000,0000,0000,,你是海军  记得吗？
+Dialogue: 0,1:06:18.88,1:06:21.32,中文,,0000,0000,0000,,这不是职务  是探险
+Dialogue: 0,1:06:21.36,1:06:24.08,中文,,0000,0000,0000,,管它是什么！  我还是军校生呢
+Dialogue: 0,1:06:24.11,1:06:26.96,中文,,0000,0000,0000,,我去！  走！
+Dialogue: 0,1:06:27.52,1:06:30.12,中文,,0000,0000,0000,,好吧  我留下来照顾七月小姐
+Dialogue: 0,1:06:30.16,1:06:33.40,中文,,0000,0000,0000,,- 通道的灯能不能弄灭  - 我也去
+Dialogue: 0,1:06:33.43,1:06:36.64,中文,,0000,0000,0000,,可以  但紧急灯马上又会亮
+Dialogue: 0,1:06:36.67,1:06:41.32,中文,,0000,0000,0000,,管它的！  这枪怎么用？
+Dialogue: 0,1:06:58.68,1:07:01.32,中文,,0000,0000,0000,,快！
+Dialogue: 0,1:07:18.92,1:07:21.80,中文,,0000,0000,0000,,找掩护！  卧倒！  伏下
+Dialogue: 0,1:07:23.76,1:07:26.96,中文,,0000,0000,0000,,关掉！
+Dialogue: 0,1:07:27.64,1:07:30.76,中文,,0000,0000,0000,,切水源
+Dialogue: 0,1:07:31.52,1:07:35.28,中文,,0000,0000,0000,,他们来救我们了
+Dialogue: 0,1:07:38.64,1:07:43.36,中文,,0000,0000,0000,,拉他！  拉他走  帮我！  杰克
+Dialogue: 0,1:07:47.72,1:07:50.20,中文,,0000,0000,0000,,快啊
+Dialogue: 0,1:07:50.23,1:07:51.72,中文,,0000,0000,0000,,吸气！
+Dialogue: 0,1:07:51.76,1:07:54.26,中文,,0000,0000,0000,,照他说的做！
+Dialogue: 0,1:07:54.29,1:07:56.76,中文,,0000,0000,0000,,撑下去！  妈的
+Dialogue: 0,1:07:57.55,1:07:59.19,中文,,0000,0000,0000,,一小时后卸下飞弹
+Dialogue: 0,1:07:59.20,1:08:02.56,中文,,0000,0000,0000,,注意  他救出几名水手
+Dialogue: 0,1:08:02.60,1:08:07.00,中文,,0000,0000,0000,,他们跑到前舱去了  但我们仍能完全掌握
+Dialogue: 0,1:08:07.03,1:08:09.36,中文,,0000,0000,0000,,他们乱动的话就杀
+Dialogue: 0,1:08:09.40,1:08:11.08,中文,,0000,0000,0000,,你的计划成功了  他们被困了
+Dialogue: 0,1:08:11.11,1:08:14.24,中文,,0000,0000,0000,,- 好  - 下锚
+Dialogue: 0,1:08:25.88,1:08:29.76,中文,,0000,0000,0000,,会怎样呢？  退后
+Dialogue: 0,1:08:36.44,1:08:40.14,中文,,0000,0000,0000,,- 哈罗！  你是谁？  - 你又是谁？
+Dialogue: 0,1:08:40.17,1:08:43.80,中文,,0000,0000,0000,,贝兹上将  我找雷白
+Dialogue: 0,1:08:43.84,1:08:47.24,中文,,0000,0000,0000,,他在吗？  他正在火拼  我可以替你留话
+Dialogue: 0,1:08:47.27,1:08:49.52,中文,,0000,0000,0000,,你们在搞什么？
+Dialogue: 0,1:08:49.55,1:08:53.48,中文,,0000,0000,0000,,请稍候  来
+Dialogue: 0,1:08:54.16,1:08:55.92,中文,,0000,0000,0000,,是  长官
+Dialogue: 0,1:08:55.96,1:08:59.00,中文,,0000,0000,0000,,大厨雷白  我是贝兹上将
+Dialogue: 0,1:08:59.04,1:09:02.46,中文,,0000,0000,0000,,显然你完全违背了的的命令
+Dialogue: 0,1:09:02.49,1:09:05.88,中文,,0000,0000,0000,,抱歉  长官  如还有命  你可以军法审判我
+Dialogue: 0,1:09:05.91,1:09:07.44,中文,,0000,0000,0000,,我懂了
+Dialogue: 0,1:09:07.48,1:09:09.76,中文,,0000,0000,0000,,仔细听好
+Dialogue: 0,1:09:09.80,1:09:13.96,中文,,0000,0000,0000,,- 特种第五队已经出发  懂吗？  - 是  长官
+Dialogue: 0,1:09:15.04,1:09:19.24,中文,,0000,0000,0000,,- 空降部队会支援我们  懂吗？  - 是  长官
+Dialogue: 0,1:09:20.88,1:09:24.40,中文,,0000,0000,0000,,既然要负全责的是你
+Dialogue: 0,1:09:24.44,1:09:28.64,中文,,0000,0000,0000,,我给你充份授权  去协助特种部队的登舰
+Dialogue: 0,1:09:28.67,1:09:31.69,中文,,0000,0000,0000,,因为我既然不能让你听命
+Dialogue: 0,1:09:31.73,1:09:34.72,中文,,0000,0000,0000,,那不如支持你  对吧？
+Dialogue: 0,1:09:34.75,1:09:37.36,中文,,0000,0000,0000,,正确
+Dialogue: 0,1:09:38.16,1:09:42.18,中文,,0000,0000,0000,,祝你好运  水手  我要挂断了
+Dialogue: 0,1:09:42.21,1:09:46.20,中文,,0000,0000,0000,,那艇上的麻烦还真不小
+Dialogue: 0,1:09:50.36,1:09:53.00,中文,,0000,0000,0000,,我走啦
+Dialogue: 0,1:10:07.12,1:10:08.92,中文,,0000,0000,0000,,我可不在这干等了
+Dialogue: 0,1:10:08.96,1:10:12.76,中文,,0000,0000,0000,,你去哪里？  快回来！  她在你后面跟来了
+Dialogue: 0,1:10:22.04,1:10:26.36,中文,,0000,0000,0000,,- 你做什么？  - 最安全的地方在你背后
+Dialogue: 0,1:10:26.39,1:10:28.80,中文,,0000,0000,0000,,靠墙站  不要走在通道中间
+Dialogue: 0,1:10:28.83,1:10:32.84,中文,,0000,0000,0000,,七月小姐  快回来！
+Dialogue: 0,1:11:37.40,1:11:38.96,中文,,0000,0000,0000,,雷白
+Dialogue: 0,1:11:39.17,1:11:41.61,中文,,0000,0000,0000,,杀了他  卡洛斯
+Dialogue: 0,1:11:50.12,1:11:51.34,中文,,0000,0000,0000,,卡洛斯
+Dialogue: 0,1:12:07.36,1:12:11.60,中文,,0000,0000,0000,,空战队长  这是眼镜蛇  我们看见你们了
+Dialogue: 0,1:12:11.63,1:12:15.72,中文,,0000,0000,0000,,我们正在你的左舷
+Dialogue: 0,1:12:21.84,1:12:27.40,中文,,0000,0000,0000,,法兰克  今天就把钱存进瑞士银行  干！  史传尼
+Dialogue: 0,1:12:28.00,1:12:30.60,中文,,0000,0000,0000,,把麦格飞机的股票都卖掉
+Dialogue: 0,1:12:30.64,1:12:34.44,中文,,0000,0000,0000,,消息一见报它可就一文不值了
+Dialogue: 0,1:12:34.47,1:12:36.92,中文,,0000,0000,0000,,两架直升机低飞进来
+Dialogue: 0,1:12:36.96,1:12:39.20,中文,,0000,0000,0000,,突击队
+Dialogue: 0,1:12:39.24,1:12:43.24,中文,,0000,0000,0000,,我们要价高  但一分钱一分货
+Dialogue: 0,1:12:45.80,1:12:50.52,中文,,0000,0000,0000,,听好  我的朋友  再找麻烦我就打给穆罕默德了  明白吗？
+Dialogue: 0,1:12:50.55,1:12:52.88,中文,,0000,0000,0000,,突击队进入射程并被锁定
+Dialogue: 0,1:12:52.91,1:12:54.12,中文,,0000,0000,0000,,宰了他们
+Dialogue: 0,1:12:54.16,1:12:57.56,中文,,0000,0000,0000,,不不  法兰克  不是指你！  我叫会计师来跟你讲
+Dialogue: 0,1:12:57.59,1:13:01.56,中文,,0000,0000,0000,,他会给你银行帐户  这里！
+Dialogue: 0,1:13:05.08,1:13:06.60,中文,,0000,0000,0000,,出问题了
+Dialogue: 0,1:13:06.64,1:13:10.84,中文,,0000,0000,0000,,出大问题了  完蛋  快换辅助系统
+Dialogue: 0,1:13:10.87,1:13:13.48,中文,,0000,0000,0000,,没用
+Dialogue: 0,1:13:16.28,1:13:19.20,中文,,0000,0000,0000,,糟糕  自动雷达反击不灵了  简直是坐以待毙
+Dialogue: 0,1:13:19.23,1:13:22.76,中文,,0000,0000,0000,,给我接通潜水艇了
+Dialogue: 0,1:13:27.36,1:13:28.88,中文,,0000,0000,0000,,对方收到了
+Dialogue: 0,1:13:28.92,1:13:32.80,中文,,0000,0000,0000,,"土狼"  这是"跑路者"  请回答
+Dialogue: 0,1:13:54.96,1:13:58.36,中文,,0000,0000,0000,,救星来了
+Dialogue: 0,1:13:59.08,1:14:01.48,中文,,0000,0000,0000,,210号班机
+Dialogue: 0,1:14:03.20,1:14:04.92,中文,,0000,0000,0000,,一分钟
+Dialogue: 0,1:14:04.95,1:14:06.60,中文,,0000,0000,0000,,一分钟！
+Dialogue: 0,1:14:06.64,1:14:12.16,中文,,0000,0000,0000,,船尾全毁了  我们降落船首
+Dialogue: 0,1:14:17.76,1:14:21.48,中文,,0000,0000,0000,,那是什么
+Dialogue: 0,1:14:41.88,1:14:45.80,中文,,0000,0000,0000,,消息被证实  全军覆没
+Dialogue: 0,1:14:45.92,1:14:49.60,中文,,0000,0000,0000,,现在别无选择了
+Dialogue: 0,1:14:51.16,1:14:55.52,中文,,0000,0000,0000,,只有靠尼米兹舰的空中攻击了
+Dialogue: 0,1:14:55.64,1:15:00.72,中文,,0000,0000,0000,,传顿先生  劳驾打个电话吧
+Dialogue: 0,1:15:01.44,1:15:04.96,中文,,0000,0000,0000,,需要更多人手到甲板拆除飞弹
+Dialogue: 0,1:15:04.99,1:15:06.24,中文,,0000,0000,0000,,开始拆卸
+Dialogue: 0,1:15:06.28,1:15:10.84,中文,,0000,0000,0000,,起重机还没搭好  甲板下面又有问题了
+Dialogue: 0,1:15:10.87,1:15:17.04,中文,,0000,0000,0000,,调四个人到前面来帮忙  快！
+Dialogue: 0,1:15:30.44,1:15:33.80,中文,,0000,0000,0000,,我的老天爷！
+Dialogue: 0,1:15:35.32,1:15:40.40,中文,,0000,0000,0000,,多玛  多玛？  你怎么没雇用雷白
+Dialogue: 0,1:15:40.43,1:15:45.48,中文,,0000,0000,0000,,不管他价码多高  都值得啊
+Dialogue: 0,1:16:29.60,1:16:31.96,中文,,0000,0000,0000,,拉起来
+Dialogue: 0,1:16:32.00,1:16:36.04,中文,,0000,0000,0000,,轻轻搬过去  对了
+Dialogue: 0,1:16:57.62,1:17:00.18,中文,,0000,0000,0000,,7号  7号  现在
+Dialogue: 0,1:17:16.91,1:17:19.21,中文,,0000,0000,0000,,放下  轻点
+Dialogue: 0,1:17:41.67,1:17:43.83,中文,,0000,0000,0000,,好了  绑好
+Dialogue: 0,1:18:10.36,1:18:13.96,中文,,0000,0000,0000,,水里有人  停
+Dialogue: 0,1:18:14.04,1:18:15.56,中文,,0000,0000,0000,,在你后面,
+Dialogue: 0,1:18:15.60,1:18:19.04,中文,,0000,0000,0000,,我看见水里有人
+Dialogue: 0,1:18:20.07,1:18:21.66,中文,,0000,0000,0000,,左边
+Dialogue: 0,1:18:27.36,1:18:30.08,中文,,0000,0000,0000,,他在那里！
+Dialogue: 0,1:18:30.48,1:18:34.04,中文,,0000,0000,0000,,钓他上来  一定能抓到他
+Dialogue: 0,1:18:42.63,1:18:44.96,中文,,0000,0000,0000,,这是他的！  好呀
+Dialogue: 0,1:18:47.80,1:18:51.20,中文,,0000,0000,0000,,检查船身  他可能放了炸弹
+Dialogue: 0,1:18:58.71,1:19:01.24,中文,,0000,0000,0000,,你看到他了吗？
+Dialogue: 0,1:19:05.80,1:19:09.56,中文,,0000,0000,0000,,谁看到他了？  快！
+Dialogue: 0,1:19:25.81,1:19:28.71,中文,,0000,0000,0000,,起火了！  全面戒备
+Dialogue: 0,1:19:30.44,1:19:33.48,中文,,0000,0000,0000,,你真不可思议
+Dialogue: 0,1:19:33.80,1:19:38.12,中文,,0000,0000,0000,,可惜你不替我们烧饭
+Dialogue: 0,1:19:51.08,1:19:53.76,中文,,0000,0000,0000,,另一件我肯定的事
+Dialogue: 0,1:19:53.80,1:19:57.84,中文,,0000,0000,0000,,你一定会和跟搞音乐的约会
+Dialogue: 0,1:20:03.04,1:20:05.01,中文,,0000,0000,0000,,你在下面干什么？
+Dialogue: 0,1:20:10.88,1:20:12.96,中文,,0000,0000,0000,,多玛呢？
+Dialogue: 0,1:20:12.99,1:20:15.00,中文,,0000,0000,0000,,八成死了吧
+Dialogue: 0,1:20:15.04,1:20:17.08,中文,,0000,0000,0000,,船头卡住了
+Dialogue: 0,1:20:17.11,1:20:19.84,中文,,0000,0000,0000,,潜不下去
+Dialogue: 0,1:20:21.24,1:20:24.44,中文,,0000,0000,0000,,我来处理  马上就能动起来
+Dialogue: 0,1:20:24.47,1:20:27.04,中文,,0000,0000,0000,,修好的话  升你当上将
+Dialogue: 0,1:20:27.07,1:20:29.60,中文,,0000,0000,0000,,行！  你去哪里？
+Dialogue: 0,1:20:29.64,1:20:33.48,中文,,0000,0000,0000,,- 点燃檀香山夜空  - 美妙极了
+Dialogue: 0,1:20:33.52,1:20:37.24,中文,,0000,0000,0000,,我和你在15英里以南碰面
+Dialogue: 0,1:20:37.27,1:20:39.92,中文,,0000,0000,0000,,一分钟内召集你的人
+Dialogue: 0,1:20:39.96,1:20:46.48,中文,,0000,0000,0000,,我要电石气火把  焊枪铁把手  快去拿！
+Dialogue: 0,1:20:47.36,1:20:49.44,中文,,0000,0000,0000,,- 他说什么？  - 说他不会修
+Dialogue: 0,1:20:49.47,1:20:53.08,中文,,0000,0000,0000,,我来修！  去拿工具来
+Dialogue: 0,1:20:53.12,1:20:56.24,中文,,0000,0000,0000,,为什么你不会英文？  去你的
+Dialogue: 0,1:21:00.12,1:21:03.44,中文,,0000,0000,0000,,忍耐一下
+Dialogue: 0,1:21:22.72,1:21:25.36,中文,,0000,0000,0000,,说吧
+Dialogue: 0,1:21:25.40,1:21:27.94,中文,,0000,0000,0000,,没什么好说的
+Dialogue: 0,1:21:27.97,1:21:30.44,中文,,0000,0000,0000,,不管他们是怎么弄的
+Dialogue: 0,1:21:30.48,1:21:33.24,中文,,0000,0000,0000,,他们显然比我聪明
+Dialogue: 0,1:21:33.27,1:21:35.48,中文,,0000,0000,0000,,都发动不了
+Dialogue: 0,1:21:35.51,1:21:36.72,中文,,0000,0000,0000,,没希望了,
+Dialogue: 0,1:21:36.76,1:21:41.00,中文,,0000,0000,0000,,不可能没希望的  要记住
+Dialogue: 0,1:21:43.92,1:21:47.34,中文,,0000,0000,0000,,给我时间  我会解决
+Dialogue: 0,1:21:47.37,1:21:50.76,中文,,0000,0000,0000,,这种态度我喜欢！  很好
+Dialogue: 0,1:21:53.60,1:21:56.48,中文,,0000,0000,0000,,甲板安全了
+Dialogue: 0,1:22:00.12,1:22:03.48,中文,,0000,0000,0000,,怎么搞的
+Dialogue: 0,1:22:05.44,1:22:09.32,中文,,0000,0000,0000,,我用简单的英文讲给你听  真的很简单
+Dialogue: 0,1:22:09.35,1:22:11.56,中文,,0000,0000,0000,,把杆子锤进去,
+Dialogue: 0,1:22:11.60,1:22:14.76,中文,,0000,0000,0000,,焊在扇翼上  没有它  我们走不了
+Dialogue: 0,1:22:14.79,1:22:18.44,中文,,0000,0000,0000,,解释给他听  快！
+Dialogue: 0,1:22:27.68,1:22:30.04,中文,,0000,0000,0000,,强森呢？
+Dialogue: 0,1:22:30.07,1:22:31.28,中文,,0000,0000,0000,,死了
+Dialogue: 0,1:22:31.32,1:22:33.32,中文,,0000,0000,0000,,我绝不饶他们
+Dialogue: 0,1:22:33.35,1:22:35.28,中文,,0000,0000,0000,,5英寸炮能用吗
+Dialogue: 0,1:22:35.32,1:22:40.12,中文,,0000,0000,0000,,夏威夷卸下穿甲弹只剩照明弹
+Dialogue: 0,1:22:40.15,1:22:43.44,中文,,0000,0000,0000,,没有攻击性武器可使用
+Dialogue: 0,1:22:48.32,1:22:50.76,中文,,0000,0000,0000,,副炮手
+Dialogue: 0,1:22:50.79,1:22:53.20,中文,,0000,0000,0000,,看到没？
+Dialogue: 0,1:22:53.40,1:22:57.32,中文,,0000,0000,0000,,我们还有那型的炮弹
+Dialogue: 0,1:23:09.16,1:23:10.92,中文,,0000,0000,0000,,成功了
+Dialogue: 0,1:23:10.96,1:23:14.80,中文,,0000,0000,0000,,开始充电了  几分钟后就能开火了
+Dialogue: 0,1:23:14.83,1:23:17.52,中文,,0000,0000,0000,,干的好
+Dialogue: 0,1:23:23.56,1:23:26.44,中文,,0000,0000,0000,,继续  走
+Dialogue: 0,1:23:28.36,1:23:32.68,中文,,0000,0000,0000,,最后三袋
+Dialogue: 0,1:23:33.76,1:23:35.36,中文,,0000,0000,0000,,快点
+Dialogue: 0,1:23:35.40,1:23:38.80,中文,,0000,0000,0000,,- 又一个  - 注意我的手势
+Dialogue: 0,1:23:38.83,1:23:41.92,中文,,0000,0000,0000,,闪开！
+Dialogue: 0,1:23:45.48,1:23:48.80,中文,,0000,0000,0000,,轻点！  不急
+Dialogue: 0,1:23:57.76,1:24:00.44,中文,,0000,0000,0000,,潜水艇的时速和方位呢？
+Dialogue: 0,1:24:00.47,1:24:03.33,中文,,0000,0000,0000,,172度  时速6海英里
+Dialogue: 0,1:24:03.37,1:24:06.16,中文,,0000,0000,0000,,快调整5英寸炮的角度
+Dialogue: 0,1:24:06.20,1:24:09.80,中文,,0000,0000,0000,,- 我要怎么做？  - 看到黑色开关了吗？
+Dialogue: 0,1:24:09.84,1:24:14.04,中文,,0000,0000,0000,,- 一个一个推上去  - 如果潜艇爆炸  那核子武器呢
+Dialogue: 0,1:24:14.07,1:24:16.20,中文,,0000,0000,0000,,他们不会爆炸
+Dialogue: 0,1:24:16.24,1:24:17.72,中文,,0000,0000,0000,,只会和船一起沉下去
+Dialogue: 0,1:24:17.75,1:24:19.43,中文,,0000,0000,0000,,放支架,
+Dialogue: 0,1:24:19.47,1:24:21.08,中文,,0000,0000,0000,,支架放下
+Dialogue: 0,1:24:21.12,1:24:24.88,中文,,0000,0000,0000,,- 上飞弹  - 轻点
+Dialogue: 0,1:24:24.91,1:24:27.00,中文,,0000,0000,0000,,轻轻上火药
+Dialogue: 0,1:24:27.03,1:24:29.16,中文,,0000,0000,0000,,非常小心
+Dialogue: 0,1:24:29.20,1:24:30.76,中文,,0000,0000,0000,,照明弹准备好了
+Dialogue: 0,1:24:30.79,1:24:33.60,中文,,0000,0000,0000,,发射照明弹
+Dialogue: 0,1:24:34.12,1:24:35.44,中文,,0000,0000,0000,,来吧,
+Dialogue: 0,1:24:35.48,1:24:40.40,中文,,0000,0000,0000,,你守住房间  回位子去  笨蛋！
+Dialogue: 0,1:24:41.72,1:24:43.76,中文,,0000,0000,0000,,他们在打我们
+Dialogue: 0,1:24:43.79,1:24:45.76,中文,,0000,0000,0000,,困兽之斗罢了
+Dialogue: 0,1:24:45.80,1:24:50.32,中文,,0000,0000,0000,,只不过是照明弹  他们没有飞弹能打我们
+Dialogue: 0,1:24:50.35,1:24:53.76,中文,,0000,0000,0000,,204度  凯拉威
+Dialogue: 0,1:24:57.52,1:24:59.12,中文,,0000,0000,0000,,升炮管
+Dialogue: 0,1:24:59.16,1:25:02.72,中文,,0000,0000,0000,,028度
+Dialogue: 0,1:25:10.28,1:25:13.08,中文,,0000,0000,0000,,发射
+Dialogue: 0,1:25:22.40,1:25:25.12,中文,,0000,0000,0000,,他发射了！  我们没时间了
+Dialogue: 0,1:25:25.15,1:25:27.79,中文,,0000,0000,0000,,他们在上弹药了,
+Dialogue: 0,1:25:27.83,1:25:30.44,中文,,0000,0000,0000,,赶快！  再上弹药！
+Dialogue: 0,1:25:32.92,1:25:34.56,中文,,0000,0000,0000,,放支架,
+Dialogue: 0,1:25:34.59,1:25:37.32,中文,,0000,0000,0000,,快开动
+Dialogue: 0,1:25:39.08,1:25:40.60,中文,,0000,0000,0000,,见鬼
+Dialogue: 0,1:25:40.64,1:25:42.96,中文,,0000,0000,0000,,关后膛
+Dialogue: 0,1:25:43.00,1:25:47.40,中文,,0000,0000,0000,,再试试  放低一点  把扇翼放低
+Dialogue: 0,1:25:48.08,1:25:51.68,中文,,0000,0000,0000,,拉！  成功了！  成功了！  走  咱们走！
+Dialogue: 0,1:25:51.71,1:25:53.40,中文,,0000,0000,0000,,241度,
+Dialogue: 0,1:25:53.44,1:25:55.52,中文,,0000,0000,0000,,覆述  241度
+Dialogue: 0,1:25:55.55,1:25:58.48,中文,,0000,0000,0000,,潜下！  关上舱盖！
+Dialogue: 0,1:26:01.72,1:26:03.12,中文,,0000,0000,0000,,扇翼动了
+Dialogue: 0,1:26:03.16,1:26:06.60,中文,,0000,0000,0000,,- 204度  - 204度
+Dialogue: 0,1:26:06.63,1:26:09.44,中文,,0000,0000,0000,,就看这一发
+Dialogue: 0,1:26:11.04,1:26:14.68,中文,,0000,0000,0000,,没希望了！
+Dialogue: 0,1:26:14.84,1:26:17.52,中文,,0000,0000,0000,,让我看看
+Dialogue: 0,1:26:19.44,1:26:22.12,中文,,0000,0000,0000,,发射
+Dialogue: 0,1:26:36.96,1:26:40.68,中文,,0000,0000,0000,,- 直接命中！  - 我们打中了
+Dialogue: 0,1:26:44.68,1:26:48.68,中文,,0000,0000,0000,,怎么搞的
+Dialogue: 0,1:26:54.80,1:27:00.04,中文,,0000,0000,0000,,大肥猪  小红帽长短胡子
+Dialogue: 0,1:27:00.23,1:27:01.62,中文,,0000,0000,0000,,史斯
+Dialogue: 0,1:27:04.20,1:27:06.16,中文,,0000,0000,0000,,我这一生...
+Dialogue: 0,1:27:06.20,1:27:08.68,中文,,0000,0000,0000,,周末早上的卡通片
+Dialogue: 0,1:27:08.71,1:27:11.49,中文,,0000,0000,0000,,最棒
+Dialogue: 0,1:27:11.53,1:27:14.28,中文,,0000,0000,0000,,妈的
+Dialogue: 0,1:27:15.76,1:27:17.36,中文,,0000,0000,0000,,例如...
+Dialogue: 0,1:27:17.40,1:27:22.08,中文,,0000,0000,0000,,记不记得两只小虾游进海湾？  骑着小海马,
+Dialogue: 0,1:27:22.11,1:27:24.24,中文,,0000,0000,0000,,戴着小帽  玩小手枪？
+Dialogue: 0,1:27:24.27,1:27:27.17,中文,,0000,0000,0000,,朝肩后开枪
+Dialogue: 0,1:27:27.21,1:27:30.08,中文,,0000,0000,0000,,救救龙虾
+Dialogue: 0,1:27:30.11,1:27:31.84,中文,,0000,0000,0000,,免遭瑞典厨子毒手
+Dialogue: 0,1:27:31.88,1:27:34.12,中文,,0000,0000,0000,,我看过最有意思的东西
+Dialogue: 0,1:27:34.16,1:27:36.28,中文,,0000,0000,0000,,- 做的好极了  - Strannix
+Dialogue: 0,1:27:36.31,1:27:38.09,中文,,0000,0000,0000,,做的好极了
+Dialogue: 0,1:27:38.13,1:27:39.84,中文,,0000,0000,0000,,噢  老天爷...
+Dialogue: 0,1:27:39.88,1:27:44.00,中文,,0000,0000,0000,,困境激发士气
+Dialogue: 0,1:27:44.04,1:27:46.40,中文,,0000,0000,0000,,- 战斧飞弹  - 已经准备好了
+Dialogue: 0,1:27:46.43,1:27:47.56,中文,,0000,0000,0000,,在哪里？
+Dialogue: 0,1:27:47.60,1:27:50.84,中文,,0000,0000,0000,,- 发射台  - 当然是在发射台
+Dialogue: 0,1:27:50.87,1:27:54.59,中文,,0000,0000,0000,,很快会在甲板上开庆功宴
+Dialogue: 0,1:27:54.63,1:27:58.32,中文,,0000,0000,0000,,别晚了  等着发射呢
+Dialogue: 0,1:28:00.92,1:28:04.24,中文,,0000,0000,0000,,所有人都离开这里！
+Dialogue: 0,1:28:04.27,1:28:07.04,中文,,0000,0000,0000,,走吧
+Dialogue: 0,1:28:07.72,1:28:09.96,中文,,0000,0000,0000,,只剩四分钟
+Dialogue: 0,1:28:10.00,1:28:12.36,中文,,0000,0000,0000,,在马达房会合！
+Dialogue: 0,1:28:12.39,1:28:15.64,中文,,0000,0000,0000,,四分钟
+Dialogue: 0,1:28:16.52,1:28:19.28,中文,,0000,0000,0000,,啊  精彩
+Dialogue: 0,1:28:20.92,1:28:22.48,中文,,0000,0000,0000,,成功了
+Dialogue: 0,1:28:22.52,1:28:25.72,中文,,0000,0000,0000,,"这只小猪进市场"
+Dialogue: 0,1:28:25.75,1:28:28.92,中文,,0000,0000,0000,,"这只小猪留在家"
+Dialogue: 0,1:28:28.95,1:28:30.84,中文,,0000,0000,0000,,剩下这小猪...
+Dialogue: 0,1:28:30.88,1:28:34.88,中文,,0000,0000,0000,,噢  妈妈！  噢  妈妈！  喂...
+Dialogue: 0,1:28:36.80,1:28:40.56,中文,,0000,0000,0000,,一路喂...回家
+Dialogue: 0,1:29:03.04,1:29:06.08,中文,,0000,0000,0000,,一路顺风
+Dialogue: 0,1:29:06.16,1:29:09.16,中文,,0000,0000,0000,,雷麦若  有部MX20- 20
+Dialogue: 0,1:29:09.20,1:29:12.56,中文,,0000,0000,0000,,在船长室  拿来给我
+Dialogue: 0,1:29:12.59,1:29:15.56,中文,,0000,0000,0000,,带她一起去  什么？  汽车电话
+Dialogue: 0,1:29:24.64,1:29:25.92,中文,,0000,0000,0000,,上将！
+Dialogue: 0,1:29:25.96,1:29:29.60,中文,,0000,0000,0000,,尼兹号接收到  密舰发射了两枚战斧飞弹！
+Dialogue: 0,1:29:29.63,1:29:31.36,中文,,0000,0000,0000,,- 目的地？  - 檀香山
+Dialogue: 0,1:29:31.39,1:29:32.96,中文,,0000,0000,0000,,老天
+Dialogue: 0,1:29:33.00,1:29:36.96,中文,,0000,0000,0000,,- 要飞多久？  - 二十四分钟
+Dialogue: 0,1:29:37.00,1:29:41.60,中文,,0000,0000,0000,,- 能不能在空中摧毁？  - 密码藏在密舰上
+Dialogue: 0,1:29:41.63,1:29:44.44,中文,,0000,0000,0000,,从珍珠港调海空军特战部队
+Dialogue: 0,1:29:44.48,1:29:49.40,中文,,0000,0000,0000,,飞弹在檀香山会引起什么后果
+Dialogue: 0,1:29:49.44,1:29:53.88,中文,,0000,0000,0000,,上校？  约一百万人面临华氏一万度
+Dialogue: 0,1:29:53.91,1:29:57.20,中文,,0000,0000,0000,,全部耗时一秒内
+Dialogue: 0,1:30:00.24,1:30:02.20,中文,,0000,0000,0000,,部长先生...
+Dialogue: 0,1:30:02.24,1:30:06.12,中文,,0000,0000,0000,,一出问题我们就推给厨子
+Dialogue: 0,1:30:06.15,1:30:09.08,中文,,0000,0000,0000,,一定
+Dialogue: 0,1:30:12.56,1:30:14.96,中文,,0000,0000,0000,,往北
+Dialogue: 0,1:30:15.00,1:30:18.44,中文,,0000,0000,0000,,明白  往北
+Dialogue: 0,1:31:45.44,1:31:47.80,中文,,0000,0000,0000,,我来拿那武器
+Dialogue: 0,1:31:47.83,1:31:49.88,中文,,0000,0000,0000,,别出声
+Dialogue: 0,1:31:49.91,1:31:52.56,中文,,0000,0000,0000,,现在！
+Dialogue: 0,1:32:00.88,1:32:02.80,中文,,0000,0000,0000,,你很面熟
+Dialogue: 0,1:32:02.84,1:32:04.72,中文,,0000,0000,0000,,我认识你  对吧？
+Dialogue: 0,1:32:04.75,1:32:08.00,中文,,0000,0000,0000,,没错
+Dialogue: 0,1:32:09.28,1:32:10.88,中文,,0000,0000,0000,,好久不见
+Dialogue: 0,1:32:10.91,1:32:12.87,中文,,0000,0000,0000,,可不是
+Dialogue: 0,1:32:12.91,1:32:14.80,中文,,0000,0000,0000,,转过身去
+Dialogue: 0,1:32:14.84,1:32:18.44,中文,,0000,0000,0000,,带你逛逛  往前
+Dialogue: 0,1:32:20.84,1:32:22.32,中文,,0000,0000,0000,,这里是...
+Dialogue: 0,1:32:22.36,1:32:24.36,中文,,0000,0000,0000,,我们的战斧飞弹
+Dialogue: 0,1:32:24.40,1:32:28.68,中文,,0000,0000,0000,,正加速飞往艳阳下的夏威夷  转过去
+Dialogue: 0,1:32:28.71,1:32:31.08,中文,,0000,0000,0000,,你也看的出
+Dialogue: 0,1:32:31.12,1:32:33.12,中文,,0000,0000,0000,,战斧是阻止不了的
+Dialogue: 0,1:32:33.15,1:32:34.88,中文,,0000,0000,0000,,而钥匙在我这儿
+Dialogue: 0,1:32:34.92,1:32:37.56,中文,,0000,0000,0000,,锁已经坏了  往前
+Dialogue: 0,1:32:37.59,1:32:40.08,中文,,0000,0000,0000,,坐过去
+Dialogue: 0,1:32:40.12,1:32:44.20,中文,,0000,0000,0000,,让你从电视上看着世界毁灭
+Dialogue: 0,1:32:44.23,1:32:45.84,中文,,0000,0000,0000,,随便坐啊
+Dialogue: 0,1:32:45.87,1:32:48.64,中文,,0000,0000,0000,,放轻松
+Dialogue: 0,1:32:50.28,1:32:52.60,中文,,0000,0000,0000,,你知道  你本领很好
+Dialogue: 0,1:32:52.63,1:32:54.68,中文,,0000,0000,0000,,真的很好
+Dialogue: 0,1:32:54.72,1:32:57.50,中文,,0000,0000,0000,,杀你真是遗憾
+Dialogue: 0,1:32:57.53,1:33:00.24,中文,,0000,0000,0000,,但将是我此生杰作
+Dialogue: 0,1:33:00.28,1:33:03.00,中文,,0000,0000,0000,,帮个忙  告诉我...
+Dialogue: 0,1:33:03.04,1:33:07.04,中文,,0000,0000,0000,,你真的以为杀一群无辜的人...
+Dialogue: 0,1:33:07.07,1:33:08.84,中文,,0000,0000,0000,,就能造成改变吗？
+Dialogue: 0,1:33:08.88,1:33:10.64,中文,,0000,0000,0000,,你怎么会变成这样？
+Dialogue: 0,1:33:10.68,1:33:14.14,中文,,0000,0000,0000,,我不能忍受急如星火的找答案
+Dialogue: 0,1:33:14.17,1:33:17.56,中文,,0000,0000,0000,,来解决其他鸟人所惹的麻烦
+Dialogue: 0,1:33:17.60,1:33:21.80,中文,,0000,0000,0000,,你这些可笑又可怜的把戏  绝对于事无补
+Dialogue: 0,1:33:21.83,1:33:23.84,中文,,0000,0000,0000,,你和我...
+Dialogue: 0,1:33:23.88,1:33:27.44,中文,,0000,0000,0000,,都是同场戏里的玩偶...
+Dialogue: 0,1:33:27.47,1:33:30.28,中文,,0000,0000,0000,,伺候着同样的主子...
+Dialogue: 0,1:33:30.32,1:33:35.16,中文,,0000,0000,0000,,而他根本不知感激  我们无能为力
+Dialogue: 0,1:33:35.19,1:33:36.76,中文,,0000,0000,0000,,你和我都一样
+Dialogue: 0,1:33:36.80,1:33:40.88,中文,,0000,0000,0000,,不  有差别的  兄台
+Dialogue: 0,1:33:40.91,1:33:44.72,中文,,0000,0000,0000,,你有信念  我没有
+Dialogue: 0,1:34:38.40,1:34:42.24,中文,,0000,0000,0000,,勇往直前吧  史传尼
+Dialogue: 0,1:34:50.08,1:34:53.68,中文,,0000,0000,0000,,它被锁定了  只离15英里
+Dialogue: 0,1:34:56.48,1:34:59.64,中文,,0000,0000,0000,,5英里  同步了  随时准备轰炸
+Dialogue: 0,1:34:59.67,1:35:02.56,中文,,0000,0000,0000,,是
+Dialogue: 0,1:35:06.96,1:35:09.60,中文,,0000,0000,0000,,将军
+Dialogue: 0,1:35:10.56,1:35:12.88,中文,,0000,0000,0000,,已栏截飞弹一枚
+Dialogue: 0,1:35:12.91,1:35:15.13,中文,,0000,0000,0000,,另外那枚呢,
+Dialogue: 0,1:35:15.17,1:35:17.36,中文,,0000,0000,0000,,漏网而去
+Dialogue: 0,1:35:33.56,1:35:35.00,中文,,0000,0000,0000,,组长,
+Dialogue: 0,1:35:35.04,1:35:40.32,中文,,0000,0000,0000,,只够时间试一次了  所以我们一步步来
+Dialogue: 0,1:35:40.35,1:35:42.18,中文,,0000,0000,0000,,装磁碟片
+Dialogue: 0,1:35:42.21,1:35:44.00,中文,,0000,0000,0000,,打47
+Dialogue: 0,1:35:44.04,1:35:47.40,中文,,0000,0000,0000,,你已经接上Ku系统
+Dialogue: 0,1:35:48.96,1:35:51.96,中文,,0000,0000,0000,,密码是六  四...
+Dialogue: 0,1:35:51.99,1:35:53.99,中文,,0000,0000,0000,,三  五...
+Dialogue: 0,1:35:54.03,1:35:55.96,中文,,0000,0000,0000,,零  零...
+Dialogue: 0,1:35:56.00,1:35:59.68,中文,,0000,0000,0000,,密码是643500  我覆述的对吗？
+Dialogue: 0,1:35:59.71,1:36:02.36,中文,,0000,0000,0000,,正确
+Dialogue: 0,1:36:09.44,1:36:11.31,中文,,0000,0000,0000,,锁定
+Dialogue: 0,1:36:11.76,1:36:14.40,中文,,0000,0000,0000,,预备
+Dialogue: 0,1:36:15.48,1:36:17.31,中文,,0000,0000,0000,,报废
+Dialogue: 0,1:36:35.12,1:36:39.20,中文,,0000,0000,0000,,成了！  尼门不必再追了
+Dialogue: 0,1:36:39.48,1:36:42.44,中文,,0000,0000,0000,,干的好  雷白
+Dialogue: 0,1:36:45.48,1:36:49.24,中文,,0000,0000,0000,,长官  调回战斗机  长官
+Dialogue: 0,1:36:49.28,1:36:52.84,中文,,0000,0000,0000,,撤除空中行动  撤除空中部队
+Dialogue: 0,1:36:52.87,1:36:55.92,中文,,0000,0000,0000,,谢了  雷白  干的好
+Dialogue: 0,1:36:55.96,1:37:01.04,中文,,0000,0000,0000,,想不想游几圈？  我有橡皮小艇和些干粮
+Dialogue: 0,1:37:01.07,1:37:03.51,中文,,0000,0000,0000,,还有小阳伞...
+Dialogue: 0,1:37:03.55,1:37:05.96,中文,,0000,0000,0000,,你办到了  我和你一起去
+Dialogue: 0,1:37:07.56,1:37:11.80,中文,,0000,0000,0000,,密舰安然无恙！  毫发未损！
+Dialogue: 0,1:37:11.96,1:37:14.48,中文,,0000,0000,0000,,好  好  干的好
+Dialogue: 0,1:37:14.52,1:37:16.80,中文,,0000,0000,0000,,太精彩了
+Dialogue: 0,1:37:16.83,1:37:19.08,中文,,0000,0000,0000,,胜的漂亮
+Dialogue: 0,1:37:22.16,1:37:26.52,中文,,0000,0000,0000,,再忍忍  马上救你们出来
+Dialogue: 0,1:37:42.40,1:37:45.84,中文,,0000,0000,0000,,我错过好戏了
+Dialogue: 0,1:37:53.36,1:37:57.36,中文,,0000,0000,0000,,看来你得缝个三  四针  到医务室来
+Dialogue: 0,1:37:57.39,1:38:01.08,中文,,0000,0000,0000,,我怕针头
+Dialogue: 0,1:38:01.24,1:38:06.60,中文,,0000,0000,0000,,- 早餐吃什么  凯斯？  - 潜水艇三明治
+Dialogue: 0,1:38:06.63,1:38:08.64,中文,,0000,0000,0000,,凯斯  跳两步吧
+Dialogue: 0,1:38:08.67,1:38:11.84,中文,,0000,0000,0000,,这是一招
+Dialogue: 0,1:38:40.96,1:38:45.28,中文,,0000,0000,0000,,敬礼！
