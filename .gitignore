@@ -4,3 +4,4 @@ _db/*
 config/*
 *.torrent
 torrents/*
+subs/*
