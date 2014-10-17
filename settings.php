@@ -87,7 +87,7 @@ elseif ($action == 'savesettings_code') 	// save database
 elseif ($action == 'savesettings_bonus') 	// save bonus
 {
 	stdhead($lang_settings['head_save_bonus_settings']);
-	$validConfig = array('donortimes','perseeding','maxseeding','tzero','nzero','bzero','l', 'uploadtorrent','uploadsubtitle','starttopic','makepost','addcomment','pollvote','offervote', 'funboxvote','saythanks','receivethanks','funboxreward','onegbupload','fivegbupload','tengbupload', 'ratiolimit','dlamountlimit','oneinvite','customtitle','vipstatus','bonusgift', 'basictax', 'taxpercentage', 'prolinkpoint', 'prolinktime');
+	$validConfig = array('donortimes','perseeding','maxseeding','tzero','nzero','bzero','l', 'uploadtorrent','uploadsubtitle','starttopic','makepost','addcomment','pollvote','offervote', 'funboxvote','saythanks','receivethanks','funboxreward','onegbupload','fivegbupload','tengbupload', 'ratiolimit','dlamountlimit','oneinvite','customtitle','vipstatus','bonusgift', 'basictax', 'taxpercentage', 'prolinkpoint', 'prolinktime', 'blackjack_wager', 'blackjack_tax');
 	GetVar($validConfig);
 	unset($BONUS);
 	foreach($validConfig as $config) {
@@ -438,6 +438,7 @@ elseif ($action == 'bonussettings'){
 	tr($lang_settings['row_vip_status'],$lang_settings['text_it_costs_user']."<input type='text' style=\"width: 50px\" name=vipstatus value='".(isset($BONUS["vipstatus"]) ? $BONUS["vipstatus"] : 8000 )."'>".$lang_settings['text_vip_status_note'], 1);
 	yesorno($lang_settings['row_allow_giving_bonus_gift'], 'bonusgift', $BONUS["bonusgift"], $lang_settings['text_giving_bonus_gift_note']);
 	tr($lang_settings['row_bonus_gift_tax'], $lang_settings['text_system_charges']."<input type='text' style=\"width: 50px\" name='basictax' value='".(isset($BONUS["basictax"]) ? $BONUS["basictax"] : 5 )."'>".$lang_settings['text_bonus_points_plus']."<input type='text' style=\"width: 50px\" name='taxpercentage' value='".(isset($BONUS["taxpercentage"]) ? $BONUS["taxpercentage"] : 10 )."'>".$lang_settings['text_bonus_gift_tax_note'], 1);
+	tr($lang_settings['row_blackjack'],$lang_settings['text_blackjack_note']."<input type='text' style=\"width: 50px\" name=\"blackjack_wager\" value='".(isset($BONUS["blackjack_wager"]) ? $BONUS["blackjack_wager"] : 300 )."'>".$lang_settings['text_blackjack_unit']."<input type='text' style=\"width: 50px\" name=\"blackjack_tax\" value='".(isset($BONUS["blackjack_tax"]) ? $BONUS["blackjack_tax"] : 5 )."'>%", 1);
 	tr($lang_settings['row_save_settings'], "<input type='submit' name='save' value='".$lang_settings['submit_save_settings']."'>", 1);
 	print ("</form>");
 }

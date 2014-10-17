@@ -88,6 +88,14 @@ function bonusarray($option){
 			$bonus['description'] = $lang_mybonus['text_charity_giving_note'];
 			break;
 			}
+		case 10: {
+			$bonus['points'] = 1000;
+			$bonus['art'] = 'gift_2';
+			$bonus['menge'] = 0;
+			$bonus['name'] = $lang_mybonus['text_charity_giving'];
+			$bonus['description'] = $lang_mybonus['text_charity_giving_note'];
+			break;
+		}
 		default: break;
 	}
 	return $bonus;

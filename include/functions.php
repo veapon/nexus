@@ -2366,6 +2366,10 @@ else {
 
         print("</font> ");?>
                 <!--2013-12-13 end check in--->
+
+                <!--blackjack start 2014-10-17--->
+		&nbsp;[<a href="blackjack.php">Blackjack</a>]
+                <!--blackjack end 2014-10-17--->
                 
                <br />
 	 

@@ -264,6 +264,11 @@ $lang_settings = array
 	'text_vip_status_note' => "个魔力值，如果他选择给自己换取一个月的贵宾待遇。默认'8000'。",
 	'row_allow_giving_bonus_gift' => "允许魔力值赠送",
 	'text_giving_bonus_gift_note' => "允许用户间相互赠送魔力值。默认'是'。",
+	
+	'row_blackjack' => "21点赌注",
+	'text_blackjack_note' => "每局21点赌注为",
+	'text_blackjack_unit' => "个魔力值, 税收为",
+
 	'head_account_settings' => "账号设定",
 	'row_never_delete' => "永远保留",
 	'text_delete_inactive_accounts' => "删除不活跃账号",

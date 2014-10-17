@@ -123,6 +123,8 @@ $lang_mybonus = array
 	'bonus_ratio_not_allowed' => "分享率不符合要求！只有分享率低于0.8的用户需要慈善帮助。",
 	'std_no_users_need_charity' => "暂时没有需要慈善帮助的用户。",
 	'text_success_charity' => "谢谢！感谢你的慷慨捐赠。"
+
+	'text_stickycard' => '购买一张置顶卡',
 );
 
 ?>
