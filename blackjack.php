@@ -171,8 +171,8 @@ if ($game)
 				{
 
 					$winorlose = "赢局，你赢了<span style=\"color: red;\">$won_bonus</span>个魔力值";
-					sql_query("UPDATE users SET seedbonus = seedbonus + $won_bonus, bjwins = bjwins + 1 WHERE id=".sqlesc($CURUSER['id']));
-					sql_query("UPDATE users SET seedbonus = seedbonus - $wager, bjlosses = bjlosses + 1 WHERE id=".sqlesc($a['userid']));
+					sql_query("UPDATE users SET seedbonus = seedbonus + $won_bonus, bjwins = bjwins + 1, bjstatistics = bjstatistics + $won_bonus WHERE id=".sqlesc($CURUSER['id']));
+					sql_query("UPDATE users SET seedbonus = seedbonus - $wager, bjlosses = bjlosses + 1, bjstatistics = bjstatistics - $wager WHERE id=".sqlesc($a['userid']));
 					$msg = sqlesc("你输了{$wager}魔力值。[url=blackjack.php]再来一局[/url]");
 					$subject = sqlesc("BlackJack 结果 : 输局 (你有 ".$a['points']." 点, ".$CURUSER['username']." 有 21 点)");
 				}
@@ -214,16 +214,16 @@ if ($game)
 				{
 
 					$winorlose = "平局";
-					$msg = sqlesc("[url=blackjack.php]RT[/url]");
+					$msg = sqlesc("此局为平局。[url=blackjack.php]再来一局[/url]");
 					$subject = sqlesc("BlackJack 结果 : 平局 (你和 ".$CURUSER['username']." 的点数都超过 21)");
 				}
 				else
 				{
 
 					$winorlose = "输局,你输掉了<span style=\"color: red;\">$wager</span>个魔力值";
-					sql_query("UPDATE users SET seedbonus = seedbonus + $won_bonus, bjwins = bjwins + 1 WHERE id=".sqlesc($a['userid']));
-					sql_query("UPDATE users SET seedbonus = seedbonus - $wager, bjlosses = bjlosses + 1 WHERE id=".sqlesc($CURUSER['id']));
-					$msg = sqlesc("你赢了{$won_bonus}个魔力值。[url=blackjack.php]RT[/url]");
+					sql_query("UPDATE users SET seedbonus = seedbonus + $won_bonus, bjwins = bjwins + 1, bjstatistics = bjstatistics + $won_bonus WHERE id=".sqlesc($a['userid']));
+					sql_query("UPDATE users SET seedbonus = seedbonus - $wager, bjlosses = bjlosses + 1, bjstatistics = bjstatistics - $wager WHERE id=".sqlesc($CURUSER['id']));
+					$msg = sqlesc("你赢了{$won_bonus}个魔力值。[url=blackjack.php]再来一局[/url]");
 					$subject = sqlesc("BlackJack 结果 : 赢局 (你有 ".$a['points']." 点, ".$CURUSER['username']." 的点数超过 21)");
 				}
 
@@ -289,7 +289,7 @@ if ($game)
 			{
 
 				$winorlose = "平局";
-				$msg = sqlesc("[url=blackjack.php]再来一局[/url]");
+				$msg = sqlesc("此局是平局。[url=blackjack.php]再来一局[/url]");
 				$subject = sqlesc("BlackJack 结果 : 平局 (你和".$CURUSER['username']."都有 ".$a['points']." 点)");
 			}
 			else
@@ -300,8 +300,8 @@ if ($game)
 					$msg = sqlesc("你输掉了{$wager}个魔力值。[url=blackjack.php]再来一局[/url]");
 					$subject = sqlesc("BlackJack 结果 : 输局 (你有 ".$a['points']." 点, ".$CURUSER['username']." 有 ".$playerarr['points']." 点)");
 					$winorlose = "赢局,你赢了<span style=\"color: red;\">$won_bonus</span>个魔力值";
-					$st_query = "+ ".$won_bonus.", bjwins = bjwins +";
-					$nd_query = "- ".$wager.", bjlosses = bjlosses +";
+					$st_query = "+ ".$won_bonus.", bjstatistics = bjstatistics + $won_bonus, bjwins = bjwins +";
+					$nd_query = "- ".$wager.", bjstatistics = bjstatistics - $wager, bjlosses = bjlosses +";
 				}
 				elseif (($a["points"] > $playerarr['points'] && $a['points'] < 21) || $a["points"] == 21 || ($a["points"] < $playerarr['points'] && $a['points'] > 21))
 				{
@@ -309,8 +309,8 @@ if ($game)
 					$msg = sqlesc("你赢了{$won_bonus}个魔力值。[url=blackjack.php]再来一局[/url]");
 					$winorlose = "输局,你输掉了<span style=\"color: red;\">$wager</span>个魔力值";
 					$subject = sqlesc("BlackJack 结果 : 赢局 (你有 ".$a['points']." 点, ".$CURUSER['username']." 有 ".$playerarr['points']." 点)");
-					$st_query = "- ".$wager.", bjlosses = bjlosses +";
-					$nd_query = "+ ".$won_bonus.", bjwins = bjwins +";
+					$st_query = "- ".$wager.", bjstatistics = bjstatistics - $wager, bjlosses = bjlosses +";
+					$nd_query = "+ ".$won_bonus.", bjstatistics = bjstatistics + $won_bonus, bjwins = bjwins +";
 				}
 
 				sql_query("UPDATE users SET seedbonus = seedbonus ".$st_query." 1 WHERE id=".sqlesc($CURUSER['id']));
@@ -351,7 +351,8 @@ else
 	$tot_losses = $CURUSER['bjlosses'];
 	$tot_games = $tot_wins + $tot_losses;
 	$win_perc = ($tot_losses==0?($tot_wins==0?"---":"100%"):($tot_wins==0?"0":number_format(($tot_wins/$tot_games)*100,1)).'%');
-	$plus_minus = ($tot_wins-$tot_losses<0?'-':'').($tot_wins-$tot_losses>=0? ($tot_wins-$tot_losses) : ($tot_losses-$tot_wins));
+	//$plus_minus = ($tot_wins-$tot_losses<0?'-':'').($tot_wins-$tot_losses>=0? ($tot_wins-$tot_losses) : ($tot_losses-$tot_wins));
+	$plus_minus = $CURUSER['bjstatistics'];
 	$HTMLOUT .="<h1>Blackjack</h1>
 		<table cellspacing='0' cellpadding='3' width='400'>
 		<tr><td colspan='2' align='center'>
