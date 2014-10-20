@@ -14,7 +14,9 @@ if ($CURUSER['class'] < UC_USER)
 
 // 赌注
 $wager = $blackjack_bonus;
+echo $blackjack_tax;
 $tax = isset($blackjack_tax) ? $blackjack_tax / 100 : 0.05;
+echo $tax.'<hr>';
 $won_bonus = $wager - $wager * $tax;
 $required_bonus = 1000;
 

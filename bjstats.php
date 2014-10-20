@@ -94,8 +94,8 @@ $Cache->new_page('bjstats', $cachetime, true);
 	if (!$Cache->get_page()){
 	$Cache->add_whole_row();
      
-	//$mingames = 50;
-$mingames = 1;
+$mingames = 50;
+//$mingames = 1;
 $HTMLOUT='';
 $HTMLOUT .="<h1>Blackjack Stats</h1>";
 $HTMLOUT .="<p>Stats are cached and updated every 30 minutes. You need to play at least $mingames games to be included.</p>";

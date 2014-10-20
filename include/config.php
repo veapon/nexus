@@ -303,6 +303,7 @@ $taxpercentage_bonus = 0+$BONUS['taxpercentage'];
 $prolinkpoint_bonus = $BONUS['prolinkpoint'];
 $prolinktime_bonus = $BONUS['prolinktime'];
 $blackjack_bonus = $BONUS['blackjack_wager'];
+$blackjack_tax = $BONUS['blackjack_tax'];
 
 $neverdelete_account = $ACCOUNT['neverdelete'];
 $neverdeletepacked_account = $ACCOUNT['neverdeletepacked'];
