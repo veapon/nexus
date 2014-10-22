@@ -358,7 +358,7 @@ else
 		<tr><td colspan='2' align='center'>
 		<table class='message' width='100%' cellspacing='0' cellpadding='10' bgcolor='white'>
 		<tr><td align='center'><img src='pic/cards/tp.jpg'  style=\"border: 1px\" alt='' />&nbsp;<img src='pic/cards/vp.jpg'  style=\"border: 1px\" alt='' /></td></tr>
-		<tr><td align='left'>传统的21点游戏,您要抓足够接近21点，和对手对抗。<br><b>提示:</b> 每局赌注为{$wager}魔力值<br/>
+		<tr><td align='left'>传统的21点游戏,您要抓足够接近21点，和对手对抗。<br><b>提示:</b> 每局赌注为{$wager}魔力值, 系统抽取赢家的".sprintf("%d",$tax*100)."%的佣金<br/>
 		</td></tr>
 		<tr><td align='center'>
 		<form method='post' action='".$_SERVER['PHP_SELF']."'>
